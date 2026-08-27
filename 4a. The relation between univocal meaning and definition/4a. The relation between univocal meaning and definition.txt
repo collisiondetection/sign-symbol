@@ -1,0 +1,930 @@
+4a. The relation between univocal meaning and definition
+7 PLATO: Sophist, 552b-c
+
+8 ARISTOTLE: Categories, CH 5 [3a32-b9] 7c-d / Posterior Analytics, BK II,
+CH 13 [97b37-39] 133c / Topics, BK IV, CH 3 [123a27-29] 171d; CH 6 [127b5-6]
+177a; BK VI, CH 2 192c-193b; CH 10 [148a22-b22] 202b-203a; BK VII, CH 4
+[154a14-18] 209c; BK VIII, CH 3 [158b8-159a2] 215b-c / Soul, BK I, CH 1
+[402b1-8] 631c-d
+
+9 ARISTOTLE: Parts of Animals, BK I, CH 2-3 165d-167d
+
+19 AQUINAS: Summa Theologica, PART I, Q 13, A 1, ANS 62c-63c
+
+23 HOBBES: Leviathan, PART I, 56b; PART IV, 269b-c
+
+33 PASCAL: Geometrical Demonstration, 430b-434a
+
+35 LOCKE: Human Understanding, BK III, CH XI, SECT 12 302d
+
+35 BERKELEY: Human Knowledge, INTRO, SECT 18 410a-c
+
+43 FEDERALIST: NUMBER 37, 120a-b
+
+49 DARWIN: Descent of Man, 347a-c
+
+53 JAMES: Psychology, 121b-122a
+7 PLATO: Sophist, 552b-c
+Theaet. I do not think that I shall tire, and if I do, I shall get my friend here,
+young Socrates, the namesake of the elder Socrates, to help; he is about
+my own age, and my partner at the gymnasium, and is constantly
+accustomed to work with me.
+Str. Very good; you can decide about that for yourself as we proceed.
+Meanwhile you and I will begin together and enquire into the nature of the
+Sophist, first of the three: I should like you to make out what he is and
+bring him to light in a discussion; for at present we are only agreed about
+the name, but of the thing to which we both apply the name possibly you
+have one notion and I another; whereas we ought always to come to an
+understanding about the thing itself in terms of a definition, and not merely
+about the name minus the definition. Now the tribe of Sophists which we
+are investigating is not easily caught or defined; and the world has long ago
+agreed, that if great subjects are to be adequately treated, they must be
+studied in the lesser and easier instances of them before we proceed to
+the greatest of all. And as I know that the tribe of Sophists is troublesome
+and hard to be caught, I should recommend that we practise beforehand
+the method which is to be applied to him on some simple and smaller
+thing, unless you can suggest a better way.
+Theaet. Indeed I cannot.
+Str. Then suppose that we work out some lesser example which will be a
+pattern of the greater?
+Theaet. Good.
+Str. What is there which is well known and not great, and is yet as
+susceptible of definition as any larger thing? Shall I say an angler? He is
+familiar to all of us, and not a very interesting or important person.
+Theaet. He is not.
+Str. Yet I suspect that he will furnish us with the sort of definition and line
+of enquiry which we want.
+Theaet. Very good.
+Str. Let us begin by asking whether he is a man having art or not having art,
+but some other power.
+Theaet. He is clearly a man of art.
+Str. And of arts there are two kinds?
+Theaet. What are they?
+Str. There is agriculture, and the tending of mortal creatures, and the art of
+constructing or moulding vessels, and there is the art of imitation—all
+these may be appropriately called by a single name.
+8 ARISTOTLE: Categories, CH 5 [3a32-b9] 7c-d / Posterior
+Analytics, BK II, CH 13 [97b37-39] 133c / Topics, BK IV, CH 3
+[123a27-29] 171d; CH 6 [127b5-6] 177a; BK VI, CH 2 192c-193b; CH
+10 [148a22-b22] 202b-203a; BK VII, CH 4 [154 a14-18] 209c; BK VIII,
+CH 3 [158b8-159a2] 215b-c / Soul, BK I, CH 1 [402b1-8] 631c-d
+Categories, CH 5 [3a32-b9] 7c-d
+It is the mark of substances and of differentiae that, in all propositions of
+which they form the predicate, they are predicated univocally. For all such
+propositions have for their subject either the individual or the species. It is
+true that, inasmuch as primary substance is not predicable of anything, it
+can never form the predicate of any proposition. But of secondary
+substances, the species is predicated of the individual, the genus both of
+the species and of the individual. Similarly 3b the differentiae are predicated
+of the species and of the individuals. Moreover, the definition of the species
+and that of the genus are applicable to the primary substance, and that of
+the genus to the species. For all that is predicated of the predicate will be
+predicated also of the subject. Similarly, the definition of the differentiae
+will be applicable to the species and to the individuals. But it was stated
+above1 that the word ‘univocal’ was applied to those things which had both
+name and definition in common. It is, therefore, established that in every
+proposition, of which either substance or a differentia forms the predicate,
+these are predicated univocally.
+
+Posterior Analytics, BK II, CH 13 [97 b37-39] 133c
+We may add that if dialectical disputation must not employ metaphors,
+clearly metaphors and metaphorical expressions are precluded in definition:
+otherwise dialectic would involve metaphors.
+
+Topics, BK IV, CH 3 [123a27-29] 171d
+You should look and see, also, if the species be a homonym of the genus,
+and employ as your elementary principles those already stated for dealing
+with homonymity:2 for the genus and the species are synonymous.
+
+Topics, BK IV, CH 6 [127b5-6] 177a
+Look and see also if the genus fails to be synonymous with its species. For
+the genus is always predicated of its species synonymously.
+
+Topics, BK VI, CH 2 192c-193b
+                                       2
+
+1
+    1a6.
+2
+    106a9 ff.
+One commonplace rule, then, in regard to obscurity is, See if the meaning
+intended by the definition involves an ambiguity with any other, e.g.
+‘Becoming is a passage into being’, or ‘Health is the balance of hot and cold
+elements’. Here ‘passage’ and ‘balance’ are ambiguous terms: it is
+accordingly not clear which of the several possible senses of the term he
+intends to convey. Likewise also, if the term defined be used in different
+senses and he has spoken without distinguishing between them: for then it
+is not clear to which of them the definition rendered applies, and one can
+then bring a captious objection on the ground that the definition does not
+apply to all the things whose definition he has rendered: and this kind of
+thing is particularly easy in the case where the definer does not see the
+ambiguity of his terms. Or, again, the questioner may himself distinguish
+the various senses of the term rendered in the definition, and then institute
+his argument against each: for if the expression used be not adequate to
+the subject in any of its senses, it is clear that he cannot have defined it in
+any sense aright.
+Another rule is, See if he has used a metaphorical expression, as, for
+instance, if he has defined knowledge as ‘unsupplantable’, or the earth as a
+‘nurse’, or temperance as a ‘harmony’. For a metaphorical expression is
+always obscure. It is possible, also, to argue sophistically against the user of
+a metaphorical expression as though he had used it in its literal sense: for
+the definition stated will not apply to the term defined, e. g. in the case of
+temperance: for harmony is always found between notes. Moreover, if
+harmony be the genus of temperance, then the same object will occur in
+140a two genera of which neither contains the other: for harmony does not
+contain virtue, nor virtue harmony. Again, see if he used terms that are
+unfamiliar, as when Plato describes the eye as ‘brow-shaded’, or a certain
+spider as ‘poison-fanged’, or the marrow as ‘bone-formed’. For an unusual
+phrase is always obscure.
+Sometimes a phrase is used neither ambiguously, nor yet metaphorically,
+nor yet literally, as when the law is said to the ‘measure’ or ‘image’ of the
+things that are by nature just. Such phrases are worse than metaphor; for
+the latter does make its meaning to some extent clear because of the
+likeness involved; for those who use metaphors do so always in view of
+some likeness: whereas this kind of phrase makes nothing clear; for there is
+no likeness to justify the description ‘measure’ or ‘image’, as applied to the
+law, nor is the law ordinarily so called in a literal sense. So then, of a man
+says that the law is literally a ‘measure’ or an ‘image’, he speaks falsely: for
+an image is something produced by imitation, and this is not found in the
+case of the law. If, on the other hand, he does not mean the term literally, it
+is clear that he has used an unclear expression, and one that is worse than
+any sort of metaphorical expression.
+Moreover, see if from the expression used the definition of the contrary be
+not clear; for definitions that have been correctly rendered also indicate
+their contraries as well. Or, again, see if, when it is merely stated by itself, it
+is not evident what it defines: just as in the works of the old painters,
+unless there were an inscription, the figures used to be unrecognizable.
+
+Topics, BK VI, CH 10 [148 a22-b22] 202b-203a
+In dealing with these people even arguments of this kind are useful.
+Further, see if he has rendered a single common definition of terms that are
+used ambiguously. For terms whose definition corresponding to their
+common name is one and the same, are synonymous; if, then, the definition
+applied in a like manner to the whole range of the ambiguous term, it is not
+true of any one of the objects described by the term. This is, moreover,
+what happens to Dionysius’ definition of ‘life’ when stated as ‘a movement
+of a creature sustained by nutriment, congenitally present with it’: for this
+is found in plants as much as in animals, whereas ‘life’ is generally
+understood to mean not one kind of thing only, but to be one thing in
+animals and another in plants. It is possible to hold the view that life is a
+synonymous term and is always used to describe one thing only, and
+therefore to render the definition in this way on purpose: or it may quite
+well happen that a man may see the ambiguous character of the word, and
+wish to render the definition of the one sense only, and yet fail to see that
+he has rendered a definition common to both senses instead of one
+peculiar to the sense he intends. In either case, whichever course he
+pursues, he is equally at fault. Since ambiguous terms sometimes pass
+unobserved, it is best in questioning 148b to treat such terms as though
+they were synonymous (for the definition of the one sense will not apply to
+the other, so that the answerer will be generally thought not to have
+defined it correctly, for to a synonymous term the definition should apply in
+its full range), whereas in answering you should yourself distinguish
+between the senses. Further, as some answerers call ‘ambiguous’ what is
+really synonymous, whenever the definition rendered fails to apply
+universally, and, vice versa, call synonymous what is really ambiguous
+supposing their definition applies to both senses of the term, one should
+secure a preliminary admission on such points, or else prove beforehand
+that so-and-so is ambiguous or synonymous, as the case may be: for
+people are more ready to agree when they do not foresee what the
+consequence will be. If, however, no admission has been made, and the
+man asserts that what is really synonymous is ambiguous because the
+definition he has rendered will not apply to the second sense as well, see if
+the definition of this second meaning applies also to the other meanings:
+for if so, this meaning must clearly be synonymous with those others.
+Otherwise, there will be more than one definition of those other meanings,
+for there are applicable to them two distinct definitions in explanation of
+the term, viz. the one previously rendered and also the later one. Again, if
+any one were to define a term used in several senses, and, finding that his
+definition does not apply to them all, were to contend not that the term is
+ambiguous, but that even the term does not properly apply to all those
+senses, just because his definition will not do so either, then one may retort
+to such a man that though in some things one must not use the language
+of the people, yet in a question of terminology one is bound to employ the
+received and traditional usage and not to upset matters of that sort.
+
+Topics, BK VII, CH 4 [154 a14-18] 209c
+Of the rest, too, the most important are those of most general application:
+for these are the most effective, e.g. that you should examine the individual
+cases, and then look to see in the case of their various species whether the
+definition applied. For the species is synonymous with its individuals. This
+sort of inquiry is of service against those who assume the existence of
+Ideas, as has been said before.3
+
+Topics, BK VIII, CH 3 [158 b8-159a2] 215b-c
+The hardest, however, of all definitions to treat in argument are those that
+employ terms about which, in the first place, it is uncertain whether they
+are used in one sense or several, and, further, whether they are used
+literally or metaphorically by the definer. For because of their obscurity, it is
+impossible to argue upon such terms; and because of the impossibility of
+saying whether this obscurity is due to their being used metaphorically, it is
+impossible to refute them.
+In general, it is safe to suppose that, whenever any problem proves
+intractable, it either needs definition or else bears either several senses, or
+a metaphorical sense, or it is not far removed from the first principles; or
+else the reason is that we have yet to discover in the first place just
+this—in which of the aforesaid directions the source of our difficulty lies:
+when we have made this clear, then obviously our business must be either
+to define or to distinguish, or to supply the intermediate premisses: for it is
+through these that the final conclusions are shown.
+It often happens that a difficulty is found in discussing or arguing a given
+position because the definition has not been correctly rendered: e.g. ‘Has
+one thing one contrary or many?’: here when the term ‘contraries’ has been
+properly defined, it is easy to bring people to see whether it is possible for
+the same thing to have several contraries or not: in the same way also with
+other terms requiring definition. It appears also in mathematics that the
+difficulty in using a figure is sometimes due to a defect in definition; e.g. in
+
+3
+    148a14
+proving that the line which cuts the plane parallel to one side divides
+similarly both the line which it cuts and the area; whereas if the definition
+be given, the fact asserted becomes immediately clear: for the areas have
+the same fraction subtracted from them as have the sides: and this is the
+definition of ‘the same ratio’. The most primary of the elementary principles
+are without exception very easy to show, if the definitions involved, e.g. the
+nature of a line or of a circle, be laid down; only the arguments that can be
+brought in regard to each of them are not many, because there are not
+many intermediate steps. If, on the other hand, the definition of the
+starting-points be not laid down, to show them is difficult and 159a may
+even prove quite impossible. The case of the significance of verbal
+expressions is like that of these mathematical conceptions.
+
+Soul, BK I, CH 1 [402 b1-8] 631c-d
+402a Holding as we do that, while knowledge of any kind is a thing to be
+honoured and prized, one kind of it may, either by reason of its greater
+exactness or of a higher dignity and greater wonderfulness in its objects, be
+more honourable and precious than another, on both accounts we should
+naturally be led to place in the front rank the study of the soul. The
+knowledge of the soul admittedly contributes greatly to the advance of
+truth in general, and, above all, to our understanding of Nature, for the soul
+is in some sense the principle of animal life. Our aim is to grasp and
+understand, first its essential nature, and secondly its properties; of these
+some are taught to be affections proper to the soul itself, while others are
+considered to attach to the animal owing to the presence within it of soul.
+
+
+9 ARISTOTLE: Parts of Animals, BK I, CH 2-3 165d-167d
+                                         2
+         4
+Some writers propose to reach the definitions of the ultimate forms of
+animal life by bipartite division. But this method is often difficult, and often
+impracticable.
+Sometimes the final differentia of the subdivision is sufficient by itself, and
+the antecedent differentiae are mere surplusage. Thus in the series Footed,
+Two-footed, Cleft-footed, the last term is all-expressive by itself, and to
+append the higher terms is only an idle iteration. Again it is not permissible
+to break up a natural group, Birds for instance, by putting its members
+under different bifurcations, as is done in the published dichotomies, where
+some birds are ranked with animals of the water, and others placed in a
+different class. The group Birds and the group Fishes happen to be named,
+while other natural groups have no popular names; for instance, the groups
+
+4
+    Plato, Sophist.
+that we may call Sanguineous and Bloodless are not known popularly by
+any designations. If such natural groups are not to be broken up, the
+method of Dichotomy cannot be employed, for it necessarily involves such
+breaking up and dislocation. The group of the Many-footed, for instance,
+would, under this method, have to be dismembered, and some of its kinds
+distributed among land animals, others among water animals.
+                                         3
+Again, privative terms inevitably form one branch of dichotomous division,
+as we see in the proposed dichotomies. But privative terms in their
+character of privatives admit of no subdivision. For there can be no specific
+forms of a negation, of Featherless for instance or of Footless, as there are
+of Feathered and of Footed. Yet a generic differentia must be subdivisible;
+for otherwise what is there that makes it generic rather than specific?
+There are to be found generic, that is specifically subdivisible, differentiae;
+Feathered for instance and Footed. For feathers are divisible into Barbed
+and Unbarbed, and feet into Manycleft, and Twocleft, like those of animals
+with bifid hoofs, and Uncleft or Undivided, like those of animals with solid
+hoofs. Now even with differentiae capable of this specific subdivision it is
+difficult enough so to make the classification, as that each animal shall be
+comprehended in some one subdivision and in not more than one; but far
+more difficult, nay impossible, is it to do this, if we start with a dichotomy
+into two contradictories. (Suppose for instance we start with the two
+contradictories, Feathered and Unfeathered; we shall find that the ant, the
+glow-worm, and some other animals fall under both divisions.) For each
+differentia must be presented by some species. There must be some
+species, therefore, under 643a the privative heading. Now specifically
+distinct animals cannot present in their essence a common undifferentiated
+element, but any apparently common element must really be differentiated.
+(Bird and Man for instance are both Two-footed, but their two-footedness
+is diverse and differentiated. So any two sanguineous groups must have
+some difference in their blood, if their blood is part of their essence.) From
+this it follows that a privative term, being insusceptible of differentiation,
+cannot be a generic differentia; for, if it were, there would be a common
+undifferentiated element in two different groups.
+Again, if the species are ultimate indivisible groups, that is, are groups with
+indivisible differentiae, and if no differentia be common to several groups,
+the number of differentiae must be equal to the number of species. If a
+differentia though not divisible could yet be common to several groups,
+then it is plain that in virtue of that common differentia specifically distinct
+animals would fall into the same division. It is necessary then, if the
+differentiae, under which are ranged all the ultimate and indivisible groups,
+are specific characters, that none of them shall be common; for otherwise,
+as already said, specifically distinct animals will come into one and the
+same division. But this would violate one of the requisite conditions, which
+are as follows. No ultimate group must be included in more than a single
+division; different groups must not be included in the same division; and
+every group must be found in some division. It is plain then that we cannot
+get at the ultimate specific forms of the animal, or any other, kingdom by
+bifurcate division. If we could, the number of ultimate differentiae would
+equal the number of ultimate animal forms. For assume an order of beings
+whose prime differentiae are White and Black. Each of these branches will
+bifurcate, and their branches again, and so on till we reach the ultimate
+differentiae, whose number will be four or some other power of two, and
+will also be the number of the ultimate species comprehended in the order.
+(A species is constituted by the combination of differentia and matter. For
+no part of an animal is purely material or purely immaterial; nor can a body,
+independently of its condition, constitute an animal or any of its parts, as
+has repeatedly been observed.)5
+Further, the differentiae must be elements of the essence, and not merely
+essential attributes. Thus if Figure is the term to be divided, it must not be
+divided into figures whose angles are equal to two right angles, and figures
+whose angles are together greater than two right angles. For it is only an
+attribute of a triangle and not part of its essence that its angles are equal
+to two right angles.
+Again, the bifurcations must be opposites, like White and Black, Straight
+and Bent; and if we characterize one branch by either term, we must
+characterize the other by its opposite, and not, for example, characterize
+one branch by a colour, the other by a mode of progression, swimming for
+instance.
+Furthermore, living beings cannot be divided by the functions common to
+body and soul, by Flying, for instance, and Walking, as we see them divided
+in the dichotomies already 643b referred to. For some groups, Ants for
+instance, fall under both divisions, some ants flying while others do not.
+Similarly as regards the division into Wild and Tame; for it also would
+involve the disruption of a species into different groups. For in almost all
+species in which some members are tame, there are other members that
+are wild. Such, for example, is the case with Men, Horses, Oxen, Dogs in
+India, Pigs, Goats, Sheep; groups which, if double, ought to have what they
+have not, namely, different appellations; and which, if single, prove that
+Wildness and Tameness do not amount to specific differences. And
+whatever single element we take as a basis of division the same difficulty
+will occur.
+The method then that we must adopt is to attempt to recognize the natural
+groups, following the indications afforded by the instincts of mankind,
+
+5
+    e.g., at 1. 1 (641 a19).
+which led them for instance to form the class of Birds and the class of
+Fishes, each of which groups combines a multitude of differentiae, and is
+not defined by a single one as in dichotomy. The method of dichotomy is
+either impossible (for it would put a single group under different divisions
+or contrary groups under the same division), or it only furnishes a single
+ultimate differentia for each species, which either alone or with its series of
+antecedents has to constitute the ultimate species.
+If, again, a new differential character be introduced at any stage into the
+division, the necessary result is that the continuity of the division becomes
+merely a unity and continuity of agglomeration, like the unity and continuity
+of a series of sentences coupled together by conjunctive particles. For
+instance, suppose we have the bifurcation Feathered and Featherless, and
+then divide Feathered into Wild and Tame, or into White and Black. Tame
+and White are not a differentiation of Feathered, but are the
+commencement of an independent bifurcation, and are foreign to the series
+at the end of which they are introduced.
+As we said then, we must define at the outset by a multiplicity of
+differentiae. If we do so, privative terms will be available, which are
+unavailable to the dichotomist.
+The impossibility of reaching the definition of any of the ultimate forms by
+dichotomy of the larger group, as some propose, is manifest also from the
+following considerations. It is impossible that a single differentia, either by
+itself or with its antecedents, shall express the whole essence of a species.
+(In saying a single differentia by itself I mean such an isolated differentia as
+Cleft-footed; in saying a single differentia with antecedent I mean, to give
+an instance, Many-cleft-footed preceded by Cleft-footed. The very
+continuity of a series of successive differentiae in a division is intended to
+show that it is their combination that expresses the character of the
+resulting unit, or ultimate group.. But one is misled by the usages of
+language into imagining that it is merely the final term of the series,
+Many-cleft-footed for instance, that constitutes the whole differentia, and
+that the antecedent terms, Footed, Cleft-footed, are superfluous. 644a Now
+it is evident that such a series cannot consist of many terms. For if one
+divides and subdivides, one soon reaches the final differential term, but for
+all that will not have got to the ultimate division, that is, to the species.) No
+single differentia, I repeat, either by itself or with its antecedents, can
+possibly express the essence of a species. Suppose, for example, Man to be
+the animal to be defined; the single differentia will be Cleft-footed, either
+by itself or with its antecedents, Footed and Two-footed. Now if man was
+nothing more than a Cleft-footed animal, this single differentia would duly
+represent his essence. But seeing that this is not the case, more
+differentiae than this one will necessarily be required to define him; and
+these cannot come under one division; for each single branch of a
+dichotomy ends in a single differentia, and cannot possibly include several
+differentiae belonging to one and the same animal.
+It is impossible then to reach any of the ultimate animal forms by
+dichotomous division.
+
+
+19 AQUINAS: Summa Theologica, PART I, Q 13, A 1, ANS 62c-63c
+Article 1. Whether Any Name Is Suitable to God?
+We proceed thus to the First Article: It seems that no name is suitable to
+God.
+Objection 1. For Dionysius says (Div. Nom. i)6 that, “Of Him there is neither
+name, nor can one be found of Him”; and it is written: “ What is His name,
+and what is the name if His Son, if thou knowest? ” (Prov. 30. 4).
+Obj. 2. Further, every name is either abstract or concrete. But concrete
+names do not belong to God, since He is simple, nor do abstract names
+belong to Him, since they do not signify any perfect subsisting thing.
+Therefore no name can be said of God.
+Obj. 3. Further, nouns are taken to signify substance with quality; verbs and
+participles signify substance with time; pronouns the same with
+demonstration or relation. But none of these can be applied to God, for He
+has no quality, nor accident, nor time; moreover, He cannot be felt, so as to
+be pointed out; nor can He be described by relation, since relations serve to
+recall a thing mentioned before by nouns, participles, or demonstrative
+pronouns. Therefore God cannot in any way be named by us.
+On the contrary, It is written (Exod. 15. 3): “The Lord is a man of war,
+Almighty is His name”.
+I answer that, Since according to the Philosopher, 7 words are signs of ideas,
+and ideas the likeness of things, it is evident that words relate to the
+meaning of things signified through the medium of the intellectual
+conception. It follows therefore that we can give a name to anything in as
+far as it can be known by our intellect. New it was shown above (Q. XII, AA.
+11, 12) that in this life we cannot see the essence of God; but we know God
+from creatures as their principle, and also by way of excellence and
+remotion. In this way therefore He can be named by us from creatures,, yet
+not so that the name which signifies Kim expresses the divine essence in
+itself, as for instance the name "man" express by its meaning the essence
+of man by declaring his essence. For the notion expressed by the name is
+the definition.
+Reply Obj. 1. The reason why God has no name, or is said to be above being
+named, is because His essence is above all that we understand about God
+and signify in word.
+6
+    Sect. 5 (PG 3, 593).
+7
+    Interpretation, 1 (16a3).
+Reply Obj. 2. Because we know and name God from creatures, the names
+we attribute to God signify what belongs to material creatures, of which the
+knowledge is natural to us as we have said before (Q. XII, A. 4). And because
+in creatures of this kind what is perfect and subsistent is composite,
+whereas their form is not a complete subsisting thing, but rather is that
+whereby a thing is, hence it follows that all names used by us to signify a
+complete subsisting thing must have a concrete meaning according as they
+belong to composite things. But names given to signify simple forms signify
+a thing not as subsisting, but as that by which a thing is; as, for instance,
+whiteness signifies that by which a thing is white. And as God is simple,
+and subsisting, we attribute to Him abstract names to signify His simplicity,
+and concrete names to signify His subsistence and perfection, although
+both these kinds of names fail to express His mode of being, since our
+intellect does not know Him in this life as He is.
+Reply Obj. 3. To signify substance with quality is to signify the suppositum
+with a nature or determined form in which it subsists. Hence, as some
+things are said of God in a concrete sense to signify His subsistence and
+perfection, so likewise nouns are applied to God signifying substance with
+quality. Further, verbs and participles which signify time are applied to Him
+because His eternity includes all time. For just as we can apprehend and
+signify simple subsistences only by way of composite things, so we can
+understand and express simple eternity only by way of temporal things,
+because our intellect has a natural affinity to composite and temporal
+things. But demonstrative pronouns are applied to God as pointing out what
+is understood, not what is sensed. For we can only describe Him as far as
+we understand Him. Thus, according as nouns, participles and
+demonstrative pronouns are applicable to God, so far can He be signified by
+relative pronouns.
+
+
+23 HOBBES: Leviathan, PART I, 56b; PART IV, 269b-c
+Leviathan, PART I, 56b
+When two names are joined together into a consequence, or affirmation, as
+thus, A man is a living creature; or thus, If the be a man, he is a living
+creature; if the latter name living creature signify all that the former name
+man signifieth, then the affirmation, or consequence, is true; otherwise
+false. For true and false are attributes of speech, not of things. And where
+speech is not, there is neither truth nor falsehood. Error there may be, as
+when we expect that which shall not be, or suspect what has not been; but
+in neither case can a man be charged with untruth.
+Seeing then that truth consisteth in the right ordering of names in our
+affirmations, a man that seeketh precise truth had need to remember what
+every name he uses stands for, and to place it accordingly; or else he will
+find himself entangled in words, as a bird in lime twigs; the more he
+struggles, the more belimed. And therefore in geometry (which is the only
+science that it hath pleased God hitherto to bestow on mankind), men
+begin at settling the significations of their words; which settling of
+significations, they call definitions, and place them in the beginning of their
+reckoning.
+
+Leviathan, PART IV, 269b-c
+That which is now called a University is a joining together, and an
+incorporation under one government, of many public schools in one and the
+same town or city, in which the principal schools were ordained for the
+three professions; that is to say, of the Roman religion, of the Roman law,
+and of the art of medicine. And for the study of philosophy it hath no
+otherwise place than as a handmaid to the Roman religion: and since the
+authority of Aristotle is only current there, that study is not properly
+philosophy (the nature whereof dependeth not on authors), but Aristotelity.
+And for geometry, till of very late times it had no place at all, as being
+subservient to nothing but rigid truth. And if any man by the ingenuity of his
+own nature had attained to any degree of perfection therein, he was
+commonly thought a magician, and his art diabolical.
+Now to descend to the particular tenets of vain philosophy, derived to the
+Universities, and thence into the Church, partly from Aristotle, partly from
+blindness of understanding; I shall first consider their principles. There is a
+certain philosophia prima on which all other philosophy ought to depend;
+and consisteth principally in right limiting of the significations of such
+appellations, or names, as are of all others the most universal; which
+limitations serve to avoid ambiguity and equivocation in reasoning, and are
+commonly called definitions; such as are the definitions of body, time,
+place, matter, form, essence, subject, substance, accident, power, act,
+finite, infinite, quantity, quality, motion, action, passion, and diverse others,
+necessary to the explaining of a man’s conceptions concerning the nature
+and generation of bodies. The explication (that is, the settling of the
+meaning) of which, and the like terms, is commonly in the Schools called
+metaphysics; as being a part of the philosophy of Aristotle, which hath that
+for title. But it is in another sense; for there it signifieth as much as “books
+written or placed after his natural philosophy”: but the Schools take them
+for books of supernatural philosophy: for the word metaphysics will bear
+both these senses. And indeed that which is there written is for the most
+part so far from the possibility of being understood, and so repugnant to
+natural reason, that whosoever thinketh there is anything to be understood
+by it must needs think it supernatural.
+33 PASCAL: Geometrical Demonstration, 430b-434a
+SECTION 1. Concerning the method of geometrical demonstrations, that is,
+scientific and perfect demonstrations.
+I can give no clearer idea of the procedure we should follow to make our
+demonstrations convincing than by expounding the method observed in
+geometry.
+But first I must give the idea of a method still more eminent and complete,
+but a method to which man could never attain. For what goes beyond
+geometry goes beyond man. Nevertheless I must say something about it
+although it is impossible to put it into practice.
+This true method, which would produce demonstrations of supreme
+excellence if it were possible to attain to it, would consist of two main
+rules: to use no term of which we had not already clearly explained the
+meaning, and never to put forward any proposition unless demonstrated by
+truths already known; that is, in a word, to define all the terms and to
+prove all the propositions. But to follow the very order I am expounding I
+must state what I understand by definition.
+Geometry recognizes only those definitions which logicians call nominal,
+impositions of a name, that is, on things clearly designated by terms
+perfectly well known. I speak of such definitions only.
+Their usefulness and function is to clarify discourse and to make it more
+concise by expressing by the name we impose what would otherwise
+require several terms, in such a way however that the name imposed
+remains deprived of every other meaning, if it has any, keeping only that
+one to which it has been uniquely assigned. For example, if we need to
+distinguish among the numbers those which can be divided into two equal
+parts from those which cannot, in order to avoid the frequent repetition of
+this condition we give it a name as follows: I can every number that can be
+divided into two equal parts an even number.
+This is aa geometrical definition, because after a thing, in this case every
+number that can be divided into two equal parts, has been clearly pointed
+out, it is given a name emptied of all other meaning, if it has any, that it
+may take the meaning of the thing pointed out.
+Whence it is evident that there is great freedom of definition and that
+definitions are never subject to contradiction, for nothing is more
+permissible than to give whatever name we please to a thing we have
+clearly pointed out. Only we must be careful not to take advantage of our
+freedom to impose names by giving the same name to two different things.
+Nor that it is inadmissible to do so if we avoid confusion by not extending
+the consequences of one to the other.
+But if we fall into this vice, we can apply to it a most sure and infallible
+remedy, which is to substitute in the mind the definition in place of the
+thing defined and always to have such an awareness of the definition that
+every time we speak, for example, of an even number, we mean precisely a
+number that can be divided into two equal parts, and that we understand
+these two things as being so in- separably joined in thought that as soon as
+one of them occurs in discourse the mind at once attaches the other to it.
+For geometers and all those who proceed scientifically impose names on
+things only for concision of discourse and not to impoverish or alter the
+idea of the subjects of discourse. And they expect the mind always to
+supplement with the whole definition the short terms, which they use only
+to avoid the confusion caused by a multitude of words.
+Nothing acts more quickly and more effectively against the surprise attacks
+of captious sophists than this method, which we must always have ready
+for use, and which alone suffices to banish every kind of difficulty and
+equivocation.
+With these things well understood, I return to my account of the true order,
+which consists, as I was saying, in defining everything and in proving
+everything.
+Certainly this method would be beautiful, but it is absolutely impossible.
+For it is evident that the first terms we wished to define would presuppose
+others for their explication, and that similarly the first propositions we
+wished to prove would suppose others that preceded them. And thus it is
+clear we should never arrive at the first propositions.
+Accordingly, as we proceed ever further with our investigations, we come of
+necessity to primitive words which can no longer be defined and to
+principles so clear that it is no longer possible to find others more clear for
+their demonstration. Whence it is apparent that men are naturally and
+inevitably powerless to deal with any science whatsoever in an absolutely
+perfect order.
+But it does not follow that we should abandon every kind of order. For
+there is one, the order of geometry, which is indeed inferior in that it is less
+convincing but one in that it is less certain. It does not define everything
+and does not prove everything, and in this it yields to the perfect order. But
+it assumes only things clear and invariant by the natural light, and that is
+why it is perfectly true, nature supporting it in default of discourse. This
+order, the most perfect possessed by man, does not consist either in
+defining everything and proving everything or in defining nothing and proving
+nothing; but it consists in holding to the mean of not defining things clear
+and understood by all men and defining all the rest, of not proving all the
+things known by men and proving all the rest. They sin equally against this
+order who undertake to define everything and prove everything and who fail
+to define and prove those things which are not self-evident.
+This is perfectly illustrated by geometry. It does not define space, time,
+motion, number, equality, or their like, which are very numerous, because
+these terms point out so naturally the things they signify to those who
+understand the language that whatever clarification we might want to give
+would contribute more obscurity than instruction. For nothing is more
+ineffectual than the discourse of those who try to define these primitive
+words. What need is there, for example, to explain what we mean by the
+word man? Are we not sufficiently aware of what the thing is we wish to
+designate by this term? And what help did Plato think he was giving us by
+saying that man was a two-legged animal without feathers? As if the idea
+of man I naturally have and cannot express were not clearer and more
+certain than that given me by his useless and even ridiculous explanation,
+since a man by losing his two legs does not lose his humanity and a capon
+by losing his feathers does not take on humanity.
+There are even those who go to the absurdity of explaining a word by the
+word itself. I know of some who have defined light in this way: “Light is a
+luminary motion of luminous bodies,” as if we could understand the words
+luminary and luminous without understanding the word light [lumiére].
+We cannot undertake to define being without falling into this absurdity, for
+we cannot define any word without beginning with these words it is, either
+explicitly or implicitly. Therefore to define being we would have to say it is,
+and thus use the word defined in the definition.
+It is sufficiently clear from this that there are words incapable of definition.
+And if nature had not made up for this defect by giving a like idea to all
+men, all our expressions would be confused; whereas we make use of them
+with the same assurance and the same certainty we should have if they
+had been explained in a perfectly unambiguous way, because nature itself
+has given us, without words, a clearer understanding of them than we gain
+through art with all our explanations.
+Not that all men have the same idea of the essence of those things I say it
+is impossible and useless to define.
+For, to take an example, time is of this kind. Who can define it? And why
+try, since all men know what we mean when we speak of time, without
+further designation? There are nonetheless many different opinions as to
+the essence of time. Some say that it is the motion of a created thing;
+others, the measure of motion, etc. Therefore it is not the nature of these
+things that I say is known by all; it is simply the relation between the name
+and the thing, so that at the expression time everyone considers the same
+object (which is sufficient to make it unnecessary to define this term)
+although afterwards, looking into the nature of time, we may come to have
+different opinions when we have set ourselves to thinking about it. For
+definitions are made only to point out the things named and not to reveal
+their nature.
+Not that we may not call by the name time the motion of a created thing,
+for as I was just saying, in nothing is there more freedom than in
+definitions. But as a result of this definition there will be two things called
+by the name time: one is what everybody naturally understands by this
+word and what all who speak our language name with this term; the other
+will be the motion of a created thing, for this too will be called by that
+name in accordance with the new definition. We shall have, therefore, to
+avoid ambiguity and to keep the consequences separate. For it will not
+follow that what we naturally understand by the word time is in fact the
+motion of a created thing. We were free to give these two things the same
+name, but we shall not therefore be free to make them coincide in nature
+as well as in name.
+Thus if the proposition is put forward: “Time is the motion of a created
+thing,” we must ask what is meant by the word time, whether, that is, it
+keeps its usual and commonly accepted meaning or whether it has been
+emptied of that meaning to receive for this occasion, as its meaning, the
+motion of a created thing. If it has been deprived of all other meaning, the
+statement cannot be contradicted, and it will be an arbitrary definition with
+the result, as I have said, that there will be two things having the same
+name. But if it has been allowed to keep its usual meaning and
+nevertheless it is maintained that what this word means is the motion of a
+created thing, the statement can be contradicted. It is no longer an
+arbitrary definition; it is a proposition requiring proof unless it is evident of
+itself, in which case it will be a principle and an axiom but never a
+definition, because in this statement it is not understood that the word
+time signifies the same thing as the words, the motion of a created thing,
+but it is understood that what is meant by the term time is this supposed
+motion.
+If I had not known how necessary it is that this should be perfectly
+understood and how, in familiar speech as in that of science, occasions like
+the one I have given as an example constantly arise, I should not have
+lingered over it. But it seems to me, from my experience of the confusion of
+disputes, that it is impossible to go too thoroughly into that exactness of
+mind for the sake of which I am writing this whole treatise more than for
+the subject I deal with in it.
+For how many people are there who think they have defined time when
+they have said that it is the measure of motion, leaving it meanwhile its
+usual meaning!
+And yet they have made a proposition and not a definition. How many are
+there likewise who think they have defined motion when they have said:
+Motus nec simpliciter actus nec mera potentia est, sed actus entis in
+potentia! And nevertheless if they let the word motion keep its usual
+meaning, as they do, it is not a definition but a proposition; and in this way
+confounding the definitions they call nominal, which are the true
+definitions, arbitrary, permissible, and geometrical, with those they call real,
+which are really propositions by no means arbitrary but subject to
+contradiction, they take the liberty of making the latter as well as the
+former; and each defining the same things in his own fashion by a freedom
+which is as forbidden in this kind of definition as it is permitted in the first,
+they mix up everything, and losing all order and all light, they lose
+themselves and wander in a maze of difficulties inexplicable.
+We shall never get into such trouble if we follow the order of geometry.
+That wise science is very far from defining such primitive words as space,
+time, motion, equality, majority, decrease, all, and those others which the
+generality of men understand without explanation. But with the exception
+of these the remaining terms used by geometry are so clarified and defined
+that we have no need of a dictionary to understand any one of them, so
+that in a word all these terms are perfectly intelligible either by the natural
+light or by the definitions given.
+This is the way geometry avoids all those vices which may be encountered
+in connection with the first point, which is to define only those things that
+need to be defined. It observes the same conduct with respect to the
+second point, which is to prove those propositions that are not evident. For
+when geometry has reached the first truths that can be known, it stops
+there and requires that they be granted since it has nothing clearer to prove
+them with; so that all the propositions of geometry are perfectly
+demonstrated either by the natural light or by proofs.
+Whence it is that if this science does not define and demonstrate
+everything, it is only because it is impossible for us to do so. But since
+nature supplies everything not given by the science, the order of that
+science, though it does not give a superhuman perfection, has all the
+perfection men are capable of. It seemed to me fitting at the very beginning
+of the treatise to give this…
+
+
+35 LOCKE: Human Understanding, BK III, CH XI, SECT 12 302d
+12. Fourth remedy: To declare the meaning in which we use them. Fourthly,
+But, because common use has not so visibly annexed any signification to
+words, as to make men know always certainly what they precisely stand for:
+and because men, in the improvement of their knowledge, come to have
+ideas different from the vulgar and ordinary received ones, for which they
+must either make new words, (which men seldom venture to do, for fear of
+being though guilty of affectation or novelty), or else must use old ones in a
+new signification: therefore, after the observation of the foregoing rules, it
+is sometimes necessary, for the ascertaining the signification of words, to
+declare their meaning; where either common use has left it uncertain and
+loose, (as it has in most names of very complex ideas); or where the term,
+being very material in the discourse, and that upon which it chiefly turns, is
+liable to any doubtfulness or mistake.
+
+
+35 BERKELEY: Human Knowledge, INTRO, SECT 18 410a-c
+18. I come now to consider the source of this prevailing notion, and that
+seems to me to be language. And surely nothing of less extent than reason
+itself could have been the source of an opinion so universally received. The
+truth of this appears as from other reasons so also from the plain
+confession of the ablest patrons of abstract ideas, who acknowledge that
+they are made in order to naming; from which it is a clear consequence
+that if there had been no such things as speech or universal signs there
+never had been any thought of abstraction. See III. vi. 39, and elsewhere of
+the Essay on Human Understanding. Let us examine the manner wherein
+words have contributed to the origin of that mistake.— First then, it is
+thought that every name has, or ought to have, one only precise and settled
+signification, which inclines men to think there are certain abstract,
+determinate ideas that constitute the true and only immediate signification
+of each general name; and that it is by the mediation of these abstract
+ideas that a general name comes to signify any particular thing. Whereas, in
+truth, there is no such thing as one precise and definite signification
+annexed to any general name, they all signifying indifferently a great
+number of particular ideas. All which doth evidently follow from what has
+been already said, and will clearly appear to anyone by a little reflexion. To
+this it will be objected that every name that has a definition is thereby
+restrained to one certain signification. For example, a triangle is defined to
+be "a plain surface comprehended by three right lines," by which that name
+is limited to denote one certain idea and no other. To which I answer, that
+in the definition it is not said whether the surface be great or small, black
+or white, nor whether the sides are long or short, equal or unequal, nor
+with what angles they are inclined to each other; in all which there may be
+great variety, and consequently there is no one settled idea which limits the
+signification of the word triangle. It is one thing for to keep a name
+constantly to the same definition, and another to make it stand everywhere
+for the same idea; the one is necessary, the other useless and
+impracticable.
+
+
+43 FEDERALIST: NUMBER 37, 120a-b
+All new laws, though penned with the greatest technical skill, and passed
+on the fullest and most mature deliberation, are considered as more or less
+obscure and equivocal, until their meaning be liquidated and ascertained by
+a series of particular discussions and adjudications. Besides the obscurity
+arising from the complexity of objects, and the imperfection of the human
+faculties, the medium through which the conceptions of men are conveyed
+to each other adds a fresh embarrassment. The use of words is to express
+ideas. Perspicuity, therefore, requires not only that the ideas should be
+distinctly formed, but that they should be expressed by words distinctly
+and exclusively appropriate to them. But no language is so copious as to
+supply words and phrases for every complex idea, or so correct as not to
+include many equivocally denoting different ideas. Hence it must happen
+that however accurately objects may be discriminated in themselves, and
+however accurately the discrimination may be considered, the definition of
+them may be rendered inaccurate by the inaccuracy of the terms in which
+it is delivered. And this unavoidable inaccuracy must be greater or less,
+according to the complexity and novelty of the objects defined. When the
+Almighty himself condescends to address mankind in their own language,
+his meaning, luminous as it must be, is rendered dim and doubtful by the
+cloudy medium through which it is communicated.
+Here, then, are three sources of vague and incorrect definitions:
+indistinctness of the object, imperfection of the organ of conception,
+inadequateness of the vehicle of ideas. Any one of these must produce a
+certain degree of obscurity. The convention, in delineating the boundary
+between the federal and State jurisdictions, must have experienced the full
+effect of them all.
+To the difficulties already mentioned may be added the interfering
+pretensions of the larger and smaller States. We cannot err in supposing
+that the former would contend for a participation in the government, fully
+proportioned to their superior wealth and importance; and that the latter
+would not be less tenacious of the equality at present enjoyed by them. We
+may well suppose that neither side would entirely yield to the other, and
+consequently that the struggle could be terminated only by compromise.
+
+
+49 DARWIN: Descent of Man, 347a-c
+Some naturalists have lately employed the term “sub-species” to designate
+forms which possess many of the characteristics of true species, but which
+hardly deserve so high a rank. Now if we reflect on the weighty arguments
+above given, for raising the races of man to the dignity of species, and the
+insuperable difficulties on the other side in defining them, it seems that the
+term “sub-species” might here be used with propriety. But from long habit
+the term “race” will perhaps always be employed. The choice of terms is
+only so far important in that it is desirable to use, as far as possible, the
+same terms for the same degrees of difference. Unfortunately this can
+rarely be done: for the larger genera generally include closely-allied forms,
+which can be distinguished only with much difficulty, whilst the smaller
+genera within the same family include forms that are perfectly distinct; yet
+all must be ranked equally as species. So again, species within the same
+large genus by no means resemble each other to the same degree: on the
+contrary, some of them can generally be arranged in little groups round
+other species, like satellites round planets.8
+The question whether mankind consists of one or several species has of
+late years been much discussed by anthropologists, who are divided into
+the two schools of monogenists and polygenists. Those who do not admit
+the principle of evolution, must look at species as separate creations, or in
+some manner as distinct entities; and they must decide what forms of man
+they will consider as species by the analogy of the method commonly
+pursued in ranking other organic beings as species. But it is a hopeless
+endeavour to decide this point, until some definition of the term “species”
+is generally accepted; and the definition must not include an indeterminate
+element such as an act of creation. We might as well attempt without any
+definition to decide whether a certain number of houses should be called a
+village, town, or city. We have a practical illustration of the difficulty in the
+never-ending doubts whether many closely-allied mammals, birds, insects,
+and plants, which represent each other respectively in North America and
+Europe, should be ranked as species or geographical races; and the like
+holds true of the productions of many islands situated at some little
+distance from the nearest continent.
+
+
+53 JAMES: Psychology, 121b-122a
+Introspective Observation is what we have to rely on first and foremost and
+always. The word introspection need hardly be defined—it means, of
+course, the looking into our own minds and reporting what we there
+discover. Every one agrees that we there discover states of consciousness.
+So far as I know, the existence of such states has never been doubted by
+any critic, however, sceptical in other respects he may have been. That we
+have cogitations of some sort is the inconcussum in a world most of whose
+other facts have at some time tottered in the breath of philosophic doubt.
+All people unhesitatingly believe that they feel themselves thinking, and
+that they distinguish the mental state as an inward activity or passion, from
+all the objects with which it may cognitively deal. I regard this belief as the
+most fundamental of all the postulates of Psychology, and shall discard all
+curious inquiries about its certainty as too metaphysical for the scope of
+this book.
+A Question of Nomenclature. We ought to have some general term by which
+to designate all states of consciousness merely as such, and apart from
+their particular quality or cognitive function. Unfortunately most of the
+8
+    Origin of Species, this ed., p. 29.
+terms in use have grave objections. “Mental state,” “state of consciousness,”
+“conscious modification,” are cumbrous and have no kindred verbs. The
+same is true of “subjective condition.” “Feeling” has the verb “to feel,” both
+active and neuter, and such derivatives as “feelingly,” “felt,” “feltness,” etc.,
+which make it extremely convenient. But on the other hand it has specific
+meanings as well as its generic one, sometimes standing for pleasure and
+pain, and being sometimes a synonym of “sensation” as opposed to
+thought; whereas we wish a term to cover sensation and thought
+indifferently. Moreover, “feeling” has acquired in the hearts of platonizing
+thinkers a very opprobrious set of implications; and since one of the great
+obstacles to mutual understanding in philosophy is the use of words
+eulogistically and disparagingly, impartial terms ought always, if possible, to
+be preferred. The word psychosis has been proposed by Mr. Huxley. It has
+the advantage of being correlative to neurosis (the name applied by the
+same author to the corresponding nerve-process), and is moreover
+technical and devoid of partial implications. But it has no verb or other
+grammatical form allied to it. The expressions “affection of the soul,”
+“modification of the ego,” are clumsy, like “state of consciousness,” and they
+implicitly assert theories which it is not well to embody in terminology
+before they have been openly discussed and approved. “Idea” is a good
+vague neutral word, and was by Locke employed in the broadest generic
+way; but notwithstanding his authority it has not domesticated itself in the
+language so as to cover bodily sensations, and it moreover has no verb.
+“Thought” would be by far the best word to use if it could be made to cover
+sensations. It has no opprobrious connotation such as “feeling” has, and it
+immediately suggests the omnipresence of cognition (or reference to an
+object other than the mental state itself), which we shall soon see to be of
+the mental life’s essence. But can the expression “thought of a toothache”
+ever suggest to the reader the actual present pain itself? It is hardly
+possible; and we thus seem about to be forced back on some pair of terms
+like Hume’s “impression and idea,” or Hamilton’s “presentation and
+representation,” or the ordinary “feeling and thought,” if we wish to cover
+the whole ground.
+In this quandary we can make no definitive choice, but must, according to
+the convenience of the context, use sometimes one, sometimes another of
+the synonyms that have been mentioned. My own partiality is for either
+FEELING or THOUGHT. I shall probably often use both words in a wider
+sense than usual, and alternately startle two classes of readers by their
+unusual sound; but if the connection makes it clear that mental states at
+large, irrespective of their kind, are meant, this will do no harm, and may
+even do some good.9
+
+9
+    Compare some remarks in Mill’s Logic, bk. I, chap. III, §§ 2, 3.
+

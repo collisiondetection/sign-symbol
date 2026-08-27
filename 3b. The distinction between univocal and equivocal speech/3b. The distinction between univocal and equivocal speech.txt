@@ -1,0 +1,1071 @@
+3b. The distinction between univocal and equivocal speech
+
+
+8 ARISTOTLE: Categories, CH 1 [1a1-12] 5a / Interpretation, CH 1 [16a4-8] 25a
+/ Topics, BK VI, CH 10 [148a23-b4] 202b-c / Metaphysics, BK I, CH 9
+[990b33-991a8] 509a-b; BK XI, ch 3 [1060b31-36] 589a
+
+19 AQUINAS: Summa Theologica, PART I, Q 1, A 10, REP 1 9c-10c; Q 13, A 5
+66b-67d; A 10 72c-73c; Q 29, A 4, ANS and REP 4 165c-167a
+
+30 BACON: Advancement of Learning, 60b-c
+
+31 SPINOZA: Ethics, PART I, PROP 17, SCHOL 362c-363c
+
+35 LOCKE: Human Understanding, BK II, CH IV, SECT 5, 131a; CH XXIX, SECT
+9 235c-d; BK III, CH IX, SECT 15-16 288d-289c; CH X, SECT 5 292d-293a; CH
+XI, SECT 3-7 300b-301c; BK IV, CH VII, SECT 15 343d-344a; CH VIII, SECT 11
+348b-c
+
+35 HUME: Human Understanding, SECT VIII, DIV 62-63 478b-d
+
+36 STERNE: Tristram Shandy, 307b-308b
+
+42 KANT: Science of Right, 400d
+
+53 JAMES, Psychology, 875b-876a
+8 ARISTOTLE: Categories, CH 1 [1a1-12] 5a / Interpretation, CH 1
+[16a4-8] 25a / Topics, BK VI, CH 10 [148 a23-b4] 202b-c /
+Metaphysics, BK I, CH 9 [990b33-991a8] 509a-b; BK XI, ch 3
+[1060b31-36] 589a
+Categories, CH 1 [1a1-12] 5a
+1a Things are said to be named ‘equivocally’ when, though they have a
+common name, the definition corresponding with the name differs for each.
+Thus, a real man and a figure in a picture can both lay claim to the name
+‘animal’; yet these are equivocally so named, for, though they have a
+common name, the definition corresponding with the name differs for each.
+For should any one define in what sense each is an animal, his definition in
+the one case will be appropriate to that case only.
+On the other hand, things are said to be named ‘univocally’ which have both
+the name and the definition answering to the name in common. A man and
+an ox are both ‘animal’, and these are univocally so named, inasmuch as
+not only the name, but also the definition, is the same in both cases: for if
+a man should state in what sense each is an animal, the statement in the
+one case would be identical with that in the other.
+
+Interpretation, CH 1 [16a4-8] 25a
+Spoken words are the symbols of mental experience and written words are
+the symbols of spoken words. Just as all men have not the same writing, so
+all men have not the same speech sounds, but the mental experiences,
+which these directly symbolize, are the same for all, as also are those
+things of which our experiences are the images. This matter has, however,
+been discussed in my treatise about the soul, for it belongs to an
+investigation distinct from that which lies before us.
+
+Topics, BK VI, CH 10 [148 a23-b4] 202b-c
+Further, see if he has rendered a single common definition of terms that are
+used ambiguously. For terms whose definition corresponding to their
+common name is one and the same, are synonymous; if, then, the definition
+applied in a like manner to the whole range of the ambiguous term, it is not
+true of any one of the objects described by the term. This is, moreover,
+what happens to Dionysius’ definition of ‘life’ when stated as ‘a movement
+of a creature sustained by nutriment, congenitally present with it’: for this
+is found in plants as much as in animals, whereas ‘life’ is generally
+understood to mean not one kind of thing only, but to be one thing in
+animals and another in plants. It is possible to hold the view that life is a
+synonymous term and is always used to describe one thing only, and
+therefore to render the definition in this way on purpose: or it may quite
+well happen that a man may see the ambiguous character of the word, and
+wish to render the definition of the one sense only, and yet fail to see that
+he has rendered a definition common to both senses instead of one
+peculiar to the sense he intends. In either case, whichever course he
+pursues, he is equally at fault. Since ambiguous terms sometimes pass
+unobserved, it is best in questioning 148b to treat such terms as though
+they were synonymous (for the definition of the one sense will not apply to
+the other, so that the answerer will be generally thought not to have
+defined it correctly, for to a synonymous term the definition should apply in
+its full range), whereas in answering you should yourself distinguish
+between the senses.
+
+Metaphysics, BK I, CH 9 [990b33-991a8] 509a-b
+For they are not shared in incidentally, but a thing must share in its Form as
+in something not predicated of a subject (by ‘being shared in incidentally’ I
+mean that e.g. if a thing shares in ‘double itself’, it shares also in ‘eternal’,
+but incidentally; for ‘eternal’ happens to be predicable of the ‘double’).
+Therefore the Forms will be substance; but the same terms indicate
+substance in this and in the ideal 991a world (or what will be the meaning
+of saying that there is something apart from the particulars—the one over
+many?). And if the Ideas and the particulars that share in them have the
+same form, there will be something common to these; for why should ‘2’ be
+one and the same in the perishable 2’s or in those which are many but
+eternal, and not the same in the ‘2’ itself’ as in the particular 2? But if they
+have not the same form, they must have only the name in common, and it
+is as if one were to call both Callias and a wooden image a ‘man’, without
+observing any community between them.
+
+Metaphysics, BK XI, ch 3 [1060b31-36] 589a
+Since the science of the philosopher treats of being qua being universally
+and not in respect of a part of it, and ‘being’ has many senses and is not
+used in one only, it follows that if the word is used equivocally and in virtue
+of nothing common to its various uses, being does not fall under one
+science (for the meanings of an equivocal term do not form one genus); but
+if the word is used in virtue of something common, being will fall under one
+science. The term seems to be used in the way we have mentioned, like
+‘medical’ and ‘healthy’. For each of these also we use in many senses.
+19 AQUINAS: Summa Theologica, PART I, Q 1, A 10, REP 1 9c-10c;
+Q 13, A 5 66b-67d; A 10 72c-73c; Q 29, A 4, ANS and REP 4
+165c-167a
+Summa Theologica, PART I, Q 1, A 10, REP 1 9c-10c
+Article 10. Whether in Holy Scripture a Word May Have Several Senses?
+We proceed thus to the Tenth Article: It seems that in Holy Writ a word
+cannot have several senses, historical or literal, allegorical, tropological or
+moral, and anagogical.
+Objection 1. For many different senses in one text produce confusion and
+deception and destroy all force of argument. Hence no proof, but only
+fallacies, can be deduced from a multiplicity of propositions. But Holy Writ
+ought to be able to state the truth without any fallacy. Therefore there
+cannot be several senses to a word in Holy Writ.
+Obj. 2. Further, Augustine says (De util. cred. iii)1 that “the Old Testament has
+a fourfold division namely, according to history, etiology, analogy, and
+allegory.” Now these four seem altogether different from the four divisions
+mentioned in the first objection. Therefore it does not seem fitting to
+explain the same word of Holy Writ according to the four different senses
+mentioned above.
+Obj. 3. Further, besides these senses, there is the parabolical, which is not
+one of these four.
+On the contrary, Gregory says (Moral, XX, I):2 “Holy Writ by the manner of its
+speech transcends every science, because in one and the same sentence,
+while it describes a fact, it reveals a mystery.”
+I answer that, The author of Holy Writ is God, in whose power it is to signify
+His meaning not by words only (as man also can do), but also by things
+themselves. So, whereas in every other science things are signified by
+words, this science has the property that the things signified by the words
+have themselves also a meaning. Therefore that first meaning whereby
+words signify things belongs to the first sense, the historical or literal. That
+meaning whereby things signified by words have themselves also a meaning
+is called the spiritual sense, which is based on the literal, and presupposes
+it.
+Now this spiritual sense has a threefold division. For as the Apostle says
+(Heb. 10. 1) the Old Law is a figure of the New Law, and Dionysius says 3 the
+New Law itself is a figure of future glory. Again, in the New Law, whatever
+our Head has done is a type of what we ought to do. Therefore, so far as
+the things of the Old Law signify the things of the New Law, there is the
+allegorical sense. But so far as the things done in Christ, or so far as the
+
+1
+  PL 42, 68.
+2
+  PL 76, 135.
+3
+  De Eccl. Hier., V, 2 (PG 3, 501).
+things which signify Christ, are types of what we ought to do, there is the
+moral sense. But so far as they signify what relates to eternal glory, there is
+the anagogical sense.
+Since the literal sense is that which the author intends, and since the
+author of Holy Writ is God, Who by one act comprehends all things by His
+intellect, it is not unfitting, as Augustine says 4 if, even according to the
+literal sense, one word in Holy Writ should have several senses.
+Reply Obj. 1. The multiplicity of these senses does not produce equivocation
+or any other kind of multiplicity, seeing that these senses are not multiplied
+because one word signifies several things, but because the things signified
+by the words can be themselves types of other things. Thus in Holy Writ no
+confusion results, for all the senses are founded on one—the literal—from
+which alone can any argument be drawn, and not from those intended in
+allegory, as Augustine says (Epist. xciii).5 Nevertheless, nothing of Holy
+Scripture perishes on account of this, since nothing necessary to faith is
+contained under the spiritual sense which is not elsewhere put forward by
+the Scripture in its literal sense.
+Reply Obj. 2. These three—history, etiology, analogy—are grouped under the
+literal sense. For it is called history, as Augustine expounds 6 whenever
+anything is simply related; it is called etiology when its cause is assigned, as
+when Our Lord gave the reason why Moses allowed the putting away of
+wives—namely, on account of the hardness of men's hearts (Matt. 19. 8); it
+is called analogy whenever the truth of one text of Scripture is shown not
+to contradict the truth of another. Of these four, allegory alone stands for
+the three spiritual senses. Thus Hugh of S. Victor ( Sacram. 1, 4)7 includes
+the anagogical under the allegorical sense, laying down three senses
+only—the historical, the allegorical, and the tropological.
+Reply Obj. 3. The parabolical sense is contained in the literal, for by words
+things are signified properly and figuratively. Nor is the figure itself, but that
+which is figured, the literal sense. When Scripture speaks of God's arm, the
+literal sense is not that God has such a member, but only what is signified
+by this member, namely, operative power. Hence it is plain that nothing
+false can ever underlie the literal sense of Holy Writ.
+
+Summa Theologica, PART I, Q 13, A 5 66b-67d
+Article 5. Whether What Is Said of God and of Creatures Is Univocally
+Predicated of Them?
+We proceed thus to the Fifth Article: It seems that what is said of God and
+creatures is said of them univocally.
+
+4
+  Confessions, XII, 42 (PL 32, 844).
+5
+  Chap. 8 (PL 33, 334).
+6
+  De Util. Cred., 3 (PL 42, 68).
+7
+  PL 176, 184; Cf. De Scriptur. et Scriptor. Sacris., III (PL 175, II).
+Objection 1. For every equivocal term is reduced to the univocal, as many
+are reduced to one; for if the name dog be said equivocally of the barking
+dog, and of the dogfish, it must be said of some univocally—namely, of all
+barking dogs; otherwise we proceed to infinity. Now there are some
+univocal agents which agree with their effects in name and definition, as
+man generates man; and there are some agents which are equivocal, as the
+sun which causes heat, although the sun is hot only in an equivocal sense.
+Therefore it seems that the first agent to which all other agents are
+reduced is an univocal agent; and thus what is said of God and creatures is
+predicated univocally.
+Obj. 2. Further, there is no likeness among equivocal things. Therefore as
+creatures have a certain likeness to God, according to the word of Genesis
+(1. 26), Let us make man to our image and likeness, it seems that something
+can be said of God and creatures univocally.
+Obj. 3. Further, “measure is homogeneous” with the thing measured as is
+said in the Metaphysics.8 But God is the first measure of all beings, as it
+says in the same place. Therefore God is homogeneous with creatures, and
+thus a word may be applied univocally to God and to creatures.
+On the contrary, Whatever is predicated of various things under the same
+name but not in the same meaning is predicated equivocally. But no name
+belongs to God in the same meaning that it belongs to creatures; for
+instance, wisdom in creatures is a quality, but not in God. Now a different
+genus changes a nature, since the genus is part of the definition; and the
+same applies to other things. Therefore whatever is said of God and of
+creatures is predicated equivocally.
+2. Further, God is more distant from creatures than any creatures are from
+each other. But the distance of some creatures makes any univocal
+predication of them impossible, as in the case of those things which are
+not in the same genus. Therefore much less can anything be predicated
+univocally of God and creatures. And so only equivocal predication can be
+applied to them.
+I answer that, Univocal predication is impossible between God and
+creatures. The reason of this is that every effect which is not an adequate
+result of the power of the efficient cause receives the likeness of the agent
+not in its full degree, but in a measure that falls short, so that what is
+divided and multiplied in the effects resides in the agent simply, and in the
+same manner; as for example the sun by the exercise of its one power
+produces manifold and various forms in all inferior things. In the same way,
+as said in the preceding article, all perfections of things which exist in
+creatures divided and multiplied pre-exist in God unitedly. Thus, when any
+term expressing perfection is applied to a creature, it signifies that
+
+8
+    Aristotle, X, I (1053a24).
+perfection distinct in idea from other perfections; as, for instance, by this
+term wise applied to a man, we signify some perfection distinct from a
+man's essence, and distinct from his power and being, and from all similar
+things; whereas when we apply it to God, we do not mean to signify
+anything distinct from His essence, or power, or being. Thus also this term
+wise applied to man in some degree circumscribes and comprehends the
+thing signified; but this is not the case when it is applied to God, but it
+leaves the thing signified as incomprehended, and as exceeding the
+signification of the name. Hence it is evident that this term wise is not
+applied in the same aspect to God and to man. The same rule applies to
+other terms. Hence no name is predicated univocally of God and of
+creatures.
+Neither, on the other hand, are names applied to God and creatures in a
+purely equivocal sense, as some have said. 9 Because if that were so, it
+follows that from creatures nothing could be known or demonstrated about
+God at all, for the reasoning would always fall into the fallacy of
+equivocation. Such a view is as much against philosophy which proves
+many things about God as it is against what the Apostle says: The invisible
+things of God are clearly seen being understood by the things that are made
+(Rom. 1. 20).
+Therefore it must be said that these names are said of God and creatures
+according to analogy, that is, according to proportion. Now names are thus
+used in two ways: either according as many things are proportionate to one,
+as for example healthy is predicated of medicine and urine in so far as each
+has an order and proportion to the health of the animal, of which the latter
+is the sign and the former the cause, or according as one thing is
+proportionate to another; thus healthy is said of medicine and animal, since
+medicine is the cause of health in the animal. And in this way some things
+are said of God and creatures analogically, and not in a purely equivocal nor
+in a purely univocal sense. For we can name God only from creatures (A. 1).
+Thus whatever is said of God and creatures, is said according to the relation
+of a creature to God as its principle and cause, wherein all perfections of
+things pre-exist excellently.
+Now this mode of community is a mean between pure equivocation and
+simple univocation. For in those things which are spoken of analogically
+neither is there one notion, as there is in univocal things, nor totally diverse
+notions as in equivocal things; but a term which is thus used in a multiple
+sense signifies different proportions to some one thing; thus healthy
+applied to urine signifies the sign of animal health, and applied to medicine
+signifies the cause of the same health.
+
+
+
+9
+    Maimonides, Guide, I, 59 (FR 84); Averroes, In Meta., XII, comm. 51 (VIII, 337B).
+Reply Obj. 1. Although in predication the equivocal must be reduced to the
+univocal, still in actions the non-univocal agent must precede the univocal
+agent. For the non-univocal agent is the universal cause of the whole
+species, as for instance the sun is the cause of the generation of all men.
+But the univocal agent is not the universal efficient cause of the whole
+species (otherwise it would be the cause of itself, since it is contained in
+the species), but is a particular cause of this individual which it places
+under the species by way of participation. Therefore the universal cause of
+the whole species is not an univocal agent, and the universal cause comes
+before the particular cause. But this universal agent while it is not univocal,
+nevertheless is not altogether equivocal, otherwise it could not produce its
+own likeness; but it can be called an analogical agent, just as in
+predications all univocal terms are reduced to one first non-univocal
+analogical term, which is being.
+Reply Obj. 2. The likeness of the creature to God is imperfect, for it does
+not represent one and the same generic thing (Q. IV, A. 3).
+Reply Obj. 3. God is not the measure proportioned to things measured;
+hence it is not necessary that God and creatures should be in the same
+genus.
+The arguments adduced in the contrary, prove indeed that these names are
+not predicated univocally of God and creatures, yet they do not prove that
+they are predicated equivocally.
+
+Summa Theologica, PART I, Q 13, A 10 72c-73c
+Article 10. Whether This Name God Is Applied to God Univocally, by
+Nature, by Participation, and According to Opinion?
+We proceed thus to the Tenth Article: It seems that this name God is applied
+to God univocally by nature, by participation, and according to opinion.
+Objection 1. For where a diverse signification exists, there is no
+contradiction of affirmation and negation; for equivocation prevents
+contradiction. But a Catholic who says: “An idol is not God,” contradicts a
+pagan who says: “An idol is God.” Therefore God in both senses is spoken of
+univocally.
+Obj. 2. Further, as an idol is God in opinion, and not in truth, so the
+enjoyment of carnal pleasures is called happiness in opinion, and not in
+truth. But this name happiness is applied univocally to this supposed
+happiness, and also to true happiness. Therefore also this name God is
+applied univocally to the true God, and to God also in opinion.
+Obj. 3. Further, names are called univocal because they contain one idea.
+Now when a Catholic says: "There is one God," he understands by the name
+God an omnipotent being, and one venerated above all; while the heathen
+understands the same when he says: "An idol is God." Therefore this name
+God is applied univocally to both.
+On the contrary, That which is in the intellect is the likeness of what is in
+the thing as is said in Interpretation.10 But the word animal applied to a true
+animal and to a picture of one is equivocal. Therefore this name God
+applied to the true God and to God in opinion is applied equivocally.
+Further, No one can signify what he does not know. But the heathen does
+not know the divine nature. So when he says an idol is God, he does not
+signify the true Deity. On the other hand, a Catholic signifies the true Deity
+when he says that there is one God. Therefore this name God is not applied
+univocally, but equivocally to the true God, and to God according to opinion.
+I answer that, This name God in the three above significations is taken
+neither univocally nor equivocally, but analogically. This is apparent from
+this reason. Univocal terms mean absolutely the same thing, but equivocal
+terms absolutely different things; but in analogical terms a word taken in
+one signification must be placed in the definition of the same word taken in
+other senses; as, for instance, being which is applied to substance is placed
+in the definition of being as applied to accident; and healthy applied to
+animal is placed in the definition of healthy as applied to urine and
+medicine. For urine is the sign of health in the animal, and medicine is the
+cause of health.
+The same applies to the question at issue. For this name God, as signifying
+the true God, includes the idea of God when it is used to denote God in
+opinion, or participation. For when we name anyone god by participation, we
+understand by the name of god some likeness of the true God. Likewise,
+when we call an idol god, by this name god we understand and signify
+something which men think is God; thus it is manifest that the name has
+different meanings, but that one of them is comprised in the other
+significations. Hence it is manifestly said analogically.
+Reply Obj. 1. The multiplication of names does not depend on the
+predication of the name, but on the signification: for this name man, of
+whomsoever it is predicated, whether truly or falsely, is predicated in one
+sense. But it would be multiplied if by the name man we meant to signify
+different things; for instance, if one meant to signify by this name man
+what man really is, and another meant to signify by the same name a stone,
+or something else. Hence it is evident that a Catholic saying that an idol is
+not God contradicts the pagan asserting that it is God; because each of
+them uses this name God to signify the true God. For when the pagan says
+an idol is God, he does not use this name as meaning God in opinion, for he
+would then speak the truth, as also Catholics sometimes use the name in
+
+
+
+10
+     Aristotle, I (16a5).
+the sense, as in the Psalm, All the gods of the Gentiles are demons (Ps.
+95:5).
+The same remark applies to the second and third Objections. For those
+reasons proceed from the different predication of the name, and not from
+its various significations.
+Reply Obj. 4. The term animal applied to a true and a pictured animal is not
+purely equivocal; for the Philosopher 11 takes equivocal names in a large
+sense, including analogous names; because also being, which is predicated
+analogically, is sometimes said to be predicated equivocally of different
+predicaments.
+Reply Obj. 5. Neither a Catholic nor a pagan knows the very nature of God
+as it is in itself, but each one knows it according to some idea of causality,
+or excellence, or remotion (Q XII, A 12). So the Gentile can take this name
+God in the same way when he says an idol is God as the Catholic does in
+saying an idol is not God. But if anyone should be quite ignorant of God
+altogether, he could not even name Him, unless, perhaps, as we use names
+the meaning of which we know not.
+
+Summa Theologica, PART I, Q 29, A 4, ANS and REP 4 165c-167a
+Article 4. Whether This Word “Person” Signifies Relation?
+We proceed thus to the Fourth Article: It would seem that this word person,
+as applied to God, does not signify relation, but substance.
+Objection 1. For Augustine says (De Trin, vii, 6):12 “When we speak of the
+person of the Father, we mean nothing else but the substance, for person is
+said in regard to Himself, and not in regard to the Son.”
+Obj. 2. Further, the interrogation "What?" refers to the essence. But, as
+Augustine says:13 When we say there are three who bear witness in heaven,
+the Father, the Word, and the Holy Ghost, and it is asked, Three what? the
+answer is, Three persons. Therefore person signifies essence.
+Obj. 3. According to the Philosopher 14 the meaning of a word is its definition.
+But the definition of person is this: "The individual substance of the rational
+nature," as above stated (A. 1). Therefore person signifies substance.
+Obj. 4. Further, person in men and angels does not signify relation, but
+something absolute. Therefore, if in God it signified relation, it would bear
+an equivocal meaning in God, in man, and in angels.
+On the contrary, Boëthius says (De Trin.)15 that "every word that refers to the
+persons signifies relation." But no word belongs to person more strictly than
+the very word person itself. Therefore this word person signifies relation.
+
+11
+   Categories, I (1a1).
+12
+   PL 42, 943.
+13
+   De Trin., VII, 4 (PL 42, 940).
+14
+   Metaphysics, IV, 7 (1012 a23).
+15
+   Chap. 6 (PL 64, 1254).
+I answer that, A difficulty arises concerning the meaning of this word
+person in God16 from the fact that it is predicated plurally of the Three in
+contrast to the nature of the names belonging to the essence; nor does it
+in itself refer to another, as do the words which express relation.
+Hence some17 have thought that this word person of itself expresses
+absolutely the divine essence, as this name God and this word Wise, but
+that to meet heretical attack, it was ordained by conciliar decree that it was
+to be taken in a relative sense, and especially in the plural, or with the
+addition of a distinguishing adjective; as when we say, "Three persons," or,
+"one is the person of the Father, another of the Son," etc. Used, however, in
+the singular, it may be either absolute or relative. But this does not seem to
+be a satisfactory explanation; for, if this word person by force of its own
+signification expresses the divine essence only, it follows that since we
+speak of three persons, so far from the heretics being silenced, they had
+still more reason to argue. Seeing this, others 18 maintained that this word
+person in God signifies both the essence and the relation. Some of these
+said19 that it signifies directly the essence, and relation indirectly,
+forasmuch as person means as it were by itself one (per se una); and unity
+belongs to the essence. And what is by itself implies relation indirectly; for
+the Father is understood to exist by Himself, as by relation distinct from the
+Son. Others, however, said,20 on the contrary, that it signifies relation
+directly, and essence indirectly, because in the definition of "person" the
+term nature is mentioned indirectly; and these come nearer to the truth.
+To determine the question, we must consider that something may be
+included in the meaning of a less common term which is not included in
+the more common term; as rational is included in the meaning of man, and
+not in the meaning of animal. So that it is one thing to ask the meaning of
+the word animal, and another to ask its meaning when the animal in
+question is a man. Also, it is one thing to ask the meaning of this word
+person in general, and another to ask the meaning of person as applied to
+God. For person in general signifies the individual substance of a rational
+nature as we have said (A. 1). The individual is what in itself is undivided,
+but is distinct from others. Therefore person in any nature signifies what is
+distinct in that nature; thus in human nature it signifies this flesh, these
+bones, and this soul, which are the individuating principles of a man, and
+which though not belonging to the meaning of person, nevertheless do
+belong to the meaning of a human person.
+
+
+
+16
+   Cf. Richard Fishacre, In Sent., I, d. 25, in Bergeron, EHLD II, p. 149.
+17
+   Augustine, De Trin., VII, 5 (PL 42, 943); Summa Sent., (anon.), tr. I, chap. 9 (PL 176, 56).
+18
+   Peter Lombard, Sent., I, d. 25, chap. 2 (QR 1, 159).
+19
+   Simon of Tournai, Sent., in Schmaus, RTAM (1932) p. 62.
+20
+   William of Auxerre, Summa Aurea, Pt. I, tr. 6, chap. 3 (fol. IIa).
+Now distinction in God is only by relation of origin, as stated above (Q.
+XXVIII, A. 3), while relation in God is not as an accident in a subject, but is
+the divine essence itself, and so it is subsistent, for the divine essence
+subsists. Therefore, as the Godhead is God, so the divine paternity is God
+the Father, Who is a divine person. Therefore a divine person signifies a
+relation as subsisting.
+And this is to signify relation by way of substance, and such a relation is a
+hypostasis subsisting in the divine nature, although that which subsists in
+the divine nature is the divine nature itself. Thus it is true to say that the
+name person signifies relation directly, and the essence indirectly; not,
+however, the relation as such, but as expressed by way of a hypostasis. So
+likewise it signifies directly the essence, and indirectly the relation, since
+the essence is the same as the hypostasis; but in God the hypostasis is
+expressed as distinct by the relation, and thus relation, as such, enters into
+the notion of the person indirectly.
+Thus we can say that this signification of the word person was not clearly
+perceived before it was attacked by heretics. Hence, this word person was
+used just as any other absolute term. But afterwards it was applied to
+express relation, as it lent itself to that signification, so that this word
+person means relation not only by use and custom, according to the first
+opinion, but also by force of its own signification.
+Reply Obj. 1. This word person is said in respect to itself, not to another,
+since it signifies relation not as such, but by way of a substance—which is a
+hypostasis. In that sense Augustine says that it signifies the essence, since
+in God essence is the same as the hypostasis, because in God what He is,
+and that by which He is are the same.
+Reply Obj. 2. The term “what” refers sometimes to the nature expressed by
+the definition, as when we ask, What is man? and we answer, A mortal
+rational animal. Sometimes it refer to the suppositum, as when we ask,
+What swims in the sea? and answer, A fish. So to those who ask, Three
+what? we answer, Three persons.
+Reply Obj. 3. In God the individual—that is, distinct and incommunicable
+substance—includes the idea of relation, as above explained.
+Reply Obj. 4. The different sense of the less common term does not
+produce equivocation in the more common. Although a horse and an ass
+have their own proper definitions, nevertheless they agree univocally in
+animal, because the common definition of animal applies to both. So it
+does not follow that although relation is contained in the signification of
+divine person but not in that of an angelic or of a human person, that the
+word person is used in an equivocal sense. Though neither is it applied
+univocally, since nothing can be said univocally of God and creatures (Q XIII,
+A. 5).
+30 BACON: Advancement of Learning, 60b-c
+6. This part concerning elenches is excellently handled by Aristotle in
+precept, but more excellently by Plato in example; not only in the persons
+of the Sophists, but even in Socrates himself, 21 who, professing to affirm
+nothing, but to infirm that which was affirmed by another, hath exactly
+expressed all the forms of objection, fallace, and redargution. And although
+we have said that the use of this doctrine is for redargution, yet it is
+manifest the degenerate and corrupt use is for caption and contradiction,
+which passeth for a great faculty, and no doubt is of very great advantage:
+though the difference be good which was made between orators and
+sophisters, that the one is as the greyhound, which hath his advantage in
+the race, and the other as the hare, which hath her advantage in the turn,
+so as it is the advantage of the weaker creature.
+7. But yet further, this doctrine of elenches hath a more ample latitude and
+extent than is perceived; namely, unto divers parts of knowledge; whereof
+some are laboured and other omitted. For first, I conceive (though it may
+seem at first somewhat strange) that that part which is variably referred,
+sometimes to logic, sometimes to metaphysic, touching the common
+adjuncts of essences, is but an elenche. For the great sophism of all
+sophisms being equivocation or ambiguity of words and phrase, specially of
+such words as are most general and intervene in every inquiry, it seemeth
+to me that the true and fruitful use (leaving vain subtilities and
+speculations) of the inquiry of majority, minority, priority, posteriority,
+identity, diversity, possibility, act, totality, parts, existence, privation, and the
+like, are but wise cautions against ambiguities of speech. So again the
+distribution of things into certain tribes, which we call categories or
+predicaments, are but cautions against the confusion of definitions and
+divisions.
+8. Secondly, there is a seducement that worketh by the strength of the
+impression, and not by the subtilty of the illaqueation; not so much
+perplexing the reason, as overruling it by power of the imagination. But this
+part I think more proper to handle when I shall speak of rhetoric.
+
+
+31 SPINOZA: Ethics, PART I, PROP 17, SCHOL 362c-363c
+Schol. There are some who think that God is a free cause because He can,
+as they think, bring about that those things which we have said follow from
+His nature—that is to say, those things which are in His power—should not
+be, or should not be produced by Him. But this is simply saying that God
+could bring about that it should not follow from the nature of a triangle
+that its three angles should be equal to two right angles, or that from a
+
+21
+     See the opening of the Theatetus.
+given cause an effect should not follow, which is absurd. But I shall show
+farther on, without the help of this proposition, that neither intellect nor
+will pertain to the nature of God.
+I know, indeed, that there are many who think themselves able to
+demonstrate that intellect of the highest order and freedom of will both
+pertain to the nature of God, for they say that they know nothing more
+perfect which they can attribute to Him than that which is the chief
+perfection in ourselves. But although they conceive God as actually
+possessing the highest intellect, they nevertheless do not believe that He
+can bring about that all those things should exist which are actually in His
+intellect, for they think that by such a supposition they would destroy His
+power. If He had created, they say, all things which are in His intellect, He
+could have created nothing more, and this, they believe, does not accord
+with God's omnipotence so then they prefer to consider God as indifferent
+to all things, and creating nothing excepting that which He has decreed to
+create by a certain absolute will. But I think that I have shown with
+sufficient clearness (Prop. 16) that from the supreme power of God, or from
+His infinite nature, infinite things in infinite ways, that is to say, all things,
+have necessarily flowed, or continually follow by the same necessity, in the
+same way as it follows from the nature of a triangle, from eternity and to
+eternity, that its three angles are equal to two right angles. The
+omnipotence of God has therefore been actual from eternity, and in the
+same actuality will remain to eternity. In this way the omnipotence of God,
+in my opinion, is far more firmly established. My adversaries, indeed (if I
+may be permitted to speak plainly), seem to deny the omnipotence of God,
+inasmuch as they are forced to admit that He has in His mind an infinite
+number of things which might be created, but which, nevertheless, He will
+never be able to create, for if He were to create all things which He has in
+His mind, He would, according to them, exhaust His omnipotence and make
+Himself imperfect. Therefore, in order to make a perfect God, they are
+compelled to make Him incapable of doing all those things to which His
+power extends, and anything more absurd than this, or more opposed to
+God's omnipotence, I do not think can be imagined. Moreover—to say a
+word, too, here about the intellect and will which we commonly attribute to
+God—if intellect and will pertain to His eternal essence, these attributes
+cannot be understood in the sense in which men generally use them, for
+the intellect and will which could constitute His essence would have to
+differ entirely from our intellect and will, and could resemble ours in
+nothing except in name. There could be no further likeness than that
+between the celestial constellation of the Dog and the animal which barks.
+This I will demonstrate as follows. If intellect pertains to the divine nature,
+it cannot, like our intellect, follow the things which are its object (as many
+suppose), nor can it be simultaneous in its nature with them, since God is
+prior to all things in causality (Corol. 1, Prop. 16); but, on the contrary, the
+truth and formal essence of things is what it is, because as such it exists
+objectively in God's intellect. Therefore the intellect of God, in so far as it is
+conceived to constitute His essence, is in truth the cause of things, both of
+their essence and of their existence,—a truth which seems to have been
+understood by those who have maintained that God's intellect, will, and
+power are one and the same thing. Since, therefore, God's intellect is the
+sole cause of things, both of their essence and of their existence (as we
+have already shown), it must necessarily differ from them with regard both
+to its essence and existence; for an effect differs from its cause precisely in
+that which it has from its cause. For example, one man is the cause of the
+existence but not of the essence of another, for the essence is an eternal
+truth; and therefore with regard to essence the two men may exactly
+resemble one another, but with regard to existence they must differ.
+Consequently if the existence of one should perish, that of the other will
+not therefore perish; but if the essence of one could be destroyed and
+become false, the essence of the other would be likewise destroyed.
+Therefore a thing which is the cause both of the essence and of the
+existence of any effect must differ from that effect both with regard to its
+essence and with regard to its existence. But the intellect of God is the
+cause both of the essence and existence of our intellect; therefore the
+intellect of God, so far as it is conceived to constitute the divine essence,
+differs from our intellect both with regard to its essence and its existence,
+nor can it coincide with our intellect in anything except the name, which is
+what we essayed to prove. The same demonstration may be applied to the
+will, as anyone may easily see for himself.
+
+
+35 LOCKE: Human Understanding, BK II, CH IV, SECT 5, 131a; CH
+XXIX, SECT 9 235c-d; BK III, CH IX, SECT 15-16 288d-289c; CH X,
+SECT 5 292d-293a; CH XI, SECT 3-7 300b-301c; BK IV, CH VII,
+SECT 15 343d-344a; CH VIII, SECT 11 348b-c
+Human Understanding, BK II, CH IV, SECT 5, 131a
+If there be others that have not these two ideas distinct, but confound
+them, and make but one of them, I know not how men, who have the same
+idea under different names, or different ideas under the same name, can in
+that case talk with one another; any more than a man who, not being blind
+or deaf, has distinct ideas of the colour of scarlet and the sound of a
+trumpet, could discourse concerning scarlet colour with the blind man I
+mentioned in another place, who fancied that the idea of scarlet was like
+the sound of a trumpet.
+Human Understanding, BK II, CH XXIX, SECT 9 235c-d
+9. Their simple ones mutable and undetermined. Thirdly, A third defect that
+frequently gives the name of confused to our ideas, is, when any one of
+them is uncertain and undetermined. Thus we may observe men who, not
+forbearing to use the ordinary words of their language till they have learned
+their precise signification, change the idea they make this or that term
+stand for, almost as often as they use it. He that does this out of
+uncertainty of what he should leave out, or put into his idea of church, or
+idolatry, every time he thinks of either, and holds not steady to any one
+precise combination of ideas that makes it up, is said to have a confused
+idea of idolatry or the church: though this be still for the same reason as
+the former, viz. because a mutable idea (if we will allow it to be one idea)
+cannot belong to one name rather than another, and so loses the
+distinction that distinct names are designed for. 22
+
+Human Understanding, BK III, CH IX, SECT 15-16 288d-289c
+15. With this imperfection, they may serve for civil, but not well for
+philosophical use. It is true, as to civil and common conversation, the
+general names of substances, regulated in their ordinary signification by
+some obvious qualities, (as by the shape and figure in things of known
+seminal propagation, and in other substances, for the most part by colour,
+joined with some other sensible qualities), do well enough to design the
+things men would be understood to speak of: and so they usually conceive
+well enough the substances meant by the word gold or apple, to distinguish
+the one from the other. But in philosophical inquiries and debates, where
+general truths are to be established, and consequences drawn from
+positions laid down, there the precise signification of the names of
+substances will be found not only not to be well established, but also very
+hard to be so. For example: he that shall make malleability, or a certain
+degree of fixedness, a part of his complex idea of gold, may make
+propositions concerning gold, and draw consequences from them, that will
+truly and clearly follow from gold, taken in such a signification: but yet such
+as another man can never be forced to admit, nor be convinced of their
+truth, who makes not malleableness, or the same degree of fixedness, part
+of that complex idea that the name gold, in his use of it, stands for.
+16. Instance, liquor. This is a natural and almost unavoidable imperfection in
+almost all the names of substances, in all languages whatsoever, which
+men will easily find when, once passing from confused or loose notions,
+they come to more strict and close inquiries. For then they will be
+convinced how doubtful and obscure those words are in their signification,
+which in ordinary use appeared very clear and determined. I was once in a
+
+22
+     Cf. ch. xxii. § 7; also Bk. III. ch. x. §§ 3, 4.
+meeting of very learned and ingenious physicians, where by chance there
+arose a question, whether any liquor passed through the filaments of the
+nerves. The debate having been managed a good while, by variety of
+arguments on both sides, I (who had been used to suspect, that the
+greatest part of disputes were more about the signification of words than a
+real difference in the conception of things) desired, that, before they went
+any further on in this dispute, they would first examine and establish
+amongst them, what the word liquor signified. They at first were a little
+surprised at the proposal; and had they been persons less ingenious, they
+might perhaps have taken it for a very frivolous or extravagant one: since
+there was no one there that thought not himself to understand very
+perfectly what the word liquor stood for; which I think, too, none of the
+most perplexed names of substances. However, they were pleased to
+comply with my motion; and upon examination found that the signification
+of that word was not so settled or certain as they had all imagined; but that
+each of them made it a sign of a different complex idea. This made them
+perceive that the main of their dispute was about the signification of that
+term; and that they differed very little in their opinions concerning some
+fluid and subtle matter, passing through the conduits of the nerves; though
+it was not so easy to agree whether it was to be called liquor or no, a thing,
+which, when considered, they thought it not worth the contending about.
+
+Human Understanding, BK III, CH X, SECT 5 292d-293a
+5. Unsteady application of them. Secondly, Another great abuse of words is
+inconstancy in the use of them. It is hard to find a discourse written on any
+subject, especially of controversy, wherein one shall not observe, if he read
+with attention, the same words (and those commonly the most material in
+the discourse, and upon which the argument turns) used something for one
+collection of simple ideas, and sometimes for another; which is a perfect
+abuse of language. Words being intended for signs of my ideas, to make
+them known to others, not by any natural signification, but by a voluntary
+imposition, it is plain cheat and abuse, when I make them stand sometimes
+for one thing and sometimes for another; the wilful doing whereof can be
+imputed to nothing but great folly, or greater dishonesty. And a man, in his
+accounts with another may, with as much fairness make the characters of
+numbers stand sometimes for one and sometimes for another collection of
+units: v. g. this character 3, stand sometimes for three, sometimes for four,
+and sometimes for eight, as in his discourse or reasoning make the same
+words stand for different collections of simple ideas. If men should do so in
+their reckonings, I wonder who would have to do with them? One who
+would speak thus in the affairs and business of the world, and call 8
+sometimes seven, and sometimes nine, as best served his advantage, would
+presently have clapped upon him, one of the two names men are commonly
+disgusted with. And yet in arguings and learned contests, the same sort of
+proceedings passes commonly for wit and learning; but to me it appears a
+greater dishonesty than the misplacing of counters in the casting up a debt;
+and the cheat the greater, by how much truth is of greater concernment
+and value than money.
+
+Human Understanding, BK III, CH XI, SECT 3-7 300b-301c
+3. But yet necessary to those who search after truth. But though the market
+and exchange must be left to their own ways of talking, and gossipings not
+be robbed of their ancient privilege: though the schools, and men of
+argument would perhaps take it amiss to have anything offered, to abate
+the length or lessen the number of their disputes; yet methinks those who
+pretend seriously to search after or maintain truth, should think themselves
+obliged to study how they might deliver themselves without obscurity,
+doubtfulness, or equivocation, to which men's words are naturally liable, if
+care be not taken.
+4. Misuse of words the great cause of errors. For he that shall well consider
+the errors and obscurity, the mistakes and confusion, that are spread in the
+world by an ill use of words, will find some reason to doubt whether
+language, as it has been employed, has contributed more to the
+improvement or hindrance of knowledge amongst mankind. How many are
+there, that, when they would think on things, fix their thoughts only on
+words, especially when they would apply their minds to moral matters? And
+who then can wonder if the result of such contemplations and reasonings,
+about little more than sounds, whilst the ideas they annex to them are very
+confused and very unsteady, or perhaps none at all; who can wonder, I say,
+that such thoughts and reasonings end in nothing but obscurity and
+mistake, without any clear judgment or knowledge?
+5. Has made men more conceited and obstinate. This inconvenience, in an ill
+use of words, men suffer in their own private meditations: but much more
+manifest are the disorders which follow from it, in conversation, discourse,
+and arguings with others. For language being the great conduit, whereby
+men convey their discoveries, reasonings, and knowledge, from one to
+another, he that makes an ill use of it, though he does not corrupt the
+fountains of knowledge, which are in things themselves, yet he does, as
+much as in him lies, break or stop the pipes whereby it is distributed to the
+public use and advantage of mankind. He that uses words without any clear
+and steady meaning, what does he but lead himself and others into errors?
+And he that designedly does it, ought to be looked on as an enemy to truth
+and knowledge. And yet who can wonder that all the sciences and parts of
+knowledge have been so overcharged with obscure and equivocal terms,
+and insignificant and doubtful expressions, capable to make the most
+attentive or quick-sighted very little, or not at all, the more knowing or
+orthodox: since subtlety, in those who make profession to teach or defend
+truth, hath passed so much for a virtue: a virtue, indeed, which, consisting
+for the most part in nothing but the fallacious and illusory use of obscure
+or deceitful terms, is only fit to make men more conceited in their
+ignorance, and more obstinate in their errors.
+6. Addicted to wrangling about sounds. Let us look into the books of
+controversy of any kind, there we shall see that the effect of obscure,
+unsteady, or equivocal terms is nothing but noise and wrangling about
+sounds, without convincing or bettering a man's understanding. For if the
+idea be not agreed on, betwixt the speaker and hearer, for which the words
+stand, the argument is not about things, but names. As often as such a
+word whose signification is not ascertained betwixt them, comes in use,
+their understandings have no other object wherein they agree, but barely
+the sound; the things that they think on at that time, as expressed by that
+word, being quite different.
+7. Instance, bat and bird. Whether a bat be a bird or no, is not a question,
+Whether a bat be another thing than indeed it is, or have other qualities
+than indeed it has; for that would be extremely absurd to doubt of. But the
+question is, (1) Either between those that acknowledged themselves to have
+but imperfect ideas of one or both of this sort of things, for which these
+names are supposed to stand. And then it is a real inquiry concerning the
+nature of a bird or a bat, to make their yet imperfect ideas of it more
+complete; by examining whether all the simple ideas to which, combined
+together, they both give the name bird, be all to be found in a bat: but this
+is a question only of inquirers (not disputers) who neither affirm nor deny,
+but examine: Or, (2) It is a question between disputants; whereof the one
+affirms, and the other denies that a bat is a bird. And then the question is
+barely about the signification of one or both these words; in that they not
+having both the same complex ideas to which they give these two names,
+one holds and the other denies, that these two names may be affirmed one
+of another. Were they agreed in the signification of these two names, it
+were impossible they should dispute about them. For they would presently
+and clearly see (were that adjusted between them), whether all the simple
+ideas of the more general name bird were found in the complex idea of a
+bat or no; and so there could be no doubt whether a bat were a bird or no.
+And here I desire it may be considered, and carefully examined, whether the
+greatest part of the disputes in the world are not merely verbal, and about
+the signification of words; and whether, if the terms they are made in were
+defined, and reduced in their signification (as they must be where they
+signify anything) to determined collections of the simple ideas they do or
+should stand for, those disputes would not end of themselves, and
+immediately vanish. I leave it then to be considered, what the learning of
+disputation is, and how well they are employed for the advantage of
+themselves or others, whose business is only the vain ostentation of
+sounds; i.e. those who spend their lives in disputes and controversies.
+When I shall see any of those combatants strip all his terms of ambiguity
+and obscurity, (which every one may do in the words he uses himself), I
+shall think him a champion for knowledge, truth, and peace, and not the
+slave of vain-glory, ambition, or a party.
+
+Human Understanding, BK IV, CH VII, SECT 15 343d-344a
+15. They cannot add to our knowledge of substances, and their application to
+complex ideas is dangerous. But let them be of what use they will in verbal
+propositions, they cannot discover or prove to us the least knowledge of
+the nature of substances, as they are found and exist without us, any
+further than grounded on experience. And though the consequence of these
+two propositions, called principles, be very clear, and their use not
+dangerous or hurtful, in the probation of such things wherein there is no
+need at all of them for proof, but such as are clear by themselves without
+them, viz. where our ideas are [determined] and known by the names that
+stand for them: yet when these principles, viz. what is, is, and it is
+impossible for the same thing to be and not to be, are made use of in the
+probation of propositions wherein are words standing for complex ideas, v.g.
+man, horse, gold, virtue; there they are of infinite danger, and most
+commonly make men receive and retain falsehood for manifest truth, and
+uncertainty for demonstration: upon which follow error, obstinacy, and all
+the mischiefs that can happen from wrong reasoning. The reason whereof is
+not, that these principles are less true or of less force in proving
+propositions made of terms standing for complex ideas, than where the
+propositions are about simple ideas. But because men mistake
+generally,—thinking that where the same terms are preserved, the
+propositions are about the same things, though the ideas they stand for are
+in truth different, therefore these maxims are made use of to support those
+which in sound and appearance are contradictory propositions; and is clear
+in the demonstrations above mentioned about a vacuum. So that whilst
+men take words for things, as usually they do, these maxims may and do
+commonly serve to prove contradictory propositions; as shall yet be further
+made manifest.
+
+Human Understanding, BK IV, CH VIII, SECT 11 348b-c
+11. Thirdly, using words variously is trifling with them. Though yet concerning
+most words used in discourses, equally argumentative and controversial,
+there is this more to be complained of, which is the worst sort of trifling,
+and which sets us yet further from the certainty of knowledge we hope to
+attain by them, or find in them; viz. that most writers are so far from
+instructing us in the nature and knowledge of things, that they use their
+words loosely and uncertainly, and do not, by using them constantly and
+steadily in the same significations, make plain and clear deductions of
+words one from another, and make their discourses coherent and clear,
+(how little soever they were instructive); which were not difficult to do, did
+they not find it convenient to shelter their ignorance or obstinacy under the
+obscurity and perplexedness of their terms: to which, perhaps, inadvertency
+and ill custom do in many men much contribute.
+
+
+35 HUME: Human Understanding, SECT VIII, DIV 62-63 478b-d
+62. It might reasonably be expected in questions which have been
+canvassed and disputed with great eagerness, since the first origin of
+science and philosophy, that the meaning of all the terms, at least, should
+have been agreed upon among the disputants; and our enquiries, in the
+course of two thousand years, been able to pass from words to the true
+and real subject of the controversy. For how easy may it seem to give exact
+definitions of the terms employed in reasoning, and make these definitions,
+not the mere sound of words, the object of future scrutiny and
+examination? But if we consider the matter more narrowly, we shall be apt
+to draw a quite opposite conclusion. From this circumstance alone, that a
+controversy has been long kept on foot, and remains still undecided, we
+may presume that there is some ambiguity in the expression, and that the
+disputants affix different ideas to the terms employed in the controversy.
+For as the faculties of the mind are supposed to be naturally alike in every
+individual; otherwise nothing could be more fruitless than to reason or
+dispute together; it were impossible, if men affix the same ideas to their
+terms, that they could so long form different opinions of the same subject;
+especially when they communicate their views, and each party turn
+themselves on all sides, in search of arguments which may give them the
+victory over their antagonists. It is true, if men attempt the discussion of
+questions which lie entirely beyond the reach of human capacity, such as
+those concerning the origin of worlds, or the economy of the intellectual
+system or region of spirits, they may long beat the air in their fruitless
+contests, and never arrive at any determinate conclusion. But if the
+question regard any subject of common life and experience, nothing, one
+would think, could preserve the dispute so long undecided but some
+ambiguous expressions, which keep the antagonists still at a distance, and
+hinder them from grappling with each other.
+63. This has been the case in the long disputed question concerning liberty
+and necessity; and to so remarkable a degree that, if I be not much
+mistaken, we shall find, that all mankind, both learned and ignorant, have
+always been of the same opinion with regard to this subject, and that a few
+intelligible definitions would immediately have put an end to the whole
+controversy. I own that this dispute has been so much canvassed on all
+hands, and has led philosophers into such a labyrinth of obscure sophistry,
+that it is no wonder, if a sensible reader indulge his ease so far as to turn a
+deaf ear to the proposal of such a question, from which he can expect
+neither instruction or entertainment. But the state of the argument here
+proposed may, perhaps, serve to renew his attention; as it has more novelty,
+promises at least some decision of the controversy, and will not much
+disturb his ease by any intricate or obscure reasoning.
+I hope, therefore, to make it appear that all men have ever agreed in the
+doctrine both of necessity and of liberty, according to any reasonable
+sense, which can be put on these terms; and that the whole controversy
+has hitherto turned merely upon words. We shall begin with examining the
+doctrine of necessity.
+
+
+36 STERNE: Tristram Shandy, 307b-308b
+                                 Chapter 30
+
+——“All is not gain that is got into the purse.”——So that not with standing
+my father had the happiness of reading the oldest books in the universe,
+and had moreover, in himself, the oddest way of thinking that ever man in it
+was blessed with, yet it had this drawback upon him after all—that it laid
+him open to some of the oddest and most whimsical distresses; of which
+this particular one, which he sunk under at present, is as strong an example
+as can be given.
+No doubt, the breaking down of the bridge of a child’s nose, by the edge of
+a pair of forceps—however scientifically applied—would vex any man in the
+world, who was at so much pains in begetting a child, as my father
+was—yet it will not account for the extravagance of his affliction, nor will it
+justify the unchristian manner he abandoned and surrendered himself up
+to.
+To explain this, I must leave him upon the bed for half an hour—and my
+uncle Toby in his old fringe chair sitting beside him.
+
+                                 Chapter 31
+
+——I think it a very unreasonable demand—cried my great-grandfather,
+twisting up the paper, and throwing it upon the table.——By this account,
+madam, you have but two thousand pounds fortune, and not a shilling
+more—and you insist upon having three hundred pounds a year jointure for
+it.——
+——“Because,” replied my great-grandmother, “you have little or no nose,
+Sir.”——
+Now before I venture to make use of the word Nose a second time—to
+avoid all confusion in what will be said upon it, in this interesting part of
+my story, it may not be amiss to explain my own meaning, and define, with
+all possible exactness and precision, what I would willingly be understood
+to mean by the term: being of opinion, that ’tis owing to the negligence and
+perverseness of writers in despising this precaution, and to nothing
+else—that all the polemical writings in divinity are not as clear and
+demonstrative as those upon a Will o’ the Wisp, or any other sound part of
+philosophy, and nature pursuit; in order to which, what have you to do,
+before you set out, unless you intend to go puzzling on to the day of
+judgment—but to give the world a good definition, and stand to it, of the
+main word you have most occasion for—changing it, Sir, as you would a
+guinea, into small coin?—which done— let the father of confusion puzzle
+you, if he can; or put a different idea either into your head, or your reader’s
+head, if he knows how.
+In books of strict morality and close reasoning, such as this I am engaged
+in—the neglect is inexcusable; and Heaven is witness, how the world has
+revenged itself upon me for leaving so many openings to equivocal
+strictures—and for depending so much as I have done, all along, upon the
+cleanliness of my readers’ imaginations.
+——Here are two senses, cried Eugenius, as we walked along, pointing with
+the fore finger of his right hand to the word Crevice, in the one hundred
+and seventy-eighth page of the first volume of this book of books;—here
+are two senses—quoth he—And here are two roads, replied I, turning short
+upon him—a dirty and a clean one—which shall we take?——The clean, by
+all means, replied Eugenius. Eugenius, said I, stepping before him, and
+laying my hand upon his breast—to define—is to distrust.—Thus I triumphed
+over Eugenius; but I triumphed over him as I always do, like a fool.——’Tis
+my comfort, however, I am not an obstinate one: therefore
+I define a nose as follows—intreating only beforehand, and beseeching my
+readers, both male and female, of what age, complexion, and condition
+soever, for the love of God and their own souls, to guard against the
+temptations and suggestions of the devil, and suffer him by no art or wile
+to put any other ideas into their minds, than what I put into my
+definition—For by the word Nose, throughout all this long chapter of noses,
+and in every other part of my work, where the word Nose occurs—I declare,
+by that word I mean a nose, and nothing more, or less.
+
+                                 Chapter 32
+
+——“Because,” quoth my great-grandmother, repeating the words
+again—“you have little or no nose, Sir.”——
+’Sdeath! cried my great-grandfather, clapping his hand upon his nose,—’tis
+not so small as that comes to;—’tis a full inch longer than my
+father’s.——Now, my great-grandfather’s nose was for all the world like unto
+the noses of all the men, women, and children, whom Pantagruel found
+dwelling upon the island of Ennasin.——By the way, if you would know the
+strange way of getting a-kin amongst so flat-nosed a people—you must
+read the book;—find it out yourself, you never can.——
+
+
+42 KANT: Science of Right, 400d
+The dictum of the right of necessity is put in these terms: “Necessity has
+no law” (Necessitas non habet legem). And yet there cannot be a necessity
+that could make what is wrong lawful.
+It is apparent, then, that in judgements relating both to “equity” and “the
+right of necessity,” the equivocations involved arise from an interchange of
+the objective and subjective grounds that enter into the application of the
+principles of right, when viewed respectively by reason or by a judicial
+tribunal. What one may have good grounds for recognising as right, in itself,
+may not find confirmation in a court of justice; and what he must consider
+to be wrong, in itself, may obtain recognition in such a court. And the
+reason of this is that the conception of right is not taken in the two cases
+in one and the same sense.
+
+
+53 JAMES, Psychology, 875b-876a
+This is as clear a restatement as I can make of Mill’s doctrine. 23 And its
+failure is written upon its front. Woe to arithmetic, were such the only
+grounds for its validity! The same real things are countable in numberless
+ways, and pass from one numerical form, not only to its equivalent (as Mill
+implies), but to its other, as the sport of physical accidents or of our mode
+of attending may decide. How could our notion that one and one are
+eternally and necessarily two ever maintain itself in a world where every
+time we add one drop of water to another we get not two but one again? in
+a world where every time we add a drop to a crumb of quicklime we get a
+dozen or more?—had it no better warrant than such experiences? At most
+we could then say that one and one are usually two. Our arithmetical
+propositions would never have the confident tone which they now possess.
+That confident tone is due to the fact that they deal with abstract and ideal
+numbers exclusively. What we mean by one plus one is two; we make two
+out of it; and it would mean two still even in a world where physically
+(according to a conceit of Mill’s) a third thing was engendered every time
+
+23
+  For the original statements, cf. J. S. Mill: Logic, bk. II, chap. VI, §§ 2, 3; and bk. III, chap.
+XXIV, § 5.
+one thing came together with another. We are masters of our meanings, and
+discriminate between the things we mean and our ways of taking them,
+between our strokes of numeration themselves, and our bundlings and
+separatings thereof.
+Mill ought not only to have said, “All things are numbered.” He ought, in
+order to prove his point, to have shown that they are unequivocally
+numbered, which they notoriously are not. Only the abstract numbers
+themselves are unequivocal, only those which we create mentally and hold
+fast to as ideal objects always the same. A concrete natural thing can
+always be numbered in a great variety of ways. “We need only conceive a
+thing divided into four equal parts (and all things may be conceived as so
+divided),” as Mill is himself compelled to say, to find the number four in it,
+and so on.
+The relation of numbers to experience is just like that of “kinds” in logic. So
+long as an experience will keep its kind we can handle it by logic. So long
+as it will keep its number we can deal with it by arithmetic. Sensibly,
+however, things are constantly changing their numbers, just as they are
+changing their kinds. They are forever breaking apart and fusing.
+Compounds and their elements are never numerically identical, for the
+elements are sensibly many and the compounds sensibly one. Unless our
+arithmetic is to remain without application to life, we must somehow make
+more numerical continuity than we spontaneously find. Accordingly
+Lavoisier discovers his weight-units which remain the same in compounds
+and elements, though volume-units and quality-units all have changed. A
+great discovery! And modern science outdoes it by denying that compounds
+exist at all. There is no such thing as “water” for “science”; that is only a
+handy name for H 2 and O when they have got into the position H-O-H, and
+then affect our senses in a novel way. The modern theories of atoms, of
+heat, and of gases are, in fact, only intensely artificial devices for gaining
+that constancy in the numbers of things which sensible experience will not
+show. “Sensible things are not the things for me,” says Science, “because in
+their changes they will not keep their numbers the same. Sensible qualities
+are not the qualities for me, because they can with difficulty be numbered
+at all. These hypothetic atoms, however, are the things, these hypothetic
+masses and velocities are the qualities for me; they will stay numbered all
+the time.”
+By such elaborate inventions, and at such a cost to the imagination, do men
+succeed in making for themselves a world in which real things shall be
+coerced per fas aut nefas under arithmetical law.
+

@@ -1,0 +1,2153 @@
+2d. Proper and common names
+8 ARISTOTLE: Categories, CH 5 [2a11-18] 6a-b / Interpretation, CH 7
+[17a37-40] 26d / Sophistical Refutations, CH 22 [I78b38-I79a1O] 246c /
+Metaphysics, BK VII, CH 10 [1035b28-32] 559b; CH 11 [1037a5-9] 560c; CH 15
+[1040a8-13] 564a
+
+19 AQUINAS: Summa Theologica, PART I, Q 13, A 1, REP 3 62c-63c; A 9
+71b-72c; A 11 73c-74b; Q 30, A 4 170c-171b; Q 33, AA 2-3 181c-183c; Q 34, AA
+1-2 185b-188a; Q 108, A 5, ANS and REP 1 555d-558b
+
+20 AQUINAS: Summa Theologica, PART II-II, Q 9, A 2, ANS 424b-425a
+
+22 CHAUCER: Second Nun's Prologue [15,553-587] 462b-463a
+
+23 HOBBES: Leviathan, PART I, 55b-c
+
+35 LOCKE: Human Understanding, BK I, CH I, SECT 15 98d-99a; BK II, CH XI,
+SECT 9 145b-c; BK III, CH I, SECT 3 251d-252a; CH III, SECT 1-9 254d-256c;
+SECT 11-12 257a-c; CH VI, SECT 42 280b-c
+
+35 BERKELEY: Human Knowledge, INTRO, SECT 11-12 407b-408b; SECT 15
+409a-b; SECT 18-19 410a-c; SECT 122 437b-c
+
+35 HUME: Human Understanding, SECT XII, DIV 125, 507b [fn I]
+
+36 STERNE: Tristram Shandy, 217b-221a; 351a-353b
+
+38 ROUSSEAU: Inequality, 341b-342b
+
+45 LAVOISIER: Elements of Chemistry, PREF, 4b-c
+
+53 JAMES: Psychology, 310a-311a; 447b-448a
+8 ARISTOTLE: Categories, CH 5 [2a11-18] 6a-b / Interpretation, CH
+7 [17a37-40] 26d / Sophistical Refutations, CH 22 [I78b38-I79a1O]
+246c / Metaphysics, BK VII, CH 10 [1035 b28-32] 559b; CH 11
+[1037a5-9] 560c; CH 15 [1040a8-13] 564a
+Categories, CH 5 [2a11-18] 6a-b
+Substance, in the truest and primary and most definite sense of the word,
+is that which is neither predicable of a subject nor present in a subject; for
+instance, the individual man or horse. But in a secondary sense those
+things are called substances within which, as species, the primary
+substances are included; also those which, as genera, include the species.
+For instance, the individual man is included in the species ‘man’, and the
+genus to which the species belongs is ‘animal’; these, therefore—that is to
+say, the species ‘man’ and the genus ‘animal’—are termed secondary
+substances.
+
+Interpretation, CH 7 [17 a37-40] 26d
+Some things are universal, others individual. By the term ‘universal’ I mean
+that which is of such a nature as to be predicated of many subjects, by
+‘individual’ that which is not thus predicated. Thus ‘man’ is a universal,
+‘Callias’ an individual.
+
+Sophistical Refutations, CH 22 [I78 b38-I79a1O] 246c
+Again, there is the proof that there is a ‘third man’ distinct from Man and
+from individual men. But that is a fallacy, for ‘Man’, and indeed every general
+predicate, denotes not an individual substance, but a particular quality, or
+the being related to something in a particular manner, or something of that
+sort. Likewise also in the 179a case of ‘Coriscus’ and ‘Coriscus the musician’
+there is the problem, ‘Are they the same or different?’ For the one denotes
+an individual substance and the other a quality, so that it cannot be
+isolated; though it is not the isolation which creates the ‘third man’, but the
+admission that it is an individual substance. For ‘Man’ cannot be an
+individual substance, as Callias is. Nor is the case improved one whit even if
+one were to call the element he has isolated not an individual substance
+but a quality: for there will still be the one beside the many, just as ‘Man’
+was. It is evident then that one must not grant that what is a common
+predicate applying to a class universally is an individual substance, but
+must say that it denotes either a quality, or a relation, or a quantity, or
+something of that kind.
+Metaphysics, BK VII, CH 10 [1035 b28-32] 559b
+But man and horse and terms which are thus applied to individuals, but
+universally, are not substance but something composed of this particular
+formula and this particular matter treated as universal; and as regards the
+individual, Socrates already includes in him ultimate individual matter; and
+similarly in all other cases. ‘A part’ may be a part either of the form (i. e. of
+the essence), or of the compound of the form and the matter, or of the
+matter itself.
+
+Metaphysics, BK VII, CH 11 [1037 a5-9] 560c
+It is clear also that the soul is the primary substance and the body is
+matter, and man or animal is the compound of both taken universally; and
+‘Socrates’ or ‘Coriscus’, if even the soul of Socrates may be called Socrates,
+has two meaning (for some mean by such a term the soul, and others mean
+the concrete thing), but if ‘Socrates’ or ‘Coriscus’ means simply this
+particular soul and this particular body, the individual is analogous to the
+universal in its composition.
+
+Metaphysics, BK VII, CH 15 [1040 a8-13] 564a
+Nor is it possible to define any Idea. For the Idea is, as its supporters say,
+an individual, and can exist apart; and the formula must consist of words;
+and he who defines must not invent a word (for it would be unknown), but
+the established words are common to all the members of a class; these
+then must apply to something besides the thing defined; e. g. if one were
+defining you, he would say ‘an animal which is lean’ or ‘pale’, or something
+else which will apply also to some one other than you.
+
+
+19 AQUINAS: Summa Theologica, PART I, Q 13, A 1, REP 3 62c-63c;
+A 9 71b-72c; A 11 73c-74b; Q 30, A 4 170c-171b; Q 33, AA 2-3
+181c-183c; Q 34, AA 1-2 185b-188a; Q 108, A 5, ANS and REP 1
+555d-558b
+Summa Theologica, PART I, Q 13, A 1, REP 3 62c-63c
+Article 1. Whether Any Name Is Suitable to God?
+We proceed thus to the First Article: It seems that no name is suitable to
+God.
+Objection 1. For Dionysius says (Div. Nom. i)1 that, “Of Him there is neither
+name, nor can one be found of Him”; and it is written: “ What is His name,
+and what is the name if His Son, if thou knowest? ” (Prov. 30. 4).
+Obj. 2. Further, every name is either abstract or concrete. But concrete
+names do not belong to God, since He is simple, nor do abstract names
+1
+    Sect. 5 (PG 3, 593).
+belong to Him, since they do not signify any perfect subsisting thing.
+Therefore no name can be said of God.
+Obj. 3. Further, nouns are taken to signify substance with quality; verbs and
+participles signify substance with time; pronouns the same with
+demonstration or relation. But none of these can be applied to God, for He
+has no quality, nor accident, nor time; moreover, He cannot be felt, so as to
+be pointed out; nor can He be described by relation, since relations serve to
+recall a thing mentioned before by nouns, participles, or demonstrative
+pronouns. Therefore God cannot in any way be named by us.
+On the contrary, It is written (Exod. 15. 3): “The Lord is a man of war,
+Almighty is His name”.
+I answer that, Since according to the Philosopher, 2 words are signs of ideas,
+and ideas the likeness of things, it is evident that words relate to the
+meaning of things signified through the medium of the intellectual
+conception. It follows therefore that we can give a name to anything in as
+far as it can be known by our intellect. New it was shown above (Q. XII, AA.
+11, 12) that in this life we cannot see the essence of God; but we know God
+from creatures as their principle, and also by way of excellence and
+remotion. In this way therefore He can be named by us from creatures,, yet
+not so that the name which signifies Kim expresses the divine essence in
+itself, as for instance the name "man" express by its meaning the essence
+of man by declaring his essence. For the notion expressed by the name is
+the definition.
+Reply Obj. 1. The reason why God has no name, or is said to be above being
+named, is because His essence is above all that we understand about God
+and signify in word.
+Reply Obj. 1. Because we know and name God from creatures, the names we
+attribute to God signify what belongs to material creatures, of which the
+knowledge is natural to us as we have said before (Q. XII, A. 4). And because
+in creatures of this kind what is perfect and subsistent is composite,
+whereas their form is not a complete subsisting thing, but rather is that
+whereby a thing is, hence it follows that all names used by us to signify a
+complete subsisting thing must have a concrete meaning according as they
+belong to composite things. But names given to signify simple forms signify
+a thing not as subsisting, but as that by which a thing is; as, for instance,
+whiteness signifies that by which a thing is white. And as God is simple,
+and subsisting, we attribute to Him abstract names to signify His simplicity,
+and concrete names to signify His subsistence and perfection, although
+both these kinds of names fail to express His mode of being, since our
+intellect does not know Him in this life as He is.
+
+
+
+2
+    Interpretation, 1 (16a3).
+Reply Obj. 1. To signify substance with quality is to signify the suppositum
+with a nature or determined form in which it subsists. Hence, as some
+things are said of God in a concrete sense to signify His subsistence and
+perfection, so likewise nouns are applied to God signifying substance with
+quality. Further, verbs and participles which signify time are applied to Him
+because His eternity includes all time. For just as we can apprehend and
+signify simple subsistences only by way of composite things, so we can
+understand and express simple eternity only by way of temporal things,
+because our intellect has a natural affinity to composite and temporal
+things. But demonstrative pronouns are applied to God as pointing out what
+is understood, not what is sensed. For we can only describe Him as far as
+we understand Him. Thus, according as nouns, participles and
+demonstrative pronouns are applicable to God, so far can He be signified by
+relative pronouns.
+
+Summa Theologica, PART I, Q 13, A 9 71b-72c
+Article 9. Whether This Name God Is Communicable?
+We proceed thus to the Ninth Article: It seems that this God is
+communicable.
+Objection 1. For whosoever shares in the thing signified by a name shares in
+the name itself. But this name God as we have said above (A. 8) signifies
+the divine nature, which is communicable to others, according to the words,
+He hath given us great [Vulg., most great] and precious promises, that by
+these we [Vulg., ye] may be made partakers of the divine nature (II Pet. 1. 4).
+Therefore this name God can be communicated to others.
+Obj. 2. Further, only proper names are not communicable. Now this name
+God is not a proper, but an appellative noun, which appears from the fact
+that it has a plural, according to the text, I have said, You are gods (Ps. 81.
+6). Therefore this name God is communicable.
+Obj. 3. Further, this name God comes from operation, as explained (A. 8).
+But other names given to God from His operations or effects are
+communicable, such as good, wise, and the like. Therefore this name God is
+communicable.
+On the contrary, It is written: They gave the incommunicable name to wood
+and stones (Wisd. 14.21), in reference to the divine name. Therefore this
+name God is incommunicable.
+I answer that, A name is communicable in two ways, properly, and by
+likeness. It is properly communicable in the sense that its whole
+signification can be given to many; by likeness it is communicable according
+to some part of the signification of the name. For instance this name “lion”
+is properly communicated to all things of the same nature as lion; by
+likeness it is communicable to those who participate in something lion-like,
+as for instance by courage, or strength, and those who thus participate are
+called lions metaphorically.
+To know, however, what names are properly communicable, we must
+consider that every form existing in the singular suppositum, by which it is
+individualized, is common to many either in reality, or at least according to
+reason; as human nature is common to many in reality, and in idea; but the
+nature of the sun is not common to many in reality, but only in idea; for the
+nature of the sun can be understood as existing in many supposita, and the
+reason is because the mind understands the nature of every species by
+abstraction from the singular. Hence to be in one singular suppositum or in
+many is outside the idea of the nature of the species. So, given the idea of
+the nature of a species, it can be understood as existing in many. But the
+singular, from the fact that it is singular, is divided off from all others.
+Hence every name imposed to signify any singular thing is incommunicable
+both in reality and idea, for the plurality of this individual thing cannot fall
+within the apprehension. Hence no name signifying any individual thing is
+properly communicable to many, but only by way of likeness; as for
+instance a person can be called Achilles metaphorically, because he may
+possess something of the properties of Achilles, such as strength.
+On the other hand, forms which are individualized not by any suppositum,
+but by themselves, because they are subsisting forms, if understood as they
+are in themselves could not be communicable either in reality or in idea,
+but only perhaps by way of likeness, as was said of individuals. But because
+we are unable to understand simple self-subsisting forms as they really are,
+we understand them after the mode of composite things having forms in
+matter, therefore, as was said in the first article (Ans. 2), we give them
+concrete names signifying a nature existing in some suppositum. Hence, so
+far as concerns names, the same rules apply to names we impose to signify
+the nature of composite things as to names given by us to signify simple
+subsisting natures.
+Since, then, this name God is given to signify the divine nature as stated
+above (A. 8), and since the divine nature cannot be multiplied as shown
+above (Q. XI, A. 3), it follows that this name God is incommunicable in
+reality, but communicable in opinion, just in the same way as this name
+"sun" would be communicable according to the opinion of those who say
+there are many suns. Therefore, it is written: You served them who by nature
+are not gods (Gal. 4. 8), and a gloss adds,3 Gods not in nature, “but in
+human opinion." Nevertheless this name God is communicable not in its
+whole signification, but in some part of it by way of likeness, so that those
+are called gods who share in divinity by likeness, according to the text, I
+have said, You are gods (Ps. 81. 6).
+
+3
+    Glossa Lombardi (PL 192, 139); cf. Glossa interl., (VI, 84V).
+But if any name were given to signify God not as to His nature but as to His
+suppositum, according as He is considered as "this something," that name
+would be in every way incommunicable; as, for instance, perhaps the name
+Tetragrammaton among the Hebrews; and this is like giving a name to the
+sun as signifying this individual thing.
+Reply Obj. 1. The divine nature is only communicable according to the
+participation of some likeness.
+Reply Obj. 2. This name God is an appellative name, and not a proper name,
+for it signifies the divine nature in the possessor, although God Himself in
+reality is neither universal nor particular. For names do not follow upon the
+mode of being which is in things, but upon the mode of being as it is in our
+knowledge. And yet it is incommunicable according to the truth of the
+thing, as was said above concerning the name sun.
+Reply Obj. 3. These names good, wise, and the like, are imposed from the
+perfections proceeding from God to creatures; but they do not signify the
+divine nature, but rather signify the perfections themselves absolutely, and
+therefore they are in truth communicable to many. But this name God is
+given to God from His own proper operation, which we experience
+continually, to signify the divine nature.
+
+Summa Theologica, PART I, Q 13, A 11 73c-74b
+Article 11. Whether This Name, He Who Is, Is the Most Proper Name of
+God?
+We proceed thus to the Eleventh Article: It seems that this name HE WHO IS
+is not the most proper name of God.
+Objection 1. For this name God is an incommunicable name, as we have said
+(A. 9). But this name HE WHO IS, is not an incommunicable name. Therefore
+this name HE WHO IS is not the most proper name of God.
+Obj. 2. Further, Dionysius says (Div. Nom. iii)4 that "the name of good
+excellently manifests all the processions of God." But it especially belongs
+to God to be the universal principle of all things. Therefore this name good
+is supremely proper to God, and not this name HE WHO IS.
+Obj. 3. Further, every divine name seems to imply relation to creatures, for
+God is known to us only through creatures. But this name HE WHO IS
+imports no relation to creatures. Therefore this name HE WHO IS is not the
+most applicable to God.
+On the contrary, It is written that when Moses asked, If they should say to
+me, What is His name? what shall I say to them? the Lord answered him,
+Thus shalt thou say to them, HE WHO IS hath sent me to you (Exod. 3. 13,
+14). Therefor this name, HE WHO IS, most properly belongs to God.
+
+
+4
+    Sect. I (PG 3, 680).
+I answer that, This name, HE WHO IS, is most properly applied to God, for
+three reasons.
+First, because of its signification. For it does not signify form, but being
+itself. Hence since the being of God is His essence itself, which can be said
+of no other (Q. III, A. 4), it is clear that among other names this one
+specially names God, for everything is denominated by its form.
+Secondly, on account of its universality. For all other names are either less
+universal, or, if convertible with it, add something above it at least in idea,
+hence in a certain way they inform and determine it. Now our intellect
+cannot know the essence of God itself in this life, as it is in itself, but
+whatever mode it applies in determining what it understands about God, it
+falls short of the mode of what God is in Himself. Therefore the less
+determinate the names are, and the more universal and absolute they are,
+the more properly are they applied to God. Hence Damascene says (De Fid.
+Orth. i)5 that, "HE WHO IS, is the principal of all names applied to God; for
+comprehending all in itself, it contains being itself as an infinite and
+indeterminate sea of substance." Now by any other name some mode of
+substance is determined, whereas this name HE WHO IS determines no
+mode of being, but is indeterminate to all; and therefore it denominates the
+"infinite sea of substance."
+Thirdly, from its consignification, for it signifies being in the present, and
+this above all properly applies to God, “whose being knows not past or
+future,” as Augustine says (De Trin. v).6
+Reply Obj. 1. This name HE WHO IS is the name of God more properly than
+this name God both as regards its source, namely, being, and as regards the
+mode of signification and consignification, as said above. But as regards the
+meaning intended by the name, this name God is more proper, as it is
+imposed to signify the divine nature; and still more proper is the
+Tetragrammaton, imposed to signify the substance of God itself,
+incommunicable and, if one may so speak, singular.
+Reply Obj. 2. This name "good" is the principal name of God in so far as He
+is a cause, but not absolutely; for being considered absolutely, comes
+before the idea of cause.
+Reply Obj. 3. It is not necessary that all the divine names should import
+relation to creatures, but it suffices that they be imposed from some
+perfections flowing from God to creatures. Among these the first is being
+itself, from which comes this name, HE WHO IS.
+
+
+
+
+5
+    Chap. 9 (PG 94, 836).
+6
+    Cf. Peter Lombard, Sent., I, d. 8, chap. I (QR 1, 58); cf. Isidore, Etym., VII, I (PL 82, 261).
+Summa Theologica, PART I, Q 30, A 4 170c-171b
+Article 4. Whether This Term “Person” Can Be Common to the Three
+Persons?
+We proceed thus to the Fourth Article: It would seem that this term person
+cannot be common to the three persons.
+Objection 1. For nothing is common to the three persons but the essence.
+But this term person does not signify the essence directly. Therefore it is
+not common to all three.
+Obj. 2. Further, the common is the opposite to the incommunicable. But the
+very meaning of person is that it is incommunicable, as appears from the
+definition given by Richard of St. Victor (Q. XXIX, A. 3, ANS. 4). Therefore this
+term person is not common to all the three persons.
+Obj. 3. Further, if the name person is common to the three, it is common
+either really or logically. But it is not so really; otherwise the three persons
+would be one person. Nor again is it so logically; otherwise person would be
+a universal. But in God there is neither universal nor particular, neither
+genus nor species, as we proved above (Q. III, A. 5). Therefore this term
+person is not common to the three.
+On the contrary, Augustine says (De Trin. vii, 4)7 that when as ask, “Three
+what?” we say, “Three persons,” because what a person is, is common to
+them.
+I answer that, The very mode of expression itself shows that this term
+person is common to the three when we say three persons; fo when we say
+three men we show that man is common to the three. Now it is clear that
+this is not community of a real thing, as if one essence were common to
+the three; otherwise there would be only one person of the three, as also
+one essence.
+What is meant by such a community has been variously determined by
+those who have examined the subject. Some 8 have called it a community of
+negation, because the definition of person contains the word
+incommunicable. Others9 thought it to be a community of intention, as the
+definition of person contains the word individual; as we say that to be a
+species is common to horse and ox. Both of these explanations, however,
+are excluded by the fact that person is not a name of exclusion nor of
+intention, but the name of a reality.
+We must therefore resolve that even in human things this name person is
+common by a community of notion not as genus or species, but as a vague
+individual thing. The names of genera and species, as man or animal, are
+given to signify the common natures themselves, but not the intentions of
+those common natures, signified by the terms genus or species. The vague
+7
+  PL 42, 940.
+8
+  William of Auxerre, Summa Aurea, I, 6, 2 (fol. 10C).
+9
+  See Alexander of Hales, S. T., II, 389 (QR I, 573).
+individual thing, as "some man," signifies the common nature with the
+determinate mode of being of singular things — that is, something
+self-subsisting distinct from others. But the name of a designated singular
+thing signifies that which distinguishes the determinate thing; as the name
+Socrates signifies this flesh and this bone. But there is this difference —
+that the term "some man" signifies the nature, or the individual on the part
+of its nature, with the mode of existence of singular things, while this name
+person is not given to signify the individual on the part of the nature, but
+the subsistent reality in that nature. Now this is common in idea to the
+divine persons, that each of them subsists distinctly from the others in the
+divine nature. Thus this name person is common in idea to the three divine
+persons.
+Reply Obj. 1. This argument is founded on a real community.
+Reply Obj. 2. Although person is incommunicable, yet the mode itself of
+incommunicable existence can be common to many.
+Reply Obj. 3. Although this community is logical and not real, yet it does not
+follow that in God there is universal or particular, or genus, or species; both
+because neither in human affairs is the community of person the same as
+community of genus or species, and because the divine persons have one
+being, whereas genus and species and every other universal are predicated
+of many which differ in being.
+
+Summa Theologica, PART I, Q 33, AA 2-3 181c-183c
+Article 2. Whether This Name “Father” Is Properly the Name of a Divine
+Person?
+We proceed thus to the Second Article: It would seem that this name
+“Father” is not properly the name of a divine person.
+Objection 1. For the name Father signifies relation. Moreover person is an
+individual substance. Therefore this name Father is not properly a name
+signifying a Person.
+Obj. 2. Further, a begetter is more common than father, for every father
+begets; but it is not so conversely. But a more common term is more
+properly applied to God, as stated above (Q. XIII, A. 11). Therefore the more
+proper name of the divine person is begetter and genitor than Father.
+Obj. 3. Further, a metaphorical term cannot be the proper name of anyone.
+But the word is by us metaphorically called begotten, or offspring; and
+consequently, he to whom the word applies is metaphorically called father.
+Therefore the principle of the Word in God is not properly called Father.
+Obj. 4. Further, everything which is said properly of God is said of God first
+before creatures. But generation appears to apply to creatures before God,
+because generation seems to be truer when the one who proceeds is
+distinct from the one from whom it proceeds, not only by relation but also
+by essence. Therefore the name Father taken from generation does not
+seem to be the proper name of any divine person.
+On the contrary, It is said (Ps. 88 27): He shall cry out to me: Thou art my
+Father.
+I answer that, The proper name of any person signifies that whereby the
+person is distinguished from all other persons. For as body and soul belong
+to the notion of man, so to the comprehension of this particular man
+belong “this soul and this body” as it is stated in the Metaphysics;10 and by
+these is this man distinguished from all other men. Now it is paternity
+which distinguishes the person of the Father from all the other persons.
+Hence this name Father, whereby paternity is signified, is the proper name
+of the person of the Father.
+Reply Obj. 1. Among us relatioon is not a subsisting person. So this name
+father among us does not signify a person, but the relation of a person. In
+God, however, it is not so, as some wrongly thought, for in God the relation
+signified by the name Father is a subsisting person. Hence, as above
+explained (Q. XXIX, A. 4), this name person in God signifies a relation
+subsisting in the divine nature.
+Reply Obj. 2. According to the Philosopher 11 a thing is denominated chiefly
+by its perfection, and by its end. Now generation signifies something in
+process of being made, while paternity signifies the complement of
+generation; and therefore the name Father is more expressive as regards
+the divine person than genitor or begetter.
+Reply Obj. 3. In human nature the word is not a subsistence, and hence is
+not properly called begotten or son. But the divine Word is something
+subsistent in the divine nature, and hence He is properly and not
+metaphorically called Son, and His principle is called Father.
+Reply Obj. 4. The terms generation and paternity, like the other terms
+properly applied to God, are said of God before creatures as regards the
+thing signified, but not as regards the mode of signification. Hence also the
+Apostle says, I bend my knee to the Father of my Lord Jesus Christ, from
+whom all paternity in heaven and on earth is named (Eph. 3. 14). This is
+explained thus. It is manifest that generation receives its species from the
+term which is the form of the thing generated; and the nearer it is to the
+form of the generator, the truer and more perfect is the generation, just as
+univocal generation is more perfect than non-univocal, for it belongs to the
+essence of a generator to generate what is like itself in form. Hence the
+very fact that in the divine generation the form of the Begetter and
+Begotten is numerically the same, while in creatures it is not numerically,
+but only specifically, the same, shows that generation, and consequently
+paternity, is applied to God before creatures. Hence the very fact that in
+10
+     Aristotle, VII, II (1037 a9).
+11
+     Soul, II, 4 (416b23).
+God a distinction exists of the Begotten from the Begetter as regards
+relation only belongs to the truth of the divine generation and paternity.
+Article 3. Whether This Name “Father” Is Applied to God, Firstly As a
+Personal Name?
+We proceed thus to the Third Article: It would seem that this name Father is
+not applied to God firstly as a personal name.
+Objection 1. For in the intellect the common precedes the proper. But this
+name Father as a personal name is proper to the person of the Father; and
+taken in an essential sense it is common to the whole Trinity, for we say
+“Our Father” to the whole Trinity. Therefore Father comes first as an
+essential name before its personal sense.
+Obj. 2. Further, in things of which the notion is the same there is no
+predication of before and after. But paternity and sonship seem to be of the
+same nature, according as a divine person is Father of the Son, and the
+whole Trinity is our Father, or the creature's; since, according to Basil ( Hom.
+XV, De Fide),12 “to receive is common to the creature and to the Son.”
+Therefore "Father" in God is not taken as an essential name before it is
+taken personally.
+Obj. 3. Further, it is not possible to compare things which have not a
+common notion. But the Son is compared to the creature by reason of
+sonship or generation, according to Col. 1. 15: Who is the image of the
+invisible God, the first-born of every creature. Therefore paternity taken in a
+personal sense is not prior to, but has the same notion as, paternity taken
+essentially.
+On the contrary, The eternal comes before the temporal. But God is the
+Father of the Son from eternity, while He is the Father of the creature in
+time. Therefore paternity in God is taken in a personal sense as regards the
+Son before it is so taken as regards the creature.
+I answer that, A name is applied to that wherein is perfectly contained its
+whole meaning before it is applied to that which only partially contains it;
+for the latter bears the name by reason of a kind of likeness to that which
+answers perfectly to the meaning of the name, since all imperfect things
+are taken from perfect things. Hence this name lion is applied first to the
+animal containing the whole nature of a lion, and which is properly so
+called, before it is applied to a man who shows something of a lion's
+nature, as boldness, or strength, or the like, and of whom it is said by way
+of likeness.
+Now it is manifest from the foregoing (QQ XXVII, A. 2; XXVIII, A. 4), that the
+perfect idea of paternity and filiation is to be found in God the Father and
+in God the Son, because one is the nature and glory of the Father and the
+Son. But in the creature, sonship is found in relation to God not in a perfect
+
+12
+     PG 31,468.
+manner, since the Creator and the creature have not the one nature, but by
+way of a certain likeness, which is the more perfect the nearer we approach
+to the true idea of sonship. For God is called the Father of some creatures
+by reason only of a trace, for instance of irrational creatures, according to
+Job 38. 28: Who is the father of the rain? or who begot the drops of dew? Of
+some, namely, the rational creature (He is the Father), by reason of the
+likeness of image, according to Deut. 32. 6: Is He not thy Father, who
+possessed, and made, and created thee? And of others He is the Father by
+likeness of grace, and these are also called adoptive sons, as ordained to
+the heritage of eternal glory by the gift of grace which they have received,
+according to Rom. 8. 16, 17: The Spirit Himself gives testimony to our spirit
+that we are the sons of God; and if sons, heirs also. Lastly, He is the Father
+of others by likeness of glory, because they have obtained possession of the
+heritage of glory, according to Rom. 5. 2: We glory in the hope of the glory of
+the sons of God. Therefore it is plain that "paternity" is applied to God first,
+as expressing the relation of one Person to another Person, before it
+expresses the relation of God to creatures.
+Reply Obj. 1. Common terms taken absolutely, in the order of our intellect,
+come before proper terms because they are included in the understanding
+of proper terms, but not conversely. For in the comprehension of the
+person of the Father, God is understood, but not conversely. But common
+terms which express relation to the creature come after proper terms
+which express personal relations, because the person proceeding in God
+proceeds as the principle of the production of creatures. For as the word
+conceived in the mind of the artist is first understood to proceed from the
+artist before the thing made, which is produced in likeness to the word
+conceived in the mind, so the Son proceeds from the Father before the
+creature, to which the name of sonship is applied as it participates in the
+likeness of the Son, as is clear from the words of Rom. 8. 29: Whom He
+foreknew and predestined to be made conformable to the image of His Son.
+Reply Obj. 2. “To receive" is said to be common to the creature and to the
+Son not in a univocal sense but according to a certain remote likeness
+whereby He is called the First Born of creatures. Hence the authority
+quoted adds: That He may be the First Born among many brethren (Rom. 8.
+29), after saying that some were conformed to the image of the Son of God .
+But the Son of God naturally possesses a position of singularity above
+others, in having by nature what He receives, as Basil also declares (ibid.);
+hence He is called the only begotten (John. 1. 18): The only begotten Who is
+in the bosom of the Father, He hath declared unto us.
+From this appears the Reply to Obj. 3.
+
+Summa Theologica, PART I, Q 34, AA 1-2 185b-188a
+Article 1. Whether Word in God Is a Personal Name?
+We proceed thus to the First Article: It would seem that Word in God is not
+a personal name.
+Objection 1. For personal names are applied to God in a proper sense, as
+Father and Son. But "Word is applied to God metaphorically," as Origen
+says13 on (John 1. 1), “In the beginning was the Word”. Therefore Word is not
+a personal name in God.
+Obj. 2. Further, according to Augustine (De Trin. ix, 10),14 "The Word is
+knowledge with love;" and according to Anselm (Monol.), 15 "To speak is to
+the Supreme Spirit nothing but to see by thought." But knowledge and
+thought, and sight, are essential terms in God. Therefore Word is not a
+personal term in God.
+Obj. 3. Further, it is essential to word to be spoken. But, according to
+Anselm (Monol. lix), as the Father is intelligent, the Son is intelligent, and
+the Holy Ghost is intelligent, so the Father speaks, the Son speaks, and the
+Holy Ghost speaks; and likewise, each one of them is spoken. Therefore, the
+name Word is used as an essential term in God, and not in a personal
+sense.
+Obj. 4. Further, no divine person is made. But the Word of God is something
+made. For it is said, "Fire, hail, snow, ice, the storms which do His Word"
+(Ps. 148:8). Therefore the Word is not a personal name in God.
+On the contrary, Augustine says (De Trin. vii, 2): 16 "As the Son is related to
+the Father, so also is the Word to Him Whose Word He is." But the Son is a
+personal name, since it is said relatively. Therefore so also is Word.
+I answer that, The name of Word in God, if taken in its proper sense, is a
+personal name, and in no way anessential name.
+To see how this is true, we must know that our own word taken in its
+proper sense has a threefold meaning; while in a fourth sense it is taken
+improperly or figuratively. The clearest and most common sense is when it
+is said of the word spoken by the voice; and this proceeds from an interior
+source as regards two things found in the exterior word--that is, the vocal
+sound itself, and the signification of the sound. For, according to the
+Philosopher,17 vocal sound signifies the concept of the intellect. Again the
+vocal sound proceeds from the signification or the imagination, as stated in
+the book on the Soul18. The vocal sound, which has no signification cannot
+be called a word: hence the exterior vocal sound is called a word because it
+signifies the interior concept of the mind. Thus, therefore first and chiefly,
+the interior concept of the mind is called a word; secondarily, the vocal
+sound itself, signifying the interior concept, is so called; and thirdly, the
+13
+   PG 14, 59.
+14
+   PL, 42, 969.
+15
+   Chap. 63 (PL 158, 208).
+16
+   PL 42, 936.
+17
+   Interpretation, I (16a3).
+18
+   Aristotle, II, 8 (420b32).
+imagination of the vocal sound is called a word. Damascene mentions these
+three kinds of words (De Fide Orth. i, 13), 19 saying that "word" is called "the
+natural movement of the intellect, whereby it is moved, and understands,
+and thinks, as light and splendor;" which is the first kind. "Again," he says,
+"the word is what is not pronounced by a vocal word, but is uttered in the
+heart;" which is the third kind. "Again," also, "the word is the angel"--that is,
+the messenger "of intelligence;" which is the second kind. Word is also used
+in a fourth way figuratively for that which is signified or effected by a word;
+thus we are wont to say, "this is the word I have said," or "which the king
+has commanded," alluding to some deed signified by the word either by way
+of assertion or of command.
+Now word is taken strictly in God, as signifying the concept of the intellect.
+Hence Augustine says (De Trin. xv, 10): 20 "Whoever can understand the word,
+not only before it is sounded, but also before thought has clothed it with
+imaginary sound, can already see some likeness of that Word of Whom it is
+said: In the beginning was the Word." The concept itself of the heart has of
+its own nature to proceed from something other than itself--namely, from
+the knowledge of the one conceiving. Hence "Word," according as we use
+the term strictly of God, signifies something proceeding from another;
+which belongs to the nature of personal terms in God, since the divine
+persons are distinguished by origin (Q. XXVII, Introd.; Q. XXXII, A. 3). Hence
+the term "Word," according as we use the term properly of God, is to be
+taken as said not essentially, but personally only.
+Reply Obj. 1. The Arians, who sprang from Origen, 21 declared that the Son
+differed in substance from the Father. Hence, they endeavored to maintain
+that when the Son of God is called the Word, this is not to be understood
+in a strict sense; lest the idea of the Word proceeding should compel them
+to confess that the Son of God is of the same substance as the Father. For
+the interior word proceeds in such a manner from the one who pronounces
+it, as to remain within him. But supposing Word to be said metaphorically
+of God, we must still admit Word in its strict sense. For if a thing be called
+a word metaphorically, this can only be by reason of some manifestation;
+either it makes something manifest as a word, or it is manifested by a
+word. If manifested by a word, there must exist a word whereby it is
+manifested. If it is called a word because it exteriorly manifests, what it
+exteriorly manifests cannot be called word except in as far as it signifies
+the interior concept of the mind, which anyone may also manifest by
+exterior signs. Therefore, although Word may be sometimes said of God
+metaphorically, nevertheless we must also admit Word in the proper sense,
+and which is said personally.
+
+19
+   PG 94, 857.
+20
+   PL 42, 1071.
+21
+   In Joann., II (PG 14, 109).
+Reply Obj. 2. Nothing belonging to the intellect can be applied to God
+personally, except word alone; for word alone signifies that which emanates
+from another. For what the intellect forms in its conception is the word.
+Now, the intellect itself, according as it is made actual by the intelligible
+species, is considered absolutely; likewise the act of understanding which is
+to the actual intellect what existence is to actual being; since the act of
+understanding does not signify an act going out from the intelligent agent,
+but an act remaining in the agent. Therefore when we say that word is
+knowledge, the term knowledge does not mean the act of a knowing
+intellect, or any one of its habits, but stands for what the intellect
+conceives by knowing. Hence also Augustine says (De Trin. vii, 2)22 that the
+Word is "begotten wisdom;" for it is nothing but the concept of the Wise
+One; and in the same way It can be called "begotten knowledge." Thus can
+also be explained how "to speak" is in God "to see by thought," forasmuch
+as the Word is conceived by the gaze of the divine thought. Still the term
+"thought" does not properly apply to the Word of God. For Augustine says
+(De Trin. xv, 16):23 "Therefore do we speak of the Word of God, and not of
+the Thought of God, lest we believe that in God there is something
+unstable, now assuming the form of Word, now putting off that form and
+remaining latent and as it were formless." For thought consists properly in
+the search after the truth, and this has no place in God. But when the
+intellect attains to the form of truth, it does not think, but perfectly
+contemplates the truth. Hence Anselm (loc. cit.) takes "thought" in an
+improper sense for "contemplation."
+Reply Obj. 3. As, properly speaking, Word in God is said personally, and not
+essentially, so likewise is to "speak." Hence, as the Word is not common to
+the Father, Son and Holy Ghost, so it is not true that the Father, Son, and
+Holy Ghost are one speaker. So Augustine says (De Trin. vii, 1): 24 "He who
+speaks in that co-eternal Word is understood as not alone in God, but as
+being with that very Word, without which, forsooth, He would not be
+speaking." On the other hand, "to be spoken" belongs to each Person, for
+not only is the word spoken, but also the thing understood or signified by
+the word. Therefore in this manner to one person alone in God does it
+belong to be spoken in the same way as a word is spoken; whereas in the
+way whereby a thing is spoken as being understood in the word, it belongs
+to each Person to be spoken. For the Father, by understanding Himself, the
+Son and the Holy Ghost, and all other things comprised in this knowledge,
+conceives the Word; so that thus the whole Trinity is "spoken" in the Word;
+and likewise also all creatures: as the intellect of a man by the word he
+conceives in the act of understanding a stone, speaks a stone. Anselm took
+
+22
+   PL 42, 936.
+23
+   PL 42, 1079.
+24
+   PL 42, 933.
+the term "speak" improperly for the act of understanding; whereas they
+really differ from each other; for "to understand" means only the habitude
+of the intelligent agent to the thing understood, in which habitude no trace
+of origin is conveyed, but only a certain information of our intellect;
+forasmuch as our intellect is made actual by the form of the thing
+understood. In God, however, it means complete identity, because in God
+the intellect and the thing understood are altogether the same, as was
+proved above (Q. XIV, AA. 2, 4). Whereas to "speak" means chiefly the
+habitude to the word conceived; for "to speak" is nothing but to utter a
+word. But by means of the word it imports a habitude to the thing
+understood which in the word uttered is manifested to the one who
+understands. Thus, only the Person who utters the Word is "speaker" in
+God, although each Person understands and is understood, and
+consequently is spoken by the Word.
+Reply Obj. 4. The term "word" is there taken figuratively, as the thing
+signified or effected by word is called word. For thus creatures are said to
+do the word of God, as executing any effect to which they are ordained by
+the word conceived of the divine wisdom; just as anyone is said to do the
+word of the king when he does the work to which he is appointed by the
+king's word.
+Article 2. Whether “Word” Is Proper Name of the Son?
+We proceed thus to the Second Article: It would seem that Word is not the
+proper name of the Son.
+Objection 1. For the Son is a subsisting person in God. But word does not
+signify a subsisting thing, as appears in ourselves. Therefore word cannot be
+the proper name of the person of the Son.
+Obj. 2. Further, the word proceeds from the speaker by being uttered.
+Therefore if the Son is properly the word, He proceeds from the Father by
+way only of utterance, which is the heresy of Valentine, as appears from
+Augustine (De Hœres. xi).25
+Obj. 3. Further,every proper name of a person signifies some property of
+that person. Therefore, if the Word is the Son’s proper name, it signifies
+some property of His; and thus there will be several more properties in God
+than those above mentioned.
+Obj. 4. Further, Whoever understands conceives a word in the act of
+understanding. But the Son understands. Therefore some word belongs to
+the Son, and consequently to be Word is not proper to the Son.
+Obj. 5. Further, it is said of the Son (Heb. 1. 3): Bearing all things by the word
+of His power, from which Basil infers (Cont. Eunom. V, II)26 that the Holy
+Ghost is the Son’s Word. Therefore to be Word is not proper to the Son.
+
+
+25
+     PL 42, 28.
+26
+     PG 29, 732.
+On the contrary, Augustine says (De Trin. vi. 2):27 “By Word we understand
+the Son alone.”
+I answer that, Word, said of God in its proper sense, is used personally, and
+is the proper name of the person of the Son. For it signifies an emanation
+of the intellect: and the person Who proceeds in God, by way of emanation
+of the intellect is called the Son; and this procession is called generation,
+as we have shown above (Q. XXVII, A. 2). Hence it follows that the Son alone
+is properly called Word in God.
+Reply Obj. 1. To be and to understand are not the same in us. Hence that
+which in us has intelligible being does not belong to our nature. But in God
+to be and to understand are one and the same; hence the Word of God is
+not an accident in Him, or an effect of His, but belongs to His very nature.
+And therefore it must be something subsistent, for whatever is in the
+nature of God subsusts; and so Damascene says (De Fide Orthod. i, 18)28
+that “the Word of God is substantial and has a hypostatic being; but other
+words [as our own] are powers of the soul.”
+Reply Obj. 2. The error of Valentine was condemned, not, as the Arians
+pretended, because he asserted that the Son was born by being uttered, as
+Hilary relates (De Trin. vi),29 but on account of the different mode of
+utterance proposed by its author, as appears from Augustine (De Hœres,
+loc, cit.).
+Reply Obj. 3. In the term Word the same property is signified as in the name
+Son. Hence Augustine says (De Trin. vii, 2):30 “Word and Son express the
+same.” For the Son’s nativity, which is His personal property, is signified by
+different names which are attributed to the Son to express His perfection in
+various ways. To show that He is of the same nature as the Father, He is
+called the Son; to show that He is coeternal, He is called the Splendour; to
+show that He is altogether like, He is calledd the Image; to show that He is
+begotten immaterially, He is called the Word. All these truths cannot be
+expressed by only one name.
+Reply Obj. 4. To be intelligent belongs to the Son in the same way as it
+belongs to Him to be God, since to understand is said of God essentially, as
+stated above, (A. 1, ANS. 2, 3). Now the Son is God begotten, and not God
+begetting; and hence He is intelligent not as producing a Word, but as the
+Word proceeding, because in God the Word proceeding does not differ
+really from the divine intellect, but is distinguished from the principle of
+the Word only by relation.
+Reply Obj. 5. When it is said of the Son, “Bearing all things by the word of
+His power,” word is taken figuratively for the effect of the Word. Hence a
+
+27
+   PL 42, 925.
+28
+   Chap. 13 (PG 94, 857).
+29
+   PL 10, 162.
+30
+   PL 42, 936.
+gloss says31 that “word” is here taken to mean command, since by the
+effect of the power of the Word things are kept in being, as also by the
+effect of the power of the Word things are brought into being. Basil speaks
+improperly and figuratively in applying Word to the Holy Ghost, in the sense
+that everything that makes a person known may be called his word, and so
+in that way the Holy Ghost may be called the Son’s Word, because He
+manifests the Son.
+
+Summa Theologica, PART I, Q 108, A 5, ANS and REP 1 555d-558b
+Article 5. Whether The Orders of the Angels Are Properly Named?
+We proceed thus to the Fifth Article: It would seem that the orders of the
+angels are not properly named.
+Objection 1. For all the heavenly spirits are called Angels and Virtues
+heavenly powers.32 But common names should not be appropriated to
+individuals. Therefore the orders of the Angels and Virtues are ineptly
+named.
+Obj. 2. Further, it is proper to God alone to be Lord, according to the words,
+Know ye that the Lord He is God (Ps. 99. 3). Therefore one order of the
+heavenly spirits is not properly called Dominations.
+Obj. 3. Further, the name Domination seems to imply government, and
+likewise the names Principalities and Powers. Therefore these three names
+do not seem to be properly applied to three orders.
+Obj. 4. Further, archangels are as it were princes of the angels. Therefore
+this name ought not to be given to any other order than to the
+Principalities.
+Obj. 5. Further, the name Seraphim is derived from ardour, which pertains to
+charity, and the name Cherubim from knowledge. But charity and
+knowledge are gifts common to all the angels. Therefore they ought not to
+be names of any particular orders.
+Obj. 6. Further, Thrones are seats. But from the fact that God knows and
+loves the rational creature He is said to sit within it. Therefore there ought
+not to be any order of Thrones besides the Cherubim and Seraphim.
+Therefore it appears that the orders of angels are not properly named.
+On the contrary, is the authority of Holy Scripture wherein they are so
+named. For the name Seraphim is found in Isaias 6. 2; the name Cherubim
+in Ezechiel I. (cf. 10. 15, 20); Thrones in Colossians 1. 16; Dominations,
+Virtues, Powers, and Principalities are mentioned in Ephesians 1. 21; the
+name Archangels in the canonical epistle of St. Jude (9), and the name
+Angels is found in many places of Scripture.
+
+
+
+31
+     Glossa interl., on Heb. 1. 3 (VI, 1341); Glossa Lombardi, on Heb. 1. 3 (PL 192, 406).
+32
+     Dionysius, Cœl. Hier., 5 (PG 3, 196).
+I answer that, As Dionysius says (Cœl. Hier. vii),33 in the names of the angelic
+orders it is necessary to observe that “the proper name of each order
+expresses its property.” Now to see what is the property of each order, we
+must consider that in ordered things something may be found in a threefold
+manner: by way of property, by way of excess, and by way of participation. A
+thing is said to be in another by way of property if it is adequate and
+proportionate to its nature; by excess when an attribute is less than that to
+which it is attributed, but is possessed thereby in an eminent manner, as
+we have stated (Q XIII, A. 2) concerning all the names which are attributed
+to God; by participation, when an attribute is possessed by something not
+fully but partially—thus holy men are called gods by participation.
+Therefore, if anything is to be called by a name designating its property, it
+ought not to be named from what it participates imperfectly, nor from that
+which it possesses in excess, but from that which is equal to it. For
+instance, when we wish properly to name a man, we should call him a
+rational substance, but not an intellectual substance, which is the proper
+name of an angel, because simple intelligence belongs to an angel as a
+property, and to man by participation. Nor do we call him a sensible
+substance, which is the proper name of a brute animal; because sense is
+less than the property of a man, and belongs to man in a more excellent
+way than to other animals.
+So we must consider that in the angelic orders all spiritual perfections are
+common to all the angels, and that they are all more abundantly in the
+superior than in the inferior angels. Further, as in these perfections there
+are grades, the superior perfection belongs to the superior order as its
+property, but to the inferior by participation. And conversely the inferior
+perfection belongs to the inferior order as its property, and to the superior
+by way of excess. And thus the superior order is named from the superior
+perfection.
+So in this way Dionysius (Cœl. Hier. vii)34 explains the names of the orders
+accordingly as they befit the spiritual perfections they signify. Gregory, on
+the other hand, in expounding these names (Hom. xxxiv in Evang.)35 seems
+to regard more the exterior ministrations. For he says that "angels are
+called so as announcing the least things; and the archangels in the
+greatest; by the virtues miracles are wrought; by the powers hostile powers
+are repulsed; and the principalities preside over the good spirits
+themselves."
+Reply Obj. 1. Angel means messenger. So all the heavenly spirits, so far as
+they make known Divine things, are called angels. But the superior angels
+enjoy a certain excellence, as regards this manifestation, from which the
+
+33
+   Sect. I (PG 3, 205).
+34
+   Sect. I (PG 3, 205). Cf. Also, Chap. VIII, I; IX, I (PG 2, 237, 257).
+35
+   PL 76, 1250.
+superior orders are named. The lowest order of angels possess no
+excellence above the common manifestation, and therefore it is named
+from manifestation only; and thus the common name remains as it were
+proper to the lowest order, as Dionysius says (Cœl. Hier. v).36 Or we may say
+that the lowest order can be specially called the order of Angels because
+they announce things to us immediately.
+Virtue can be taken in two ways. First, commonly, considered as the
+medium between the essence and the operation, and in that sense all the
+heavenly spirits are called heavenly Virtues, as also "heavenly essences." 37
+Secondly, as, meaning a certain excellence of strength; and thus it is the
+proper name of an angelic order. Hence Dionysius says (Cœl. Hier. viii)38 that
+“the name 'virtues' signifies a certain virile and immovable strength,” first, in
+regard of all those Divine operations which befit them, secondly, in regard
+to receiving Divine gifts. Thus it signifies that they undertake fearlessly the
+Divine behests appointed to them; and this seems to imply strength of
+mind.
+Reply Obj. 2. As Dionysius says (Div. Nom. xii):39 “Dominion is attributed to
+God in a special manner, by way of excess: but the Divine word gives the
+more illustrious heavenly princes the name of Lord by participation, through
+whom the inferior angels receive the Divine gifts.” Hence Dionysius also
+states (Cœl. Hier. viii)40 that “the name Domination means first a certain
+liberty, free from servile condition and common subjection, such as that of
+plebeians, and from tyrannical oppression, endured sometimes even by the
+great. Secondly, it signifies a certain rigid and inflexible supremacy which
+does not bend to any servile act, or to the act of those who are subject to
+or oppressed by tyrants. Thirdly, it signifies the desire and participation of
+the true dominion which belongs to God.” Likewise the name of each order
+signifies the participation of what belongs to God, as the name Virtues
+signifies the participation of the Divine virtue; and the same principle
+applies to the rest.
+Reply Obj. 3. The names Domination, Power, and Principality belong to
+government in different ways. The place of a lord is only to prescribe what
+is to be done. So Gregory says (In Evang. II, hom. xxxiv),41 that "some
+companies of the angels, because others are subject in obedience to them,
+are called dominations." The name Power points out a kind of order,
+according to what the Apostle says, He that resisteth the power, resisteth
+the ordination of God (Rom. 13. 2). And so Dionysius says (Cœl. Hier. viii)42
+
+36
+   PG 3, 196.
+37
+   Dionysius, Cœl. Hier., 5 (PG 3, 196).
+38
+   Sect. 1 (PG 3, 237).
+39
+   Sect. 2 (PG 3, 969;) sect. 4 (PG 3, 972).
+40
+   Sect. 1 (PG 3, 237).
+41
+   PL 76, 1251.
+42
+   Sect. 1 (PG 3, 240).
+that the name Power signifies a kind of ordination both as regards the
+reception of Divine things, and as regards the Divine actions performed by
+superiors towards inferiors by leading them to things above. Therefore, to
+the order of Powers it belongs to regulate what is to be done by those who
+are subject to them. “To preside (principari),” as Gregory says (loc. cit.) “is to
+be first among others,” as being first in carrying out what is ordered to be
+done. And so Dionysius says (Cœl. Hier. ix)43 that the name of Principalities
+signifies one who leads in a sacred order. For those who lead others, being
+first among them, are properly called princes, according to the words,
+Princes went before joined with singers (Ps. 67. 26).
+Reply Obj. 4. The Archangels, according to Dionysius (Cœl. Hier. ix),44 are
+between the Principalities and the Angels. A medium compared to one
+extreme seems like the other, as participating in the nature of both
+extremes; thus tepid seems cold compared to hot, and hot compared to
+cold. So the Archangels are called the angel princes, because they are
+princes as regards the Angels, and angels as regards the Principalities. But
+according to Gregory (loc. cit.) they are called “Archangels, because they
+preside over the one order of the Angels, announcing as it were, greater
+things. And the Principalities are called so as presiding over all the heavenly
+Virtues who fulfil the Divine commands.”
+Reply Obj. 5. The name Seraphim does not come from charity only, but from
+the excess of charity, expressed by the word ardor or fire. Hence Dionysius
+(Cœl. Hier. vii)45 expounds the name Seraphim according to the properties
+of fire, containing an excess of heat. Now in fire we may consider three
+things. First, the movement which is upwards and continuous. This signifies
+that they are borne inflexibly towards God. Secondly, the active force which
+is heat, which is not found in fire absolutely, but exists with a certain
+acuity, as being of most penetrating action, and reaching even to the
+smallest things, and as it were, with superabundant fervour. And by this is
+signified the action of these angels, exercised powerfully upon those who
+are subject to them, rousing them to a like fervour, and cleansing them
+wholly by their heat. Thirdly, we consider in fire its brightness, which
+signifies that these angels have in themselves an inextinguishable light, and
+that they also perfectly enlighten others.
+In the same way the name Cherubim comes from a certain excess of
+knowledge; hence it is interpreted fulness of knowledge. Dionysius (Cœl.
+Hier. vii)46 expounds this in regard to four things: the perfect vision of God;
+the full reception of the Divine Light; their contemplation in God of the
+
+
+43
+   Sect. 1 (PG 3, 257).
+44
+   Ibid.
+45
+   Sect. 1 (PG 3, 205).
+46
+   Ibid.
+beauty of the Divine order; and in regard to the fact that possessing this
+knowledge fully, they pour it forth copiously upon others.
+Reply Obj. 6. The order of the Thrones excels the inferior orders as having
+an immediate knowledge of the types of the Divine works. But the
+Cherubim have the excellence of knowledge and the Seraphim the
+excellence of ardour. And although these two excellent attributes include
+the third, yet the gift belonging to the Thrones does not include the other
+two; and so the order of the Thrones is distinguished from the orders of the
+Cherubim and the Seraphim. For it is a common rule in all things that the
+excellence of the inferior is contained in the superior, but not conversely.
+But Dionysius (ibid.) explains the name Thrones by its relation to material
+seats, in which we may consider four things. First, the site; because seats
+are raised above the earth, and so the angels who are called Thrones are
+raised up to the immediate knowledge of the types of things in God.
+Secondly, because in material seats is displayed strength, since a person
+sits firmly on them. But here the reverse is the case, for the angels
+themselves are made firm by God. Thirdly, because the seat receives him
+who sits there, and he can be carried upon it; and so the angels receive
+God in themselves, and in a certain way bear Him to the inferior creatures.
+Fourthly, because in its shape, a seat is open on one side to receive the
+sitter; and thus are the angels promptly open to receive God and to serve
+Him.
+
+
+20 AQUINAS: Summa Theologica, PART II-II, Q 9, A 2, ANS
+424b-425a
+Article 2. Whether the Gift of Knowledge Is About Divine Things?
+We proceed thus to the Second Article: It seems that the gift of knowledge
+is about Divine things.
+Objection 1. For Augustine says (De Trin. xiv, I)47 that “knowledge begets,
+nourishes and strengthens faith.” Now faith is about Divine things, because
+its object is the First Truth, as stated above (Q. I, A. 1). Therefore the gift of
+knowledge also is about Divine things.
+Obj. 2. Further, The gift of knowledge is more excellent than acquired
+knowledge. But there is an acquired knowledge about Divine things, for
+instance, the science of metaphysics. Much more therefore is the gift of
+knowledge about Divine things.
+Obj. 3. Further, According to Rom. 1. 20, the invisible things of God … are
+clearly seen, being understood by the things that are made. If therefore
+there is knowledge about created things, it seems that there is also
+knowledge of Divine things.
+
+47
+     PL 42, 1037.
+On the contrary, Augustine says48: “The knowledge of Divine things may be
+properly called wisdom, and the knowledge of human affairs may properly
+receive the name of knowledge.”
+I answer that, A sure judgment about a thing is formed chiefly from its
+cause, and so the order of judgments should be according to the order of
+causes. For just as the first cause is the cause of the second, so ought the
+judgment about a second cause be formed through the first cause. Nor is it
+possible to judge of the first cause through any other cause. Therefore the
+judgment which is formed through the first cause is the first and most
+perfect judgment.
+Now in those things where we find something most perfect, the common
+name of the genus is appropriated for those things which fall short of the
+most perfect, and some special name is adapted to the most perfect thing,
+as is the case in Logic. For in the genus of convertible terms, that which
+signifies “what a thing is,” is given the special name of “definition,” but the
+convertible terms which fall short of this, retain the common name, and are
+called “proper” terms.
+Accordingly, since the word knowledge implies certitude of judgment, as
+stated above (A. 1, Reply 1), if this certitude of the judgment is derived from
+the highest cause, the knowledge has a special name, which is wisdom. For
+a wise man in any branch of knowledge is one who knows the highest
+cause of that kind of knowledge, and is able to judge of all matters by that
+cause; and a wise man absolutely, is one who knows the cause which is
+absolutely highest, namely God. Hence the knowledge of Divine things is
+called wisdom, while the knowledge of human things is called knowledge
+(scientia), this being the common name denoting certitude of judgment, and
+appropriated to the judgment which is formed through second causes.
+Accordingly, if we take knowledge in this way, it is a distinct gift from the
+gift of wisdom, so that the gift of knowledge is only about human or
+created things.
+Reply Obj. 1. Although matters of faith are Divine and eternal, yet faith itself
+is something temporal in the mind of the believer. Hence to know what one
+ought to believe, pertains to the gift of knowledge, but to know in
+themselves the very things we believe, by a kind of union with them,
+pertains to the gift of wisdom. Therefore the gift of wisdom corresponds
+more to charity which unites man’s mind to God.
+Reply Obj. 2. This argument takes knowledge in the generic acceptation of
+the term. It is not thus that knowledge is a special gift, but according as it
+is restricted to judgments formed through created things.
+Reply Obj. 3. As stated above (Q. I, A. 1), every cognitive habit regards
+formally the means through which things are known, and materially, the
+
+48
+     Ibid.
+things that are known through the means. And since that which is formal is
+of most account, it follows that those sciences which draw conclusions
+about physical matter (materia naturalis) from mathematical principles, are
+counted rather among the mathematical sciences as being more like to
+them, though as to their matter they have more in common with the
+natural sciences; and for this reason it is stated in the Pphysics49 that they
+are “more akin to physics (magis naturales).” Accordingly, since man knows
+God through His creatures, this seems to pertain to knowledge, to which it
+belongs formally, rather than to wisdom, to which it belongs materially;
+and, conversely, when we judge of creatures according to Divine things, this
+pertains to wisdom rather than to knowledge.
+
+
+22 CHAUCER: Second Nun's Prologue [15,553-587] 462b-463a
+Or elles Cecile, as I writen finde,
+Is joyned, by a maner conjoininge
+Of “hevene” and “Lia”; and heer, in figuringe,
+The “heven” is set for thought of holinesse,
+And “Lia” for hir lasting bisinesse.
+
+Cecile may eek be seyd in this manere,
+“Wanting of blindnesse,” for hir grete light
+Of sapience, and for hir thewes clere;
+Or elles, lo! this maydens name bright
+Of “hevene” and “leos” comth, for which by right
+Men mighte hir wel “the heven of peple” calle,
+Ensample of gode and wyse werkes alle.
+
+For “leos” “peple” in English is to seye,
+And right as men may in the hevene see
+The sonne and mone and sterres every weye,
+Right so men gostly, in this mayden free,
+Seyen of feith the magnanimitee,
+And eek the cleernesse hool of sapience,
+And sondry werkes, brighte of excellence.
+
+And right so as thise philosophres wryte
+That heven is swift and round and eek brenninge,
+Right so was fayre Cecilie the whyte
+Ful swift and bisy ever in good werkinge,
+And round and hool in good perseveringe,
+And brenning ever in charitee ful brighte;
+49
+     Aristotle, II, 2 (194a7).
+Now have I yow declared what she highte.
+
+
+23 HOBBES: Leviathan, PART I, 55b-c
+To these uses, there are also four correspondent abuses. First, when men
+register their thoughts wrong by the inconstancy of the signification of their
+words; by which they register for their conceptions that which they never
+conceived, and so deceive themselves. Secondly, when they use words
+metaphorically; that is, in other sense than that they are ordained for, and
+thereby deceive others. Thirdly, when by words they declare that to be their
+will which is not. Fourthly, when they use them to grieve one another: for
+seeing nature hath armed living creatures, some with teeth, some with
+horns, and some with hands, to grieve an enemy, it is but an abuse of
+speech to grieve him with the tongue, unless it be one whom we are
+obliged to govern; and then it is not to grieve, but to correct and amend.
+The manner how speech serveth to the remembrance of the consequence
+of causes and effects consisteth in the imposing of names, and the
+connexion of them.
+Of names, some are proper, and singular to one only thing; as Peter, John,
+this man, this tree: and some are common to many things; as man, horse,
+tree; every of which, though but one name, is nevertheless the name of
+diverse particular things; in respect of all which together, it is called an
+universal, there being nothing in the world universal but names; for the
+things named are every one of them individual and singular.
+One universal name is imposed on many things for their similitude in some
+quality, or other accident: and whereas a proper name bringeth to mind one
+thing only, universals recall any one of those many.
+And of names universal, some are of more and some of less extent, the
+larger comprehending the less large; and some again of equal extent,
+comprehending each other reciprocally. As for example, the name body is of
+larger signification than the word man, and comprehendeth it; and the
+names man and rational are of equal extent, comprehending mutually one
+another. But here we must take notice that by a name is not always
+understood, as in grammar, one only word, but sometimes by
+circumlocution many words together. For all these words, He that in his
+actions observeth the laws of his country, make but one name, equivalent to
+this one word, just.
+35 LOCKE: Human Understanding, BK I, CH I, SECT 15 98d-99a;
+BK II, CH XI, SECT 9 145b-c; BK III, CH I, SECT 3 251d-252a; CH III,
+SECT 1-9 254d-256c; SECT 11-12 257a-c; CH VI, SECT 42 280b-c
+Human Understanding, BK I, CH I, SECT 15 98d-99a
+15. The steps by which the mind attains several truths. The senses at first let
+in particular ideas, and furnish the yet empty cabinet, and the mind by
+degrees growing familiar with some of them, they are lodged in the memory,
+and names got to them. Afterwards, the mind proceeding further, abstracts
+them, and by degrees learns the use of general names. In this manner the
+mind comes to be furnished with ideas and language, the materials about
+which to exercise its discursive faculty. And the use of reason becomes
+daily more visible, as these materials that give it employment increase. But
+though the having of general ideas and the use of general words and reason
+usually grow together, yet I see not how this any way proves them innate.
+The knowledge of some truths, I confess, is very early in the mind but in a
+way that shows them not to be innate. For, if we will observe, we shall find
+it still to be about ideas, not innate, but acquired; it being about those first
+which are imprinted by external things, with which infants have earliest to
+do, which make the most frequent impressions on their senses. In ideas
+thus got, the mind discovers that some agree and others differ, probably as
+soon as it has any use of memory; as soon as it is able to retain and
+perceive distinct ideas. But whether it be then or no, this is certain, it does
+so long before it has the use of words; or comes to that which we
+commonly call "the use of reason." For a child knows as certainly before it
+can speak the difference between the ideas of sweet and bitter (i.e. that
+sweet is not bitter), as it knows afterwards (when it comes to speak) that
+wormwood and sugarplums are not the same thing.
+
+Human Understanding, BK II, CH XI, SECT 9 145b-c
+9. Abstraction. The use of words then being to stand as outward marks of
+our internal ideas, and those ideas being taken from particular things, if
+every particular idea that we take in should have a distinct name, names
+must be endless. To prevent this, the mind makes the particular ideas
+received from particular objects to become general; which is done by
+considering them as they are in the mind such appearances,— separate
+from all other existences, and the circumstances of real existence, as time,
+place, or any other concomitant ideas. 50 This is called ABSTRACTION,51
+whereby ideas taken from particular beings become general representatives
+of all of the same kind; and their names general names, applicable to
+whatever exists conformable to such abstract ideas. Such precise, naked
+50
+     Cf. Bk. IV. ch. xvii. § 8.
+51
+     Cf. Bk. III. ch. iii. § 6; Bk. IV. ch. vii. § 9.
+appearances in the mind, without considering how, whence, or with what
+others they came there, the understanding lays up (with names commonly
+annexed to them) as the standards to rank real existences into sorts, as
+they agree with these patterns, and to denominate them accordingly. Thus
+the same colour being observed to-day in chalk or snow, which the mind
+yesterday received from milk, it considers that appearance alone, makes it
+a representative of all of that kind; and having given it the name whiteness,
+it by that sound signifies the same quality wheresoever to be imagined or
+met with; and thus universals, whether ideas or terms, are made.
+
+Human Understanding, BK III, CH I, SECT 3 251d-252a
+3. To make them general signs. But neither was this sufficient to make
+words so useful as they ought to be. It is not enough for the perfection of
+language, that sounds can be made signs of ideas, unless those signs can
+be so made use of as to comprehend several particular things: for the
+multiplication of words would have perplexed their use, had every particular
+thing need of a distinct name to be signified by. To remedy this
+inconvenience, language had yet a further improvement in the use of
+general terms, whereby one word was made to mark a multitude of
+particular existences: which advantageous use of sounds was obtained only
+by the difference of the ideas they were made signs of: those names
+becoming general, which are made to stand for general ideas, and those
+remaining particular, where the ideas they are used for are particular.
+
+Human Understanding, BK III, CH III, SECT 1-9 254d-256c
+1. The greatest part of words are general terms . All things that exist being
+particulars, it may perhaps be thought reasonable that words, which ought
+to be conformed to things, should be so too,- I mean in their signification:
+but yet we find quite the contrary. The far greatest part of words that make
+all languages are general terms: which has not been the effect of neglect or
+chance, but of reason and necessity.
+2. That every particular thing should have a name for itself is impossible.
+First, It is impossible that every particular thing should have a distinct
+peculiar name. For, the signification and use of words depending on that
+connexion which the mind makes between its ideas and the sounds it uses
+as signs of them, it is necessary, in the application of names to things, that
+the mind should have distinct ideas of the things, and retain also the
+particular name that belongs to every one, with its peculiar appropriation to
+that idea. But it is beyond the power of human capacity to frame and retain
+distinct ideas of all the particular things we meet with: every bird and beast
+men saw; every tree and plant that affected the senses, could not find a
+place in the most capacious understanding. If it be looked on as an
+instance of a prodigious memory, that some generals have been able to call
+every soldier in their army by his proper name, we may easily find a reason
+why men have never attempted to give names to each sheep in their flock,
+or crow that flies over their heads; much less to call every leaf of plants, or
+grain of sand that came in their way, by a peculiar name.
+3. And would be useless, if it were possible. Secondly, If it were possible, it
+would yet be useless; because it would not serve to the chief end of
+language. Men would in vain heap up names of particular things, that would
+not serve them to communicate their thoughts. Men learn names, and use
+them in talk with others, only that they may be understood: which is then
+only done when, by use or consent, the sound I make by the organs of
+speech, excites in another man's mind who hears it, the idea I apply it to in
+mine, when I speak it. This cannot be done by names applied to particular
+things; whereof I alone having the ideas in my mind, the names of them
+could not be significant or intelligible to another, who was not acquainted
+with all those very particular things which had fallen under my notice.
+4. A distinct name for every particular thing, not fitted for enlargement of
+knowledge. Thirdly, But yet, granting this also feasible, (which I think is not),
+yet a distinct name for every particular thing would not be of any great use
+for the improvement of knowledge: which, though founded in particular
+things, enlarges itself by general views; to which things reduced into sorts,
+under general names, are properly subservient. These, with the names
+belonging to them, come within some compass, and do not multiply every
+moment, beyond what either the mind can contain, or use requires. And
+therefore, in these, men have for the most part stopped: but yet not so as
+to hinder themselves from distinguishing particular things by appropriated
+names, where convenience demands it. And therefore in their own species,
+which they have most to do with, and wherein they have often occasion to
+mention particular persons, they make use of proper names; and there
+distinct individuals have distinct denominations.
+5. What things have proper names, and why. Besides persons, countries
+also, cities, rivers, mountains, and other the like distinctions of place have
+usually found peculiar names, and that for the same reason; they being
+such as men have often an occasion to mark particularly, and, as it were,
+set before others in their discourses with them. And I doubt not but, if we
+had reason to mention particular horses as often as we have to mention
+particular men, we should have proper names for the one, as familiar as for
+the other, and Bucephalus would be a word as much in use as Alexander.
+And therefore we see that, amongst jockeys, horses have their proper
+names to be known and distinguished by, as commonly as their servants:
+because, amongst them, there is often occasion to mention this or that
+particular horse when he is out of sight.
+6. How general words are made. The next thing to be considered is, — How
+general words come to be made. For, since all things that exist are only
+particulars,52 how come we by general terms; or where find we those
+general natures they are supposed to stand for? WoWords become general
+by being made the signs of general ideas: and ideas become general, by
+separating from them the circumstances of time and place, and any other
+ideas that may determine them to this or that particular existence. By this
+way of abstraction they are made capable of representing more individuals
+than one; each of which having in it a conformity to that abstract idea, 53 is
+(as we call it) of that sort.
+7. Show by the way we enlarge our complex ideas from infancy. But, to
+deduce this a little more distinctly, it will not perhaps be amiss to trace our
+notions and names from their beginning, and observe by what degrees we
+proceed, and by what steps we enlarge our ideas from our first infancy.
+There is nothing more evident, than that the ideas of the persons children
+converse with (to instance in them alone) are, like the persons themselves,
+only particular. The ideas of the nurse and the mother are well framed in
+their minds; and, like pictures of them there, represent only those
+individuals. The names they first gave to them are confined to these
+individuals; and the names of nurse and mamma, the child uses, determine
+themselves to those persons. Afterwards, when time and a larger
+acquaintance have made them observe that there are a great many other
+things in the world, that in some common agreements of shape, and several
+other qualities, resemble their father and mother, and those persons they
+have been used to, they frame an idea, which they find those many
+particulars do partake in; and to that they give, with others, the name man,
+for example. And thus they come to have a general name, and a general
+idea. Wherein they make nothing new; but only leave out of the complex
+idea they had of Peter and James, Mary and Jane, that which is peculiar to
+each, and retain only what is common to them all.
+8. And further enlarge our complex ideas, by still leaving out properties
+contained in them. By the same way that they come by the general name
+and idea of man, they easily advance to more general names and notions.
+For, observing that several things that differ from their idea of man, and
+cannot therefore be comprehended under that name, have yet certain
+qualities wherein they agree with man, by retaining only those qualities, and
+uniting them into one idea, they have again another and more general
+idea;to which having given a name they make a term of a more
+comprehensive extension: which new idea is made, not by any new
+addition, but only as before, by leaving out the shape, and some other
+properties signified by the name man, and retaining only a body, with life,
+sense, and spontaneous motion, comprehended under the name animal.
+
+
+52
+     Bk. II. ch. xi. §§ 10, 11; Bk. IV. ch. vii. § 9.
+53
+     Cf. Berkeley, Principles of Human Knowledge, Introd. § 16. Also cf. Bk. II. ch. xi. §§ 9, 10.
+9. General natures are nothing but abstract and partial ideas of more
+complex ones. That this is the way whereby men first formed general ideas,
+and general names to them, I think is so evident, that there needs no other
+proof of it but the considering of a man's self, or others, and the ordinary
+proceedings of their minds in knowledge. And he that thinks general
+natures or notions are anything else but such abstract and partial ideas of
+more complex ones, taken at first from particular existences, will, I fear, be
+at a loss where to find them. For let any one effect, and then tell me,
+wherein does his idea of man differ from that of Peter and Paul, or his idea
+of horse from that of Bucephalus, but in the leaving out something that is
+peculiar to each individual, and retaining so much of those particular
+complex ideas of several particular existences as they are found to agree
+in? Of the complex ideas signified by the names man and horse, leaving out
+but those particulars wherein they differ, and retaining only those wherein
+they agree, and of those making a new distinct complex idea, and giving the
+name animal to it, one has a more general term, that comprehends with
+man several other creatures. Leave out of the idea of animal, sense and
+spontaneous motion, and the remaining complex idea, made up of the
+remaining simple ones of body, life, and nourishment, becomes a more
+general one, under the more comprehensive term, vivens. And, not to dwell
+longer upon this particular, so evident in itself; by the same way the mind
+proceeds to body, substance, and at last to being, thing, and such universal
+terms, which stand for any of our ideas whatsoever. To conclude: this whole
+mystery of genera and species, which make such a noise in the schools,
+and are with justice so little regarded out of them, is nothing else but
+abstract ideas, more or less comprehensive, with names annexed to them.
+In all which this is constant and unvariable, That every more general term
+stands for such an idea, and is but a part of any of those contained under
+it.
+
+Human Understanding, BK III, CH III, SECT 11-12 257a-c
+11. General and universal are creatures of the understanding, and belong not
+to the real existence of things. To return to general words: it is plain, by
+what has been said, that general and universal belong not to the real
+existence of things; but are the inventions and creatures of the
+understanding, made by it for its own use, and concern only signs, whether
+words or ideas.54 Words are general, as has been said, when used for signs
+of general ideas, and so are applicable indifferently to many particular
+things; and ideas are general when they are set up as the representatives of
+many particular things: but universality belongs not to things themselves,
+which are all of them particular in their existence, 55 even those words and
+54
+     Cf. Bk. IV. ch. xxi. § 4.
+55
+     Cf. § 13.
+ideas which in their signification are general. When therefore we quit
+particulars, the generals that rest are only creatures of our own making;
+their general nature being nothing but the capacity they are put into, by the
+understanding, of signifying or representing many particulars. For the
+signification they have is nothing but a relation that, by the mind of man, is
+added to them.
+12. Abstract ideas are the essences of genera and species. The next thing
+therefore to be considered is, What kind of signification it is that general
+words have. For, as it is evident that they do not signify barely one
+particular thing; for then they would not be general terms, but proper
+names, so, on the other side, it is as evident they do not signify a plurality;
+for man and men would then signify the same;and the distinction of
+numbers (as the grammarians call them) would be superfluous and useless.
+That then which general wordssignify is a sort of things; and each of them
+does that, by being a sign of an abstract idea in the mind; to which idea, as
+things existing are found to agree, so they come to be ranked under that
+name, or, which is all one, be of that sort. Whereby it is evident that the
+essences of the sorts, or, if the Latin word pleases better, species of things,
+are nothing else but these abstract ideas. For the having the essence of any
+species, being that which makes anything to be of that species; and the
+conformity to the idea to which the name is annexed being that which gives
+a right to that name; the having the essence, and the having that
+conformity, must needs be the same thing: since to be of any species, and
+to have a right to the name of that species, is all one. As, for example, to
+be a man, or of the species man, and to have right to the name man, is the
+same thing. Again, to be a man, or of the species man, and have the
+essence of a man, is the same thing. Now, since nothing can be a man, or
+have a right to the name man, but what has a conformity to the abstract
+idea the name man stands for, nor anything be a man, or have a right to the
+species man, but what has the essence of that species; it follows, that the
+abstract idea for which the name stands, and the essence of the species, is
+one and the same. From whence it is easy to observe, that the essences of
+the sorts of things, and, consequently, the sorting of things, is the
+workmanship of the understanding that abstracts and makes those general
+ideas.
+
+Human Understanding, BK III, CH VI, SECT 42 280b-c
+42. Substances alone, of all our several sorts of ideas, have proper names.
+This is further to be observed concerning substances, that they alone of all
+our several sorts of ideas have particular or proper names, whereby one
+only particular thing is signified. Because in simple ideas, modes, and
+relations, it seldom happens that men have occasion to mention often this
+or that particular when it is absent. Besides, the greatest part of mixed
+modes, being actions which perish in their birth, are not capable of a
+lasting duration, as substances which are the actors; and wherein the
+simple ideas that make up the complex ideas designed by the name have a
+lasting union.
+
+
+35 BERKELEY: Human Knowledge, INTRO, SECT 11-12 407b-408b;
+SECT 15 409a-b; SECT 18-19 410a-c; SECT 122 437b-c
+Human Knowledge, INTRO, SECT 11-12 407b-408b
+11. I proceed to examine what can be alleged in defence of the doctrine of
+abstraction, and try if I can discover what it is that inclines the men of
+speculation to embrace an opinion so remote from common sense as that
+seems to be. There has been a late deservedly esteemed philosopher who,
+no doubt, has given it very much countenance, by seeming to think the
+having abstract general ideas is what puts the widest difference in point of
+understanding betwixt man and beast. "The having of general ideas," saith
+he, "is that which puts a perfect distinction betwixt man and brutes, and is
+an excellency which the faculties of brutes do by no means attain unto. For,
+it is evident we observe no foot-steps in them of making use of general
+signs for universal ideas; from which we have reason to imagine that they
+have not the faculty of abstracting, or making general ideas, since they have
+no use of words or any other general signs." And a little after: "Therefore, I
+think, we may suppose that it is in this that the species of brutes are
+discriminated from men, and it is that proper difference wherein they are
+wholly separated, and which at last widens to so wide a distance. For, if
+they have any ideas at all, and are not bare machines (as some would have
+them), we cannot deny them to have some reason. It seems as evident to
+me that they do, some of them, in certain instances reason as that they
+have sense; but it is only in particular ideas, just as they receive them from
+their senses. They are the best of them tied up within those narrow
+bounds, and have not (as I think) the faculty to enlarge them by any kind of
+abstraction." — Essay on Human Understanding, II. ii. 10 and 11. I readily
+agree with this learned author, that the faculties of brutes can by no means
+attain to abstraction. But then if this be made the distinguishing property of
+that sort of animals, I fear a great many of those that pass for men must be
+reckoned into their number. The reason that is here assigned why we have
+no grounds to think brutes have abstract general ideas is, that we observe
+in them no use of words or any other general signs; which is built on this
+supposition — that the making use of words implies the having general
+ideas. From which it follows that men who use language are able to
+abstract or generalize their ideas. That this is the sense and arguing of the
+author will further appear by his answering the question he in another
+place puts: "Since all things that exist are only particulars, how come we by
+general terms?" His answer is: "Words become general by being made the
+signs of general ideas." — Essay on Human Understanding, IV. iii. 6. But it
+seems that a word becomes general by being made the sign, not of an
+abstract general idea, but of several particular ideas, any one of which it
+indifferently suggests to the mind. For example, when it is said "the change
+of motion is proportional to the impressed force," or that "whatever has
+extension is divisible," these propositions are to be understood of motion
+and extension in general; and nevertheless it will not follow that they
+suggest to my thoughts an idea of motion without a body moved, or any
+determinate direction and velocity, or that I must conceive an abstract
+general idea of extension, which is neither line, surface, nor solid, neither
+great nor small, black, white, nor red, nor of any other determinate colour.
+It is only implied that whatever particular motion I consider, whether it be
+swift or slow, perpendicular, horizontal, or oblique, or in whatever object,
+the axiom concerning it holds equally true. As does the other of every
+particular extension, it matters not whether line, surface, or solid, whether
+of this or that magnitude or figure.
+12. By observing how ideas become general we may the better judge how
+words are made so. And here it is to be noted that I do not deny absolutely
+there are general ideas, but only that there are any abstract general ideas;
+for, in the passages we have quoted wherein there is mention of general
+ideas, it is always supposed that they are formed by abstraction, after the
+manner set forth in sections 8 and 9. Now, if we will annex a meaning to
+our words, and speak only of what we can conceive, I believe we shall
+acknowledge that an idea which, considered in itself, is particular, becomes
+general by being made to represent or stand for all other particular ideas of
+the same sort. To make this plain by an example, suppose a geometrician is
+demonstrating the method of cutting a line in two equal parts. He draws,
+for instance, a black line of an inch in length: this, which in itself is a
+particular line, is nevertheless with regard to its signification general, since,
+as it is there used, it represents all particular lines whatsoever; so that
+what is demonstrated of it is demonstrated of all lines, or, in other words,
+of a line in general. And, as that particular line becomes general by being
+made a sign, so the name "line," which taken absolutely is particular, by
+being a sign is made general. And as the former owes its generality not to
+its being the sign of an abstract or general line, but of all particular right
+lines that may possibly exist, so the latter must be thought to derive its
+generality from the same cause, namely, the various particular lines which
+it indifferently denotes.
+
+Human Knowledge, INTRO, SECT 15 409a-b
+15. Nor do I think them a whit more needful for the enlargement of
+knowledge than for communication. It is, I know, a point much insisted on,
+that all knowledge and demonstration are about universal notions, to which
+I fully agree: but then it doth not appear to me that those notions are
+formed by abstraction in the manner premised — universality, so far as I
+can comprehend, not consisting in the absolute, positive nature or
+conception of anything, but in the relation it bears to the particulars
+signified or represented by it; by virtue whereof it is that things, names, or
+notions, being in their own nature particular, are rendered universal. Thus,
+when I demonstrate any proposition concerning triangles, it is to be
+supposed that I have in view the universal idea of a triangle; which ought
+not to be understood as if I could frame an idea of a triangle which was
+neither equilateral, nor scalenon, nor equicrural; but only that the particular
+triangle I consider, whether of this or that sort it matters not, doth equally
+stand for and represent all rectilinear triangles whatsoever, and is in that
+sense universal. All which seems very plain and not to include any difficulty
+in it.
+
+Human Knowledge, INTRO, SECT 18-19 410a-c
+18. I come now to consider the source of this prevailing notion, and that
+seems to me to be language. And surely nothing of less extent than reason
+itself could have been the source of an opinion so universally received. The
+truth of this appears as from other reasons so also from the plain
+confession of the ablest patrons of abstract ideas, who acknowledge that
+they are made in order to naming; from which it is a clear consequence
+that if there had been no such things as speech or universal signs there
+never had been any thought of abstraction. See III. vi. 39, and elsewhere of
+the Essay on Human Understanding. Let us examine the manner wherein
+words have contributed to the origin of that mistake.— First then, it is
+thought that every name has, or ought to have, one only precise and settled
+signification, which inclines men to think there are certain abstract,
+determinate ideas that constitute the true and only immediate signification
+of each general name; and that it is by the mediation of these abstract
+ideas that a general name comes to signify any particular thing. Whereas, in
+truth, there is no such thing as one precise and definite signification
+annexed to any general name, they all signifying indifferently a great
+number of particular ideas. All which doth evidently follow from what has
+been already said, and will clearly appear to anyone by a little reflexion. To
+this it will be objected that every name that has a definition is thereby
+restrained to one certain signification. For example, a triangle is defined to
+be "a plain surface comprehended by three right lines," by which that name
+is limited to denote one certain idea and no other. To which I answer, that
+in the definition it is not said whether the surface be great or small, black
+or white, nor whether the sides are long or short, equal or unequal, nor
+with what angles they are inclined to each other; in all which there may be
+great variety, and consequently there is no one settled idea which limits the
+signification of the word triangle. It is one thing for to keep a name
+constantly to the same definition, and another to make it stand everywhere
+for the same idea; the one is necessary, the other useless and
+impracticable.
+19. But, to give a farther account how words came to produce the doctrine
+of abstract ideas, it must be observed that it is a received opinion that
+language has no other end but the communicating our ideas, and that every
+significant name stands for an idea. This being so, and it being withal
+certain that names which yet are not thought altogether insignificant do not
+always mark out particular conceivable ideas, it is straightway concluded
+that they stand for abstract notions. That there are many names in use
+amongst speculative men which do not always suggest to others
+determinate, particular ideas, or in truth anything at all, is what nobody will
+deny. And a little attention will discover that it is not necessary (even in the
+strictest reasonings) significant names which stand for ideas should, every
+time they are used, excite in the understanding the ideas they are made to
+stand for— in reading and discoursing, names being for the most part used
+as letters are in Algebra, in which, though a particular quantity be marked
+by each letter, yet to proceed right it is not requisite that in every step each
+letter suggest to your thoughts that particular quantity it was appointed to
+stand for.
+
+Human Knowledge, INTRO, SECT 122 437b-c
+122. In Arithmetic, therefore, we regard not the things, but the signs, which
+nevertheless are not regarded for their own sake, but because they direct
+us how to act with relation to things, and dispose rightly of them. Now,
+agreeably to what we have before observed of words in general (sect. 19,
+Introd.) it happens here likewise that abstract ideas are thought to be
+signified by numeral names or characters, while they do not suggest ideas
+of particular things to our minds. I shall not at present enter into a more
+particular dissertation on this subject, but only observe that it is evident
+from what has been said, those things which pass for abstract truths and
+theorems concerning numbers, are in reality conversant about no object
+distinct from particular numeral things, except only names and characters,
+which originally came to be considered on no other account but their being
+signs, or capable to represent aptly whatever particular things men had
+need to compute. Whence it follows that to study them for their own sake
+would be just as wise, and to as good purpose as if a man, neglecting the
+true use or original intention and subserviency of language, should spend
+his time in impertinent criticisms upon words, or reasonings and
+controversies purely verbal.
+35 HUME: Human Understanding, SECT XII, DIV 125, 507b [fn I]
+1
+ It seems to me not impossible to avoid these absurdities and
+contradictions, if it be admitted, that there is no such thing as abstract or
+general ideas, properly speaking; but that all general ideas are, in reality,
+particular ones, attached to a general term, which recalls, upon occasion,
+other particular ones, that resemble, in certain circumstances, the idea,
+present to the mind. Thus when the term Horse is pronounced, we
+immediately figure to ourselves the idea of a black or a white animal, of a
+particular size or figure: But as that term is also usually applied to animals
+of other colours, figures and sizes, these ideas, though not actually present
+to the imagination, are easily recalled; and our reasoning and conclusion
+proceed in the same way, as if they were actually present. If this be
+admitted (as seems reasonable) it follows that all the ideas of quantity,
+upon which mathematicians reason, are nothing but particular, and such as
+are suggested by the senses and imagination, and consequently, cannot be
+infinitely divisible. It is sufficient to have dropped this hint at present,
+without prosecuting it any father. It certainly concerns all lovers of science
+not to expose themselves to the ridicule and contempt of the ignorant by
+their conclusions; and this seems the readiest solution of these difficulties.
+
+
+36 STERNE: Tristram Shandy, 217b-221a; 351a-353b
+Tristram Shandy, 217b-221a
+                                   Chapter 19
+I would sooner undertake to explain the hardest problem in geometry, that
+pretend to account for it, that a gentleman of my father’s great good
+sense,—knowing, as the reader must have observed him, and curious too in
+philosophy,—wise also in political reasoning,—and in polemical (as he will
+find) no way ignorant,—could be capable of entertaining a notion in his
+head, so out of the common track,—that I fear the reader, when I come to
+mention it to him, if he is the least of a choleric temper, will immediately
+throw the book by; if mercurial, he will laugh most heartily at it;—and if he
+is of a grave and saturnine cast, he will, at first sight, absolutely condemn
+as fanciful and extravagant; and that was in respect to the choice and
+imposition of christian names, on which he thought a great deal more
+depended than what superficial minds were capable of conceiving.
+His opinion, in this matter, was, That there was a strange kind of magic bias,
+which good or bad names, as he called them, irresistibly impressed upon
+our characters and conduct.
+The hero of Cervantes argued not the point with more seriousness,—nor
+had he more faith,—or more to say on the powers of necromancy in
+dishonouring his deeds,—or on Dulcinea's name, in shedding lustre upon
+them, than my father had on those of Trismegistus or Archimedes, on the
+one hand—or of Nyky and Simkin on the other. How many Caesars and
+Pompeys, he would say, by mere inspiration of the names, have been
+rendered worthy of them? And how many, he would add, are there, who
+might have done exceeding well in the world, had not their characters and
+spirits been totally depressed and Nicodemused into nothing?
+I see plainly, Sir, by your looks, (or as the case happened) my father would
+say—that you do not heartily subscribe to this opinion of mine,—which, to
+those, he would add, who have not carefully sifted it to the bottom,—I own
+has an air more of fancy than of solid reasoning in it;—and yet, my dear Sir,
+if I may presume to know your character, I am morally assured, I should
+hazard little in stating a case to you,—not as a party in the dispute,—but as
+a judge, and trusting my appeal upon it to your own good sense and candid
+disquisition in this matter;—you are a person free from any narrow
+prejudices of education as most men;—and, if I may presume to penetrate
+farther into you,—of a liberality of genius above bearing down an opinion,
+merely because it wants friends. Your son,—your dear son,—from whose
+sweet and open temper you have so much to expect.—Your Billy, Sir!—would
+you, for the world, have called him Judas?—Would you, my dear Sir, he
+would say, laying his hand upon your breast, with the genteelest
+address,—and in that soft and irresistible piano of voice, which the nature
+of the argumentum ad hominem absolutely requires,—Would you, Sir, if a
+Jew of a godfather had proposed the name for your child, and offered you
+his purse along with it, would you have consented to such a desecration of
+him?——O my God! he would say, looking up, if I know your temper right,
+Sir,—you are incapable of it;—you would have trampled upon the offer; you
+would have thrown the temptation at the tempter's head with abhorrence.
+Your greatness of mind in this action, which I admire, with that generous
+contempt of money, which you shew me in the whole transaction, is really
+noble;—and what renders it more so, is the principle of it;—the workings of
+a parent's love upon the truth and conviction of this very hypothesis,
+namely, That was your son called Judas,—the sordid and treacherous idea,
+so inseparable from the name, would have accompanied him through life
+like his shadow, and, in the end, made a miser and a rascal of him, in spite,
+Sir, of your example.
+I never knew a man able to answer this argument.—But, indeed, to speak of
+my father as he was;—he was certainly irresistible; both in his orations and
+disputations;—he was born an orator;—Θεοσίσακτος.—Persuasion hung upon
+his lips, and the elements of Logic and Rhetoric were so blended up in
+him,—and, withal, he had so shrewd a guess at the weaknesses and
+passions of his respondent,—that Nature might have stood up and
+said,—“This man is eloquent.”—In short, whether he was on the weak or the
+strong side of the question, 'twas hazardous in either case to attack
+him.—And yet, 'tis strange he had never read Cicero, nor Quintilian de
+Oratore, nor Isocrates, nor Aristotle, nor Longinus amongst the
+antients;—nor Vossius, nor Skioppius, nor Ramus, nor Farnaby amongst the
+moderns;—and what is more astonishing, he had never in his whole life the
+least light or spark of subtlety struck into his mind, by one single lecture
+upon Crackenthorp or Burgersdicius, or any Dutch logician or
+commentator;—he knew not so much as in what the difference of an
+argument ad ignorantiam and an argument ad hominem consisted; so that I
+well remember, when he went up along with me to enter my name at Jesus
+College in ****,—it was a matter of just wonder with my worthy tutor, and
+two or three fellows of that learned society,—that a man who knew not so
+much as the names of his tools, should be able to work after that fashion
+with them.
+To work with them in the best manner he could, was what my father was,
+however, perpetually forced upon;—for he had a thousand little sceptical
+notions of the comic kind to defend—most of which notions, I verily
+believe, at first entered upon the footing of mere whims, and of a vive la
+Bagatelle; and as such he would make merry with them for half an hour or
+so, and having sharpened his wit upon them, dismiss them till another day.
+I mention this, not only as matter of hypothesis or conjecture upon the
+progress and establishment of my father's many odd opinions,—but as a
+warning to the learned reader against the indiscreet reception of such
+guests, who, after a free and undisturbed entrance, for some years, into our
+brains,—at length claim a kind of settlement there,—working sometimes like
+yeast;—but more generally after the manner of the gentle passion,
+beginning in jest,—but ending in downright earnest.
+Whether this was the case of the singularity of my father's notions—or that
+his judgment, at length, became the dupe of his wit;—or how far, in many of
+his notions, he might, though odd, be absolutely right;—the reader, as he
+comes at them, shall decide. All that I maintain here, is, that in this one, of
+the influence of christian names, however it gained footing, he was
+serious;—he was all uniformity;—he was systematical, and, like all
+systematic reasoners, he would move both heaven and earth, and twist and
+torture every thing in nature, to support his hypothesis. In a word, I repeat it
+over again;—he was serious; and, in consequence of it, he would lose all
+kind of patience whenever he saw people, especially of condition, who
+should have known better,—as careless and as indifferent about the name
+they imposed upon their child,—or more so, than in the choice of Ponto or
+Cupid for their puppy-dog.
+This, he would say, looked ill;—and had, moreover, this particular
+aggravation in it, viz., That when once a vile name was wrongfully or
+injudiciously given, 'twas not like the case of a man's character, which,
+when wronged, might hereafter be cleared;—and, possibly, some time or
+other, if not in the man's life, at least after his death,—be, somehow or
+other, set to rights with the world: But the injury of this, he would say,
+could never be undone;—nay, he doubted even whether an act of
+parliament could reach it:—He knew as well as you, that the legislature
+assumed a power over surnames;—but for very strong reasons, which he
+could give, it had never yet adventured, he would say, to go a step farther.
+It was observable, that tho' my father, in consequence of this opinion, had,
+as I have told you, the strongest likings and dislikings towards certain
+names;—that there were still numbers of names which hung so equally in
+the balance before him, that they were absolutely indifferent to him. Jack,
+Dick, and Tom were of this class: These my father called neutral
+names;—affirming of them, without a satire, That there had been as many
+knaves and fools, at least, as wise and good men, since the world began,
+who had indifferently borne them;—so that, like equal forces acting against
+each other in contrary directions, he thought they mutually destroyed each
+other's effects; for which reason, he would often declare, He would not give
+a cherry-stone to choose amongst them. Bob, which was my brother's
+name, was another of these neutral kinds of christian names, which
+operated very little either way; and as my father happened to be at Epsom,
+when it was given him,—he would ofttimes thank Heaven it was no worse.
+Andrew was something like a negative quantity in Algebra with him;—'twas
+worse, he said, than nothing.—William stood pretty high:—Numps again was
+low with him:—and Nick, he said, was the Devil.
+But, of all names in the universe, he had the most unconquerable aversion
+for Tristram;—he had the lowest and most contemptible opinion of it of any
+thing in the world,—thinking it could possibly produce nothing in rerum
+naturâ, but what was extremely mean and pitiful: So that in the midst of a
+dispute on the subject, in which, by the bye, he was frequently
+involved,—he would sometimes break off in a sudden and spirited
+Epiphonema, or rather Erotesis, raised a third, and sometimes a full fifth
+above the key of the discourse,—and demand it categorically of his
+antagonist, Whether he would take upon him to say, he had ever
+remembered,—whether he had ever read,—or even whether he had ever
+heard tell of a man, called Tristram, performing any thing great or worth
+recording?—No,—he would say,—Tristram!—The thing is impossible.
+What could be wanting in my father but to have wrote a book to publish
+this notion of his to the world? Little boots it to the subtle speculatist to
+stand single in his opinions,—unless he gives them proper vent:—It was the
+identical thing which my father did:—for in the year sixteen, which was two
+years before I was born, he was at the pains of writing an express
+Dissertation simply upon the word Tristram,—shewing the world, with great
+candour and modesty, the grounds of his great abhorrence to the name.
+When this story is compared with the title-page,—Will not the gentle reader
+pity my father from his soul?—to see an orderly and well-disposed
+gentleman, who tho' singular,—yet inoffensive in his notions,—so played
+upon in them by cross purposes;—to look down upon the stage, and see
+him baffled and overthrown in all his little systems and wishes; to behold a
+train of events perpetually falling out against him, and in so critical and
+cruel a way, as if they had purposedly been planned and pointed against
+him, merely to insult his speculations.—In a word, to behold such a one, in
+his old age, ill-fitted for troubles, ten times in a day suffering sorrow;—ten
+times in a day calling the child of his prayers Tristram!—Melancholy
+dissyllable of sound! which, to his ears, was unison to Nincompoop, and
+every name vituperative under heaven.—By his ashes! I swear it,—if ever
+malignant spirit took pleasure, or busied itself in traversing the purposes of
+mortal man,—it must have been here:—and if it was not necessary I should
+be born before I was christened, I would this moment give the reader an
+account of it.
+
+Tristram Shandy, 351a-353b
+                                   Chapter 18
+Your honour, said Trim, shutting the parlour-door before he began to speak,
+has heard, I imagine, of this unlucky accident—O yes, Trim, said my uncle
+Toby, and it gives me great concern.—I am heartily concerned too, but I
+hope your honour, replied Trim, will do me the justice to believe, that it was
+not in the least owing to me.—To thee—Trim?—cried my uncle Toby, looking
+kindly in his face—’twas Susannah’s and the curate’s folly betwixt
+them.—What business could they have together, an’ please your honour, in
+the garden?—In the gallery thou meanest, replied my uncle Toby.
+Trim found he was upon a wrong scent, and stopped short with a low
+bow—Two misfortunes, quoth the corporal to himself, are twice as many at
+least as are needful to be talked over at one time;—the mischief the cow
+has done in breaking into the fortifications, may be told his honour
+hereafter.—Trim's casuistry and address, under the cover of his low bow,
+prevented all suspicion in my uncle Toby, so he went on with what he had
+to say to Trim as follows:
+—For my own part, Trim, though I can see little or no difference betwixt my
+nephew's being called Tristram or Trismegistus—yet as the thing sits so
+near my brother's heart, Trim—I would freely have given a hundred pounds
+rather than it should have happened.—A hundred pounds, an' please your
+honour! replied Trim,—I would not give a cherry-stone to boot.—Nor would I,
+Trim, upon my own account, quoth my uncle Toby—but my brother, whom
+there is no arguing with in this case—maintains that a great deal more
+depends, Trim, upon christian-names, than what ignorant people
+imagine—for he says there never was a great or heroic action performed
+since the world began by one called Tristram—nay, he will have it, Trim,
+that a man can neither be learned, or wise, or brave.—'Tis all fancy, an'
+please your honour—I fought just as well, replied the corporal, when the
+regiment called me Trim, as when they called me James Butler.—And for
+my own part, said my uncle Toby, though I should blush to boast of myself,
+Trim—yet had my name been Alexander, I could have done no more at
+Namur than my duty.—Bless your honour! cried Trim, advancing three steps
+as he spoke, does a man think of his christian-name when he goes upon
+the attack?—Or when he stands in the trench, Trim? cried my uncle Toby,
+looking firm.—Or when he enters a breach? said Trim, pushing in between
+two chairs.—Or forces the lines? cried my uncle, rising up, and pushing his
+crutch like a pike.—Or facing a platoon? cried Trim, presenting his stick like
+a firelock.—Or when he marches up the glacis? cried my uncle Toby, looking
+warm and setting his foot upon his stool.—
+                                    Chapter 19
+My father was returned from his walk to the fish-pond—and opened the
+parlour-door in the very height of the attack, just as my uncle Toby was
+marching up the glacis—Trim recovered his arms—never was my uncle Toby
+caught in riding at such a desperate rate in his life! Alas! my uncle Toby! had
+not a weightier matter called forth all the ready eloquence of my
+father—how hadst thou then and thy poor Hobby-Horse too been insulted!
+My father hung up his hat with the same air he took it down; and after
+giving a slight look at the disorder of the room, he took hold of one of the
+chairs which had formed the corporal's breach, and placing it over-against
+my uncle Toby, he sat down in it, and as soon as the tea-things were taken
+away, and the door shut, he broke out in a lamentation as follows.
+                            My Father's Lamentation.
+It is in vain longer, said my father, addressing himself as much to
+Ernulphus's curse, which was laid upon the corner of the
+chimney-piece—as to my uncle Toby, who sat under it—it is in vain longer,
+said my father, in the most querulous monotony imaginable, to struggle as I
+have done against this most uncomfortable of human persuasions—I see it
+plainly, that either for my own sins, brother Toby, or the sins and follies of
+the Shandy family, Heaven has thought fit to draw forth the heaviest of its
+artillery against me; and that the prosperity of my child is the point upon
+which the whole force of it is directed to play.—Such a thing would batter
+the whole universe about our ears, brother Shandy, said my uncle Toby—if it
+was so—Unhappy Tristram! child of wrath! child of decrepitude!
+interruption! mistake! and discontent! What one misfortune or disaster in
+the book of embryotic evils, that could unmechanize thy frame, or entangle
+thy filaments! which has not fallen upon thy head, or ever thou camest into
+the world—what evils in thy passage into it!—what evils since!—produced
+into being, in the decline of thy father's days—when the powers of his
+imagination and of his body were waxing feeble—when radical heat and
+radical moisture, the elements which should have tempered thine, were
+drying up; and nothing left to found thy stamina in, but negations—'tis
+pitiful—brother Toby, at the best, and called out for all the little helps that
+care and attention on both sides could give it. But how were we defeated!
+You know the event, brother Toby—'tis too melancholy a one to be repeated
+now—when the few animal spirits I was worth in the world, and with which
+memory, fancy, and quick parts should have been conveyed—were all
+dispersed, confused, confounded, scattered, and sent to the devil.—
+Here then was the time to have put a stop to this persecution against
+him;—and tried an experiment at least—whether calmness and serenity of
+mind in your sister, with a due attention, brother Toby, to her evacuations
+and repletions—and the rest of her non-naturals, might not, in a course of
+nine months’ gestation, have set all things to rights.—My child was bereft of
+these!—What a teazing life did she lead herself, and consequently her
+foetus too, with that nonsensical anxiety of hers about lying-in in town? I
+thought my sister submitted with the greatest patience, replied my uncle
+Toby—I never heard her utter one fretful word about it.—She fumed
+inwardly, cried my father; and that, let me tell you, brother, was ten times
+worse for the child—and then! what battles did she fight with me, and what
+perpetual storms about the midwife.—There she gave vent, said my uncle
+Toby.—Vent! cried my father, looking up.
+But what was all this, my dear Toby, to the injuries done us by my child's
+coming head foremost into the world, when all I wished, in this general
+wreck of his frame, was to have saved this little casket unbroke, unrifled.—
+With all my precautions, how was my system turned topside-turvy in the
+womb with my child! his head exposed to the hand of violence, and a
+pressure of 470 pounds avoirdupois weight acting so perpendicularly upon
+its apex—that at this hour 'tis ninety per cent. insurance, that the fine
+net-work of the intellectual web be not rent and torn to a thousand tatters.
+—Still we could have done.—Fool, coxcomb, puppy—give him but a
+Nose—Cripple, Dwarf, Driveller, Goosecap—(shape him as you will) the door
+of fortune stands open—O Licetus! Licetus! had I been blest with a foetus
+five inches long and a half, like thee—Fate might have done her worst.
+Still, brother Toby, there was one cast of the die left for our child after
+all—O Tristram! Tristram! Tristram!
+We will send for Mr. Yorick, said my uncle Toby.
+—You may send for whom you will, replied my father.
+
+
+38 ROUSSEAU: Inequality, 341b-342b
+It is reasonable to suppose that the words first made use of by mankind
+had a much more extensive signification than those used in languages
+already formed, and that ignorant as they were of the division of discourse
+into its constituent parts, they at first gave every single word the sense of a
+whole proposition. When they began to distinguish subject and attribute,
+and noun and verb, which was itself no common effort of genius,
+substantives were first only so many proper names; the present infinitive
+was the only tense of verbs; and the very idea of adjectives must have been
+developed with great difficulty; for every adjective is an abstract idea, and
+abstractions are painful and unnatural operations.
+Every object at first received a particular name without regard to genus or
+species, which these primitive originators were not in a position to
+distinguish; every individual presented itself to their minds in isolation, as
+they are in the picture of nature. If one oak was called A, another was
+called B; for the primitive idea of two things is that they are not the same,
+and it often takes a long time for what they have in common to be seen: so
+that, the narrower the limits of their knowledge of things, the more copious
+their dictionary must have been. The difficulty of using such a vocabulary
+could not be easily removed; for, to arrange beings under common and
+generic denominations, it became necessary to know their distinguishing
+properties: the need arose for observation and definition, that is to say, for
+natural history and metaphysics of a far more developed kind than men can
+at that time have possessed.
+Add to this, that general ideas cannot be introduced into the mind without
+the assistance of words, nor can the understanding seize them except by
+means of propositions. This is one of the reasons why animals cannot form
+such ideas, or ever acquire that capacity for self-improvement which
+depends on them. When a monkey goes from one nut to another, are we to
+conceive that he entertains any general idea of that kind of fruit, and
+compares its archetype with the two individual nuts? Assuredly he does
+not; but the sight of one of these nuts recalls to his memory the sensations
+which he received from the other, and his eyes, being modified after a
+certain manner, give information to the palate of the modification it is
+about to receive. Every general idea is purely intellectual; if the imagination
+meddles with it ever so little, the idea immediately becomes particular. If
+you endeavour to trace in your mind the image of a tree in general, you
+never attain to your end. In spite of all you can do, you will have to see it as
+great or little, bare or leafy, light or dark, and were you capable of seeing
+nothing in it but what is common to all trees, it would no longer be like a
+tree at all. Purely abstract beings are perceivable in the same manner, or
+are only conceivable by the help of language. The definition of a triangle
+alone gives you a true idea of it: the moment you imagine a triangle in your
+mind, it is some particular triangle and not another, and you cannot avoid
+giving it sensible lines and a coloured area. We must then make use of
+propositions and of language in order to form general ideas. For no sooner
+does the imagination cease to operate than the understanding proceeds
+only by the help of words. If then the first inventors of speech could give
+names only to ideas they already had, it follows that the first substantives
+could be nothing more than proper names.
+But when our new grammarians, by means of which I have no conception,
+began to extend their ideas and generalise their terms, the ignorance of the
+inventors must have confined this method within very narrow limits; and, as
+they had at first gone too far in multiplying the names of individuals, from
+ignorance of their genus and species, they made afterwards too few of
+these, from not having considered beings in all their specific differences. It
+would indeed have needed more knowledge and experience than they could
+have, and more pains and inquiry than they would have bestowed, to carry
+these distinctions to their proper length. If, even to-day, we are continually
+discovering new species, which have hitherto escaped observation, let us
+reflect how many of them must have escaped men who judged things
+merely from their first appearance! It is superfluous to add that the
+primitive classes and the most general notions must necessarily have
+escaped their notice also. How, for instance, could they have understood or
+thought of the words matter, spirit, substance, mode, figure, motion, when
+even our philosophers, who have so long been making use of them, have
+themselves the greatest difficulty in understanding them; and when, the
+ideas attached to them being purely metaphysical, there are no models of
+them to be found in nature?
+
+
+45 LAVOISIER: Elements of Chemistry, PREF, 4b-c
+To those bodies which are formed by the union of several simple
+substances we gave new names, compounded in such a manner as the
+nature of the substances directed; but, as the number of double
+combinations is already very considerable, the only method by which we
+could avoid confusion was to divide them into classes. In the natural order
+of ideas, the name of the class or genus is that which expresses a quality
+common to a great number of individuals: the name of the species, on the
+contrary, expresses a quality peculiar to certain individuals only.
+These distinctions are not, as some may imagine, merely metaphysical, but
+are established by nature. "A child," says the Abbé de Condillac, "is taught
+to give the name tree to the first one which is pointed out to him. The next
+one he sees presents the same idea, and he gives it the same name. This
+he does likewise to a third and a fourth, till at last the word tree, which he
+first applied to an individual, comes to be employed by him as the name of
+a class or a genus, an abstract idea, which comprehends all trees in
+general. But, when he learns that all trees serve not the same purpose, that
+they do not all produce the same kind of fruit, he will soon learn to
+distinguish them by specific and particular names." This is the logic of all
+the sciences and is naturally applied to chemistry.
+
+
+53 JAMES: Psychology, 310a-311a; 447b-448a
+Psychology, 310a-311a
+The nominalists, on their side, admit a quasi-universal, something which we
+think as if it were universal, though it is not; and in all that they say about
+this something, which they explain to be ‘an indefinite number of particular
+ideas,’ the same vacillation between the subjective and the objective points
+of view appears. The reader never can tell whether an ‘idea’ spoken of is
+supposed to be a knower or a known. The authors themselves do not
+distinguish. They want to get something in the mind which shall resemble
+what is out of the mind, however vaguely, and they think that when that
+fact is accomplished, no farther questions will be asked. James Mill
+writes:56
+
+“The word, man, we shall say, is first applied to an individual; it is first associated
+with the idea of that individual, and acquires the power of calling up the idea of
+him; it is next applied to another individual and acquires the power of calling up
+the idea of him; so of another and another, till it has become associated with an
+indefinite number, and has acquired the power of calling up an indefinite number
+of those ideas indifferently. What happens? It does call up an indefinite number of
+the ideas of individuals as often as it occurs; and calling them in close connection,
+it forms a species of complex idea of them…. It is also a fact, that when an idea
+becomes to a certain extent complex, from the multiplicity of the ideas it
+comprehends, it is of necessity indistinct;… and this indistinctness has, doubtless,
+been a main cause of the mystery which has appeared to belong to it…. It thus
+appears that the word man is not a word having a very simple idea, as was the
+opinion of the realists; nor a word having no idea at all, as was that of the [earlier]
+nominalists; but a word calling up an indefinite number of ideas, by the irresistible
+laws of association, and forming them into one very complex and indistinct, but
+not therefore unintelligible, idea.”
+
+Berkeley had already said: 57
+
+A word becomes general by being made the sign, not of an abstract general idea,
+but of many several particular ideas, any one of which it indifferently suggests to
+the mind. An idea which, considered in itself, is particular, becomes general by
+being made to represent or stand for all other particular ideas of the same sort.
+
+‘Stand for,’ not know; ‘becomes general,’ not becomes aware of something
+general; ‘particular ideas,’ not particular things—everywhere the same
+timidity about begging the fact of knowing, and the pitifully impotent
+
+56
+     Analysis, chap. viii.
+57
+     Principles of Human Knowledge, Introduction, §§ 11, 12.
+attempt to foist it in the shape of a mode of being of ‘ideas.’ If the fact to
+be conceived be the indefinitely numerous actual and possible members of
+a class, then it is assumed that if we can only get enough ideas to huddle
+together for a moment in the mind, the being of each several one of them
+there will be an equivalent for the knowing, or meaning, of one member of
+the class in question; and their number will be so large as to confuse our
+tally and leave it doubtful whether all the possible members of the class
+have thus been satisfactorily told off or not.
+Of course this is nonsense. An idea neither is what it knows, nor knows
+what it is; nor will swarms of copies of the same ‘idea,’ recurring in
+stereotyped form, or ‘by the irresistible laws of association formed into one
+idea,’ ever be the same thing as a thought of ‘ all the possible members‘ of a
+class. We must mean that by an altogether special bit of consciousness ad
+hoc. But it is easy to translate Berkeley’s, Hume’s, and Mill’s notion of a
+swarm of ideas into cerebral terms, and so to make them stand for
+something real; and, in this sense, I think the doctrine of these authors less
+hollow than the opposite one which makes the vehicle of universal
+conceptions to be an actus purus of the soul. If each ‘idea’ stand for some
+special nascent nerve-process, then the aggregate of these nascent
+processes might have for its conscious correlate a psychic ‘fringe,’ which
+should be just that universal meaning, or intention that the name or mental
+picture employed should mean all the possible individuals of the class.
+Every peculiar complication of brain-processes must have some peculiar
+correlate in the soul. To one set of processes will correspond the thought of
+an indefinite taking of the extent of a word like man; to another set that of
+a particular taking; and to a third set that of a universal taking, of the
+extent of the same word. The thought corresponding to either set of
+processes, is always itself a unique and singular event, whose dependence
+on its peculiar nerve-process I of course am far from professing to
+explain.58
+
+
+58
+  It may add to the effect of the text to quote a passage from the essay in ‘Mind,’ January,
+1884.
+“Why may we not side with the conceptualists in saying that the universal sense of a word
+does correspond to a mental fact of some kind, but at the same time, agreeing with the
+nominalists that all mental facts are modifications of subjective sensibility, why may we
+not call that fact a ‘feeling’? Man meant for mankind is in short a different feeling from
+man as a mere noise, or from man meant for that man, to wit, John Smith alone. Not that
+the difference consists simply in the fact that, when taken universally, the word has one of
+Mr. Galton’s ‘blended’ images of man associated with it. Many persons have seemed to
+think that these blended or, as Prof. Huxley calls them, ‘generic’ images are equivalent to
+concepts. But, in itself, a blurred thing is just as particular as a sharp thing; and the
+generic character of either sharp image or blurred image depends on its being felt with its
+representative function. This function is the mysterious plus, the understood meaning. But
+it is nothing applied to the image from above, no pure act of reason inhabiting a
+supersensible and semi-supernatural plane. It can be diagrammatized as continuous with
+all the other segments of the subjective stream. It is just that staining, fringe, or halo of
+obscurely felt relation to masses of other imagery about to come, but not yet distinctly in
+focus, which we have so abundantly set forth [in Chapter IX of this book].
+“If the image come unfringed, it reveals but a simple quality, thing, or event; if it come
+fringed, it may reveal something expressly taken universally or in a scheme of relations.
+The difference between thought and feeling thus reduces itself, in the last subjective
+analysis, to the presence or absence of ‘fringe.’ And this in turn reduces itself, with much
+probability, in the last physiological analysis, to the absence or presence of
+sub-excitements in other convolutions of the brain than those whose discharges underlie
+the more definite nucleus, the substantive ingredient, of the thought,—in this instance, the
+word or image it may happen to arouse.
+“The contrast is not, then, as the Platonists would have it, between certain subjective facts
+called images and sensations, and others called acts of relating intelligence; the former
+being blind perishing things, knowing not even their own existence as such, whilst the
+latter combine the poles in the mysterious synthesis of their cognitive sweep. The contrast
+is really between two aspects, in which all mental facts without exception may be taken;
+their structural aspect, as being subjective, and their functional aspect, as being
+cognitions. In the former aspect, the highest as well as the lowest is a feeling, a peculiarly
+tinged segment of the stream. This tingeing is its sensitive body, the wie ihm zu Muthe ist,
+the way it feels whilst passing. In the latter aspect, the lowest mental fact as well as the
+highest may grasp some bit of truth as its content, even though that truth were as
+relationless a matter as a bare unlocalized and undated quality of pain. From the cognitive
+Psychology, 447b-448a
+When memory begins to decay, proper names are what go first, and at all
+times proper names are harder to recollect than those of general properties
+and classes of things.
+This seems due to the fact that common qualities and names have
+contracted an infinitely greater number of associations in our mind than the
+names of most of the persons whom we know. Their memory is better
+organized. Proper names as well organized as those of our family and
+friends are recollected as well as those of any other objects. 59
+“Organization” means numerous associations; and the more numerous the
+associations, the greater the number of paths of recall. For the same
+reason adjectives, conjunctions, prepositions, and the cardinal verbs, those
+words, in short, which form the grammatical framework of all our speech,
+
+point of view, all mental facts are intellections. From the subjective point of view all are
+feelings. Once admit that the passing and evanescent are as real parts of the stream as
+the distinct and comparatively abiding; once allow that fringes and halos, inarticulate
+perceptions, whereof the objects are as yet unnamed, mere nascencies of cognition,
+premonitions, awarenesses of direction, are thoughts sui generis, as much as articulate
+imaginings and propositions are; once restore, I say, the vague to its psychological rights,
+and the matter presents no further difficulty.
+“And then we see that the current opposition of Feeling to Knowledge is quite a false issue.
+If every feeling is at the same time a bit of knowledge, we ought no longer to talk of
+mental states differing by having more or less of the cognitive quality; they only differ in
+knowing more or less, in having much fact or little fact for their object. The feeling of a
+broad scheme of relations is a feeling that knows much; the feeling of a simple quality is a
+feeling that knows little. But the knowing itself, whether of much or of little, has the same
+essence, and is as good knowing in the one case as in the other. Concept and image, thus
+discriminated through their objects, are consubstantial in their inward nature, as modes of
+feeling. The one, as particular, will no longer be held to be a relatively base sort of entity,
+to be taken as a matter of course, whilst the other, as universal, is celebrated as a sort of
+standing miracle, to be adored but not explained. Both concept and image, quâ subjective,
+are singular and particular. Both are moments of the stream, which come and in an instant
+are no more. The word universality has no meaning as applied to their psychic body or
+structure, which is always finite. It only has a meaning when applied to their use, import,
+or reference to the kind of object they may reveal. The representation, as such, of the
+universal object is as particular as that of an object about which we know so little that the
+interjection ‘Ha!’ is all it can evoke from us in the way of speech. Both should be weighed
+in the same scales, and have the same measure meted out to them whether of worship or
+of contempt.” (Mind, ix, pp. 18-19.)
+59
+     Cf. A. Maury: Le Sommeil et les rêves, p. 442.
+are the very last to decay. Kussmaul 60 makes the following acute remark on
+this subject:
+The concreter a conception is, the sooner is its name forgotten. This is because
+our ideas of persons and things are less strongly bound up with their names than
+with such abstractions as their business, their circumstances, their qualities. We
+easily can imagine persons and things without their names, the sensorial image of
+them being more important than that other symbolic image, their name. Abstract
+conception, on the other hand, are only acquired by means of the words which
+alone serve to confer stability upon them. This is why verbs, adjectives, pronouns,
+and still more adverbs, prepositions, and conjunctions are more intimately
+connected with our thinking than are substantives.
+
+
+
+
+60
+     Störungen der Sprache, quoted by Ribot: Les Maladies de la mémoire, p. 133.
+

@@ -1,0 +1,1307 @@
+               Chapter 8y SIGN AND SYMBOL
+
+
+                                      INTRODUCTION
+A     SIGN points to something. A symbol
+       stands for or takes the place of another
+                                                      Some things are simply things, and not signs at
+                                                      all. Some (for example, "the ram which Abra-
+thing. Sign and symbol are sometimes differ-          ham offered up instead of his son") are not only
+entiated according to whether emphasis is             things, but "also signs of other things." And
+placed on that which is signified or pointed          some things, such as words, "are never em-
+out, or on that which functions as a surrogate        ployed except as signs." Augustine adds that
+or su bsti tu teo                                     words are not merely signs. "Every sign," he
+   Yet "sign" and "symbol" are often used             writes, "is also a thing, for what is not a thing
+interchangeably. We call the notations of mu-         is nothing at all."
+sic or mathematics either "signs" or "symbols."          The distinction between natural and conven-
+Words, too, are traditionally spoken of as signs      tional signs falls wi thin this threefold division.
+or symbols. Words and other conventional no-          "Natural signs," Augustine says, "are those
+tations for expressing meaning both point to          which, apart from any intention or desire of
+and stand for something else. It is only in           using them as signs, do yet lead to the knowl-
+certain cases that one of these two functions         edge of something else, as, for example, smoke
+seems to predominate, as the road marker              when it indicates fire. For it is not from any
+points out the direction to take, and paper           intention of making it a sign that it is so, but
+money takes the place of the precious meta!           through attention to experience we come to
+whose value it represents.                            know that fire is beneath, even when nothing
+   On what is common to signs and symbols of          but smoke can be seen. And the footprint of an
+all sorts there seems to be no disagreement           animal passing by belongs to this class of signs."
+throughout the tradition of western thought.             Augustine seems to find natural signs in
+From Augustine's statement that "a sign is a          things that are related as cause and effect.
+thing which, over and above the impression it         Berkeley, on the other hand, tends to substi-
+makes on the senses, causes something else to         tute the relation of sign and thing signified for
+come into mind as a consequence of itself," to        the relation of cause and effect. "The fire which
+Freud's analysis of the symbolism of dreams, of       I see," he writes, "is not the cause of the pain I
+symptoms, and symptomatic acts, the great             suffer upon my approaching, but the mark that
+books consider sign or symbol as one term in a        forewarns me. In like manner the noise that I
+relation, the relation being one of meaning or,        hear is not the effect of this or that motion or
+as Freud says, of "significance, intention, tend-     collision of the ambient bodies, but the sign
+ency." The fundamental problems tradition-             thereof."
+ally discussed concern the nature of meaning              Every natural thing or event thus tends to
+itself, and the modes of signification which vary      become the sign of something else, so that the
+with the kinds of things that function as signs       whole of nature constitutes a vast symbolism or
+and the kinds of things they signify.                 language by which God informs us of his plan.
+                                                      Aristotle tends, in the opposite direction, to
+WITH RESPECT TO THINGS which function sym-            limit natural signs to those things which, ac-
+bolically, the primary distinction seems to be        cording to our knowledge and experience, per-
+that between natural and conventional signs.          mit a necessary or probable inference to some-
+Augustine at first suggests a threefold division.      thing else. The fact that a woman is giving milk
+                                                    730
+                               CHAPTER 85: SIGN AND SYMBOL                                          731
+he regards as an infallible sign that she has lately   ventional signs raises the central problem con-
+borne a child; the fact that a man is breathing        cerning their meaning or significance. Utterly
+fast is merely a probable and refutable sign that      dissimilar words in different languages can have
+he has a fever.                                        the same meaning, and identical sounds or
+   In any case, signs are generally acknowledged       marks in different languages can mean quite
+to be natural if they satisfy Augustine's crite-       different things. Since the sounds or marks
+rion that they were not intentionally devised by       which constitute spoken and written words do
+men for the purpose of signifying. "Conven-            not possess meaning naturally, from what
+tional signs, on the other hand," he writes, "are      source do such conventional signs get the
+those which living beings mutually exchange            meanings they have?
+for the purpose of showing, as well as they can,          The usual answer, given by Aristotle, Locke,
+the feelings of their minds, or their perceptions.     and others, is that words get their meanings
+or their thoughts." Of conventional signs,             from the ideas, thoughts, or feelings which men
+Augustine goes on to say, words hold the chief         use them to express. "Spoken words," writes
+place, because everything which can be ex-             Aristotle, "are the symbols of mental experi-
+pressed by gestures, or by such non-verbal sym-        ence and written words are the symbols of
+bols as flags or bugle calls, can also be expressed    spoken words. Just as all men do not have the
+in words, whereas many thoughts which words            same writing, so all men do not have the same
+readily express do not lend themselves easily to       speech sounds, but the mental experiences,
+other modes of expression.                             which these directly symbolize, are the same
+    Except for the hypothesis (discussed in the        for all, as also are those [hings of which our ex-
+chapter on LANGUAGE) of a natural form of              periences are the images."
+speech common to all men and consisting of                 In addition to being able to make articulate
+words perfectly adapted to the objects they            sounds, it was necessary for man, Locke says, to
+name, it is never proposed that words are any-         "be able to use these sounds as signs of internal
+ thing but conventional signs. As Aristotle says,      conceptions, and to make them stand as marks
+"nothing is by nature a noun or a name-it is           for the ideas within his own mind, whereby
+only so when it becomes a symbol." The audible          they might be made known to others." Thus
+sound or the visible mark becomes a symbol             words came to be used by men "as the signs of
+only by human institution or convention.               their ideas; not by any natural connexion that
+    Yet not all the audible sounds which men and       there is between particular articulate sounds
+other animals make to express their feelings or        and certain ideas, for then there would be but
+desires are, in Aristotle's opinion, to be re-         one language amongst all men; but by a vol-
+garded as words. "Inarticulate sounds, such as         untary imposition, whereby such a word is
+ those which brutes produce, are significant, yet      made arbitrarily the mark of such an idea. The
+ none of these constitutes a noun." Nor are such       use then of words is to be sensible marks of
+ cries, whereby one animal calls another or com-       ideas, and the ideas they stand for are their
+ municates fear or anger, strictly conventional        proper and immediate signification."
+signs; for, as Augustine points out, they are in-          Locke goes further. Not only does the im-
+ stinctive modes of expression, and so are natural      mediate signification of words lie in the ideas
+ rather than conventional. They are not volun-          they stand for, but in his view words "can be
+ tarily instituted.                                    signs of nothing else." Yet he also considers the
+                                                       fact that men, because they "would not be
+IN TERMS OF THE ancient distinction between             thought to talk barely of their own imagina-
+the conventional and the natural-that which             tions, but of things as they really are ... often
+changes from time to time and place to place           s.uppose their words to stand also for the reality
+and that which is everywhere and always the            of things." Locke thinks, nevertheless, that
+same-no one would question the convention-              "obscurity and confusion" enter into the sig-
+ality of words and of all other non-verbal sym-         nification of words "whenever we make them
+bols which are peculiar to one people, one             stand for anything but those ideas we have in
+culture, or one epoch. That words are con-              our own minds."
+732                                     THE GREAT IDEAS
+   But though the meaning of a word may come   is also a thing" has a different meaning when
+from the idea it signifies, the word which is  it is said of the sensible things which also hap-
+thus made meaningful seems,. in the common     pen to be signs and of the things of the mind
+usage of mankind, to serve as the name or desig-
+                                               -concepts or ideas-which cannot be without
+nation of some real thing. It refers to some-  being signs. The understanding of this differ-
+thing other than ideas or concepts in the humanence helps to explain the relation between ver-
+mind. Locke himself talks of "the application  bal signs and the mental signs through which
+of names to things," and in his consideration ofthey signify or from which they get their
+the distinction between proper and common      meanmgs.
+names is concerned to point out that, though       Whereas words are in the fi~st instance
+they differ in meaning (i.e., differ in the type of
+                                               meaningless marks and sounds which get mean-
+idea they signify), both refer to the same sorting when men use them to express their
+of reality-individual existences. Aristotle and thoughts or feelings, ideas and images are at
+other writers who distinguish between things   once meaningful, however they arise in the
+in the order of nature and the concepts we formmind. They are natural signs in the sense that it
+of them, tend to take both views of the signifi-
+                                               seems to be their very nature to signify. They
+cance of words. Words signify the real things   do not get meaning. They do not even have
+which they name as well as the ideas whose      meaning, in the way in which smoke as a nat-
+meanings they express. If we waive for the      ural sign of fire has a meaning which is distinct
+moment the possibility that some words may      from, though a consequence of, its nature as
+signify only ideas, whereas others signify both smoke. An idea is a meaning, an intention of
+ ideas and things, two questions may be asked.  the mind, as it is sometimes called, a reference
+Are there any words which signify things alone? to an object thought about. The idea of fire
+What is the relation between the idea and the   is the meaning the word "fire" has when it
+ thing a word signifies, when a word signifies  designates the natural phenomenon which that
+ them both; that is, when a word has both sorts word is conventionally used to name; and as
+of significance, how are they related to one    Aristotle suggests, the conventional signs of dif-
+another?                                        ferentlanguages [e.g., "fire" and 'Jeuer"]-have
+    Aquinas answers the second question by say- the same meaning because the idea of fire is the
+                                                same, and the. natural phenomenon experi-
+ ing that since "words are the signs of ideas, and
+                                                enced and thought about is the same, for men
+ ideas the similitudes of things, it is evident that
+words function in the signification of things   of diverse tongues.
+ through the conceptions of the intellect." Ideas  That ideas or mental images are them~elves
+ may be the immediate or proximate object       meanings or intentions-the symbols of things
+which words signify, but through them words     thought about-seems to be recognized in dif-
+ ultimately signify the real things which are   ferent ways by many writers in the tradition
+ themselves the objects of ideas. According to  of the great books. In the Cratylus, Socrates
+ this theory, an idea may be both the object    suggests that signs should be like the things
+ signified by a word and the medium through     they signify. Some conventional signs, he
+                                                 thinks, are better than others in this respect.
+ which tha t word also signifies the thing of which
+we have the idea. Aquinas seems to think that   He implies that all words are inferior to mental
+ ideas are always required as the medium where- images, which, by their very nature, imitate or
+ by words signify things. "We can give a name    resemble their objects.
+ to anything," he says, "only insofar as we can    The act of memory, according to Aristotle,
+                                                 requires a memory image which is "something
+ understand it." Accordingly, it is impossible for
+ words to signify things directly, i.e., withoutlike an impression or picture" of the thing re-
+ the mediation of ideas.                        membered. If the memory image, through its
+                                                 resemblance to something once experienced,
+THIS POSITION HAS A number of consequences did not function as the sign of that absent
+for the theory of signs and raises a number of thing, memory would not be memory, for,
+issues. Augustine's statement that "every sign Aristotle argues, it would consist in beholding
+                               CHAPTER 85: SIGN AND SYMBOL                                         733
+the memory image itself, which is present,           or "cat" become general in their significance,
+rather than the absent thing it stands for.          according to Locke, "by being made the signs
+    Aquinas, perhaps, is the writer most explicit    of general ideas."
+in his treatment of images and ideas as in their        To the question of what kind of signification
+very nature meanings or intentions of the mind.      it is that general words have, Locke replies: "As
+His calling them "mental words" seems to in-         it is evident, that they do not signify barely one
+dicate that in his view they, like physical and      particular thing; for then they would not be
+sensible words, are signs; but the added quali-      general terms, but proper names; so, on the
+fication of "mental" also implies their differ-      other side, it is as evident, they do not signify a
+ence. "The vocal sound which has no significa-       plurality; for man and men would then signify
+tion," he writes, "cannot be called a word;          the same .... That, then, which general words
+wherefore the exterior vocal sound is called a       signify," Locke declares, "is a sort of things,
+word from the fact that it signifies the interior    and each of them does tha t by being a sign of an
+concept of the mind. It follows that, first and      abstract' idea in the mind."
+chiefly, the interior concept of the mind is             It seems to follow, therefore, that those who,
+called a word." The mental word or concept           like Hobbes and Berkeley, deny the existence
+suffices "when the mind turns to the actual          of abstra~t ideas or universal concepts, must
+consideration of what it knows habitually," for      offer a different explanation of the meaning of
+then, he adds, "a person speaks to himself."         common nouns or general names. "There being
+But unlike angels, who can make their concepts       nothing in the world universal but names,"
+known to one another immediately, men re-            Hobbes writes, a name is universal when it "is
+quire the medium of external speech. They            imposed on many things for their similitude
+must use sensible physical signs to communicate      in some quality or other accident; and whereas
+their thoughts.                                      a proper name bringeth to mind one thing only,
+    Without referring to ideas as mental words,      a universal recalls anyone of those many."
+Locke does appear to identify ideas with mean-           On similar grounds, Berkeley criticizes
+ings and to regard them as signs. The definition     Locke's theory of how words acquire general
+of a word, he says, is an attempt to make known      significance. His own theory is that words be-
+"the meaning or idea it stands for." Denying         come general "by being made the sign, not of
+that the general and the universal belong to         an abstract general idea, but of several particu-
+the real existence of things, he holds that trey     lar ideas, anyone of which it indifferently sug-
+"concern only signs, whether words or ideas.         gests to the mind." And, in another place, he
+Words are general ... when used for signs of         says that "an idea which, considered in itself, is
+general ideas ... and ideas are general when         particular becomes general by being made to
+they set up as the representatives of many par-      represent or stand for all other particular ideas
+ticular things; but universality belongs not to      of the same sort." He does not himself explain
+ things themselves, which are all of them par-       how we come by the notion of "the same sort,"
+ticular in their existence, even those words and     or how one particular idea can represent the
+ideas which, in their signification, are general."   sort to which other particular ideas belong. But
+    The basic issue to which Locke is addressing     he rejects Locke's explanation because it in-
+himself is discussed in the chapter on UNI-          volves ideas which are not only general, but
+VERSAL AND PARTICULAR. Locke's solution              also abstract.
+seems to involve the affirmation of abstract             The attempt to account for the meaning of
+ideas, which are general or universal in their       general names is, in Berkeley's view, the cause
+significance and through which common names          of Locke's acceptance of abstract ideas. "If
+come to have a different sort of meaning from         there had been no such thing as speech or uni-
+ the meaning of proper names. "Ideas become          versal signs," he writes, "there never [would
+general by separating them from the circum-          have) been any thought of abstraction." Not
+stances of time and place, and any other ideas       only do men mistakenly suppose that "every
+ that may determine them to this or that par-        name has, or ought to have, one only precise
+ ticular existence." Common nouns like "man"         and settled signification, which inclines [them)
+734                                    THE GREAT IDEAS
+to think there are certain abstract, determinate      used in the first and the second intention. When
+ideas that constitute the true and only immedi-       the word "man" is used to signify a living or-
+ate signification of each general name"; but          ganism of a certain sort, it is used in the first
+they also suppose that "it is by the mediation        intention because it signifies a reality, not an
+of these abstract ideas that a general name           idea. A word is said to be used in the second
+comes to signify any particular thing. Whereas,       intention when it signifies an idea rather than a
+in truth," Berkeley concludes, "there is no           thing. For example, in the sentence, "man is a
+such thing as one precise and definite significa-     species," the word "species" signifies a logical
+tion annexed to any general name." Where              classification and so is in the second intention;
+Locke would say that a common name gets its           and the word "man" is also in the second in-
+general meaning by signifying one idea which          tention because it refers to the idea which is
+itself has general significance, Berkeley reiter-     denominated a species.
+ates that a general name gets its meaning from            In some cases, an idea may not signify things
+"a great number of particular ideas," all of          at all, but only other ideas, such as the logical
+which it signifies indifferently.                     notions of genus and species. Words like "genus"
+                                                      and "species," unlike the words "man" and
+THE RELATION OF WORDS to ideas raises still           "stone," can therefore be used only in the sec-
+other problems in the theory of signs, problems       ond intention. The idea man is called a "first
+which have peculiar interest in the tradition of      intention of the mind" because its primary
+the liberal arts. One of these problems has al-       function is to signify the living thing. Only
+ready been mentioned. It is the question whether      secondarily does it signify itself as an object
+some words signify ideas alone, in contrast to        able to be considered. The idea species, on the
+words which signify ideas and, through them,          other hand, is called a "second intention" be-
+things. This suggests the parallel problem of         cause its sole function is to signify ideas which
+words which signify words, in contrast to words       stand to other ideas in a certain relation.
+which are the names of things.                            Hobbes concisely summarizes most of these
+   In his little tract Concerning the Teacher,        points when he points out that some words
+Augustine points out that some words, such as         "are the names of the things conceived,"
+"noun" and "adjective," signify kinds of words,       whereas "others are the names of the imagina-
+just as other words, such as "man" and "stone,"        tions themselves, that is to say, of those ideas
+signify kinds of things. Furthermore, in the          or mental images we have of all the things we see
+sentence "man is a noun," the word "man" sig-         and remember. And others again are names of
+nifies itself as the object referred to; whereas in    names ... as 'universal,' 'plural,' 'singular,' are
+the sentence "man is an animal," the word              the names of names." The names which we
+"man" Signifies a living organism of a certain        apply to particular species and genera, such as
+sort. The same word, therefore, may signify            "man" and "animal," Aquinas says, "signify
+both itself and some thing other than itself.          the common natures themselves, but not the
+   These differences which Augustine observes in      intentions of these common natures, which are
+the signification of words come to be formu-          signified by the terms genus or species."
+lated.in the traditional distinction between the
+first and second imposition of words. A word is       ANOTHER TRADITIONAL distinction in the modes
+used in the first imposition when it is used to       of signification is that between intrinsic and ex-
+signify things which are not words, as, for ex-       trinsic denomination. A name is said to be an
+ample, the word "man" when it refers to a             intrinsic denomination when it is applied to a
+human being. A word is used in the second im-         thing in order to signify its nature or its in-
+position when it is applied to words rather than      herent properties and attributes, as, for ex-
+things, as, for example, the word "noun" said         ample, when we call a thing "animal" or "ra-
+of "man," or the word "man" when it is used           tional," "white" or "square." A name is said
+to refer to itself in the sentence "man is a          to be an extrinsic denomination when it is ap-
+noun."                                                plied to a thing only in order to signify some
+   A parallel distinction is that between words       relation in which that thing stands to some-
+                               CHAPTER 85: SIGN AND SYMBOL                                           735
+thing else, as, for example, when we call sun-        Speaking of a man and a pig as a "pig" repre-
+shine "healthy" because it helps to produce           sents the metaphorical type of equivocation,
+healthy organisms or when we apply the names          in which the same word is used to name the
+of animals, su~h as "pig" or "fox," to men be-        na"ture of a thing and something else of a djf-
+cause we think the men bear certain resem-            ferent nature which has only a likeness to that
+blances to these animals. The same word can be        nature.
+used in different connections both as an intrin-          Metaphors, in turn, can be divided into
+sic and as an extrinsic denomination. "Healthy"       types. Some are based on a direct simili tude
+means an inherent quality when it is applied to       between two things in some accidental respect,
+living organisms, and a causal relation to or-        e.g., the man who is like a pig in manner of
+ganic health when it is applied to sunshine;          eating. Some, Aristotle says, are based on anal-
+"pig" means a certain kind of animal when it is       ogies or proportions, as, for example, when we
+applied to the four-footed mammal, and only a         call a king the "father of his people." Here the
+resemblance to this animal in certain charac-         metaphor is based on the similarity of the re-
+teristics when it is applied to men.                  lationship of a king to his subjects and of a
+   This double use of the same word exemplifies       father to his children. The name "father" is
+what is traditionally called "equivocal speech"       used metaphorically when it is transferred from
+or the equivocal use of a name. Some writers          one term in this proportion to the term which
+tend to identify equivocation with ambiguity,         stands in an analogous position.
+on the ground that both involve a multiplicity            A third kind of metaphor, according to Aris-
+of meanings for the same word. Others seem to         totle, consists in the use of the same word now
+think that a word is used ambiguously only if         in a more generic, now in a more specific sense,
+its user is indefinite as to which of its several     or with broader and narrower meanings. Of
+meanings he intends to express; but they hold         this he gives an example in the Ethics when he
+that a word can be used equivocally without           discusses general and special justice, using the
+ambiguity if its user makes plain that he is          word "justice" narrowly to signify one of the
+employing it now in this sense, now in that.          special virtues and broadly to mean all the vir-
+    Aristotle says that two things are named           tues considered in their social aspect. There is a
+equivocally "when though they have the same           sense of the word "justice," he writes, in which
+name, the definition corresponding with the           it signifies "not part of virtue but virtue en-
+ name differs for each"; and "on the other hand,       tire"; "this form of justice is complete virtue,
+ things arc said to be named univocally which          though not absolutely, but only in relation to
+have both the name and the definition an-             our neighbor." The word "injustice" is also
+swering to the name in common." When we                used in a correspondingly wide sense. But there
+call a man and a pig an "animal," we are using        is "another kind of injustice which is a part of
+ that word univocally because we are using it         injustice in the wide sense." This "particular
+with the same definition or meaning in both           injustice," Aristotle says, "shares the name and
+cases; but when we call a pig and a man a "pig,"      nature of the first, because its definition falls
+we are using that word equivocally because we         within the same genus." As Aristotle treats this
+arc using it with different meanings, signifying       type of equivocation in the Rhetoric and the
+having the nature of a pig in one instance and        Poetics, it includes three possibilities: the trans-
+being like a pig in certain respects in the other.    fer of the name of a genus to one of its species,
+    Aristotle distinguishes several types of equiv-    the transfer of the name of a species to its
+ocation, of which we have already noted two.          genus, and the transfer of the name of one spe-
+The use of the word "healthy" to describe an          cies to another in the same genus.
+animal and sunshine is that type of equivoca-             It may be questioned whether this type of
+ tion in which the same word is used to name          equivocation is properly classified as metaphor-
+an inherent attribute and also a cause of that        ical, on Aristotle's own definition of metaphor
+attribute; in other instances of the same type,       as "giving a thing a name that belongs to some-
+it might be used to name the nature or attri-          thing else." In the type of equivocation exem-
+ bute and the effect rather than the cause.            plified by the use of the word "justice," now
+736                                     THE GREAT IDEAS
+with a generic and now a specific meaning, the          does not seem to be equivocation by chance,
+name does not seem to belong to the genus any           for the word "sharp" seems to have some com-
+more than it does to the species, or conversely.        mon meaning as applied to the three objects
+In contrast, when the name "father" is given to         which affect the diverse senses of touch, taste,
+a king in relation to his people, the usage is          and hearing; nor is it like all other cases of
+metaphorical, because the name "father" be-             equivocation by intention, in that no ohe of
+longs to something else, i.e., the man who is a         these three meanings of "sharp" seems to be
+progenitor.                                             primary and the others derived from it. Fur-
+    The same point can be made in terms of in-          thermore, in all three meanings, the word
+trinsic and extrinsic denomination. When                "sharp" is used as an intrinsic denomination.
+"justice" is used as the name for the whole of             In the Metaphysics, Aristotle also considers
+virtue (regarded socially) and also for one par-        the special pattern of meaning which words
+ticular virtue, the word is an intrinsic denomi-        like "being" or "one" have when they are ap-
+nation in both instances. In all other types of         plied to such heterogeneous things as sub-
+equivocation, the equivocal word is used once           stances, quantities, qualities, etc. He refers to
+as an intrinsic and once as an extrinsic denomi-        these words as ambiguous or equivocal, com-
+nation; for example, as applied to the animal,          paring them with the word "healthy" as said
+the word "pig" is an intrinsic denomination,            of an animal, and of other things which either
+but it is an extrinsic denomination when it is          cause health or are effects of health. It may be
+applied to a man in order to signify a certain          questioned, however, whether "being" is equiv-
+resemblance to the animal to which the name             ocal in the same way that "healthy" is, since
+belongs. The same is true in the case of the word       it always carries the significance of an intrinsic,
+"healthy" as said of an animal and of sunshine.         never of an extrinsic denomination. "Being"
+    In all these cases of equivocation, the two         as said of heterogeneous things seems to be
+meanings of the same word are not totally dis-          more like "sharp" said of diverse sensible qual-
+tinct. On the contrary, the two senses have             ities-having a meaning which remains some-
+something in common. One of the meanings                how the same while it is diversified in each case
+seems to be derived from the other; one ap-             according to the diversity of the objects to
+pears to be secondary (usually the one involved         which it applies.
+in the extrinsic denomination) and the other
+primary. What is traditionally called "equiv-           THESE CONSIDERATIONS ot the univocal and the
+ocation by chance," in contrast to equivoca-            equivocal sign, along with the treatment of
+ tion by intention, is the extreme case in which        ambiguity and intrinsic and extrinsic denomi-
+ the same word is used in two utterly distinct          nation, indicate the extent and manner in which
+senses, having no common element of meaning             the great books anticipate the kind of analysis
+at all; e.g., the word "pen" used for a writing         which in our time has come to be called "se-
+instrument and an enclosure for animals. Equiv-         mantics." The chapter on LANGUAGE gives fur-
+ocation by intention, in which the different            ther evidence of the fact tha t many of the
+meanings of a word have something in com-               points and distinctions made in contemporary
+mon, thus appears to be intermediate between            semantics have a long history in the tradition
+equivocation by chance (in which the meanings           of the liberal arts. Furthermore, as the chapter
+share no common element) and univocal usage             on LANGUAGE indicates, contemporary seman-
+(in which the meaning is exactly the same each          tics cannot even claim novelty for its great
+time the word is used).                                 interest in freeing men from the tyranny of
+    In the Physics, Aristotle seems to discover still   words or in serving as a critical instrument to
+another type of equivocation. "A pen, a wine,           cut through the "vicious abstractions" of meta-
+and the highest note in a scale are not com-            physics. Hobbes and Locke frequently dis-
+mensurable," he writes. "We cannot saywheth-            miss theories not on the ground that they are
+er anyone of them is sharper than any other             false, but rather because they think that the
+. .. because it is only equivocally that the            statement of them consists in so many mean-
+same term 'sharp' is applied to them." This             ingless words.
+                               CHAPTER 85: SIGN AND SYMBOL                                         737
+   In the tradition of the great books, the anal-    iIi the definition of the' s,ame name taken in
+ysis of words and their modes of signification       other significations; as, for instance, "being"
+seems to be motivated by other interests as          which is applied to substance is placed in the
+well as these. The distinction between the univ-     definition of "being" as applied to.accident; and
+ocal a~d the equivocal sign, for example, is         "healthy" applied to a'1imal is placed in the
+considered in its bearing on the logical prob-       defi~ition of "healthy" as applied to urine and
+lems of definition anc;l d~monstration as well as    medicine."                          ,
+for the, ,sake of proposing ·remedies to safe-          But, as we have seen, there are manY.types
+guard discourse against ambiguity. It is also        of equivocation by intention:-theattrib,utive,
+brought to bear upon the theological problem         based on cause and effect, as exemplified by
+of the meaning of the parnes men apply to God        the word "healthy"; that involving broader
+and on the way in which they interpret the           and narrower meanings, exemplified by the
+words of Sacred Scripture.                           word "justice"; metaphors, of the sort exempli-
+   The problem of the names of God is dis-           fied by calling a man "pig," and' of ~he sort
+cussed in the chapter on' SAME AND OTHER in          based on analogies, when we, speak of a king
+terms of the kind of likeness which cari obtain      as the "father" of his people; and, finally,
+between an infinjte being and finite creatUres.      the very special type of equivocation found
+As thel;e ~ppears, Aquinas takes the position        in "sharp" applied to a tone, a taste, and a
+that God and creatures are neither the same in       touch.'                                      ,
+any respect, nor are they in all respects so di-         If Aquina~ places the kind of significatio,n he
+verse as to be 'utterly incomparable. Though an      calls "analogical" in the general area of equiv-
+infinite and a finite being are in his view in-      ocation by intention, it may be asked whether
+commensurable,' yet they can also have some          the various names of God are all analogical in
+sort of similitude-not an unqualified same-          the same way. The answer seems to be negative,
+ness, but the kind of similarity which can be        for he distinguishes those names which have
+described as an intrinsically diversified same-      only a metaphorical sense when said of God,
+ness.                                                such as "angry" or "je~lous"; and he denies the
+   Aquinas holds, therefore, that no names can       opinion of those who say that God is called
+be applied to God and creatureS uni~ocally,          "good" only in an attributive sense, i.e., sig-
+for "no name belongs to God in the same sense        nifying him to be the cause of the goodness
+ that it belongs to creature,s." Nor, he goes on,    found in creatures. qn the contrary, he thinks
+"are names applied to God and creatures in a         that words like "good" and "wise," and es-
+purely equivocal sense," for it would follow         pecially the name, "being," are to be inter-
+then that "from creatures nothing at all could       preted as intrinsic denominations when: applied
+be known or demonstrated about God," which           to both God and' creatures.
+supposition Aquinas denies. Between these two            For Aquinas, as for Aristotle, that would
+extremes of the simply univocal and the purely       appear to make the pattern of meaning e~hib­
+~uivocal, he finds a middle ground in a type of      ited by the word "sharp~' the model for the
+signification which he calls "analogical." The       significance of "being" rather than that found
+meaning of an analogical name, he says, "is not,     in the merely attributive equivocation of the
+as it is in univocals, one and the same; yet it is   word "healthy"-whether "being" is said of
+nottotally diverse as in equivocals."                substance and accidents, or of God and crea-
+   What he means by "pure equivocation"               tures. The point seems to be unaffected by the
+seems to be what earlier writers call "equivoca-      fact that Aquinas calls this type of significa-
+tion by chance," and what he means by the             tion "analogical," whereas Aristotle always re-
+"analogical" seems to correspond to what they        fers to "being" as equivocal. Aristotle never
+call "equivocation by intention." "Univocal           treats any type of equivocation as analogical
+names have absolutely the same meaning," he          except the metaphor which results from trans-
+writes, "while equivocal names have absolutely       ferring the name of one term in a proportion to
+diverse meanings; whereas in analogicals, a          another term standing in the same or a similar
+name taken in one signification must be placed        relationship.
+738                                    THE GREAT IDEAS
+THE DISTINCTION BETWEEN literal and figura-            scientific definitions and demonstrations re-
+tive or metaphorical speech seems to be of             quire the avoidance of metaphors, as of all other
+prime importance in the theologian's rules for         forms of equivocation. So, too, Hobbes in-
+interpreting the word of God. As indicated in          veighs against metaphors and figures of speech,
+the chapter on RELIGION, Augustine insists             giving as one of the main causes of absurdity in
+that the language of Holy Writ must be read            science "the use of metaphors, tropes, and
+in many senses. Aquinas distinguishes a basic          other rhetorical figures, instead of words prop-
+literal sense from three modes of spiritual mean-      er; for though it be lawful to say (for example)
+ing. That signification "whereby words signify         in common speech, the way goeth, or leadeth
+things belongs to the first sense, the historical or   hither or thither, the Proverb says this or that
+literal. That signification whereby things sig-        (whereas ways cannot go, nor Proverbs speak);
+nified by words have themselves also a significa-      yet in reckoning, and seeking of truth, such
+tion is called the spiritual sense, which is based     speeches are not to be admitted."
+on the literal and presupposes it." The spiritual         Darwin looks forward to the day when "the
+sense Aquinas divides into the allegorical, the        terms used by naturalists, of affinity, relation-
+moral, and the analogical.                             ship, community of type, paternity, morphol-
+    To grasp the various spiritual meanings, the       ogy, adaptive characters, rudimentary and
+ reader must understand that in Holy Scripture         aborted organs, and so forth, will cease to be
+"divine things are metaphorically described            metaphorical and will have a plain signifi-
+ by means of sensible things." As in the symbol-       cance."· Freud, on the other hand, a~are of
+ism of the sacraments, physical things serve as        how pervasive symbolism is in all the works of
+ the outward and visible signs of an inward and        man, normal and neurotic, dreaming and
+spiritual grace, so also "in Holy Scripture spir-      awake, seems to be reconciled to the inevita-
+ itual truths are fittingly taught under the like-      bility of metaphors in scientific discourse. The
+ ness of material things."                             difficulty we meet with in picturing certain
+    A theologian like Aquinas thus justifies met-      psychological processes, he writes, "comes from
+ aphors not only in Scripture, but also in sacred      our being obliged to operate with scientific
+ doctrine or theology, as "both necessary and          terms, i.e., with the metaphorical expressions
+ useful," whereas in his view the poet's employ-       peculiar to psychology. ... Otherwise we
+ ment of them is solely for the sake of pleasure.      should not be able to describe the correspond-
+ Philosophers and scientists, on the other hand,       ing processes at all, nor in fact even to have re-
+ often take the opposite view-that metaphors           marked them. The shortcomings of our de-
+ have a place only in poetry and should be avoid-      scription would disappear if for the psycholog-
+ ed in the exposi tion of knowledge.                   ical terms we could substitute physiological or
+    In the writing of poetry, "the command of          chemical ones. These, too, only consti tute a met-
+ metaphor," says Aristotle, "is the mark of            aphoricallanguage, but one familiar to us for a
+ genius," but all his rules for the construction of    much longer time and perhaps also simpler."
+
+
+                                    OUTLINE OF TOPICS
+                                                                                                    PAGE
+
+  1. The theory of signs                                                                            74 0
+       la. The distinction between natural and conventional signs
+       lb. The intentions of the mind: ideas and images as natural signs
+       Ie. The things of nature functioning symbolically: the book of nature                         741
+       Id. The conventional notations of human language: man's need for words
+       Ie. The invention of non-verbal symbols: money, titles, seals, ceremonies, courtesies
+       If Natural signs as the source of meaning in conventional signs: thought as the
+              medium through which words signify things                                              742
+                            CHAPTER 85: SIGN AND         SYMBOL                             739
+                                                                                            PAGE
+
+2. The modes of signification
+
+    2a. The first and second imposition of words: names signifying things and names
+            signifying names
+    2b. The first and second intention of names: words signifying things and words signi-
+            fying ideas
+    2C. Intrinsic and extrinsic denominations: the naming of things according to their
+            natures or by reference to their relations
+    2d. Proper and common names                                                             743
+    2e. Abstract and concrete names
+
+3. The patterns of meaning in human discourse
+    3a. Verbal ambiguity: indefiniteness or multiplicity of meaning
+    3b. The distinction between univocal and equivocal speech                               744
+    3C. The types of equivocation
+        (1) The same word used literally and figuratively: metaphors derived from
+                analogies or proportions and from other kinds of similitude
+        (2) The same word used with varying degrees of generality and specificity: the
+                broad and narrow meaning of a word
+        (3) The same word used to signify an attribute and its cause or effect
+    3d. The significance of names predicated of heterogeneous things: the analogical as
+            intermediate between the univocal and the equivocal                             745
+
+4. The determination of meaning in science and philosophy
+    4a. The relation between univocal meaning and definition
+    4b. The dependence of demonstration on univocal terms: formal fallacies due to
+            equivoca tion
+    4C' The nature and utility of semantic analysis: the rectification of ambiguity; the
+            clarifica tion and precision of meanings
+    ¥. The use of metaphors and myths in science and philosophy                             746
+    4e. The use of signs in reasoning: necessary and probable signs; the interpretation
+            of symptoms in medicine
+
+5. Symbolism in theology and religion
+    5a. Natural things as signs of divinity
+    5b. Supernatural signs: omens, portents, visitations, dreams, miracles                  747
+    5c, The symbolism of the sacraments and of sacramental or ritualistic acts              74 8
+    5d. The symbolism of numbers in theology                                                749
+    5e. The interpretation of the word of God
+    5f The names of God: the use of words to signify the divine nature
+
+6. Symbolism in psychological analysis                                                      75 0
+    6a. The symbolism of dreams: their latent and manifest content
+    6b. The symbolism of apparently normal acts: forgetting, verbal slips, errors
+    6c. The symbolism of anxieties, obsessions, and other neurotic manifestations
+740                                     THE GREAT IDEAS
+
+
+                                           REFERENCES
+      To find the passages cited, use the numbers in heavy type, which are the volume and page
+      numbers of the passages referred to. For example, in 4 HOMER: Iliad, BK II [265-2831 12d, the
+      number 4 is the number of the volume in the set; the number 12d indicates that the pas-
+      sage is in section d of page 12.                        ' .
+
+         PAGE SECTIONS: When the text is printed in one column, the letters a and b refer to the
+      upper and lower halves of the page. For example, in53 JAMES: Psychology, 116a-119b, the passage
+      begins in the upper half of page II6 and ends in the lower half of page II9. When the text is
+      printed in two columns, the letters a and b refer to the upper and lower halves of the left-
+      hand side of the page, the letters c and d to the upper and lower halves of the right-hand side of
+      the page. For example, in 7 PLATO: Symposium, 163b-164c, the passage begins in the lower half
+      of the left-hand side of page 163 and ends in the upper half of the right-hand side of page 164.
+         AUTHOR'S DIVISIONS: One or more of the main divisions of a work (such as PART, BK, CH,
+      SECT) are sometimes included in the reference; line numbers, in brackets, are given in cer-
+      tain cases; e.g., Iliad, BK II [265-2831 12d.
+        BIBLE REFERENCES: The references are to book, chapter, and verse. When the King James
+      and Douay versionsdilfer in title of books or in the numbering of chapters or verses, the King
+      James version is cited first and the Douay, indicated by a (D), follows; e.g., OLD TESTA-
+      MENT: Nehemiah, 7:45-(D) II Esdras, 7:46.
+        SYMBOLS: The abbreviation "esp" calls the reader's attention to one or more especially
+      relevant parts of a whole reference; "passim" signifies that the topic is discussed intermit-
+      tently rather than continuously in the work or passage cited.
+
+      For additional information concerning the style of the references, see the Explanation of
+      Reference Style; for general guidance in the use of The Great Ideas, consult the Preface.
+
+
+
+1. The theory of signs                                     18 AUGUSTINE: Christian Doctrine, BK I, CH 13
+                                                              627d
+la. The distinction between natural and con-               19 AQUINAS: Summa Theologica, PART I, Q 13,
+      ventional signs                                         A I, ANS 62c-63c; A 4 65c-66b; Q 14, A I, ANS
+  OLD TESTAMENT: Genesis, 2 :19-20; II :1-9                   and REP 3 75d-76c; A 2, ANS and REP 2-3
+   6 HERODOTUS: History, BK II, 49a-c                         76d-77d; Q 27, A I, ANS 153b-154b; A 2, ANS
+   7 PLATO: Cratyius 85a-114a,c                               and REP 2 154c-155b; A 3, ANS 155c-156a; A 4,
+   8 ARISTOTLE: Interpretation, CH I [16&4-91 25a             ANS and REP 2 156b-d; Q 34, A I 185b-187b;
+  11 NICOMACHUS: Arithmetic, BK II, 832a                      Q 37, A I, AN!; 197c-199a; Q I07, A I 549b-550b;
+  18 AUGUSTINE: Christian Doctrine, BK I, CH 2                PART I-II, Q 22, A 2, ANS 721c-722c
+     624d-625a; BK II, CH 1-2 636b,d-637c                  20 AQUINAS: Summa Theologica, PART I-II, Q 93,
+  19 AQUINAS: Summa Theologica, PART I, Q 34,                 A I, REP 2 215b,d-216c
+     A I, ANS 185b-187b                                    31 DESCARTES: Meditations, III 81d-89a passim I
+  20 AQUINAS: Summa Theologica, PART III, Q 60,               Objections and Replies, DEF III-IV 130b; AXIOM
+     A 4, REP I 849c-850b                                     vI132a;PRoP11132c
+  30 BACON: Advancement of Learning, 62c-63a               31 SPINOZA: Ethics, PART II, DEF 3 373b; PROP 5
+  31 DESCARTES: Discourse, PART v, 59c-60b                    374c-d
+  38 ROUSSEAU: Inequality, 341a-b                          35 LOCKE: Human Understanding, BK II, CH XXX,
+  46 HEGEL: Philosophy of History, PART I, 252c-d;            SECT 2 238b-c; CH XXXII, SECT 8 244d; SECT
+     PART II, 269c-d                                          14-16 245c-246b; BK IV, CH II, SECT 14 312b-d;
+                                                              CH XXI, SECT 4395a,c
+lb. The intentions of the mind: ideas and                  35 BERKELEY: Human Knowledge, SECT 15 415d-
+       images as natural signs                                416a; SECT 43-44 420d-421a; SECT' 65-66
+    8 ARISTOTLE: Interpretation, CH I [16&4-91 25a /          425d-426a; SECT 145-154 441d-444b passim,
+      Soul, BK III, CH 8 664b-d / Memory and                  esp SECT 148 442b-d
+      Reminiscence, CH I [450~5-45I'I91 691a-              53 JAMES: Psychology, 161a-176a esp 164a-165b,
+     692b       .                                             166a-b, 168b-169a, 175a-176a; 299a-311a esp
+  17 PLOTINUS: First Ennead, TR II, CH 3, 8a                  300a-301a, 307a-308a, 310b-311a; 313a; 411a;
+Ic to Ie                        CHAPTER 85: SIGN AND SYMBOL                                           741
+     478a-b; 502a-503a; 553b-558b esp 555a-b,           19 AQUINAS: Summa Theologica, PART I, Q 107,
+     558b-561 b [fn 2]; 573b-574a; 606b-610b esp           A I, REP 1-3 549b-550b
+     608a-609a; 620b-621a; 664b-665b                    20 AQUINAS: Summa Theologica, PART III, Q 60,
+                                                           A 6, ANS 851b-852b
+lc. The things of nature functioning symbol-            21 DANTE: Divine Comedy, PARADISE, XXVI [124-
+      ically: the book of nature                           138] 147a-b
+  5 AESCHYLUS: Prometheus Bound [442-506] 44c-          23 HOBBES: Leviathan, PART I, 54c-56a
+    45a                                                 25 MONTAIGNE: Essays, 300c
+  5 ARISTOPHANES: Birds [7°8-715] 551d                  30 BACON: Advancement of Learning, 62d-63a
+  8 ARISTOTLE: Prior Analytics, BK II, CH 27 92a-       31 DESCARTES: Discourse, PART V, 59c-60b
+    93a,c                                               33 PASCAL: Geometrical Demonstration, 430b-
+ 16 KEPLER: Epitome, BK IV, 853b-856b / Har-               431b
+    monies of the World, 1080b-1085b passim             35 LOCKE: Human Understanding, BK II, CH XVI,
+ 18 AUGUSTINE: Christian Doctrine, BK I, CH 2              SECT 5-7 166b-167b; CH XVIII, SECT 7 174d-
+    624d-625a; BK II, CH I 636b,d-637a                     175a; CH XXII, SECT 5-7 201d-202b; CR XXIII,
+ 19 AQUINAS: Summa Theologica, PART I, Q I,                SECT 36 213c-d; CH XXVIII, SECT 2 228c-229a;
+    A 10 9c-lOc; Q 57, A 4, ANS and REP 3 298a-            BK III, CH I, SECT I-CH II, SECT 2 251 b,d-253c;
+    299a                                                   CH II, SECT 8-CH III, SECT 5 254b-255c; CH V,
+ 20 AQUINAS: Summa Theologica, PART III, Q 12,             SECT 8 265c-266a; CH VI, SECT 43-51 280c-
+    A 3, REP 2 778b-779a; Q 60, A 2, ANS and REP I         283a; CH X, SECT 24 298b; SECT 27 298c-d;
+    848a-d; A 4, REP I 849c-850b                           SECT 31 299a; CR XI, SECT 5 300d; BK IV, CH
+ 21 DANTE: Divine Comedy, HELL, XXIV [I-21]34d             V, SECT 10 331a; CH XXI, SECT 4395a,c
+ 25 MONTAIGNE: Essays, 212a-<:                          35 BERKELEY: Human Knowledge, SECT 121
+ 26 SHAKESPEARE: 3rd Henry VI, ACT V, SC VI                436d-437b
+    [44-79]103c-104a / Richard II, ACT II, SC IV        36 SWIFT: Gulliver, PART IiI, 111a-b
+    [7-17] 334c-d /lst Henry IV, ACT III, sc I [12-     38 ROUSSEAU: Inequality, 339d-342c; 349d-350a
+    49] 450a-c / 2nd Henry IV, ACT I, SC I [60-103]     40 GIBBON: Decline and Fall, 675d [n 83]; 756a
+    468d-469b                                              [n 43]
+ 27 SHAKESPEARE: King Lear, ACT I, SC II [112-          45 LAVOISIER: Elements of Chemistry, PREF, la-c
+    166] 249a-c                                         46 HEGEL: Philosophy of Right, PART I, par 78
+ 29 CERVANTES: Don Quixote, PART II, 381a-b                32d-33a / Philosophy of History, PART I,
+ 33 PASCAL: Pensees, 173 203b-204a                         218a-c
+ 35 BERKELEY: Human Knowledge, SECT 43-44               49 DARWIN: Descent ofMan , 298d-299b; 329a-b;
+    420d-421a; SECT 65-66 425d-426a; SECT 108-             592a
+    109 434a-b; SECT 146-154 442a-444b passim,          53 JAMES: Psychology, 650b; 683b-685a
+    esp SECT 148 442b-d                                 54 FREUD: General Introduction, 516b-c
+ 36 SWIFT: Gulliver, PART III, ll1a-b
+ 46 HEGEL: Philosophy of History, INTRO, 203a-c;       Ie. The invention of non-verbal symbols:
+    PART I, 235d-236c; 252c-d; PART II, 263d-                money, titles, seals, ceremonies, cour-
+    265c                                                     tesies
+ 47 GOETHE: Faust, PART II [4679-4727] 116b-              4 HOMER: Iliad, BK II [84-109] 10d-lla; BK
+    117b                                                   XVIII [478-613] 135a-136d
+ 48 MELVILLE: Moby Dick, 1a-3a; 115b-122b esp            5 AESCHYLUS: Seven Against Thebes [375-675]
+    120a-b; 135a-137a; 138b-145a; 204a-205a;               31b-34b / Agamemnon [905-957] 61c-62b
+    231a; 236a-238a; 331a-332a                           5 EURIPIDES: Hecuba [299-331] 355b-c / Phoe-
+                                                           nician Maidens [1098-II40] 387d-388a
+ld. The conventional notations of human lan-             6 HERODOTUS: History, BK IV, 146d-147a; BK
+      guage: man's need for words                          V, 174b; BK VIII, 264c; BK IX, 306b-c
+  OLD TESTAMENT: Genesis, 2:19-20; II :1-9               6 THUCYDIDES: Peloponnesian War, BK II,
+   6 HERODOTUS: History, BK II, 49a-c; BK v,               395c-d; BK V, 485b-c
+     171a-b                                              7 PLATO: Cratylus, 104d-105a
+   7 PLATO: Cratylus, 107c-114a,c / Phaedrus, 138c-      9 ARISTOTLE: Ethics, BK V, CH 5 [1I33B5-b291
+     139b / Philebus, 612d-613a                            380d-381c / Rhetoric, BK I, CR 5 [I36IB27-b2]
+   8 ARISTOTLE: Interpretation, CH I [I6B4-8] 25a /        601d-602a
+     Soul, BK II, CH 8 [420bI6-22] 652a                 17 PLOTINUS: Fifth Ennead, TR VIII, CH 6 242c-d
+  12 LUCRETIUS: Nature of Things, BK V [1028-           18 AUGUSTINE: Christian Doctrine, BK II, CH 1
+     1090] 74c-75b                                         636b,d-637a; CH 3 637c-d; CR 25 649b-d
+  15 TACITUS: Annals, BK XI, 103c-d                     19 AQUINAS: Summa Theologica, PART I-II, Q 2,
+  18 AUGUSTINE: Confessions, BK x, par 19 76a-b;           AA 1-2 615d-617b
+     BK XIII, par 34 119d-120b / City ofGod, BK X,      20 AQUINAS: Summa Theologica, PART III, Q 62,
+     CH 13, 307b / Christian Doctrine, BK II, CH 1-4       A I, ANS 858c-859d
+     636b,d-638a; CR 24 '648d-649a                      23 HOBBES: Leviathan, PART I, 73c-75d
+742                                      THE GREAT IDEAS                                           lito 2c
+                                                          18 AUGUSTINE: Christian Doctrine, BK II, CH 3
+(1. The theory of signs. Ie. The invention of non-           637c-d
+      verbal symbols: money, titles, seals, cere-         19 AQUINAS: Summa Theologica, PART I, Q 13, A
+      monies, courtesies.)                                   I, ANS 62c-63c; A 4, ANS and REP I 65c-66b;
+  24 RABELAIS: Gargantua and Pantagruel, BK I,               A 10, RllP 5 72c-73c; Q 27, A I, ANS 153b-
+     lld-14b; BK II, 101b-106a                               154b; Q 85, A 2, REP 3 453d-455b
+  25 MONTAIGNE: Essays, 215b-216b                         20 AQUINAS: Summa Theologica, PART I-II, Q
+  26 SHAKESPEARE: Richard II, ACT III, sc II [160-           93, A I, REP 2 215b,d-216c; PART III, Q 60,
+     177] 337b; ACT IV, SC I [181-211] 343b-c /              AA 6-8 851b-854d passim
+     King John, ACT IV, SC II [1-34] 394b-d /             31 DESCARTES: Discourse, PART V, 59c-60b
+     Merchant of Venice, ACT II, SC VII [48-60]           35 LOCKE: Human Understanding, BK II, CH XI,
+     416d; sc IX [20-52] 417d-418a; ACT III, SC II           SECT 9145b-c; CH XXXII, SECT 8 244d; BK III,
+     [73-1°7] 420d-421a / 1st Henry IV, ACT V,               CH II, SECT 5 253d-254a; CH III, SECT 13
+     sc IV [77-101] 465a-b / 2nd Henry IV, ACT III,          257c-258a; CH IV, SECT 2 260b; CH V, SECT 12
+     SC I [4-31] 482d-483a; ACT IV, sc V [21-47]             266d-267a; CH XI, SECT 24 305b-d
+     494c-d / Henry V, ACT IV, SC I [250-301]             35 BERKELEY: Human Knowledge, INTRO, SECT
+     554a-c                                                  18-19 410a-c.
+  27 SHAKESPEARE: Hamlet, ACT IV, SC V [175-186]          53 JAMES: Psychology, 18b
+     61c; ACT V, SC I [241-266] 66d-67a / Timon of
+     Athens, ACT I, SC II [15-18] 397a; ACT IV, SC       2. The modes of signification
+     III [23-44] 410d-411a / Winter's Tale, ACT IV,
+     sc IV [73-108] 508c-509a                            2a. The first and second imposition of words:
+  35 LOCKE: Civil Government, CH V, SECT 37                    names signifying things and names sig-
+     33a-b; SECT 46-51 35a-36a; CH XVI, SECT 184               nifying names
+     68b-d                                                 23 HOBBES: Leviathan, PART I, 57b; PART IV,
+  37 FIELDING: Tom Jones, 310c                                270a-b
+  38 MONTESQUIEU: Spirit of Laws, BK XVIII,
+     128b-c; BK XXII, 174b-175a                          2b. The first and second intention of names:
+  38 ROUSSEAU: Inequality, 341a-b                              words signifying things and words sig-
+  39 SMITH: Wealth of Nations, BK I, 10b-12c; BK               nifying ideas
+     II, 123b-d                                            19 AQUINAS: Summa Theologica, PART I, Q 29, A
+  40 GIBBON: Decline and Fall, 154d-155a; 240c-               I, REP 3 162a-163b; A 2, ANS 163b-164b; Q 30,
+     244c                                                     A 4, ANS 170c-171b; Q 85, A 2, REP 2 453d-
+  41 GIBBON: Decline and Fall, 75b-d; 178b; 307b;             455b
+     317b-319b; 322a; 389b-390a                            23 HOBBES: Leviathan, PART I, 57d-58a; PART IV,
+  43 MILL: Utilitarianism, 462c                               270a-b
+  46 HEGEL: Philosophy of Right, PART I, par 58            24 RABELAIS: Gargantua and Pantagruel, BK II,
+     27a; par 64 28c-d; par 78 32d-33a; PART III,             79c; BK III, 150a
+      par 164 59a-d; par 217 72b-c; ADDITIONS, 37          35 LOCKE: Human Understanding, BK III, CH II
+     122c; 40 122d-123b; 49 124b-c; 106 134a                  252d-254c passim; CH III, SECT II 257a-b; CH
+  48 MELVILLE: Moby Dick, 138b-139b; 385b                     IV, SECT 2 260b; CH V, SECT 12 266d-267a;
+  50 MARX: Capital, 40c-41a; 41d-44a; 44d-45c;                SECT 14 267b-c; CH VI, SECT 19, 273b; SECT
+      58a-60a                                                 48-50 282b-d; CH XI, SECT 10 302b; SECT 24
+  51 TOLSTOY: War and Peace, BK V, 198b-203a;                 305b-d
+      206b-c; 212a-c; 230b; 232a-233b; BK VI,              45 LAVOISIER: Elements of Chemistry, PREF, 4b-c
+      244b-c; 248b-249a; BK IX, 355b-c; BK X,              53 JAMES: Psychology, 127b-128a
+     423d-424a; 424c-d
+  52 DOSTOEVSKY: Brothers Karamazov, BK II,              2c. Intrinsic and extrinsic denominations: the
+     36b-c; BK VI, 147c-d; BK VII, 171a-c                      naming of things according to their
+  54 FREUD: Origin and Development of Psycho-                  natures or by reference to their rela-
+      Analysis, 4a-b / General Introduction, 510c;             tions
+      555a / New Introductory Lectures, 815c-d             OLD TESTAMENT: Genesis, 2:19-20
+                                                            7 PLATO: Cratylus 85a-114a,c / Theaetetus, 520b
+1/. Natural signs as the source of meaning in               8 ARISTOTLE: Categories, CH I [1"13-16] 5b /
+         conventional signs: thought as the me-               Topics, BK I, CH 15 [106"I-9]149d; [106b29-
+         dium through which words signify                     107"2] 150d-151a
+         things                                            19 AQUINAS: Summa Theologica, PART I, Q 13,
+      7 PLATO: Cratylus, 104d-1l4a,c / Seventh Letter,        AA 2-3 63c-65c; A 5, ANS 66b-67d; A 6, ANS
+        809c-810d                                             and REP 2-3 67d-68c; AA 7~8 68d-71b; A 10
+      8 ARISTOTLE: Interpretation, CH I [16"4-8] 25a          72c-73c; A II, REP 3 73c-74b; Q 29, A I, REP 3
+        / Soul, BK II, CH 8 [420b29-42 1"1] 652b /            162a-163b; A 4165c-167a; Q 34, A 3188b-189a;
+        Sense and the Sensible, CH I [437"11-17] 674a         Q 40, A 2, ANS 214b-215b
+2d to 3a                       CHAPTER 85: SIGN        AND SYMBOL                                     743
+  35 LOCKE: Human Understanding, BK II, CH xxv           7 PLATO: Euthydemus 65a-84a,c / Cratylus,
+     2l4d-2l7a passim; BK III, CH I, SECT 5 252b-c;        107d-109a / Phaedrus, l32c-133a; l38c-14la,c
+     CH VI 268b-283a passim                                / Republic, BK I. 297b-300b / Critias, 478c-d
+  3S BERKELEY: Human Knowledge, INTRO, SECT                / Theaetetus, 520b I Sophist, 552b-c / Philebus,
+     I5409a-b                                              609d-6l0a I Seventh Letter, 809c-810b
+                                                         8 ARISTOTLE: Topics, BK I, CH 15 l49d-152a;
+2d. Proper and common names                                CH 18 [1088I8'-36]152b-d; BK II, CH 3 l54d-
+   8 ARISTOTLE: Categories, CH 5 [2 aII-I8] 6a-b I         155d; BK VIII, CH 3 [I58b8-24] 215b; CH 7
+     Interpretation, CH 7 [17837-40] 26d I Sophis-         217c-d / Sophistical Refutations, CH I [165"5-
+     tical Refutations, CH 22 [I78b38-I79"1O] 246c /       13] 227b-c; CH 33 [I82bI3-3I] 251d / Heavens,
+     Metaphysics, BK VII, CH 10 [1035b28-32] 559b;         BK I, CHII [280bI-7] 371d-372a / Metaphysics,
+     CH I I [1037"5-9] 560c; CH IS [1040"8-I3]564a         BK I, CH 9 [992"1-9] SlOb; BK IV, CH 4 [1006"
+  19 AQUINAS: Summa Theologica, PART I, Q 13,              29-bI8] 525c-d; BK VII, CH II [I037a5-9] 560c;
+     A I, REP 3 62c-63c; A 9 7lb-72c; A II 73c-74b;        BK VIII, CH 3 [I043a29-b4] 567d / Soul, BK III,
+     Q 30, A 4 170c-171b; Q 33, AA 2-3 l8lc-183c;          CH 2 [425b26-426"26] 658a-c
+     Q 34, AA 1-2 185b-188a; Q 108, A 5., ANS and        9 ARISTOTLE: Parts of Animals, BK 11, CH 2
+     REP I 555d-558b                                       [648"37]-CH 3 [649b22] 172d-174b / Ethics, BK
+  20 AQUINAS: Summa Theologica, PART II-II, Q 9,           Y, CH I [Ii29aI8-3I] 376b-d / Politics, BK II,
+     A 2, ANS 424b-425a                                    CH 3 456c-457a; BK III, CH 3 [1276"8-24] 473a
+  22 CHAUCER: Second Nun's Prologue [15,553-               / Rhetoric, BK III, CH 2 [I404b38-39] 655b; CH
+     587] 462b-463a                                        5657d-658c
+  23 HOBBEs: Leviathan, PART I,S5b-c                    10 GALEN: Natural Faculties, BK I, CH 2, 168c
+  35 LOCKE: Human Understanding, BK I, CH I,            18 AUGUSTINE: Christian Doctrine, BK II, CH
+     SECT 15 98d-99a; BK 11, CH XI, SECT 9 l45b-c;         6 638a-d; CH 10 640d-641a; BK III 657a-
+      BK Ill, CH I, SECT 3 251d-252a; CH III, SECT         674d
+      1-9 254d-256c; SECT 11-12 257a-c; CH VI,          20 AQUINAS: Summa Theologica, PART III, Q 60,
+     SECT 42 280b-c                                        A 3, REP I 848d-849c
+  35 BERKELEY: Human Knowledge, INTRO, SECT             23 HOBBEs: Leviathan, PART I, 55b; 57d-58a;
+      Ii-I2 407b-408b; SECT IS 409a-b; SECT 18-19          60c; PART II, 100b; l27a; 135c; l57c; PART III,
+     410a-c; SECT 122 437b-c                               172a
+  35 HUME: Human Understanding, SECT XII, DIY           25 MONTAIGNE: Essays, 253c-254a; 284d-285a;
+      125, 507b [fn I]                                     5l7b-519a
+  36 STERNE: Tristram Shandy, 217b-221a; 351a-          26 SHAKESPEARE: Taming of the Shrew, ACT I,
+     353b                                                  sc II [I--\4]205b-c / Two Gentlemen of Verona,
+  38 ROUSSEAU: Inequality, 34lb-342b                       ACT I, SC I [7°-158] 230a-d / Romeo and Juliet,
+  45 LAVOISIER: Elements of Chemistry, PREF, 4b-c          ACT 11, sc IV [38-14°] 297d-298d / Richard II,
+  53 JAMES: Psychology, 310a-31la; 447b-448a               ACT II, sc I [69-99] 328b-d / Julius Caesar,
+                                                           ACT I, SC I [1-36] 568b,d
+2e. Abstract and concrete names                         27 SHAKESPEARE: Hamlet, ACT V, SC I [127-149]
+    8 ARISTOTLE: Prior Analytics, BK I, CH 34 66b-c        65d-66a
+  19 AQUINAS: Summa Theologica, PART I, Q 3,            30 BACON: Advancement of Learning, 60b-c I
+     A 3, REP I l6a-d; Q 13, A I, REP 2 62c-63c;           Novum Organum, BK I, APH 43 109d-llOa;
+     A 9, ANS 71b-72c; Q 31, A I, REP 5 171c-172b;         APH 59-60 112b-1l3a
+     Q 32, A 2 178a-179b; Q 39, AA 4-6 205c-209a;       31 DESCARTES: Meditations, II, 80d-8la / Objec-
+     Q 40, A 2, ANS .214b-215b; Q 54, A I, REP 2           tions and Replies, 208c-d
+     285a-d                                             31 SPINOZA: Ethics, PART II, PROP 47, SCHOL
+  23 HOBBES: Leviathan, PART I, 55b-c; 57a                 390c-391a
+  35 LOCKE: Human Understanding, UK III, CH VIII        35 LOCKE: Human Understanding, BK II, CH IV,
+     284b-285a                                             SECT 5, l31a; CH XIII, SECT II, 150d-151a;
+  38 ROUSSEAU: Inequality, 341b-c                          SECT 18 l52a-c; SECT 28 155a-b; CH XXIX,
+  53 JAMES: Psychology, 305a-308b; 689a                    SECT 6-12 234d-236c; BK III, CH VI, SECT 28
+  54 FREUD: General Introduction, 5l6b-c                   276a-b; SECT 30-31 276d-277c; SECT 47-51
+                                                           282a-283a; CH VII, SECT 4-6 283c-284b; CH
+3. The patterns of meaning in human discourse              IX 285a-291c; CH X, SECT 5 292d-293a; SECT
+                                                           22 297c-298a; CH XI, SECT 3-7 300b-30lc;
+3a. Verbal ambiguity: indefiniteness or multi-             SECT 9 30ld-302a; BK IV, CH III, SECT 19
+      plicity of meaning                                   3l8b-3l9a; CH VIII, SECT II 348b-c
+   5 ARISTOPHANES: Knights [960-1089] 482a-             35 BERKELEY: Human Knowledge, SECT 143
+     483c / Wasps [471-5°7] 5l3a-c / Birds [959-           44lc-d
+     99r] 554c-555a; [1372-14°9] 559b-c / Frogs         35 HUME: Human Understanding, SECT VII, DIV
+     [923-935J 575a-b / Plutus [I-55J 629a-d               48 470d-471c; SECT VIII, DIV 62-63 478b-d
+   6 HERODOTUS: History, BK I, llb-d; 2lb-22a           36 SWIFT: Gulliver, PART IV, l54a
+744                                      THE GREAT IDEAS                                      3b to 3c(3)
+                                                         18 AUGUSTINE: Confessions, BK v, par 24 34a-b;
+(3. The patterns of meaning in human discourse.             BK VI, par 6 36c-d / City of God, BK XVII, CH 3
+      3a. Verbal ambiguity: indefiniteness or               450c-451c; BK XX, CH 21, 549d / Christian
+      multiplicity of meaning.)                             Doctrine, BK II, CH lO 640d-641a; BK Ill, CH I
+  36 STERNE: Tristram Shandy, 234b-236b; 307b-              657b; CH S-37 659d-674d
+     308b                                                19 AQUINAS: Summa Theologica, PART I, Q I, AA
+  37 FIELDING: Tom Jones, 38d-398; 264b                     9-10 8d-lOc; Q 3, A I, REP 1-5 14b-15b; A 2,
+  38 MONTESQUlEU: Spirit of Laws, BK XII,                   REP 1-2 l5c-16a; A 3, REP I 16a-d; Q 13, A 2,
+     89c-d                                                  ANS and REP I 63c-64d; A 3 64d-65c; A 6,
+  42 KANT: Pure Reason, 113b-c / Practical Rea-             ANS and REP 2 67d-68c; A 10, CONTRARY 72c-
+     son, 294b-c; 315d-316a / Science of Right,             73c; Q 34, A r, ANS and REP 1,4 185b-187b; Q
+     400d                                                   67, A I 349d-350b; A 2, REP 3 350b-35la; Q
+  43 FEDERALIST: NUMBER 37, 120a-b                          68, A 4, ANS 358b-359b
+  43 MILL: Utilitarianism, 447b-d                        20 AQUINAS: Summa Theologica, PART I-II, Q lOO,
+  46 HEGEL: Philosophy of History, PART I, 218a-c           A 2, REP 2 252b-253a; PART III, Q 8, A I, REP 2
+  50 MARX: Capital, l04d [fn 4]                             756d-757c
+  53 JAMES: Psychology, 549b-550a                        23 HOBBES: Leviathan, PART I, 55b; 59d; 6lc;
+  54 FREUD: Interpretation of Dreams, 277d-278a             PART III, 176d-177d; l8ld; 193d-195d
+     / General Introduction, 5l7c-5l8b; 540c-            25 MONTAIGNE: Essays, 422c-423c
+     541b                                                28 HARVEY: Motion of the Heart, 267a-b
+                                                         30 BACON: Advancement of Learning, 65b-c
+3b. The distinction between univocal and                 35 LOCKE: Human Understanding, BK III, CH I,
+     equivocal speech                                       SECT 5 252b-c
+   8 ARISTOTLE: Categories, CH I [I aI-12] Sa / In-      35 BERKELEY: Human Knowledge, SECT 144
+     terpretation, CH I [I6&4-S] 25a / Topics, BK VI,       44ld
+     CH 10 [14S&z3~b4]202b-c / Metaphysics, BK I,        36 SWIFT: Gulliver, PART III, 114b-1I5b
+     CH 9 [990b33-99IaSl 509a-b; BK XI, CH 3             40 GIBBON: Decline and Fall, 775c-d [n 1731
+     [1060b31-36] 589a                                   42 KANT: Judgement, 547b-548c
+  19 AQUINAS: Summa Theologica, PART I, Q I,             53 JAMES: Psychology, 380a-381a; 689a-b
+     A 10, REP I 9c-10c; Q 13, A 5 66b-67d; A 10         54 FREUD: General Introduction, 510b-c; 512d-
+     72c-73c; Q 29, A 4, ANS and REP 4 165c-                513a
+     l67a
+  30 BACON: Advancement of Learning, 60b-c              3c(2) The same word used with varying
+  31 SPINOZA: Ethics, PART I, PROP 17, SCHOL 362c-            degrees of generality and specificity:
+     363c                                                     the broad and narrow meaning of a
+  35 LOCKE: Human Understanding, BK II, CH IV,                word
+     SECT 5, l31a; CH XXIX, SECT 9 235c-d; BK III,         9 ARISTOTLE: Ethics, BK V, CH 1-2 376a-378c /
+     CH IX, SECT IS-16 288d-289c; CH X, SECT 5               Poetics, CH 21 [1457b7-16] 693b
+     292d-293a; CH XI, SECT 3-7 300b-30lc; BK IV,         18 AUGUSTINE: Christian Doctrine, BK III, CH
+     CH VII, SECT IS 343d-344a; CH VIII, SECT II             34-3S 670c-672d
+     348b-c                                               19 AQUINAS: Summa Theologica, PART I, Q 27, A
+  35 HUME: Human Understanding, SECT VIII,                   2, ANS l54c-155b; Q 67, A I 349d-350b; A 2,
+     DIV 62-63 478b-d                                        REP 3 350b-35la; Q 6S, A 4 358b-359b; Q liS,
+  36 STERNE: Tristram Shandy, 307b-308b                      A 2, ANS 587c-588c
+  42 KANT: Science of Right, 400d                         20 AQUINAS: Summa Theologica, PART I-II, Q 49,
+  53 JAMES: Psychology, 875b-876a                            A I lb-2b; PART II-II, Q 9, A 2, ANS and REP 2
+                                                             424b-425a; Q IS6, A I, ANS 650c-651d
+3c. The types of equivocation                             39 SMITH: Wealth of Nations, BK II, 123b-d
+                                                          43 MILL: Utilitarianism, 447b-d
+3c(1) The same word used literally and figura-            54 FREUD: General Introduction, 509d
+         tively: metaphors derived from anal-
+         ogies or proportions and from other            3c(3) The same word used to signify an attri-
+         kinds of similitude                                  bute and its cause or effect
+      8 ARISTOTLE: Categories, CH I [l al-6] Sa /          8 ARISTOTLE: Topics, BK I, CH 15 [106"1-9]
+        Topics, BK VI, CH 2 [139b33-140a6]192d-193a          149d; [106b33-107"S] l50d-15la; BK V, CH 2
+      9 ARISTOTLE: Ethics, BK V, CH I I [1I38bS-14]          [129b30-13oal]180a / Metaphysics, BK IV, CH 2
+        387a,c / Rhetoric, BK III, CH 2 [1404b27-            [IO03"33-bll] 522b; BK VII, CH 4 [103°.31-
+       140Sb3] 655a-d; CH 3 [14 06b S]-CH 4 [1407"16]        b3 ] 553a-b; BK XI, CH 3 [1060b36-1061"7]
+       657a-d; CH 6 [14oS"2-9] 659a; CH 10-11 662c-          589a-b
+       666b / Poetics, CH 21 [1457bl-33] 693a-c; CH       19 AQUINAS: Summa Theologica, PART I, Q 13, A
+       2S [1461"S-20] 697c-d                                 5, ANS 66b-67dj A 6, ANS and REP 3 67d:68c;
+3d to 4c                       CHAPTER 85: SIGN AND SYMBOL                                               745
+     A 10, ANS 72e-73e; Q 16, A 6, ANS 98b-d; PART
+     I-II, Q 20, A 3, REP 3 713e-714e                  4b. The dependence of demonstration on univ-
+  20 AQUINAS: Summa Theologica, PART III, Q 6o,              ocal terms: formal fallacies due to
+     A I, ANS 847b-848a                                      equivocation
+                                                          8 ARISTOTLE: Prior Analytics, BK I, CH 34
+3d. The significance of names predicated of                 66b-e / Posterior Analytics, BK I, CH I I [77"5-9]
+       heterogeneous things: the analogical as              105d-l06a / Topics, BK VIII, CH 3 [IS8b8-I71
+       intermediate between the univocal and                215b / Sophistical Refutations, CH 4 [I6S b24-
+       the equivocal                                        166b21] 228b-22ge; CH 24 [I79b38-I80"71
+   8 ARISTOTLE: Interpretation, CH 3 [16bI9-26)             247d-248a / Heavens, BK I, CH II [280b l-7]
+     25d-26a / Topics, BK I, CH 15 149d-152a pas-           371d-372a / Metaphysics, BK IV, CH 4 [1006&
+     sim / Sophistical Refutations, CH 7 [169"22-25)        33-bI2] 525e-d
+     232d / Physics, BK I, CH 2 [18S"20]-CH 3             9 ARISTOTLE: Rhetoric, BK II, CH 24 [14°1"13-23]
+     [187"10) 260a-262a; BK VII, CH 4 [248b7-249"           650b
+     24] 331b-332b / Metaphysics, BK I, CH 9             12 EPICTETUS: Discourses, BK I, CH 7 112b-113d
+     [992bI8-24) 511a; BK III, CH 3 [998b22-27)          19 AQUINAS: Summa Theologica, PART I, Q I, A
+     sl7c; BK IV, CH 2 [1003b23-34] 522d; BK V, CH          10, REP I ge-l0e; Q 13, A S, ANS 66b-67d
+     6-7 536a-538b; CH 9 538e-539a; BK VII, CH I         23 HOBBES: Leviathan, PART I, 57d-58a; PART III,
+     550b,d-ssla; BK x, CH I [I052bI-IS) 578d-              172a
+     579a;'cH 2 580b-d; BK XI, CH 2 [I060"36-blO)        35 LOCKE: Human Understanding, BK III, CH IX,
+     s88e; BK XII, CH 4-5 599d-601a                         SECT 15-16 288d-28ge; CH X, SECT 22 297e-
+   9 ARISTOTLE: Ethics, BK I, CH 6 [1096"17-29)             298a; CH XI,SECT 7-26 301a-306d passim
+     341b-e                                              35 HUME: Human Understanding, SECT VIII, DIV
+  19 AQUINAS: Summa Theologica, PART I, Q 3, A 4,           62-63 478b-d
+     REP I 16d-17e; A 6, REP I 18e-19a; Q 4, A 3,        36 STERNE: Tristram Shandy, 307b-308b
+     ANS 22b-23b; Q 13, AA S--6 66b-68e; A 10
+     72e-73e; Q 29, A 4, REP 4 165e-167a               4c. The nature and utility of semantic analysis:
+  20 AQUINAS: Summa Theologica, PART I-II, Q 61,             the rectification of ambiguity; the clari-
+     A I, REP I 54d-55e                                      fication and precision of meanings
+  35 LocKE: Human Understanding, BK II, CH                7 PLATO: Protagoras, 52d-57a ! Euthydemus,
+     XIII, SECT 18 152a-e                                   68e-d / Cratylus, 107c-114a,c / Phaedrus,
+  42 KANT: Pure Reason, 181b-182b                           120a-b
+                                                          8 ARISTOTLE: Categories, CH I [1"I3-I6]5b; CH 7
+4. The determination of meaning in science                  [6b26-7bI4]llb-12b; CH 8 [IO"26-b II] 15b-c /
+      and philosophy                                        Topics, BK I, CH 15 149d-152a; CH 18 [108"18-
+                                                            3611s2b-d; BK II, CH 3 154d-155d; BK V, CH -I
+4a. The relation between univocal meaning                   [133bIS-I34"-I] 184d-185b; BK VI, CH 10 [1488
+      and definition                                        23-b22] 202b-203a / Sophistical Refutations,
+   7 PLATO: Sophist, s52b-e                                 CH 19-23 243d-247a ! Physics, BK VII, CH 3
+   8 ARISTOTLE: Categories, CH S [3"32-b9] 7e-d             [24Sb9-24684] 329a-b / Heavens, BK I, CH II
+     / Posterior Analytics, BK II, CH 13 [97 b37-39)        371d-372d; CH 12 [28I b2-IS] 373a-b / Meta-
+     133e / Toties, BK IV, CH 3 [123"27-29] 171d;           physics, BK I, CH 9 [992bI8-24] 511a; BK IV,
+     CH 6 [127 5-6] 177a; BK VI, CH 2 192e-193b;            CH 4 [1006833-b-l] 525e-d; BK V 533a-547d;
+     CH 10 [I48&22-b22] 202b-203a; BK VII, CH 4             BK IX, CH 7 [I049BI9-bl] 574d-s7sa / Soul, BK
+     [IS4&14-18] 20ge; BK VIII, CH 3 [IS8 b8-IS9&2]         II, CH 4 [4I6b20-2S] 647a
+     215b-e / Soul, BK I, CH I [402bl-8] 631e-d           9 ARISTOTLE: Ethics, BK V, GH I [II29BI8-3I]
+   9 ARISTOTLE: Parts of Animals, BK I, CH 2-3              376b-d
+     165d-167d                                           10 GALEN: Natural Faculties, BK I, CH I 167a-b
+  19 AQUINAS: Summa Theologica, PART I, Q 13,            12 EPICTETUS: Discourses, BK I, CH 17, 122d-123c
+     A I, ANS 62e-63e                                    18 AUGUSTINE: Christian Doctrine, BK III 657a-
+  23 HOBBES: Leviathan, PART I, 56b; PART IV,               674d
+     269b-e                                              19 AQUINAS: Summa Theologica, PART I, QQ
+  33 PASCAL: Geometrical Demonstration, 430b-               27-431s3a-237a,e passim; PART I-II, Q 22, A I,
+     434a                                                   ANS 720d-12lc
+  35 LOCKE: Human Understanding, BK III, CH XI,          20 AQUINAS: Summa Theologica, PART I-II, Q
+     SECT 12 302d                                           49, A I Ib-2b
+  35 BERKELEY: Human Knowledge, INTRO, SECT              23 HOBBES: Leviathan, PART I, 54e-58a; 58d-60a;
+     18410a-e                                               60e; PART II, 157c-d; PART IV, 269b-272bj
+  43 FEDERALIST: NUMBER 37, 120a-b                          273a-b; 274a-b
+  49 DARWIN: Descent of Man, 347a-e                      30 BACON: Advancement of Learning, 60b-c;
+  53 JAMES: Psychology, 121b-122a                           63a-b
+746                                    THE GREAT IDEAS                                            4d to 5a
+                                                         54 FREUD: General Introduction, 510b-d passim;
+(4. The determination of meaning in science and             566d-567b / Beyond the Pleasure Principle,
+      philosophy. 4c. The nature and utility of             662a-b
+      semantic analysis: the rectification of am-
+      biguity; the clarification and precision of      4e. The use of signs in reasoning: necessary
+      meanings.)                                             and probable signs; the interpretation of
+  33 PASCAL: Provincial Letters, 1a-14a / Geometri-          symptoms in medicine
+     cal Demonstration, 430b-434a                         7 PLATO: Protagoras, 59b-c
+  35 LOCKE: Human Understanding, BK III, CH I,            8 ARISTOTLE: Prior Analytics, BK II, CH 27 92a-
+     SECT 6 252c-d; CH V, SECT 16 267d-268a;                93a,c / Posterior Analytics, BK I, CH 6 [75&28-
+     CH VI, SECT 28 276a-b; CH IX, SECT 3 285b-c;           35]103b-c
+     SECT 15-16 288d-289c; CH XI 300a-306d pas-           9 ARISTOTLE: History of Animals, BK IV, CH 10
+     sim, esp SECT 7 301a-c                                 [537bI4-20] 64b; BK VII, CH 12 [588&9-12]
+  35 BERKELEY: Human Knowledge, SECT 122                    114c; BK VIII, CH 18 [60I b6-8] 127c; CH 21
+     437b-c                                                 [603b20-24] 129c; CH 23 [604&I8]-CH 24
+  35 HUME: Human Understanding, SECT VIII, DIV              [604b20] 130a-e/ Rhetoric, BK I, CH2 [1357&23-
+     62-63 478b-d; DIV 74 484a-c                            b24] 596d-597c; BK II, CH 24 [I40Ib8-I4] 650d;
+  36 STERNE: Tristram Shandv, 418a-419b                     CH 25 [I402bI3-I403&I7] 652b-653a
+  38 ROUSSEAU: Social Contr~ct, BK III, 419b-c           10 HIPPOCRATES: Prognostics 19a-26a,c esp par
+  42 KANT: Pure Reason, 115b-e / Practical Reason,          I 19a-b, par 25 26a,e / Regimen in Acute
+     294b-c; 339b-d / Judgement, 546d-547d                  Diseases, APPENDIX, par 9-14 38b-40d /
+  43 MILL: Utilitarianism, 465e-469b passim                 Epidemics, BK I, SECT II, par 5 46e-d; SECT III,
+  44 BOSWELL: Johnson, 81b-82c                              par I 49c-d; BK III, SECT III, par 16 59b-e /
+  45 LAVOISIER: Elements of Chemistry, PREF, 1a-c;          Injuries of the Head, par 5 65a / Articulations,
+     4a-5d; 7c                                              par 10 94d-95a; par 26 99a-b; par 30, 100a;
+  53 JAMES: Psychology, 121b-122b                           par 51 109a-b; par 54 lIla; par 57 111d-112b;
+                                                            par 59 113b / Instruments of Reduction, par
+4d. The use of metaphors and myths in science               4-24 122d-126c passim / Aphorisms, SECT I,
+      a.nd philosophy                                       par 12 131d; SECT II 132b-134a passim; SECT
+   7 PLATO: Protagoras, 44a-45a / Phaedrus, 124a-           IV, par 17-SECT Vi par 15 135d-138b; SECT
+     129d; 138c-139a / Symposium, 157b-159b /               V.. par 30-SECT VII, par 86 138d-144a,c pas-
+     Phaedo, 246d-250a / Gorgias, 260a-262a;                sim
+     292b-294d / Republic, BK VI-VII, 383d-391b;         19 AQUINAS: Summa Theologica, PART I, Q 57, A
+     BK x, 437e-441a,c / Timaeus, 444c-446b;                4, ANS 298a-299a
+     477a,c / Critias, 478b-d / Theaetetus, 542a-        23 HOBBES: Leviathan, PART I, 53d
+     544a / Sophist, 565a-b / Statesman, 586d-           24 RABELAIS: Gargantua and Pantagruel, BK III,
+     589c                                                   197a
+   8 ARISTOTLE: Posterior Analytics, BK II, CH 13        25 MONTAIGNE: Essays, 372b-373b; 531d-532b
+     [97b38-39] 133c / Topics, BK VIII, CH 3 [IS8b8-     30 BACON: Advancemellt of Learning, 49b-50b;
+     17] 215b                                                77d-78d
+   9 ARISTOTLE: Rhetoric, BK III, CH 2 [I404b27-         36 SWIFT: Gullit'er, PART III, 112b-113a; 114b
+     140Sb20] 655a-656a; CH 3 [14 06b S]-CH 4            37 FIELDING: Tom jones, 145b-146a
+     [1407&16] 657a-d; CH IO-I I 662c-666b               53 JAMES: Psychology, 324b
+  19 AQUINAS: Summa Theologica, PART I, Q I, A 9         54 FREUD: Origin and Development of Psycho-
+     8d-9c; Q 13, A 3 64d-65c;.A 6, ANS and REP 2            Analysis, 1b-2b / Hysteria, 31b-d; 38d-40a;
+     67d-68c; A 9, ANS and R.EP I 71b-72c; A 10             50b-c; 54b-55d; 56b-c; 60c-62c passim; 87a-
+     72c-73e; Q 34, A I, ANS and REP 1,4 185b-              90d esp 87b-d / Psycho-Analytic Therapy,
+     187b; Q 67, A I 349d-350b; A 2, REP 3 350b-            124b / General Introduction, 550d-557a esp
+     351a; Q 68, A 4, ANS 358b-359b                         556a-b; 593b-e; 605b-607b passim
+  20 AQUINAS: Summa Theologica, PART III, Q 60,
+     A 5, REP I 850b-851 b                             S. Symbolism in theology and religion
+  23 HOBBES: Leviathan, PART I, 57d-58a; 61e;
+     67c                                               Sa. Natural things as signs of divinity
+  25 MONTAIGNE: Essays, 422e-423c                        OLD TESTAMENT: Genesis, 9:8-17 / Job, 12:7-9;
+  28 HARVEY: On Animal Generation, 336d-337a                37-41/ Psalms, 8; 19:1-4; 75:1; 104; 135:6-7;
+  35 LOCKE: Human Understanding, BK III, CH I,              147:7-9-(D) Psalms, 8; 18:1-5; 74:2; 103;
+     SECT 5 252b-c                                          134:6-7; 146 =]-9
+  42 KANT: judgemellt, 575b-e                            ApOCRYPHA: Wisdom of Solomon, 13:I-S-(D)
+  45 FARADAY: Researches in Electricity, 758a-75ge;        OT, Book of Wisdom, 13:1-5 / Ecclesiasticus,
+     777d-778c                                              42:IS-43:33-(D) OT, Ecclesiasticus, 42:15-
+  49 DARWIN: Origin of Species, 40c-d; 242b                 43:37 / II Maccabees, 7:28-(D) OT, II
+  53 JAMES: Psychology, 153b; 686b-687b                     Machabees, 7:28
+5b                               CHAPTER 85: SIGN AND SYMBOL                                         747
+ NEW TESTAMENT: Matthew, 6:26-30 / Luke,                  5:13-6:20; 10:I2-14-(D) Josue, 3-4; 5:13-
+    12:24-28/ Romans, 1:18-20                             6:20; 10:12-14 / Judges, 6:1I-24,36-40; 7:13-
+  6 THUCYDIDES: Peloponnesian War, BK III,                15; 13 / I Samuel, IO:I~16; 12:12-20; 28-
+    438d-439a                                             (D) I Kings, 10:1-16; 12:12-20; 28 / I Kings,
+ 12 LUCRETIUS: Nature of Things, BK II [589-660]          13:4-6; 17; 18:16-39 esp 18:30-39; 19-(D)
+    22c-23b; BK v [IIO-145] 62c-63a                       III Kings, 13:4-6; 17; 18:16-39 esp 18:30-39;
+ 12 EPICTETUS: Discourses, BK I, CH 16-17                 19/ II Kings, 1-6 passim; 13:20-21; 20:1-11-
+    121d-124a; BK III, CH I 177a-c                        (D) IV Kings, 1-6 passim; 13:20-21; 20:1-11/
+ 12 AURELIUS: Meditations, BK XII, SECT 28                II Chronicles, 32:9-22 esp 32:21-22-(D) II
+    310a                                                  Paralipomenon, 32:9-22 esp 32:21-22 / Job,
+ 16 KEPLER: Epitome, BK IV, 853b-854a; 860a /             4:13-21; 38:1-42:8 / Psalms, 105 esp 105:16-
+    Harmonies of the World, 1009b-l0l0a; 1049b-           41; 135:8-12-(D) Psalms, 104 esp 104=16-41;
+    1050a; 1061a; 1080b-l085b passim                      134:8-'-12 / Isaiah, 6; 7:10-16; 38:1-8-(D)
+ 18 AUGUSTINE: City of God, UK XI, CH 24-28               Isaias, 6; 7:10-16; 38:1-8 / Jeremiah, 32:16-24
+    335c-338d; BK XVI, CH 26 438c-439a                    -(D) Jeremias, 32:16-24 / Ezekiel passim,
+ 19 AQUINAS: Summa Theologica, PART I, Q I, A             esp 1-3, 1I:22-24, 40:1-48:35-(D) Ezechiel
+    10, ANS and REP I 9c-l0c; Q 3, A I, REP 1-514b-       passim, esp 1-3, II :22-24, 40:1~48:35 /
+    15b; Q 12, A 3, REP 2-3 52c-53b; Q 13, A 2            Daniel, 2-12 passim-CD) Daniel, 2 :1-3 :23
+    63c-64d; A 4, ANS 65c-66b; Q 27, A I, ANS             passim; 3:91-12:13 passim / Hosea, 1-3-(D)
+    153b-154b; Q 34 185a-189a; Q 47, AI, ANS              Osee, 1-3 / Amos, 7-8 / Jonah-(D) Jonas /
+    and REP 2 256a-257b; Q 65, A I, REP 3 339b-           Zechariah, 1--6-(D) Zacharias, 1-6
+    340b; Q 103, A I, ANS 528b-529a                    ApOCRYPHA: Rest of Esther, 10-I1-(D) OT,
+ 20 AQUINAS: Summa Theologica, PART III, Q 12,            Esther, 10:4-I1 :12 / Bel and Dragon, 30-42-
+    A 3, REP 2 778b-779a; Q 60, A 2, ANS and REP          (D) OT, Daniel, 14:3°-42 / II Maccabees,
+    I 848a-d; A 5, REP I 850b-851b; PART III              1:18-22; 15 :II-17-(D) QT, II Machabees,
+    SUPPL, Q 92, A 2 1032b-l034b                          1:18-22; 15:II-17
+ 21 DANTE: Divine Comedy, PARADISE, XXVIII             NEW TESTAMENT: Matthew passim, esp 1:20-21,
+    [1-78] 148d-149c                                      2:12-13, 2:19-23, 8:1-17, 8:23-9:8, 9:18-34,
+ 23 HOBBES: Leviathan, PART I, 78d-79a; 81a-c             10:1,12:22-29,12:38-4°,14:13-33,15:22-16:
+ 25 MONTAIGNE: Essays, 212a-c                             4, 17:1-8, 17:14-20, 20:29-34 I Mark passim,
+ 28 HARVEY: On Animal Generation, 421d; 490d-             esp 1:23-2:12, 5:1-43, 7:24-8:26, 9:I-g, 9:16-
+    494a esp 491a-b, 492c-493a                            29, 10:46-:>2, 16:16-18 / Luke passim, esp
+ 30 BACON: Advancement of Learning, 2c-4c; 38a;           1:5-66, 4:33-5:26, 7:1-23, 8:22-56, 9:28-43,
+    41b-d / New Atlantis, 203a-b                          II :r6, II :29, 14:I-6, 17:1I-19, 18:35-43 /
+ 32 MILTON: Paradise Lost, BK VIII [II 4-13°]             John passim, esp 1:43-2:1I, 2:18, 2:22, 3:14-18,
+    234b-235a; BK IX [780-794] 264b; [990-1004]           4:46-54,5:36,6:3°,9:1-41,11:1-48,12:27-3°,
+    269a; BK XI [181-207]303a-b                           12:37-40, 20:1-g / Acts passim, esp 2:1-24,
+ 33 PASCAL: Pensees, 643-646 290b-291b; 652-              3:2-11,5:15-24,7:55-56,8:6-8,8:13, '9:3-8,
+    657 292a-293a; 670 295a-b; 675 296b-297a;             9:33-42, 10:1-48, 13:9-12, 14:7-10, 18:9-11 ,
+    693-736301b-317b                                      19:I1-20, 20:9-12, 28:3-10 / I Corinthians,
+ 35 BERKELEY: Human Knowledge, SECT 32                    1:22-24 / Hebrews, 2:3-4 / Revel'ation-(D)
+    418d-419a; SECT 146-154 442a-444b passim,             Apocalypse
+    esp SECT 148 442b-d                                 4 HOMER: Iliad, BK I [33-100] 3b-4b; BK II [1-
+ 37 FIELDING: Tom Jones, 186c-d                           83]10a-d; [301-332]13a~b; BK VIII [167-183]
+ 40 GIBBON: Decline and Fall, 81d; 346d-347a              52d-53a; [245-252] 53c-d; BK XII [195-25°]
+ 42 KANT: Pure Reason, 187a-190a                          84a-d / Odyssey, BK II [146-2°7] 189c-190b;
+ 46 HEGEL: Philosophy of History, PART I, 228a-c;          UK IV [787-841] 207a-d; BK XVII [541-55°]
+    235d-236c; 252a-255b; PART II, 263d-265c;             282d; BK XIX [509-581] 294c-295a,c; BK xx
+    266a-267a; 268b-271c                                   [91- I2I ] 297a-b; [24°-246] 298c; [345-357]
+ 47 GOETHE: Faust, PART I [3432-3468] 84a-b               299d; BK XXIV [520-548] 322c-d
+ 51 TOLSTOY: War and Peace, BK VI, 248d-249a            5 AESCHYLUS: Persians [176-230]17a-c / Seven
+                                                           Against Thebes [24-29] 27b / Prometheus
+5b. Supernatural signs: omens, portents, visita-           Bound [484-499] 45a; [645-668] 46d-47a /
+      tions, dreams, miracles                              Agamemnon [1°4-159] 53a-d / Choephoroe
+     OLD TESTAMENT: Genesis, 4:1-16 esp 4:14-15;           [514-552] 75a-c
+       9:8-17; 28:10-22; 37:1-II; 40-41 / Exodus,       5 SOPHOCLES: Oedipus the King [976-g86]108b
+       3:1-4:9; 7-17 passim; 31:18; 32:15-16; 40:34-       / Oedipus at Colonus [1447-1666] 127b-129b
+       38-(D) Exodus, 3:1-4 :9; 7-17 passim; 31 :18;       / Antigone [988-1°97] 139c-140c / Electra
+       32:15-16; 4°:32-36/ Numbers, 9:15-23; 11-12;        [4°4-515]159b-160a
+       16-17; 20:1-13; 22; 26:9-11 / Deuteronomy,       5 EURIPIDES: Iphigenia Among the Tauri [42-
+       4:9-14,32-39; 5:22- 27; 6:20-25: 7:17-23;           60] 411c-d; [1234-12831422b-c
+       10:20-11 :9; 13:1-5; 28:1-29:9 / Joshua, 3-4;    5 ARISTOPHANES: Birds [7°8-722] 551d-552a
+748                                    THE GREAT IDEAS                                         5b to 5c
+                                                       26 SHAKESPEARE: Julius Caesar, ACT I, sc III
+(5. Symbolism in theology and religion. 5b. Super-        [1-71] 572e-573b; ACT IV, sc III [275-289]
+       natural signs: omens, portents, visitations,       591c; ACT V, SC I [71-89] 592d
+       dreams, miracles.)                              27 SHAKESPEARE: Hamlet, ACT I, sc I [64-1251
+   6 HERODOTUS: History, BK I, 4d; 8a-b; 12b-d;           30b-31a / Macbeth, ACT II, sc IV [1-20] 294a-b
+     17a-b; 18b; 20d-21a; 38a-b; 3ge-40a; BK II,          / Cymbeline, ACT V, SC IV [91-122] 482a-b
+     60d-61b; 79a-e; 83b-e; 86e-87a; BK III, 90d-      29 CERVANTES: Don Quixote, PART II, 381a-b
+     91a; 95d; 116a-b; BK IV, 124d-125a; 126d-         30 BACON: Advancement of Learning, 8e; 19b;
+     127a; 135b-e; 138a-bi 150b-d; 154e-d; 155b-e;        41 b-e; 54e-d; 55b-d / New Atlantis, 202e-
+     BK V, 170e-d; 176e-d; 183d-184a; BK VI,              203e
+     190e-d; 200d-20la; 204b-e; 208b; BK VII,          32 MILTON: Paradise Lost, BK I [594-599] 106b;
+     219a-e; 238d-239a; BK VIII, 266b-d; 267a;            BK V [28-128] 176a-178a; BK XI [193-366]
+     270e-271a; 283d; BK IX, 289d-290a; 302e;             303b-307a / Areopagitica, 389a-b
+     309d-310a; 313d-314a                              33 PASCAL: Pensees, 803-856 328b-341b passim
+   7 PLATO: Euthydemus, 66a / Apology, 207b-e;         35 LOCKE: Human Understanding, BK IV, CH XVI,
+     211a-b / Timaeus, 467a-e                             SECT 13 371a-b; CH XIX, SECT IS 388a-e
+   8 ARISTOTLE: Prophesying 707a-709a,e                35 BERKELEY: Human Knowledge, SECT 63
+   9 ARISTOTLE: History of Animals, BK III, CH I I        425b-e
+     [5I8a32-36] 43a; CH 20 [522aI3-19] 47a-b          35 HUME: Human Understanding, SECT X, DIV
+  12 LUCRETIUS: Nature of Things, BK V [1161-             92-101 491e-497b esp DIV 98-101 495d-497b
+     1240] 76b-77b; BK VI [43-79] 80d-81b; [379-       40 GIBBON: Decline and Fall, 180b-c; 189b-190d;
+     422] 85b-d                                           206b-d; 294a-296b; 445d-446b; 465d-467a;
+  12 EPICTETUS: Discourses, BK I, CH 17, 123c-            547a-b; 571a; 605b-d; 614b-e
+     124a; BK III, CH I, 177a-b                        41 GIBBON: Decline and Fall, 232a-c; 398b-399b
+  13 VIRGIL: Aeneid, BK I [387-401] 113b-114a;         44 BOSWELL: Johnson, 126b-c
+     BK 'II [162-233] 128b-130b; [679-704] 143b-       47 GOETHE: Faust, PART I [430-513] 12b-14b
+     144a; BK III [90-101] 149b-150a; [135-191]        51 TOLSTOY: War and Peace, BK IX, 377b-379a;
+     150b-152b; [388-393] 157b-158a; [523-547]            BK XII, 561 b-562a
+     161b-162a; BK VI [190-21 I] 216a-b; BK VII        52 DOSTOEVSKY: Brothers Karamazov, BK I,
+     [59-80] 237b-238a; BK VIII [26-89] 259b-             11a-b; BK V, 12ge-135a
+     261b; [520-540] 273a-b;BK XII [244-265]           54 FREUD: Interpretation of Dreams, 138a-e /
+     360b-361a                                            General Introduction, 477b-e
+  14 PLUTARCH: Numa Pompilius, 52b-e / Popli-
+     cola, 82a-b / Timoleon, 198e-d / Pelopidas,      5c. The symbolism of the sacraments and of
+     239d-240e / Aristides, 268a-d / Sulla, 371d-           sacramental or ritualistic acts
+     372e / Lucullus, 404d-405a; 405e / Agesilaus,     OLD TESTAMENT: Genesis, 17:9-14 / Exodus, 12:1-
+     483a-b / Alexander, 568a-b / Demosthenes,            13:16; 20:8-11; 24:5-8; 31:13-17 / Leviticus
+     698b-699a / Dion, 781d-782a / Marcus                 passim, esp 16, 23 / Numbers, 15:37-41; 16:37-
+     Brutus, 818a-b; 822b                                 40 / Deuteronomy,s :12-15; 6:5-9; I I :18-21;
+  15 TACITUS: Annals, BK I, 9a-b; BK II, 26e; 27b;        16:1-17 / Joshua, 4:1-9-(D) Josue, 4:1-9 /
+     BK IV, 79b; BK VI, 95d-96a; BK XI, lOSe; BK          Esther, 9:20-32 / Ezekiel, 20 :12,20-(D)
+     XII, 112d-113a; 119b; 124b; BK XIV, 149b-c; BK       Ezechiel,20:12,20
+     XV, 168d-169a / Histories, BK I, 206a; 212d-      ApOCRYPHA: Rest of Esther, 16:20-22-(D) OT,
+     213a; BK II, 228a-b; 235a-e; BK III, 256d;           Esther, 16:20-22/ II Maccabees, I :18-22-(D)
+     BK IV, 293a-294a                                     OT, II Machabees, 1:18-22
+  18 AUGUSTINE: Confessions, BK III, par 19-20         NEW TESTAMENT: Matthew, 26:26-28 / Mark,
+     18b-19a / City of God, BK x, CH 8 303a-d; CH         14:22-24/ Luke, 22:19-20/ John, 3:3-7; 6:30-
+     12-13 306d-307e; CH 16-18 308b-310d; BK XI,          59/ Acts, 2:38-39; 22:16/ Romans, 6:3-4/ 1
+     CH 2, 323b; BK XXII, CH 8-10 59ld-599b               Corinthians, 10:16-17; I I :23-27
+  19 AQUINAS: Summa Theologica, PART I, Q 51, A        18 AUGUSTINE: City of God, BK X, CH 5-6 301b-
+     2, REP I 276b-277a; Q 104, A 4, ANS 538a-e;          302d; CH 19-20 310d-311e; BK XVI, CH 26
+     Q 105, A 7 544a-d; Q 106, A 3, ANS and REP 2         438c-439a; BK XXI, CH 20 575c-d; CH 25
+     547c-548b; Q IIO, A 4567e-568b                       579d-581a / Christian Doctrine, BK II, CH 3
+  21 DANTE: Divine Comedy, PURGATORY, IX [13-             637c-d; BK III, CH 5-9 659d-661e; BK IV, CH
+     69] 66a-e; XIX [1-63] 8le-82a; XXVII [91-108]        21,690d-691b
+     95e                                               19 AQUINAS: Summa Theologica, PART I, Q 92,
+  22 CHAUCER: Troilus and Cressida, BK V, STANZA          A 3, ANS 490c-491 b
+     52-55 127a-b; STANZA 177-186 143b-144b;           20 AQUINAS: Summa Theologica, PART I-II, QQ
+     STANZA 207-219 147a-149a; STANZA 245 152a            101-103 265d-304a; PART III, QQ 60-65 847a-
+  23 HOBBES: Leviathan, PART I, 51b-52a; 80b-d;           884a,e
+     81d-82b; PART II, 160b; PART III, 165d-167a;      22 CHAUCER: Parson's Tale, par 1-22 495a-510b
+     177a-c; 183b-187a; 188a-191a                         esp par 22, SlOb
+5d to 5f                        CHAPTER 85: SIGN AND SYMBOL                                            749
+  23 HOBBES: Leviathan, PART Ill, 177d-178a;                Lysistrata [762-780] 593a-b / Plutus [I-55]
+     180c-d; 206c-207a; 2Uc-212a; PART IV, 249b-            629a-d
+     250c; 263d-264a                                      6 HERODOTUS: History, BK I, llb-c; 2Ib-22a;
+  32 MILTON: Paradise Lost, BK XII [436-445]                BK VI, 199d-201a; BK IX, 295d-296c
+     328b-329a                                            6 THUCYDIDES: Peloponnesian War, BK II,
+  33 PASCAL: Provincial Letters, 71b-80b; 128b-             392a-b; 401a-b
+     137b / Pensees, 862, 343a; 870 344a-b; 923           7 PLATO: Apology, 201d-203a
+     351b                                                18 AUGUSTINE: Confessions, BK III, par 9 15a-b;
+  35 HUME: Human Understanding, SECT V, DIV 41,             BK V, par 24 34a-b; BK VI, par 6 36c-d; BK
+     468a-b; DIV 43, 468c                                   XII, par 32-36 107a-I08c; BK XII, par 41-BK
+  40 GIBBON: Decline and Fall, 82a; 294b-d                  XIII, par 53 UOa-125a,c / City of God, BK XI,
+  41 GIBBON: Decline and Fall, 83d; 334b                    CH 30-32 339c-340d; BK XIII, CH 21 37Ia-c;
+  46 HEGEL: Philosophy of History, PART IV, 331d-           BK XV, CH 2-3 398c-399c; CH25-27419a-421d;
+     332c; 338a-d                                           BK XVI, CH 2 422b-423d; CH 6 426c-427a;
+  51 TOLSTOY: War and Peace, BK V, 198b-203a;               CH 37 444b-445a; BK XVII, CH 3 450c-45Ic;
+     BK VI, 244b-c; 248b-249a                               BK XVIII, CH 42-44 496d-498c; BK XX 530a-
+  54 FREUD: General Introduction, 512a                      560a,c esp CH 21, 549d, CH 28-29 556c-557c /
+                                                            Christian Doctrine, BK HII 624a-674d
+Sd. The symbolism of numbers in theology                 19 AQUINAS: Summa Theologica, PART I, Q I,
+  OLD TESTAMENT: Exodus, 20:8-11                            AA 9-10 8d-10c; Q 3, A r, REP 1-5 14b-15b;
+  ApOCRYPHA: Wisdom of Solomon, II:20-(D)                   Q 29, A 3, REP I 164c-165c; Q 51, A 2, REP I
+     OT, Book of Wisdom, II :21                             276b-277a; QQ 65-74 339a-377a,c passim, esp
+  NEW TESTAMENT: Revelation-(D) Apocalypse                  Q 68, A I, ANS 354a-355c, A 2, ANS 355d"357a
+  14 PLUTARCH: Numa Pompilius, 56d-57a                   20 AQUINAS: Summa Theologica, PART II-II, Q I,
+  16 KEPLER: Epitome, BK IV, 853b-854a / Har-               AA 9-10 388d-390d; PART III, Q 60, A 4, ANS
+     monies of the World, 1049b-1050a; 1077b                849c-850b; A 5, REP I 850b-851 b
+  18 AUGUSTINE: Conftssions, BK III, par 16, 17c I       21 DANTE: Divine Comedy, PARADISE, IV [28-48]
+     City of God, BK XI, CH 30-31 339c-340b;                Ula
+     BK XII, CH 18 354b-d; BK XV, CH 20, 414d-           23 HOBBES: Leviathan, PART I, 70c-71a; PART II,
+     415b; BK XX, CH 7 535b-536d; BK XXII, CH 30,           160b-c; PART III, 165a-188a; 19Ib-199a; 215b-
+     618c-d / Christian Doctrine, BK II, CH 16, 644d-       216b; 246c; PART IV, 247a-258b; 259a-260c
+     645d; BK III, CH 35 672a-d                          27 SHAKESPEARE: Cymbeline, ACT V, SC v [426-
+  19 AQUINAS: Summa Theologica, PART I, Q 5,                485] 488b-d
+     A 5, REP I 26c-27c; Q 74, A 3, REP 3 375a-          30 BACON: Advancement of Learning, 2c-4c; 17b-
+     377a,c                                                 20a; 98a-lOOb
+  20 AQUINAS: Summa Theologica, PART III SUPPL,          33 PASCAL: Provincial Letters, 78b-80b; 163a-
+     Q 96, A 4 1054b-1055c                                  164b / Pensees, 570-588 273b-277b; 642-692
+  21 DANTE: Divine Comedy                                   290b,301a; 775 323b-324a
+  36 STERNE: Tristram Shandy, 259a-b                     35 LocKE: Toleration, 21c-22d / Human Under-
+  51 TOLSTOY: War and Peace, BK VI, 248b-c; BK              standing, BK III, CH IX, SECT 9 286d-287b;
+     IX, 377c-378c                                          SECT 23 291b-c; CH x, SECT 12 294b-c
+  54 FREUD: General Introduction, 5Uc                    36 STERNE: Tristram Shandy, 256a-258a
+                                                         41 GIBBON: Decline and Fall, 329d-330a
+5e. The interpretation of the word of God                42 KANT: Judgement, 547b-d
+  OLD TESTAMENT: Daniel, 2:47; 5:5-28                    43 MILL: Liberty, 290a-b
+  NEW TESTAMENT: Matthew, 12:1-12; 13; 15:10-            47 GOETHE: Faust, PART I [1220-1237]30a-b
+     20; 18:23-35;19:3-9; 20:1-16; 21:28-45; 22:1-       51 TOLSTOY: War and Peace, BK IX, 377c-378c
+     14,31-32; 25:1-30 / Mark, 2:23-28 ; 4:1-34;         52 DOSTOEVSKY: Brothers Karamazov, BK V,
+     10:2-9; 12:1-12,18-27 / Lu~, 6:1-5,39-49;              129c-135a; BK VI, 150d-153d
+     8:4-18 ; 12:16-21,36-48 ; 14:7-II ,15-33; 15-
+     16; 18:1-8; 19:II-27; 20:9-19,37-38 / John,        5/. The names of God: the use of words to
+     5:38-39,46-47; 10:1-14,33-36 / Acts, 7; 13:16-            signify the divine nature
+     36/ Romans, 4; 9-II passim; 12:19-20; 14:10-         OLD TESTAMENT: Exodus, 3:13-14; 6:2-3; 15:3;
+     13; 15:1-4 / Galatians, 3-4 passim / I Peter,           20:7; 34:5-7,14 / Leviticus, 19:12; 21:6; 22:32
+     1:10-16; 2:5-8 / II Peter, 1:19-21                      / Deuteronomy, 5:II; 28 :58-59 / II Samuel,
+   5 AESCHYLUS: Prometheus Bound [645--668] 46d-             22:2-3; 23:3-(D) II Kings, 22:2-3; 23:3 /
+     47a                                                     Psalms, 8 esp 8:9; 68:4; 83:15-18; 135 :13-(D)
+   5 SOPHOCLES: Oedipus theKing [463-512]103c-d;             Psalms, 8 esp 8:10; 67:5; 82:r6-19; 134:13 /
+     [1432- 1445]1l2b-c                                      Isaiah, 41:4; 42:8; 44:6; 47:4; 48 :2 ; 51:15;
+   5 ARISTOPHANES: Knights [40-222] 470c-472c;               54:5; 63: 16-(D) Isaias, 41:4; 42:8 ; 44:6;
+     [960-1089] 482a-483c / Peace [1043-1126]                47:4; 48 :2; 51:15; 54:5; 63: 16 / Jeremiah,
+     537d-539a / Birds [959-991] 554c-555a /                 10:16; 16:21; 23:6; 31:35; 32:18; 33:2 ; 50:34;
+750                                     THE GREAT IDEAS                                          6 to 6c
+                                                         5 EURIPIDES: Iphigenia Among the Tauri [42-
+(5. Symbolism in theology and religion. 5f. The            66) 411c-d
+      names of God: the use of words to signify the      6 HERODOTUS: History, BK I, 25b-d; 28c-29a;
+      divine nature.)                                      47a-c; BK II, 78d; BK VII, 218b-220b esp
+     5I:I9-(D) Jeremias, 10:16; 16:21; 23:6;               219a-c
+     31:35; 32 :18 ; 33:2 ; 50:34; 51:19 / Daniel,       7 PLATO: Crito, 213b-d / Phaedo, 221d-222a
+     7:9,13/ Amos, 4: 1 3; 5:8; 9:6                      8 ARISTOTLE: Prophesying 707a-709a,c esp CH 2
+  ApOCRYPHA: Wisdom of Solomon, I4:20-2I-(D)               [464b7-I8] 709c
+     OT, Book of Wisdom, 14:20-21                       14 PLUTARCH: Pvrrhus, 329c-d / Cimon, 398d-
+  NEW TESTAMENT: Matthew, 6:9/ Luke, II:2 /                399b / Eume'nes, 473a-b / Alexander, 548d-
+     Revelation, 1:8; 21:6; 22:I3-(D) Apocalypse,          549a / Demosthenes, 702c-703b / Demetrius,
+     1:8; 21 :6; 22:13                                     727b-d
+   5 AESCHYLUS: Agamemnon [160-183] 53d-54a             21 DANTE: Divine Comedy, PURGATORY, IX [13-
+   6 HERODOTUS: History, BK II, 49d-50a; 60a-d;            69] 66a-c; XIX [1-63] 81c-82a; XXVII [91-108]
+     80a-c; BK IV, 134a                                    95c
+   7 PLATO: Cratylus, 91c-d; 93d-97d                    22 CHAUCER: Troilus and Cressida, BK V, STANZA
+  18 AUGUSTINE: Christian Doctrine, BK I, CH 6             52-55 127a-b; STANZA 177-186 143b-144b;
+     626a-b                                                STANZA 207-219 147a-149a; STANZA 245 152a
+  19 AQUINAS: Summa Theologica, PART I, Q 3,               / Nun's Priest's Tale [14,898-15,162] 451a-
+     A 2, REP 1-2 15c-16a; A 3, REP I 16a-d; A 6,          455b
+     REP I 18c-19a; Q 4, A I, REP I 20d-21b; A 3,       25 MONTAIGNE: Essays, 533d-534a
+     ANS 22b-23b; Q 5, A 2, REP I 24b-25a; Q 13         26 SHAKESPEARE: 2nd Henry VI, ACT I, SC II
+     62b-75b; Q 14, A I, REP 1-2 75d-76c; PART             [17-55] 36c-37a / Richard III, ACT I, SC IV
+     I-II, Q 14, A I, REP 2 677b-678a; Q 47, A I,          [1-74] 114d-115b / Romeo and Juliet, ACT I,
+     REP I 819c-820b                                       SC IV [49-1°31 291a-c / Midsummer-Night's
+  21 DANTE: Divine Comedy, PARADISE, IV [28-48]            Dream, ACT II, SC II [145-156] 360b-c / Julius
+     IlIa; XXVI [124-138] 147a-b; xxx [34-99]              Caesar, ACT II, SC II [58-1°7] 578d-579b
+     152a-d                                             27 SHAKESPEARE: Macbeth, ACT V, SC I 306b-
+  23 HOBBEs: Leviathan, PART I, 54b; 78d-79a;              307a / Cymbeline, ACT V, SC IV [30-150] 481c-
+     79d-80b passim; PART II, 162a-163b; PART III,         482c; sc V [426-485] 488b-d
+     172d-173a; 183d-184a                               32 MILTON: Paradise Lost, BK V [28-128] 176a-
+  25 MONTAIGNE: Essays, 238d-239b                          178a esp [100-I09J 177b
+  28 HARVEY: On Animal Generation, 443c                 46 HEGEL: Philosophy of History, PART II, 263d-
+  31 SPINOZA: Ethics, PART I, PROP 17, SCHOL 362c-         265c
+     363c                                               48 MELVILLE: Moby Dick, 19a-20a
+  34 NEWTON: Principles, BK III, GENERAL SCHOL,         51 TOLSTOY: War and Peace, BK II, 86a; BK VI,
+     370a-371a                                             249a-250a; BK XI, 481a-482a; BK XII, 561b-
+  35 LOCKE: Human Understanding, BK II, CH XIII,           562a; BK XIV, 608a-b; EPILOGUE I, 673d-
+     SECT 18 152a-c                                        674a,c
+  38 ROUSSEAU: Social Contract, BK IV, 435b             54 FREUD: Origin and Development of Psycho-
+  42 KANT: Pure Reason, 176a-b                             Analysis, lla-13a esp lld-12c / Interpretation
+  47 GOETHE: Faust, PART I [3432-3468] 84a-b esp           of Dreams, 173a-174d; 178a-205c esp 178a-
+     [3455-3457184b                                        179c, 189b-190a, 194b-d, 197b-198d, 204c-d;
+  51 TOLSTOY: War and Peace, BK VI, 248d                   230b-231c; 252c-340a esp 252c-253a, 264c-
+                                                           272c, 282a-285b,332a-333b,339b-340a;356d-
+6. Symbolism in psychological analysis                     373a passim / General Introduction, 476a-478b;
+  54 FREUD: Origin and Development of Psycho-              489c-494d esp 492d-493c; 504d-526c esp
+     Analysis, 9b-14a esp 9d, 10d-lla, 12c-d, 13c-d        504d-506c, 518d-519d; 539c-544d esp 539c-
+     / Psycho-Analytic Therapy, 123d-124a / Inter-         540a, 541b / New Introductory Lectures, 808d-
+     pretation of Dreams, 279b-291c / General Intro-       817a esp 809b, 810b-d, 812d, 813d-814b
+     duction, 504d-513d esp 508c-513b; 526d /
+     Civilization and Its Discontents, 778b,d [fn 2]   6b. The symbolism of apparently normal acts:
+     / New Introductory Lectures, 815a-816b; 848c-           forgetting, verbal slips, errors
+     849b                                                54 FREUD: Origin and Development of Psycho-
+                                                            Analysis, 13a-c / General Introduction, 453b-
+6a. The symbolism of dreams: their latent and               476a,c esp 467d-468a; 546b-547a / New Intro-
+       manifest content                                     ductory Lectures, 852a-b
+   4 HOMER: Odyssey, BK XIX [509-581] 294c-
+     295a,c    .                                       6c. The symbolism of anxieties, obsessions,
+   5 AESCHYLUS: Persians [176-230] 17a-c /                   and other neurotic manifestations
+     Choephoroe [523-552] 75b-c                           5 EURIPIDES: Orestes [1-423] 394a-398b esp
+   5 SOPHOCLES: Oedipus the King [977-982)108b              [255-259] 396c, [385-400] 397c-398a
+6c                             CHAPTER 8S: SIGN AND SYMBOL                                          7S1
+  12 LUCRETIUS: Nature of Things, BK III [978-            370b-c / Repression, 425c-427a,c/ Unconscious,
+     10231 42d-43b                                        440b-442b / General Introduction, SSOd-SS7a;
+  27 SHAKESPEARE: Macbeth, ACT v, SC I 306b-              SS8d-S62c esp SS9d-560a, 562b-c; 568a-S69c;
+     307a                                                 571d-572c; S93b-S94c; S96d-597b; 609c-615b
+  54 FREUD: Origin and Development of Psycho-             esp 612c-d, 61Sa- b / Inhibitions, Symptoms.
+     Analysis, 1b-Sa esp 3a, 4a; 3b-9a / Hysteria,        and Anxiety, 718a-747b esp 719b-c, 720a,
+     2Sa-26a; 31b-38d; 43b-49b esp 46c-d; S4b-            721a, 721c, 723c, 724a-727c, 729a-b, 731d-
+     S9d esp S8b-c; 83a; 83d-8Sd esp 84b; 116b-           732d, 742a-c / New Introductory Lectures,
+     118a,c / Interpretation of Dreams, 200a-d;           841a-843c esp 841b-d; 848b-849b; 852a-b
+
+CROSS-REFERENCES
+For: The theory of language, and for the distinction between the natural and the conventional in
+       language, see LANGUAGE 1-3c.
+     The conception of ideas as intentions of the mind, see IoEA 6a.
+     The treatment of things or events in nature as signs or symbols, see LANGUAGE ro; MEDICINE
+       3c .
+     Another discussion of the distinction between first and second intentions, see IDEA 3a.
+     Other discussions bearing on the distinction between proper and common names and between
+       abstract and concrete names, see IDEA 4b(I)-4b(2); UNIVERSAL AND PARTICULAR 2C, sa.
+     The problems of verbal ambiguity, and for the distinction between univocal and equivocal
+       speech, see IDEA 4b(4); LANGUAGE S-Sb.
+     Discussions relevant to the theory of analogical names, or to the problem of how names can
+       signify what is common to heterogeneous things, see BEING I; IDEA 4b(4); RELATION Id;
+       SAME AND OTHER 3a(3)-3b, 4c.
+     The relation of the univocal and the equivocal to definition and demonstration, see DEFINI-
+       TION 3; LANGUAGE ra, 7; REASONING 3b; and for other logical considerations in the use of
+       language, see LANGUAGE 6,; LOGIC 3a.
+     Other discussions of the language of poetry, and of problems of style in the exposition of
+       knowledge, see LANGUAGE 9; POETRY 8b; RHETORIC 2C.
+     The role of signs in divination and prophecy, see LANGUAGE 10; PROPHECY 3b-3c.
+     The general theory of the sacraments, see GOD ge; RELIGION 2C.
+     The problem of the names of God and the problem of the interpreta tion of Sacred Scripture,
+       see GOD 6a; LANGUAGE 12; THEOLOGY 4b.
+     Other discussions of the symbolism of dreams, see LANGUAGE 10; MEMORY AND IMAGINATION
+       8d(I)-8e; and for the theory of the neuroses and neurotic behavior relevant to the inter-
+       pretation of psychological signs, see DESIRE 4a-4d; EMOTION 3a-3c(4); MEMORY AND
+       IMAGINATION 2e(2); OPPOSITION 4C.
+
+
+
+                               ADDITIONAL READINGS
+      Listed below are works not included in Great Books ofthe Western World. but relevant to the
+      idea and topics with which this chapter deals. These works are divided into two groups:
+                       I. Works by authors represented in this collection.
+                      II. Works by authors not represented in this collection.
+      For the date, place, and other facts concerning the publication of the works cited, consult
+      the Bibliography of Additional Readings which follows the last chapter of The Great Ideas.
+                                                     AQUINAS. Quaestiones Disputatae, De Veritate, Q 4
+                       I.                            DANTE. Convivio (The Banquet), SECOND TREATISE,
+AUGUSTINE. Concerning the Teacher                       CH I, 14-16
+- - . The Harmony of the Gospels                     - - . Epistle to Can Grande della Scala
+AQUINAS. Summa Contra Gentiles, BK I, CH 22-25       HOBBES. Concerning Body, PART I, CH 2
+752                                      THE GREAT IDEAS
+J. S. MILL. A System of Logic, BK I                     C. S. PEIRCE. Collected Papers, VOL II, par 219-444;
+FREUD.     The Psychopathology of Everyday Life, CH       VOL V, par 388-410
+  8-12                                                  FRAZER.   The Golden Bough, PART I, CH 3, 8-21;
+- - . A Review of" The Antithetical Sense of Primal       PART II, CH 5-6; PART Ill, CH 8; PART IV, BK I, CH
+  Words"                                                  4; PART V, CH 1-9
+- - . A Connection Between a Symbol and a Symptom       BREAL. Semantics
+                                                        ROYCE. The World and the Individual, SERIES I   (7);
+                          II.                             Supplementary Essay (2)
+PHILODEMUS. On Methods of Inference                     J. C. WILSON. Statement and Inference, PART II (18)
+QUINTILIAN.   Institutio Oratoria (Institutes of Ora-   WHITEHEAD and RUSSELL.      Principia Mathematica,
+  tory), BK VII, CH 9                                    CH 3
+SEXTUS EMPIRICUS. Against the Logicians, BK II,         WELBy-GREGORY.       What Is Meaning?
+  CH 2                                                  - - . Significs and Language
+MAIMONIDES.     The Guide for the Perplexed, PART I,    W. E. JOHNSON. Logic, PART I, CH 6-8; PART II,
+  CH 1-30, 37-45, 61-64                                   CH 3
+BONAVENTURA. Breviloquium, PROLOGUE                     WITTGENSTEIN. Tractatus Logico-Philosophicus
+- - . Itinerarium Mentis in Deum (The Itinerary of      OGDEN and RICHARDS. The Meaning of Meaning
+  the Mind to God)                                      SANTAYANA. Scepticism and Animal Faith, CH 18
+DUNS SCOTUS. Opus Oxoniense, BK IV                      EATON. Symbolism and Truth
+OCKHAM. Studies and Selections, Logic, CH 11-12         EDDINGTON. The Nature ofthe Physical World, CH 12
+THOMAS OF ERFURT. Grammatica Speculativa                WHITEHEAD. An Enquiry Concerning the Principles of
+NICOLAS OF CUSA. De DOCla Ignorantia, BK I, CH            Natural Knowledge, CH I
+   12                                                   - - . Symbolism, Its Meaning and E.ffects
+CAJETAN. De Nominum Analogia                            - - . Process and Reality, PART II, CH 8
+SUAREZ. Disputationes Metaphysicae, XXVlll (3),         PENIDO. Le rtJle de l'analogie en tMologie dogmatique
+  xxx (13), XXXII (2), XXXIX (~)                        RICHARDS. Mencius on the Mind
+BOEHME. The Signature of All Things                     BUCHANAN. The Doctrine of Signatures, CH 1-2,
+JOHN OF SAINT THOMAS. Cursus Philosophicus Tho-           5-6
+  misticus, Ars Logica, PART I, QQ 1-3; PART II,        DEWEY. Essays in Experimental Logic, IV
+  QQ 21-22                                              - - . Experience and Nature, CH 5
+ARNAULD. Logic or the Art of Thinking, PART I,          - - . Logic, the Theory of Inquiry, CH 18
+  CH II, 15                                             B. RUSSELL. Principles of Mathematics, CH 4-8, 27
+LEIBNITZ. Characteristica                               - - . The Analysis of Mind, LECT 10
+- - . New Essays Concerning Human Understanding,        - - . An Inquiry into Meaning and Truth, CH 1-6,
+  BK III                                                  13-15,22
+CONDILLAC. Essai sur l'origine des connaissances hu-    MARITAIN. The Degrees of Knowledge, CH 2
+  maines, PART II                                       - - . Ransoming the Time, CH 9
+J. HARRIS. Hermes,  or A Philosophical Inquiry Con-     M. R. COHEN. A Preface to Logic, II-IV
+  cerning Universal Grammar                             CASSIRER. Language and Myth
+VOLTAIRE. "Allegories," "Figure in Theology," in        - - . An Essay on Man
+   A Philosophical Dictionary                           - - . The Myth of the State, PART I (1-3)
+T. REID. Essays on the Intellectual Powers of Man, I,   AYER. Thinking and Meaning
+  CH I; VI, CH 5                                        CARNAP. Foundations of Logic and Mathematics
+CREUZER. Symbolik und Mythologie der alten Volker       - - . Introduction to Semantics
+EMERSON. Nature                                         - - . Meaning and Necessity
+VENN. Symbolic Logic                                    DEWEY and BENTLEY. Knowing and the Known
+
