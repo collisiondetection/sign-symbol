@@ -42,7 +42,7 @@ Each folder below is one sub-topic from Adler's outline and holds that topic's c
 - **4b.** [The dependence of demonstration on univocal terms](<4b. The dependence of demonstration on univocal terms- formal fallacies due to equivocation/>)
 - **4c.** [The nature and utility of semantic analysis](<4c (1)/>) — citations only, no excerpt text
 - **4d.** [The use of metaphors and myths in science and philosophy](<4d/>)
-- **4e.** The use of signs in reasoning — *not present in this repo*
+- **4e.** [The use of signs in reasoning: necessary and probable signs; the interpretation of symptoms in medicine](<4e/>) ‡
 
 ### 5. Symbolism in theology and religion
 - **5a.** [Natural things as signs of divinity](<5a/>)
@@ -59,6 +59,8 @@ Each folder below is one sub-topic from Adler's outline and holds that topic's c
 - **6c.** [The symbolism of anxieties, obsessions, and other neurotic manifestations](<6c/>)
 
 † Folder name is inherited from the original source and doesn't match its actual topic — see [CLAUDE.md](CLAUDE.md) for details.
+
+‡ This topic was missing from the repo entirely until it was compiled from independent public-domain sources (it isn't a scan of the original like the others) — see the compiler's note at the top of [4e/4e.txt](<4e/4e.txt>) for sourcing and confidence details.
 
 ## Source
 

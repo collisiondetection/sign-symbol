@@ -44,7 +44,7 @@ gotchas below). Full code → title mapping:
 | 4b | The dependence of demonstration on univocal terms | yes |
 | 4c | The nature and utility of semantic analysis | citations only, no excerpt text |
 | 4d | The use of metaphors and myths in science and philosophy | yes |
-| 4e | The use of signs in reasoning | **missing — no folder exists** |
+| 4e | The use of signs in reasoning | yes on `plain-text` only — compiled, not scanned, see below |
 | 5a | Natural things as signs of divinity | yes |
 | 5b | Supernatural signs: omens, portents, visitations, dreams, miracles | yes |
 | 5c | The symbolism of the sacraments | yes |
@@ -64,8 +64,15 @@ gotchas below). Full code → title mapping:
   language." Don't trust the folder name for this one — the content inside
   is correct for topic 1d, only the label is wrong. Left as-is rather than
   renamed, to avoid breaking links/history.
-- **`4e` has no file at all**, in either branch. Don't spend time searching
-  for it.
+- **`4e` is not a scan like every other section — it's a compilation.** It
+  was missing from the repo entirely (no folder, either branch) until it was
+  built from independent public-domain sources, because the original source
+  material for this repo never had it split out into its own file. It exists
+  **only on `plain-text`**, not `main` — there's no original PDF/docx to put
+  there, since nothing was ever extracted from an original for this topic.
+  Confidence notes are inline per-passage in `4e/4e.txt`; treat its GBWW page
+  locators as unverified (content/structure identity is solid, the literal
+  page-letter codes are not).
 - **`4c` is citations-only** (`references_4c-1`) — no excerpted body text,
   unlike every other section.
 - **Folder naming is inconsistent** — some have a trailing period after the
