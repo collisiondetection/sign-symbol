@@ -310,7 +310,7 @@ unimpeded." Well, then, in the matter of desire and pursuit of an object, is it 
 
 12 EPICTETUS: Discourses, BK III, CH I 177a-c
 yourself? and if women took delight in catamites, would you become one? Is this your business? were you born for this purpose, that dissolute women should delight in you? Shall we make such a one as you a citizen of Corinth and perchance a prefect of the city, or chief of the youth, or general or superintendent of the games? Well, and when you have taken a wife, do you intend to have your hairs plucked out? To please whom and for what purpose? And when you have begotten children, will you introduce them also into the state with the habit of plucking their hairs? A beautiful citizen, and senator and rhetorician. We ought to pray that such young men be born among us and brought up.
-Do not so, I entreat you by the Gods, young man: but when you have once heard these words, go away and say to yourself, "Epictetus has not said this to me; for how could he? but some propitious God through him: for it would never have come into his thoughts to say this, since he is not accustomed to talk thus with any person. Come then let us obey God, that we may not be subject to his anger." You say, "No." But, if a crow by his croaking signifies anything to you, it is not the crow which signifies, but God through the crow; and if he signifies anything through a human voice, will he not cause the man to say this to you, that you may know the power of the divinity, that he signifies to some in this way, and to others in that way, and concerning the greatest things and the chief he signifies through the noblest messenger? What else is it which the
+Do not so, I entreat you by the Gods, young man: but when you have once heard these words, go away and say to yourself, "Epictetus has not said this to me; for how could he? but some propitious God through him: for it would never have come into his thoughts to say this, since he is not accustomed to talk thus with any person. Come then let us obey God, that we may not be subject to his anger." You say, "No." But, if a crow by his croaking signifies anything to you, it is not the crow which signifies, but God through the crow; and if he signifies anything through a human voice, will he not cause the man to say this to you, that you may know the power of the divinity, that he signifies to some in this way, and to others in that way, and concerning the greatest things and the chief he signifies through the noblest messenger? What else is it which the\
 poet says:\
 For we ourselves have warned him, and have sent\
 Hermes the careful watcher, Argus' slayer,\
@@ -414,16 +414,22 @@ ing possession." if it troubles any one whether this is to be held as fulfilled,
 
 Article 10. Whether in Holy Scripture a Word May Have Several Senses?
 We proceed thus to the Tenth Article: It seems that in Holy Writ a word cannot have several senses, historical or literal, allegorical, topological or moral, and anagogical.
+
 Objection 1. For many different senses in one text produce confusion and deception and destroy all force of argument. Hence no proof, but only fallacies, can be deduced from a multiplicity of propositions. But Holy Writ ought to be able to state the truth without any fallacy. Therefore there cannot be several senses to a word in Holy Writ.
+
 Obj. 2. Further. Augustine says (De util. cred. iii)⁴ that “the Old Testament has a fourfold division namely, according to history, etiology, analogy, and allegory.” Nov.- these four seem altogether different from the four divisions mentioned in the first objection. Therefore it does not seem fitting to explain the same word of Holy Writ according to the four different senses mentioned above.
+
 Obj. 3. Further, besides these senses, there is the parabolical, which is not one of these four. On the contrary, Gregory says 1 Moral, xx, 1):⁵ "'Holy Writ by the manner of its speech transcends every science, because in one and the same sentence, while it describes a fact, it reveals a mystery."
+
 I answer that, The author of Holy Writ is God, in whose power it is to signify His meaning not by words only (as man also can do), but also by things themselves. So. whereas in every other science things are signified bywords, this science has the property that the things signified by the words have themselves also a meaning. Therefore that first meaning whereby words signify
 ⁴PL 42, 63. 5 ⁵PL 76, 135.
 things belongs to the first sense, the historical or literal. That meaning whereby things signified by words have themselves also a meaning is called the spiritual sense, which is based on the literal, and presupposes it.
 Now this spiritual sense has a threefold division. For as the Apostle says (Heb. 10. i) the Old Law is a figure of the New Law, and Dionysius says¹ the New Law itself is a figure of future glory. Again, in the New Law, whatever our Head has done is a type of what we ought to do. Therefore, so far as the things of the Old Law signify the things of the New Law, there is the allegorical sense. But so far as the things done in Christ, or so far as the things which signify Christ, are types of what we ought to do, there is the moral sense. But so far as they signify what relates to eternal glory, there is the anagogical sense.
 Since the literal sense is that which the author intends, and since the author of Holy Writ is God, Who by one act comprehends all things by His intellect, it is not unfitting, as Augustine says² if, even according to the literal sense, one word in Holy Writ should have several senses.
 Reply Obj. i. The multiplicity of these senses does not produce equivocation or any other kind of multiplicity, seeing that these senses are not multiplied because one word signifies several things, but because the things signified by the words can be themselves types of other things. Thus in Holy Writ no confusion results, for all the senses are founded on one—the literal—from which alone can any argument be drawn, and not from those intended in allegory, as Augustine says (Epist. xciii).³ Nevertheless, nothing of Holy Scripture perishes on account of this, since nothing necessary to faith is contained under the spiritual sense which is not elsewhere put forward by the Scripture in its literal sense.
+
 Reply Obj. 2. These three—history, etiology, analogy—are grouped under the literal sense. For it is called history, as Augustine expounds⁴ whenever anything is simply related; it is called etiology when its cause is assigned, as when Our Lord gave the reason why Moses allowed the putting away of wives—namely, on account of the hardness of men's hearts (Matt. 19. 8) ; it is called analogy whenever the truth of one text of Scripture is shown not to contradict the truth of another. Of these four, allegory alone stands for the three spiritual senses. Thus Hugh of S. Victor (Sacram. 1, 4)⁵ includes the anagogical under the allegorical sense, laying down three senses only—the historical, the allegorical, and the topological.
+
 Reply Obj. 3. The parabolical sense is contained in the literal, for by words things are signified properly and figuratively. Nor is the figure itself, but that which is figured, the literal sense. When Scripture speaks of God's arm, the literal sense is not that God has such a member, but only what is signified by this member, namely, operative power. Hence it is plain that nothing false can ever underlie the literal sense of Holy Writ.
 ¹De Eccl. Hier., v, 2 (PG 3, 501).\
 ²Confessions, xii, 42 (PL 32, 844).\
@@ -442,12 +448,19 @@ Concerning His simplicity, there are eight points of inquiry: (1) Whether God is
 
 Article I. Whether God Is a Body?
 We proceed thus to the First Article: It seems that God is a body.
+
 Objection 1. For a body is that which has three dimensions. But Holy Scripture attributes three dimensions to God. for it is written : He is higher than Heaven, and what wilt thou do? He is deeper than Hell, and how wilt thou know? The measure of Him is longer than the earth and broader than the sea (Job 11. 8, 9). Therefore God is a body.
+
 Obj. 2. Further, everything that has figure is a body, since figure is a quality of quantity. But God seems to have figure, for it is written : Let us make man to our image and likeness (Gen 1. 26). Now a figure is called an image, according to the text: Who being the brightness of His glory and the figure i.e., the image of His substance (Heb. 1.3). Therefore God is a body.
+
 Obj. 3. Further, whatever has corporeal parts is a body. Now Scripture attributes corporeal parts to God. Hast thou an arm like God? (Job 40.4) ; and The eyes of the Lord are upon the just (Ps. 33. 16) ; and The right hand of the Lord hath wrought strength (Ps. 117. 16). Therefore God is a body.
+
 Obj. 4. Further, posture belongs only to bodies. But something which supposes posture is said of God in the Scriptures: I saw the Lord sitting (Isa. 6. 1), and He standeth up to judge (Isa. 3.13). Therefore God is a body.
+
 Obj. 5. Further, only bodies or things corporeal can be a local term from which or to which. But in the Scriptures God is spoken of as a local term to which, according to the words, Come ye to Him and be enlightened (Ps. 23.6), and as a term from which: All they that depart from Thee shall be written in the earth (Jer. 17. 13). Therefore God is a body.
+
 On the contrary, It is written in the Gospel of St. John (4. 24) : God is a spirit.
+
 I answer that, It is absolutely true that God is not a body; and this can be shown in three ways. First, because no body is in motion unless it be put in motion, as is evident from induction. Now it has been already proved (q. ii, a. 3), that God is the First Mover unmoved. Therefore it is clear that God is not a body.
 Secondly, because the first being must of necessity be in act, and in no way in potency. For although in one and the same thing that passes from potency to act, the potency is prior in time to the act, nevertheless, absolutely speaking, act is prior to potency. For whatever is in potency can be reduced to act only by some being in act. Now it has been already proved that God is the First Being. It is therefore impossible that in God there should be anything in potency. But every body is in potency, because the continuous, as such, is divisible to infinity. it is therefore impossible that God should be a body.
 Thirdly, because God is the most noble of beings as is clear from what was said above (q. ii, a. 3). Now it is impossible for a body to be the most noble of beings, for a body must be either animate or inanimate, and an animate body is manifestly nobler than any inanimate body. But an animate body is not animate in so far as it is a body. Otherwise all bodies would be animate. Therefore its animation depends upon some other thing, as our body depends for its animation on the soul. Hence that by which a body becomes animated must be nobler than the body. Therefore it is impossible that God should be a body.
@@ -458,21 +471,31 @@ Reply Obj. i. As we have said above (q. i, a. 9.), Holy Writ puts before us spir
 
 Article 3. Whether the Essence of God Can Be Seen with the Bodily Eye?
 We proceed thus to the Third Article: It seems that the essence of God can be seen by the corporeal eye.
+
 Objection 1. For it is written (Job 19. 26): In my flesh I shall see . . . God, and (ibid. 42. 5), With the hearing of the ear I have heard Thee, but now my eye seeth Thee.
+
 Obj. 2. Further. Augustine says² "Those eyes [namely of the glorified] will therefore have a greater power of sight, not so much to see more keenly, as some report of the sight of serpents or of eagles (for whatever acuteness of vision is possessed by these creatures, they can see only corporeal things) but to see even incorporeal things." Now whoever can see incorporeal things can be raised up to see God. Therefore the glorified eye can see God.
+
 Obj. 3. Further, God can be seen by man through a vision of the imagination. For it is written : I saw the Lord sitting upon a throne, etc. (Isa. 6. 1). But an imaginary vision has its origin in sense, "for the imagination is moved by sense to act," as it is stated in the book on the Soul.³ Therefore God can be seen by a vision of sense.
+
 On the contrary, Augustine says (De Vid, Deum, Ep. cxlvii)⁴: "No one has ever seen God as He is, either in this life, nor in the angelic life, as visible things are seen by corporeal vision."
+
 I answer that, It is impossible for God to be seen by the sense of sight, or by any other sense, or power of the sensitive part. For every such kind of power is the act of a corporeal organ, as will be shown later (q. lxxviii. a. i). Now act is proportioned to that of which it is the act. Hence no power of that kind can go beyond corporeal things. For God is incorporeal, as was shown above (q. in, a. i). Hence He cannot be seen by the sense or the imagination, but only by the intellect.
+
 Reply Obj. 1. The words, In my flesh I shall see God my Saviour, do not mean that God will be seen with the eye of flesh, but that man existing in the flesh after the resurrection will see God. Likewise the words, Now my eye seeth Thee, are to be understood of the mind's eye, as the Apostle says : May He give unto you the spirit of wisdom . . . in the knowledge of Him, that the eyes of your heart may be enlightened (Eph. i. 17, 18).
 ²City of God, xxii, 2Q (PL 41, 799)-\
 ³Aristotle, in, 3 (429*1).\
 ⁴Chap. 11 (PL 33, 609).
+
 Reply Obj. 2. Augustine speaks as one inquiring, and conditionally. This appears from what he says previously: "Therefore they will have an altogether different power [namely the glorified eyes] , if they shall see that incorporeal nature"; and afterwards he explains this, saying: "It is very credible that we shall so see the mundane bodies of the new heaven and the new earth as to see most clearly God everywhere present, governing all corporeal things, not as we now see the invisible things of God as understood by what is made, but as when we see men among whom we live, living and exercising the functions of human life, we do not believe they live, but see it." Hence it is evident how the glorified eyes will see God, as now our eyes see the life of another. But life is not seen with the corporeal eye, as a thing in itself visible, but as the accidental object of the sense; which indeed is not known by sense, but at once, together with sense, by some other knowing power. But that the divine presence is known by the intellect immediately on the sight of, and through, corporeal things, happens from two causes—namely, from the clearness of the intellect, and from the refulgence of the divine brightness in the renewed body.
+
 Reply Obj. 3. The essence of God is not seen in a vision of the imagination; but the imagination produces some form representing God according to some mode of likeness, as in divine Scripture divine things are metaphorically described by means of sensible things.
 
 Article 4. Whether Any Created Intellect by its Natural Powers Can See the Divine Essence?
 We proceed thus to the Fourth Article: It seems that a created intellect can see the divine essence by its own natural power.
+
 Objection 1. For Dionysius says {Div. Norn. iv)¹: An angel "is a pure mirror, most clear, receiving, if it is right to say so, the whole beauty of God." But if a reflection is seen, the original thing is seen. Therefore, since an angel by his natural power understands himself, it seems that by his own natural power he understands the divine essence.
+
 Obj. 2. Further, what is supremely visible is made less visible to us by reason of our defective corporeal or intellectual sight. But the angelic intellect has no such defect. Therefore, since God is supremely intelligible in Himself, it seems that in like manner He is supremely so to an angel. Therefore, if he can understand other intelligible things by his own natural power, much more can he understand God.
 ¹Sect. 22 (PG3, 724).
 
@@ -480,10 +503,15 @@ Obj. 2. Further, what is supremely visible is made less visible to us by reason 
 
 Article 2. Whether Any Name Can Be Applied to God Substantially?
 We proceed thus to the Second Article: It seems that no name can be applied to God substantially.
+
 Objection 1. For Damascene says (De Fid. Orth. i, 9):¹ ''Everything said of God signifies not His substance, but rather shows forth what He is not; or expresses some relation, or something following from His nature or operation."
+
 Obj. 2. Further, Dionysius says (Div. Nam. I)²: "You will find a chorus of all the holy doctors addressed to the end of distinguishing clearly and praiseworthily the divine processions in the denominations of God." Thus the names applied by the holy doctors in praising God are distinguished according to the divine processions themselves. But what expresses the procession of anything does not signify anything pertaining to its essence. Therefore the names applied to God are not said of Him substantially.
+
 Obj. 3. Further, a thing is named by us according as we understand it. But God is not understood by us in this life in His substance. Therefore neither is any name we can use applied substantially to God.
+
 On the contrary, Augustine says (De Trin. vi)³: "The being of God is the being strong, or the being wise, or whatever else we may say of that simplicity whereby His substance is signified." Therefore all names of this kind signify the divine substance.
+
 I answer that, Negative names applied to God or signifying His relation to creatures manifestly do not at ail signify His substance. but rather express the distance of the creature from Him, or His relation to something else, or rather, the relation of creatures to Himself.
 But as regards absolute and affirmative names of God. such as good, wise, and the like, various and many opinions have been given. For some have said that all such names, although they are applied to God affirmatively, nevertheless have been brought into use more to express some remotion from God rather than to place anything in Him. Hence they assert that when we say that God lives, we mean that God is not like an inanimate thing, and the same in like manner applies to other names;
 ¹PG 94.833-\
@@ -491,17 +519,21 @@ But as regards absolute and affirmative names of God. such as good, wise, and th
 ³Chap. 4 (PL 42. 927).
 and this was taught by Rabbi Moses.¹ Others² say that these names applied to God signify His relationship towards creatures; thus in the words, "God is good," we mean, God is the cause of goodness in things ; and the same rule applies to other names.
 Both of these opinions, however, seem to be untrue for three reasons. First because in neither of them can a reason be assigned why some names more than others are applied to God. For He is assuredly the cause of bodies in the same way as He is the cause of good things; therefore if the words "God is good," signified no more than, "God is the cause of good things," it might in like manner be said that God is a body, since He is the cause of bodies. So also to say that He is a body, takes away the notion that He is being in potency only as is prime matter. Secondly, because it would follow that all names applied to God would be said of Him by way of being taken in a secondary sense, as healthy is secondarily said of medicine, because it signifies only the cause of health in the animal which primarily is called healthy. Thirdly, because this is against the intention of those who speak of God. For in saying that God lives, they assuredly mean more than to say that He is the cause of our life, or that He differs from inanimate bodies.
-Therefore we must hold a different doctrine —namely, that these names signify the divine substance and are predicated substantially of God, although they fall short of a full representation of Him. Which is proved thus. For these names express God so far as our intellects know Him. Now since our intellect knows God from creatures, it knows Him as far as creatures represent Him. Now it was shown above (q. tv, a. 2) that God possesses beforehand in Himself all the perfections of creatures, being Himself absolutely and universally perfect. Hence every creature represents Him, and is like Him so far as it possesses some perfection; yet it represents Him not as something of the same species or genus, but as the excelling principle of whose form the effects fall short, although they derive some kind of likeness to it, even as the forms of inferior bodies represent the power of the sun. This was explained above (q. iv, A. 3), in treating of the divine perfection. Therefore these names signify the divine substance, but in an imperfect manner, even as
+Therefore we must hold a different doctrine —namely, that these names signify the divine substance and are predicated substantially of God, although they fall short of a full representation of Him. Which is proved thus. For these names express God so far as our intellects know Him. Now since our intellect knows God from creatures, it knows Him as far as creatures represent Him. Now it was shown above (q. tv, a. 2) that God possesses beforehand in Himself all the perfections of creatures, being Himself absolutely and universally perfect. Hence every creature represents Him, and is like Him so far as it possesses some perfection; yet it represents Him not as something of the same species or genus, but as the excelling principle of whose form the effects fall short, although they derive some kind of likeness to it, even as the forms of inferior bodies represent the power of the sun. This was explained above (q. iv, A. 3), in treating of the divine perfection. Therefore these names signify the divine substance, but in an imperfect manner, even as\
 creatures represent it imperfectly.\
 ¹Guide, I, 58 (FR 82).\
 ²Alan of Lille, Theol. Reg., Reg. 21, 26 (PL 210, 631, 633).
 So when we say, "God is good," the meaning is not, "God is the cause of goodness," or "God is not evil," but the meaning is, "Whatever good we attribute to creatures pre-exists in God," and in a higher way. Hence it does not follow that God is good because He causes goodness, but rather, on the contrary, He pours out goodness in things because He is good, according to what Augustine says,³ "Because He is good, we are."
+
 Reply Obj. 1. Damascene says that these names do not signify what God is, since by none of these names is perfectly expressed what He is, but each one signifies Him in an imperfect manner, even as creatures represent Him imperfectly.
+
 Reply Obj. 2. In the signification of names, that from which the name is derived is different sometimes from what it is intended to signify, as for instance this name "stone" {lapis) is imposed from the fact that it hurts the foot (Idit pedem): but it is not imposed to signify that which hurts the foot, but rather to signify a certain kind of body; otherwise everything that hurts the foot would be a stone. So we must say that these kinds of divine names are imposed from the divine processions; for as according to the diverse processions of their perfections, creatures are the representations of God, although in an imperfect manner, so likewise our intellect knows and names God according to each kind of procession. But nevertheless these names are not imposed to signify the processions themselves, as if when we say "God lives," the senses were, "life proceeds from Him," but to signify the principle itself of things, in so far as life pre-exists in Him, although it pre-exists in Him in a more eminent way than can be understood or signified.
+
 Reply Obj. 3. We cannot know the essence of God in this life, as He really is in Himself; but we know Him according as He is represented in the perfections of creatures; and thus the names imposed by us signify Him in that manner only.
 
 Article 3. Whether Any Name Can Be Applied to God Properly?
 We proceed thus to the Third Article: It seems that no name is applied properly to God.
+
 Objection 1. For all names which we apply to God are taken from creatures, as was explained above (a. i). But the names of creatures are applied to God metaphorically, as when we say, God is a stone, or a lion, or the like. Therefore names are applied to God in a metaphorical sense.
 ³Christian Doctrine, 1, 32 (PL 34, 32).
 
@@ -509,27 +541,39 @@ Objection 1. For all names which we apply to God are taken from creatures, as wa
 
 Article 4. Whether Xames Applied to God Are Synonymous?
 We proceed thus to the Fourth Article: It seems that these names applied to God are synonymous names.
+
 Objection 1. For synonymous names are those which mean exactly the same. But these names applied to God mean entirely the same thing in God: for the goodness of God is His essence, and likewise it is His wisdom. Therefore these names are entirely synonymous.
+
 Obj. 2. Further, if it be said these names signify one and the same thing in reality, but differ in idea, it can be objected that an idea to which no reality corresponds is an empty idea. Therefore if these ideas are many, and the thing is one. it seems also that these ideas are ideas to no purpose.
+
 Obj. 3. Further, a thing which is one in reality and in idea, is more one than what is one in reality and many in idea. But God is supremely one. Therefore it seems that He is not one in reality and many in idea, and thus the names applied to God do not signify different ideas: and thus they are synonymous.
 On the contrary. All synonyms united with each other are redundant, as when we say. "venture clothing." Therefore if all names applied to God are synonymous, we cannot properly say "good God." or the like, and yet it is written. O most mighty, great and powerful, the Lord of hosts is Thy name (Jer. 32. 18).
+
 I answer that, These names spoken of God are not synonymous. This would be easy to understand if we said that these names are used to remove or to express the relation of cause to creatures; for thus it would follow that 'here are different ideas as regards the diverse thing denied of God. or as regards diverse effects connoted. But even according to what was said above (a. 2), that these names signify the divine substance, although in an imperfect manner, it is also clear from what has been said (aa. 1, 2) that they have diverse meanings. For the notion signified by the name is the conception in the intellect of the thing signified by the name. But our intellect, since it knows God from creatures, in order to understand God, forms conceptions proportional to the perfections flowing from God to creatures, which perfections pre-exist in God unitedly and simply, while in creatures they are received divided and multiplied. As, therefore, to the different perfections of creatures there corresponds one simple principle represented by different perfections of creatures in a various and manifold manner, so also to the various and multiplied conceptions of our intellect there corresponds one altogether simple principle, according to these conceptions. Therefore, although the names applied to God signify one thing, still because they signify that thing under many and different aspects they are not synonymous.
 Thus appears the solution of the First Objection, since synonymous terms signify one thing under one aspect; for words which signify different aspects of one thing, do not signify primarily and absolutely one thing, because the term only signifies the thing through the medium of the intellectual conception, as was said above.
+
 Reply Obj. 2. The many aspects of these names are not empty and worthless, for there corresponds to all of them one simple reality represented by them in a manifold and imperfect manner.
+
 Reply Obj. 3. The perfect unity of God requires that what are manifold and divided in others should exist in Him simply and unitedly. Thus it comes about that He is one in reality and yet many in idea, because our intellect apprehends Him in a manifold manner, just as things represent Him in a manifold way.
 
 Article. 5. Whether What Is Said of God and of Creatures Is Univocally Predicated of Them?
 We proceed thus to the Fifth Article: It seems that what is said of God and creatures is said of them univocally.
+
 Objection 1. For every equivocal term is reduced to the univocal, as many are reduced to one ; for if the name dog be said equivocally of the barking dog, and of the dogfish, it must be said of some univocally—namely, of all barking dogs; otherwise we proceed to infinity. Now there are some univocal agents which agree with their effects in name and definition, as man generates man; and there are some agents which are equivocal, as the sun which causes heat, although the sun is hot only in an equivocal sense. Therefore it seems that the first agent to which all other agents are reduced is an univocal agent; and thus what is said of God and creatures is predicated univocally.
 
 19 AQUINAS: Summa Theologica, Q 27, A I, ANS 153b-154b
 
 Article I. Whether There is Procession in God?
 We proceed thus to the First Article: It would seem that there cannot be any procession in God.
+
 Objection 1. For procession signifies outward movement. But in God there is nothing subject to motion, nor anything extraneous. Therefore neither is there procession in God.
+
 Obj. 2. Further, everything which proceeds differs from that from which it proceeds. But in God there is no diversity, but supreme simplicity. Therefore in God there is no procession.
+
 Obj. 3. Further, to proceed from another seems to be against the nature of the first principle. But God is the first principle, as shown above (q. ii, A. 3). Therefore in God there is no procession.
+
 On the contrary, Our Lord says, From God I proceeded ('John 8. 42).
+
 I answer that, Divine Scripture uses, in relation to God, names which pertain to procession.
 This procession has been differently understood. Some have understood it in the sense of an effect proceeding from its cause. And this is the way in which Arius took it,¹ saying that the Son proceeds from the Father as His primary creature, and that the Holy Ghost proceeds from the Father and the Son as the creature of both. In this sense neither the Son nor the Holy Ghost would be true God, and this is contrary to what is said of the Son, That . . . we may be in His true Son. This is the true God (I John 5. 20). Of the Holy Ghost it is also said, Know you not that your members are the temple of the Holy Ghost? (I Cor. 6. 19.) Now, to have a temple is God's prerogative.
 Others take this procession to mean the cause proceeding to the effect, as moving it, or impressing its own likeness on it, in which sense it was understood by Sabellius.² who said that God the Father is called Son in assuming flesh from the Virgin, and that the Father also is called Holy Ghost in sanctifying the rational creature, and moving it to life. The words of the Lord contradict such a meaning, when He speaks of Himself, The Son cannot of Himself do anything (John 5. 19); and many other passages show the same, whereby we know that the Father is not the Son.
@@ -538,8 +582,11 @@ Careful examination shows that both of these opinions take procession as meaning
 ²Ibid., sect. 41 (42,32).\
 called the word of the heart signified by the word of the voice.
 As God is above all things, we should understand what is said of God not according to the mode of the lowest creatures, namely bodies, but from the likeness of the highest creatures, the intellectual substances; although even the likenesses derived from these fall short in the representation of divine objects. Procession, therefore, is not to be understood from what it is in bodies, either according to local movement, or by way of a cause proceeding forth to its exterior effect, as, for instance, like heat from the agent to the thing made hot. Rather it is to be understood by way of an intelligible emanation, for example, of the intelligible word which proceeds from the speaker, yet remains in him. In that sense the Catholic Faith understands procession as existing in God.
+
 Reply Obj. 1. This objection comes from the idea of procession in the sense of local motion, or of an action tending to external matter, or to an exterior effect ; which kind of procession does not exist in God, as we have explained.
+
 Reply Obj. 2. Whatever proceeds by way of outward procession is necessarily distinct from the source from which it proceeds, whereas whatever proceeds within by an intelligible procession is not necessarily distinct; indeed, the more perfectly it proceeds, the more closely it is one with the source from which it proceeds. For it is clear that the more a thing is understood, the more closely is the intellectual conception joined and united to the intelligent agent, since the intellect by the very act of understanding is made one with the object understood. Thus, as the divine act of understanding is the very supreme perfection of God (q. xiv, a. 1), the divine Word is of necessity perfectly one with the source whence He proceeds, without any kind of diversity.
+
 Reply Obj. 3. To proceed from a principle so as to be something outside and distinct from that principle is irreconcilable with the notion of a first principle; but an intimate and uniform procession by way of an intelligible act is included in the notion of a first principle. For when we call the builder the principle of the house, in the notion of such a principle is included the conception of his art; and it would be included in the notion of the first principle were the builder the first principle. God, Who is the first principle of all things, may be compared to things created as the artificer to artificial things.
 
 19 AQUINAS: Summa Theologica, Q 34 185a-189a\
@@ -551,13 +598,18 @@ Concerning Word there are three points of inquiry: (1) Whether Word is an essent
 
 Article I. Whether Word in God Is a Personal Name?
 We proceed thus to the First Article: It would seem that Word in God is not a personal name.
+
 Objection 1. For personal names are applied to God in a proper sense, as Father and Son. But "Word is applied to God metaphorically," as Origen says¹ on (John 1. 1), In the beginning was the Word. Therefore Word is not a personal name in God.
+
 Obj. 2. Further, according to Augustine (De Trin. ix, 10),² "The Word is knowledge with love"; and according to Anselm (Monól.),³ to speak is to the Supreme Spirit nothing but to see by thought. But knowledge and thought, and sight, are essential terms in God. Therefore Word is not a personal term in God.
 ¹PG 14, 59.\
 ²PL 42, 969.\
 ³Chap. 63 (PL 158, 208).
+
 Obj. 3. Further, it is essential to word to be spoken. But, according to Anselm (ibid, lxii), as the Father is intelligent, the Son intelligent, and the Holy Ghost intelligent, so the Father speaks, the Son speaks, and the Holy Ghost speaks; and likewise, each one of them is spoken. Therefore, the name Word is used as an essential term in God, and not in a personal sense.
+
 Obj. 4. Further, no divine person is made. But the Word of God is something made. For it is said, Fire, hail, snow, ice, the storms which do His Word (Ps. 148. 8). Therefore the Word is not a personal name in God. On the contrary, Augustine says (De Trin. vii, 2):⁴ "As the Son is related to the Father, so also is the Word to Him Whose Word He is." But Son is a personal name, since it is said relatively. Therefore so also is Word.
+
 I answer that, The name of Word in God, if taken in its proper sense, is a personal name, and in no way an essential name. To see how this is true, we must know that our own word taken in its proper sense has a threefold meaning, while in a fourth sense it is taken improperly or figuratively. The clearest and most common sense is when it is said of the word spoken by the voice; and this proceeds from an interior source as regards two things found in the exterior word—that is, the vocal sound itself, and the signification of the sound. For, according to the Philosopher,⁵ vocal sound signifies the concept of the intellect. Again the vocal sound proceeds from the signification or the imagination, as stated in the book on the Soul.⁶ The vocal sound, which has no signification, cannot be called a word : hence the exterior vocal sound is called a word because it signifies the interior concept of the mind. Thus, therefore first and chiefly, the interior concept of the mind is called a word ; secondarily, the vocal sound itself, signifying the interior concept, is so called; and thirdly, the imagination of the vocal sound is called a word. Damascene mentions these three kinds of words (De Fide Orthod. i, 13),⁷ saying that "word is called the natural movement of the intellect, whereby it is moved, and understands, and thinks, as light and splendour," which is the first kind. "Again," he says, "the word is what is not pronounced by a vocal word, but is uttered in the heart," which is the third kind. "Again," also, "the word is the angel"—that is, the messenger "of intelligence," which is the second kind. Word is also used in a
 ⁴PL 42, 936.\
 ⁵Interpretation, 1 (16ᵃ 3).\
@@ -565,29 +617,42 @@ I answer that, The name of Word in God, if taken in its proper sense, is a perso
 ⁷PG 94, 857.
 fourth way figuratively for that which is signified or effected by a word; thus we are accustomed to say, "this is the word I have said to you," or "which the king has commanded," alluding to some deed signified by the word either by way of assertion or of command.
 Now word is taken properly in God as signifying the concept of the intellect. Hence Augustine says (De Trin. xv, 10):¹ "Whoever can understand the word not only before it is sounded, but also before thought has clothed it with imaginary sound, can already see some likeness of that Word of Whom it is said: In the beginning was the Word." The concept itself of the heart has the nature of proceeding from something other than itself—namely, from the knowledge of the one conceiving. Hence Word, according as we use the term properly of God, signifies something proceeding from another, which belongs to the nature of personal terms in God, since the divine persons are distinguished by origin (q. xxvii, Introd.; q. xxxii, a. 3). Hence the term "Word," according as we use the term properly of God, is to be taken as said not essentially, but personally only.
+
 Reply Obj. 1. The Arians, who sprang from Origen,² declared that the Son differed in substance from the Father. Hence, they endeavoured to maintain that when the Son of God is called the Word this is not to be understood in a proper sense, lest the idea of the Word proceeding should compel them to confess that the Son of God is of the same substance as the Father. For the interior word proceeds in such a manner from the one who pronounces it as to remain within him. But supposing Word to be said metaphorically of God, we must still admit Word in its proper sense. For if a thing be called a word metaphorically, this can only be by reason of some manifestation; either it makes something manifest as a word, or it is manifested by a word. If manifested by a word, there must exist a word whereby it is manifested. If it is called a word because it exteriorly manifests, what it exteriorly manifests cannot be called word except in as far as it signifies the interior concept of the mind, which anyone may also manifest by exterior signs. Therefore, although Word may be sometimes said of God metaphorically, nevertheless we must also admit Word in the proper sense, which is said personally.
+
 Reply Obj. 2. Nothing belonging to the intellect can be applied to God personally except word alone, for word alone signifies that which
 ¹PL42, 1071.
 ²In Joann., 11 (PG 14, 109).
 emanates from another. For what the intellect forms in its conception is the word. Now, the intellect itself, according as it is put in act by the intelligible species, is considered absolutely; likewise the act of understanding which is to the intellect in act what being is to being in act, since the act of understanding does not signify an act going out from the intelligent agent, but an act remaining in the agent. Therefore when we say that word is knowledge, the term knowledge does not mean the act of a knowing intellect, or any one of its habits, but stands for what the intellect conceives by knowing. Hence also Augustine says (De Trin. vii, 2)³ that the Word is "begotten wisdom," for it is nothing but the concept of the Wise One; and in the same way It can be called "begotten knowledge." Thus also can be explained how to speak is in God to see by thought, since the Word is conceived by the gaze of the divine thought. Still the term thought does not properly apply to the Word of God. For Augustine says (De Trin. xv, 16)⁴: "Therefore do we speak of the Word of God, and not of the Thought of God, lest we believe that in God there is something unstable, now assuming the form of Word, now putting off that form and remaining latent and as it were formless." For thought consists properly in the search after truth, and this has no place in God. But when the intellect attains to the form of truth, it does not think, but perfectly contemplates the truth. Hence Anselm (loc. cit.) takes thought in an improper sense for contemplation.
+
 Reply Obj. 3. As, properly speaking, Word in God is said personally, and not essentially, so likewise is "to speak." Hence, as the Word is not common to the Father, Son, and Holy Ghost, so it is not true that the Father, Son, and Holy Ghost are one speaker. So Augustine says (De Trin. vii, i):⁵ "That co-eternal Word is understood as not alone in God." On the other hand, "to be spoken" belongs to each Person, for not only is the word spoken, but also the thing understood or signified by the word. Therefore in this manner to one person alone in God does it belong to be spoken in the same way as a word is spoken; but in the way whereby a thing is spoken as being understood in the word, it belongs to each Person to be spoken. For the Father, by understanding Himself, the Son, and the Holy Ghost, and all other things comprised in this knowledge, conceives the Word, so that thus the whole Trinity is spoken in the Word,
 ³PL 42, 936.\
 ⁴PL 42, 1079.\
 ⁵PL 42, 933.
 and likewise also all creatures ; just as the intellect of a man by the word he conceives in the act of understanding a stone, speaks a stone. Anselm took the term speak improperly for the act of understanding, whereas they differ from each other; for "to understand" means only the relation of the intelligent agent to the thing understood, in which relation no notion of origin is conveyed, but only a certain informing of our intellect, according as our intellect is put in act by the form of the thing understood. In God. however, it means complete identity, because in God the intellect and the thing understood are altogether the same, as was proved above (q. xiv, aa. 2, 4). But to speak means chiefly the relation to the word conceived, for to speak is nothing but to utter a word. But by means of the word it signifies a relation to the thing understood which in the word uttered is manifested to the one who understands. Thus, only the Person who utters the Word is speaker in God. although each Person understands and is understood, and consequently is spoken by the Word.
+
 Reply Obj. 4. The term word is taken there figuratively, as the thing signified or effected by word is called word. For thus creatures are said to do the word of God, as executing any effect to which they are ordained by the word conceived of the divine wisdom ; just as anyone is said to do the word of the king when he does the work to which he is appointed by the king's word.
 
 Article 2. Whether "Word" Is Proper Name of the Son?
 We proceed thus to the Second Article: It would seem that Word is not the proper name of the Son.
+
 Objection 1. For the Son is a subsisting person in God. But word does not signify a subsisting thing, as appears in ourselves. Therefore word cannot be the proper name of the person of the Son.
+
 Obj. 2. Further, the word proceeds from the speaker by being uttered. Therefore if the Son is properly the word. He proceeds from the Father by way only of utterance, which is the heresy of Valentine, as appears from Augustine (De Hceres. xi).¹
+
 Obj. 3. Further, every proper name of a person signifies some property of that person. Therefore, if the Word is the Son's proper name, it signifies some property of His ; and thus there will be several more properties in God than those above mentioned.
 ¹PL 42, 28.
+
 Obj. 4. Further. Whoever understands conceives a word in the act of understanding. But the Son understands. Therefore some word belongs to the Son. and consequently to be Word is not proper to the Son.
+
 Obj. 5. Further, it is said of the Son (Heb. 1. 3) : Bearing all things by the word of His power, from which Basil infers (Cont. Eunom. v, ii)² that the Holy Ghost is the Son's Word. Therefore to be Word is not proper to the Son. On the contrary, Augustine says (De Trin. vi. 2):³ "By Word we understand the Son alone."
+
 I answer that, Word, said of God in its proper sense, is used personally, and is the proper name of the person of the Son. For it signifies an emanation of the intellect: and the person Who proceeds in God, by way of emanation of the intellect is called the Son; and this procession is called generation, as we have shown above (q. xxvii, a. 2). Hence it follows that the Son alone is properly called Word in God.
+
 Reply Obj. 1. To be and to understand are not the same in us. Hence that which in us has intelligible being does not belong to our nature. But in God to be and to understand are one and the same ; hence the Word of God is not an accident in Him, or an effect of His, but belongs to His very nature. And therefore it must be something subsistent, for whatever is in the nature of God subsists; and so Damascene says (De Fide Orthod. i, 18):⁴ that "the Word of God is substantial and has a hypostatic being; but other words [as our own] are powers of the soul."
+
 Reply Obj. 2. The error of Valentine was condemned, not, as the Arians pretended, because he asserted that the Son was born by being uttered, as Hilary relates (De Trin. vi),⁵ but on account of the different mode of utterance proposed by its author, as appears from Augustine (De Hceres, loc. cit.).
+
 Reply Obj. 3. In the term Word the same property is signified as in the name Son. Hence Augustine says (De Trin. vii, 2):⁶ "Word and Son express the same." For the Son's nativity, which is His personal property, is signified by different names which are attributed to the Son to express His perfection in various ways. To show that He is of the same nature as the Father, He is called the Son; to show that He is coeternal. He is called the Splendour; to show that He is altogether like, He is called the Image; to show that He is begotten immaterially, He is
 ²PG 29, 732.\
 ³PL 42, 925.\
@@ -595,26 +660,40 @@ Reply Obj. 3. In the term Word the same property is signified as in the name Son
 ⁵PL 10, 162.\
 ⁶PL 42, 936.
 called the Word. All these truths cannot be expressed by only one name.
+
 Reply Obj. 4. To be intelligent belongs to the Son in the same way as it belongs to Him to be God. since to understand is said of God essentially, as stated above, (a. i, Ans. 2, 3). Now the Son is God begotten, and not God begetting; and hence He is intelligent not as producing a Word, but as the Word proceeding, because in God the Word proceeding does not differ really from the divine intellect, but is distinguished from the principle of the Word only by relation.
+
 Reply Obj. 5. When it is said of the Son, "Bearing all things by the word of His power," word is taken figuratively for the effect of the Word. Hence a gloss says¹ that "word" is here taken to mean command, since by the effect of the power of the Word things are kept in being, as also by the effect of the power of the Word things are brought into being. Basil speaks improperly and figuratively in applying Word to the Holy Ghost, in the sense that everything that makes a person known may be called his word, and so in that way the Holy Ghost may be called the Son's Word, because He manifests the Son.
 
 Article 3. Whether the Name "Word" Signifies Relation to Creatures?
 We proceed thus to the Third Article: It would seem that the name Word does not signify relation to creatures.
+
 Objection 1. For every name that connotes some effect in creatures is said of God essentially. But Word is not said essentially, but personally, as we have stated (a. i). Therefore Word does not signify relation to creatures.
+
 Obj. 2. Further, whatever signifies relation to creatures is said of God in time; as Lord and Creator. But Word is said of God from eternity. Therefore it does not signify relation to the creature.
+
 Obj. 3. Further, Word signifies relation to the source whence it proceeds. Therefore if it signifies relation to the creature, it follows that the Word proceeds from the creature.
+
 Obj. 4. Further, Ideas are many according to their various relations to creatures. Therefore if Word signifies relation to creatures, it follows that in God there is not one Word only, but many.
+
 Obj. 5. Further, if Word signifies relation to the creature, this can only be because creatures
 ¹Glossa interl., on Heb. i. 3 (vi, 134T) ; Glossa Lombardi, on Heb. 1.3 (PL 192, 406).
 are known by God. But God does not know beings only; He knows also non-beings. Therefore in the Word are implied relations to non-beings, which appears to be false.
+
 On the contrary, Augustine says (qq. lxxxiii, qu. 63 ),² that the name Word "signifies not only relation to the Father, but also relation to those beings which are made through the Word, by His operative power."
+
 I answer that, Word implies relation to creatures. For God by knowing Himself knows every creature. Now the word conceived in the mind is representative of everything that is actually understood. Hence there are in ourselves different words for the different things which we understand. But because God by one act understands Himself and all things. His unique Word is expressive not only of the Father, but of all creatures. And as the knowledge of God is only cognitive as regards God, whereas as regards creatures, it is both cognitive and operative, so the Word of God is only expressive of what is in God the Father, but is both expressive and operative of creatures ; and therefore it is said (Ps. 32. 9): He spake, and they were made, because in the Word is implied the operative idea of what God makes.
+
 Reply Obj. 1. The nature is also included indirectly in the name of the person, for person is an individual substance of a rational nature. Therefore the name of a divine person as regards the personal relation does not imply relation to the creature, but it is implied in what belongs to the nature. Yet there is nothing to prevent its implying relation to creatures so far as the essence is included in its meaning; for as it properly belongs to the Son to be the Son. so it properly belongs to Him to be God begotten, or the Creator begotten. And in this way the name Word implies relation to creatures.
+
 Reply Obj. 2. Since the relations result from actions, some names import the relation of God to creatures, which relation follows on the action of God which passes into some exterior effect, as to create and to govern; and the like are applied to God in time. But others import a relation which follows from an action which does not pass into an exterior effect, but which remains in the agent—as to know and to will; such are not applied to God in time. And this kind of relation to creatures is implied in the name of the Word. Nor is it true that the names which imply relation of God to creatures are applied to Him in time, but only those names are
 ²PL 40, 54.
 applied in time which imply relation following on the action of God passing into exterior effect.
+
 Reply Obj. 3. Creatures are known to God not by a knowledge derived from the creatures themselves, but by His own essence. Hence it is not necessary that the Word should proceed from creatures, although the Word is expressive of creatures.
+
 Reply Obj. 4. The name of Idea is imposed chiefly to signify relation to creatures and therefore it is applied in a plural sense to God, and it is not said personally. But the name of Word is imposed chiefly to signify relation to the speaker, and consequently, relation to creatures, since God, by understanding Himself, understands every creature. And so there is only one Word in God, and that a personal one.
+
 Reply Obj. 5. God's knowledge of non-beings and God's Word about non-beings are the same because the Word of God contains no less than does the knowledge of God, as Augustine says (De Trin. xv, 14). l Nevertheless the Word is expressive and operative of beings, but of nonbeings is expressive and manifestive.
 
 19 AQUINAS: Summa Theologica, Q 47, AI, ANS and REP 2 256a-257b\
@@ -626,10 +705,15 @@ Under the first head there are three points of inquiry : (i) The multitude or di
 
 Article I. Whether the Multitude and Distinction of Things Come from God?
 We proceed thus to the First Article: It would seem that the multitude and distinction of things does not come from God.
+
 Objection 1. For one naturally always makes one. But God is supremely one, as appears from what precedes (q. xi, a. 4). Therefore He produces but one effect.
+
 Obj. 2. Further, the representation is assimilated to its exemplar. But God is the exemplary cause of His effect, as was said above (q. xliv, A. 3). Therefore, as God is one, His effect is one only, and not diverse.
+
 Obj. 3. Further, the means are proportioned to the end. But the end of the creature is one — namely, the divine goodness, as was shown above (q. xliv, a. 4). Therefore the effect of God is but one.
+
 On the contrary, It is said (Gen. 1.4, 7) that God divided the light from the darkness, and divided waters from waters. Therefore the distinction and multitude of things is from God.
+
 I answer that, The distinction of things has been ascribed to many causes. For some attributed the distinction to matter, either by itself or with the agent. Democritus, for instance, and all the ancient natural philosophers, 1 who admitted no cause but matter, attributed it to matter alone; and in their opinion the distinction of things comes from chance according to the movement of matter. Anaxagoras, however, attributed the distinction and multitude of things to matter and to the agent together; 2 and he said that the intellect distinguishes things by drawing out what is mixed up in matter.
 1 Cf. Aristotle, Physics, II, 2 (194ᵃ20); 11, 4 (196ᵃ24); in, 4 (203ᵃ34).
 2 Cf. Ibid., III, 4 (203ᵃ23).
@@ -640,14 +724,20 @@ Hence we must say that the distinction and multitude of things come from the int
 ³Meta. ix, 4 (104va); cf. I, 7 (73rb).
 goodness more perfectly, and represents it better than any single creature whatever.
 And because the divine wisdom is the cause of the distinction of things, therefore Moses said that things are made distinct by the word of God, which is the conception of His wisdom; and this is what we read in Genesis (i. 3, 4): God said: Be light made. . . . And He divided the light from the darkness.
+
 Reply Obj. 1. The natural agent acts by the form which makes it what it is, and which is only one in one thing; and therefore its effect is one only. But the voluntary agent, such as God is, as was shown above (q. xix, a. 4), acts by an intellectual form. Since, therefore, it is not against God's unity and simplicity to understand many things, as was shown above (q. XV, a. 2), it follows that, although He is one, He can make many things.
+
 Reply Obj. 2. This reason would apply to the representation which reflects the exemplar perfectly, and which is multiplied by reason of matter only; hence the uncreated image, which is perfect, is only one. But no creature perfectly represents the first exemplar, which is the divine essence; and, therefore, it can be represented by many things. Still, according as ideas are called exemplars, the plurality of ideas corresponds in the divine mind to the plurality of things.
+
 Reply Obj. 3. In speculative things the means of demonstration, which demonstrates the conclusion perfectly, is one only whereas probable means of proof are many. Likewise when operation is concerned, if the means be equal, so to speak, to the end, one only is sufficient. But the creature is not such a means to its end, which is God. And hence the multiplication of creatures is necessary.
 
 Article 2. Whether the Inequality of Things Is from God?
 We proceed thus to the Second Article: It would seem that the inequality of things is not from God.
+
 Objection 1. For it belongs to the best to produce the best. But among things that are best, one is not greater than another. Therefore, it belongs to God, Who is the Best, to make all things equal.
+
 Obj. 2. Further, equality is the effect of unity¹. But God is one. Therefore, He has made all things equal.
+
 Obj. 3. Further, it is the part of justice to give unequal to unequal things. But God is just in all His works. Since, therefore, no inequality of things is presupposed to the operation whereby He gives being to things, it seems that He has made all things equal.
 ¹Aristotle, Metaphysics, v, 15 (1021ᵃ12).
 
@@ -655,33 +745,48 @@ Obj. 3. Further, it is the part of justice to give unequal to unequal things. Bu
 
 Article I. Whether Corporeal Creatures Are From God?
 We proceed thus to the First Article: It would seem that corporeal creatures are not from God.
+
 Objection 1. For it is said (Eccles. 3. 14): I have learned that all the works which God hath made, continue for ever. But visible bodies do not continue for ever, for it is said (II Cor. 4. 18): The things which are seen are temporal, but the things which are not seen are eternal. Therefore God did not make visible bodies.
+
 Obj. 2. Further, it is said (Gen. 1. 31): God saw all the things that He had made, and they were very good. But corporeal creatures are evil, since we find them harmful in many ways, as may be seen in serpents, in the sun's heat, and other like things. Now a thing is called evil in so far as it is harmful. Corporeal creatures, therefore, are not from God.
+
 Obj. 3. Further, what is from God does not withdraw us from God, but leads us to Him. But corporeal creatures withdraw us from God. Hence the Apostle says (II Cor. 4. 18): While we look not at the things which are seen. Corporeal creatures, therefore, are not from God.
+
 On the contrary, It is said (Ps. 145. 6) : Who made heaven and earth, the sea, and all things that are in them.
+
 I answer that, Certain heretics maintain¹ that visible things are not created by the good God, but by an evil principle, and allege in proof of their error the words of the Apostle (II Cor. 4. 4), The god of this world hath blinded the minds of unbelievers. But this position is altogether untenable. For, if things that differ agree in some point, there must be some cause for that agreement, since things diverse in nature cannot be united of themselves. Hence whenever in different things some one thing common to all is found, it must be that these different things receive that one thing from some one cause, as different bodies that are hot receive their heat from fire. But being is found to be common to all things, however different otherwise. There must, therefore, be one principle of being from which all things in whatever way existing have their being, whether they are invisible and spiritual, or visible and corporeal. But the devil is called the god of this world not as having created it, but because worldlings serve him. Of whom also the Apostle says, speaking in the same sense, Whose god is their belly (Phil. 3. 19).
+
 Reply Obj. 1. All the creatures of God in some respects continue for ever, at least as to matter, since what is created will never be annihilated, even though it be corruptible. And the nearer a creature approaches God, Who is immovable, the more it also is immovable. For corruptible creatures endure for ever as regards their matter, though they change as regards
 ¹The Manichees. See above, Q. xlix, a. 3.
 their substantial form. But incorruptible creatures endure wtih respect to their substance, though they are changeable in other respects, such as place ; for instance, the heavenly bodies; or the affections, as spiritual creatures. But the Apostle's words, The things which are seen are temporal, though true even as regards such things considered in themselves (in so far as every visible creature is subject to time, either as to being or as to movement), are intended to apply to visible things in so far as they are offered to man as rewards. For such rewards consisting in these visible things are temporal, while those that are invisible endure for ever. Hence he said before (ibid. 17) : It worketh for us . . . an eternal weight of glory.
+
 Reply Obj. 2. Corporeal creatures according to their nature are good, though this good is not universal, but particular and limited, the consequence of which is a certain opposition of contrary qualities, though each quality is good in itself. To those, however, who estimate things, not by their nature, but by the good they themselves can derive from them, everything which is harmful to themselves seems evil absolutely. For they do not consider that what is in some way injurious to one person to another is beneficial, and that even to themselves the same thing may be evil in some respects, but good in others. And this could not be if bodies were essentially evil and harmful.
+
 Reply Obj. 3. Creatures of themselves do not withdraw us from God, but lead us to Him; for the invisible things of God are clearly seen, being understood by the things that are made (Rom. 1. 20). If, then, they withdraw men from God, it is the fault of those who use them foolishly. Thus it is said (Wisd. 14. II) : Creatures are turned into a snare to the feet of the unwise. And the very fact that they can thus withdraw us from God proves that they came from Him, for they cannot lead the foolish away from God except by the allurements of some good that they have from Him.
 
 19 AQUINAS: Summa Theologica, Q 103, A I, ANS 528b-529a
 
 Article I. Whether the World Is Governed by Anyone?
 We proceed thus to the First Article: It would seem that the world is not governed by anyone.
+
 Objection 1. For it pertains to those things which move or work for an end to be governed. But natural things which make up the greater part of the world do not move, or work for an end, for they have no knowledge of their end. Therefore the world is not governed.
 Ob). 2. Further, those things are governed which are moved towards some thing. But the world does not appear to be so directed, but has stability in itself. Therefore it is not governed.
+
 Obj. 3. Further, what is necessarily determined by its own nature to one particular thing does not require any external principle of government. But the principal parts of the world are by a certain necessity determined to something particular in their actions and movements. Therefore the world does not require to be governed.
+
 On the contrary, It is written (Wisd. 14. 3): But Thou, Father, governest all things by Thy Providence. And Boethius says (De Consol iii, 9):¹ Thou Who governest this universe by mandate eternal."
+
 I answer that, Certain philosophers of old denied the government of the world, saying that all things happened by chance.² But such an opinion can be shown to be impossible in two ways. First, by observation of things themselves. For we observe that in nature things happen always or nearly always for the best, which would not be the case unless some sort of providence directed nature towards good as an end, which is to govern. Therefore the unfailing order we observe in things is a sign of their being governed. For instance, if we enter a well ordered house we gather from it the intention of him who put it in order, as Cicero says (De Nat. Deorum, ii),³ quoting Aristotle. Secondly, this is clear from a consideration of Divine goodness, which, as we have said above (q. xliv, a. 4; q. lxv, a. 2), was the cause of the production of things in being. For as it pertains to the best to produce the best, it is not fitting that the supreme goodness of God should produce things without giving them their perfection. Now a thing's ultimate perfection consists in the attainment of its end. Therefore it pertains to the Divine goodness, to lead things to their end just as it brought things into being. And this is to govern.
+
 Reply Obj. 1. A thing moves or operates for an end in two ways. First, in moving itself to the end, as man and other rational creatures;
 and such things have knowledge of their end, and of the means to the end. Secondly, a thing is said to move or operate for an end, as though moved or directed to it by another, as an arrow directed to the target by the archer, who knows the end unknown to the arrow. Therefore, as the movement of the arrow towards a definite end shows clearly that it is directed by someone with knowledge, so the unvarying course of natural things which are without knowledge, shows clearly that the world is governed by some reason.
+
 Reply Obj. 2. In all created things there is a stable element, at least primary matter, and
 ¹PL 63, 758.\
 ²Democritus and Epicurus; cf. Q. xxii, a. 2.\
 ³Chap. 5(DD iv, in).
 something belonging to movement, according as under movement we include operation. And" things need governing as to both, because even that which is stable, since it is created from nothing, would return to nothingness were it not sustained by a governing hand, as will be explained later (q. civ, a. i).
+
 Reply Obj. 3. The natural necessity inherent in those beings which are determined to a particular thing is a kind of impression from God, directing them to their end; as the necessity whereby an arrow is moved so as to fly towards a certain point is an impression from the archer, and not from the arrow. But there is a difference, since that which creatures receive from God is their nature, while that which natural things receive from man over and above their nature is somewhat violent. Therefore, as the violent necessity in the movement of the arrow shows the action of the archer, so the natural necessity of things shows the government of Divine Providence.
 
 ## 20 AQUINAS: Summa Theologica, PART III, Q 12, A 3, REP 2 778b-779a; Q 60, A 2, ANS and REP I 848a-d; A 5, REP I 850b-851b; PART III SUPPL, Q 92, A 2 1032b-1034b
@@ -690,13 +795,21 @@ Reply Obj. 3. The natural necessity inherent in those beings which are determine
 
 Article 3. Whether Christ Learned Anything from Man?
 We proceed thus to the Third Article: It would seem that Christ learned something from man.
+
 Objection I. For it is written (Luke 2. 46, 47) that. They found Him in the temple in the midst of the doctors, hearing them, and asking them questions. But to ask questions and to reply pertains to a learner. Therefore Christ learned something from man.
+
 Obj. 2. Further, to acquire knowledge from a man's teaching seems more noble than to acquire it from sensible things, since in the soul of the man who teaches the intelligible species are in act, but in sensible things the intelligible species are only in potency. Now Christ received experimental knowledge from sensible things, as stated above (a. 2; Q. ix, A. 4). Much more, therefore, could He receive knowledge by learning from men.
+
 Obj. 3. Further, by experimental knowledge Christ did not know everything from the beginning, but advanced in it, as was said above (a. 2). But anyone hearing words which mean something may learn something he does not know Therefore Christ could learn from men something He did not know by this knowledge.
+
 On the contrary, It is written (Ps. 55. 4): Behold, I have given Him for a witness to the people, for a leader and a master to the Gentiles. Now a master is not taught, but teaches. Therefore Christ did not receive any knowledge by the teaching of any man.
+
 I answer that, In any genus that which is the first mover is not moved according to the same species of movement, just as the first principle of change is not itself changed. Now Christ is established by God the Head of the Church — indeed, of all men, as was said above (q. viii., a. 3), so that not only all might receive grace through Him, but that all might receive the doctrine of Truth from Him. Hence He Himself says (John 18. 37): For this was I born, and for this came I into the world; that I should give testimony to the truth. And thus it did not befit His dignity that He should be taught by any man.
+
 Reply Obj. 1. As Origen says (Horn, xix in Luc.):² "Our Lord asked questions not in order to learn anything, but in order to teach by questioning. For from the same well of knowledge came the question and the wise reply." Hence the Gospel goes on to say that all that heard Him were astonished at His wisdom and His answers.
+
 Reply Obj. 2. Whoever learns from man does not receive knowledge immediately from the intelligible species which are in his mind, but through sensible words, which are signs of intelligible concepts. Now as words formed by a man are signs of his intellectual knowledge, so are creatures, formed by God, signs of His wisdom. Hence it is written (Ecclus. i. 10) that God poured wisdom out upon all His works. Hence, just as it is better to be taught by God than by man, so it is better to receive our knowledge from sensible creatures and not by man's teaching.
+
 Reply Obj. 3. Jesus advanced in experimental knowledge, as in age, as stated above (a. 2). Now as a fitting age is required for a man to acquire knowledge by discovery, so also that he may acquire it by being taught. But our
 ²Translation of Jerome (PG 13, 1851; cf. PL 26, 240).
 Lord did nothing unbecoming to His age, and hence He did not give ear to hearing the lessons of doctrine until such time as He was able to have reached that grade of knowledge by way of experience. Hence Gregory says {Sup. Ezech. Lib. i, Hom. ii):¹ "In the twelfth year of His age He deigned to question men on earth, since in the course of reason, the word of doctrine is not vouchsafed before the age of perfection."
@@ -706,13 +819,20 @@ Lord did nothing unbecoming to His age, and hence He did not give ear to hearing
 
 Article 2. Whether Every Sign of a Holy Thing Is a Sacrament?
 We proceed thus to the Second Article: It seems that not every sign of a sacred thing is a sacrament.
+
 Objection I. For all sensible creatures are signs of sacred things, according to Rom. i. 20: The invisible things of God are clearly seen being understood by the things that are made. And yet all sensible things cannot be called sacraments. Therefore not every sign of a sacred thing is a sacrament.
+
 Obj. 2. Further, whatever was done under the Old Law was a figure of Christ Who is the Holy of Holies (Dan. 9. 24), according to I Cor. 10. II : All {these) things happened to them in figure; and Col. 2. 17: Which are a shadow of things to come, but the body is Christ's. And yet not all that was done by the Fathers of the old Testament, not even all the ceremonies of the Law, were sacraments, but only in certain special cases, as stated in the Second Part (I-II, Q. CI, A. 4). Therefore it seems that not every sign of a sacred thing is a sacrament.
+
 Obj. 3. Further, even in the New Testament many things are done in sign of some sacred thing, yet they are not called sacraments; such as sprinkling with holy water, the consecration of an altar, and the like. Therefore not every sign of a sacred thing is a sacrament.
+
 On the contrary, A definition is convertible with the thing defined. Now some³ define a sacrament as being "the sign of a sacred thing"; moreover, this is clear from the passage quoted above (a. i) from Augustine. Therefore it seems that every sign of a sacred thing is a sacrament.
+
 I answer that, Signs are given to men, to whom it is proper to come to the unknown by means of the known. Consequently a sacrament properly so called is that which is the sign of some sacred thing pertaining to man, so that properly speaking a sacrament, as considered by us now, is defined as being the sign of a holy thing so far as it makes men holy.
 Reply Obj. i. Sensible creatures signify something holy—namely. Divine wisdom and goodness in so far as these are holy in themselves, but not in so far as we are made holy by them. Therefore they cannot be called sacraments as we understand sacraments now.
+
 Reply Obj. 2. Some things pertaining to the Old Testament signified the holiness of Christ considered as holy in Himself. Others signified His holiness considered as the cause of our holiness; thus the sacrifice of the Paschal Lamb signified Christ's Sacrifice whereby we are made holy, and such things are properly styled sacraments of the Old Law.
+
 Reply Obj. 3. Names are given to things considered in reference to their end and state of completeness. Now a disposition is not an end, whereas perfection is. Consequently things that signify disposition to holiness are not called sacraments, and with regard to these the objection is verified: only those are called sacraments which signify the perfection of holiness in man.
 ³Cf. Lanfranc, Dc Corp. et Sang. Dom., xii (PL 150, 422); Hugh of St. Victor, De Sacr., i, ix, 2 (PL 176, 317); Peter Lombard, Sent., iv, d. i, chap. 2 (QR ii, 745); Albert the Great, In Sent., iv, dist. i. A. i, Q. 2 (QR iv, 14); Alexander of Hales, Summa Theol., iv, Q. i, m. i (iv, ara); Bonaventure, In Sent., iv, d. i, A. i, Q. 2 (QR iv, 14).
 
@@ -721,13 +841,19 @@ Reply Obj. 3. Names are given to things considered in reference to their end and
 Article 5. Whether Determinate Things Are Required for a Sacrament?
 We proceed thus to the Fifth Article: It seems that determinate things are not required for a sacrament.
 Objection, i. For sensible things are required in sacraments for the purpose of signification, as stated above (a. 4). But nothing hinders the same thing being signified by various sensible things; thus in Holy Scripture God is signified metaphorically, sometimes by a stone (II Kings 22. 2; Zach. 3. 9; I Cor. 10. 4; Apoc. 4. 3), sometimes by a lion (Isa. 31. 4; Apoc. 5. 5), sometimes by the sun (Isa. 60. 19, 20; Malach. 4. 2), or by something similar. Therefore it seems that various things can be suitable to the same sacrament. Therefore determinate things are not required for the sacraments.
+
 Obj. 2. Further, the health of the soul is more necessary than that of the body. But in bodily medicines, which are ordered to the health of the body, one thing can be substituted for another which happens to be wanting. Therefore much more in the sacraments, which are spiritual remedies ordered to the health of the soul, can one thing be substituted for another when this happens to be lacking.
+
 Obj. 3. Further, it is not fitting that the salvation of men be restricted by the Divine Law, still less by the Law of Christ, Who came to
 save all. But in the state of the Law of nature determinate things were not required in the sacraments, but were put to that use through a vow, as appears from Gen. 28. 20, where Jacob vowed that he would offer to God tithes and peace-offerings. Therefore it seems that man should not have been restricted, especially under the New Law, to the use of any determinate thing in the sacraments.
+
 On the contrary, Our Lord said (John 3. 5); Unless a man be born again of water and the Holy Ghost, he cannot enter into the kingdom of God.
+
 I answer that, In the use of the sacraments two things may be considered, namely, the worship of God, and the sanctification of man, the former of which pertains to man in relation to God, and the latter pertains to God in relation to man. Now it is not for anyone to determine that which is in the power of another but only that which is in his own power. Since, therefore, the sanctification of man is in the power of God Who sanctifies, it is not for man to decide what things should be used for his sanctification, but this should be determined by Divine institution. Therefore in the sacraments of the New Law, by which man is sanctified according to I Cor. 6. II, You are washed, you are sanctified, we must use those things which are determined by Divine institution.
 Reply Obj. i. Though the same thing can be signified by various signs, yet to determine which sign must be used belongs to the signifier. Now it is God Who signifies spiritual things to us by means of the sensible things in the sacraments, and of similitudes in the Scriptures. And consequently, just as the Holy Ghost decides by what similitudes spiritual things are to be signified in certain passages of Scripture, so also must it be determined by Divine institution what things are to be employed for the purpose of signification in this or that sacrament.
+
 Reply Obj. 2. Sensible things are endowed with natural powers conducive to the health of the body, and therefore if two of them have the same power it does not matter which we use. Yet they are ordained to sanctification not through any power that they possess naturally, but only in virtue of the Divine institution. And therefore it was necessary that God should determine the sensible things to be employed in the sacraments.
+
 Reply Obj. 3. As Augustine says (Contra Faust, xix, 16),¹ various sacraments suit different times, just as different times are signified by different parts of the verb, namely, present, past, and future. Consequently, just as under the state of the Law of nature man was moved by inward instinct and without any outward law, to worship God, so also the sensible things to be employed in the worship of God were determined by inward instinct. But later on it became necessary for a law to be given from without; both because the Law of nature had become obscured by man's sins, and in order to signify more expressly the grace of Christ, by which the human race is sanctified. And hence the need for those things to be determinate, of which men have to make use in the sacraments. Nor is the way of salvation narrowed thereby, because the things which need to be used in the sacraments are either in everyone's possession or can be had with little trouble.
 
 Article 6. Whether Words Are Required for the Significance of the Sacraments?
@@ -741,19 +867,27 @@ Objection i. For Augustine says {Contra Faust, xix, 16):² "What else is a corpo
 Article 2. Whether After the Resurrection the Saints Will See God With the Eyes of the Body?
 We proceed thus to the Second Article: It would seem that after the resurrection the saints will see God with the eyes of the body.
 Objection i. Because the glorified eye has greater power than one that is not glorified. Now the blessed Job saw God with his eyes (Job 42. 5) : With the hearing of the ear, I have heard Thee, but now my eye seeth Thee. Much more therefore will the glorified eye be able to see God in His essence.
+
 Obj. 2. Further, It is written (Job 19. 26): In my flesh I shall see God my Saviour (Vulg., —my God). Therefore in heaven God will be seen with the eyes of the body.
+
 Obj. 3. Further, Augustine, speaking of the sight of the glorified eyes, expresses himself as follows:¹ "A greater power will be in those eyes, not to see more keenly, as certain serpents or eagles are reported to see (for whatever acuteness of vision is possessed by these animals they can see only corporeal things), but to see even incorporeal things," Now any power that is capable of knowing incorporeal things can be upraised to see God. Therefore the glorified eyes will be able to see God.
+
 Obj. 4. Further, The disparity of corporeal to incorporeal things is the same as of incorporeal to corporeal. Now the incorporeal eye can see corporeal things. Therefore the corporeal eye can see the incorporeal. And consequently the same conclusion follows.
+
 Obj. 5. Further, Gregory, commenting on Job 4. 16, There stood one whose countenance I knew not, says {Moral, v, 34):² "Man who had he been willing to obey the command, would have been spiritual in the flesh, became, by sinning, carnal even in mind." Now through becoming carnal in mind, "he thinks only of those things which he draws to his soul by the images of bodies (ibid.).'' Therefore when he will be spiritual in the flesh (which is promised to the saints after the resurrection), he will be able even in the flesh to see spiritual things. Therefore the same conclusion follows.
+
 Obj. 6. Further, Man can be beatified by God alone. Now he will be beatified not only in soul but also in body. Therefore God will be visible not only to his intellect but also to his flesh.
+
 Obj. 7. Further, Even as God is present to the intellect by His essence, so will He be to the senses, because He will be all in all (I Cor. 15. 28). Now He will be seen by the intellect through the union of His essence with the intellect. Therefore He will also be visible to the sense.
 ¹City of God, xxii, 29 (PL 41, 799).
 ²PL 75, 712.
+
 On the contrary, Ambrose, commenting on Luke I. II, There appeared to him an angel, says:¹ "God is not sought with the eyes of the body, nor surveyed by the sight, nor clasped by the touch." Therefore God will by no means be visible to the bodily sense.
 Further, Jerome, commenting on Isa. 6. i, I saw the Lord sitting, says;² "The Godhead not only of the Father, but also of the Son and of the Holy Ghost is visible, not to carnal eyes, but only to the eyes of the mind, of which it is said: 'Blessed are the pure in heart.' "
 Further, Jerome says again (as quoted by Augustine, Ep. cxlvii, 23):³ "An incorporeal thing is invisible to a corporeal eye." But God is supremely incorporeal. Therefore, etc.
 Further, Augustine says {De Videndo Deo, Ep. cxlvii, 11):⁴ "No man hath seen God as He is at any time, neither in this life, nor in the angelic life, in the same way as these visible things which are seen with the corporeal sight." Now the angelic life is the life of the blessed, wherein they will live after the resurrection. Therefore, etc.
 Further, According to Augustine (De Trin. xiv, 4),⁵ "man is said to be made to God's image in that he is able to see God." But man is in God's image as regards his mind, and not as regards his flesh. Therefore he will see God with his mind and not with his flesh.
+
 I answer that, A thing is perceived by the senses of the body in two ways, directly and indirectly. A thing is perceived directly if it can act directly on the bodily senses. And a thing can act directly either on sense as such or on a particular sense as such. That which acts directly in this second way on a sense is called a proper sensible, for instance colour in relation to the sight, and sound in relation to the hearing. But as sense as such makes use of a bodily organ, nothing can be received therein except corporeally, since whatever is received into a thing is in it after the mode of the recipient. Hence all sensibles act on the sense as such, according to their magnitude, and consequently magnitude and all that follows on it, such as movement, rest, number, and the like, are called common sensibles, and yet they are direct objects of sense.
 An indirect object of sense is that which does not act on the sense, neither as sense nor as a particular sense, but is joined to those things that act on sense directly; for instance Socrates, the son of Diares, a friend, and the
 ¹PL 15, 1624.\
@@ -764,13 +898,19 @@ An indirect object of sense is that which does not act on the sense, neither as 
 like which are known per se by the intellect in the universal, and in the particular are the object of the cogitative power in man, and of the estimative power in other animals. The external sense is said to perceive things of this kind, although per accidens, when the apprehensive power (whose province it is to know per se this thing known), from that which is sensed per se, apprehends them at once and without any doubt or discourse (thus we see that a person is alive from the fact that he speaks). Otherwise the sense is not said to perceive it even accidentally.
 I say then that God can in no way be seen with the eyes of the body, or perceived by any of the senses, as that which is seen per se, neither here, nor in heaven; for if that which belongs to sense as such be removed from sense, there will be no sense, and in like manner if that which belongs to sight as sight be removed from sight, there will be no sight. Accordingly seeing that sense as sense perceives magnitude, and sight as such a sense perceives colour, it is impossible for the sight to perceive that which is neither colour nor magnitude, unless we call it a sense equivocally. Since then sight and sense will be specifically the same in the glorified body as in a non-glorified body, it win be impossible for it to see the Divine essence as a thing per se visible ; yet it will see it as is visible per accidens, because on the one hand the bodily sight will see so great a glory of God in bodies, especially in the glorified bodies and most of all in the body of Christ, and, on the other hand, the intellect will see God so clearly, that God will be perceived in things seen with the eye of the body, even as life is perceived in speech. For although our intellect will not then see God from seeing His creatures, yet it will see God in His creatures seen corporeally. This manner of seeing God corporeally is indicated by Augustine,⁶ as is clear if we take note of his words, for he says: "It is very credible that we shall so see the mundane bodies of the new heaven and the new earth, as to see most clearly God everywhere present, governing all corporeal things, not as we now see the invisible things of God as understood by those that are made, but as when we see men . . . we do not believe but see that they live."
 Reply Obj. i. This saying of Job refers to the spiritual eye, of which the Apostle says (Eph. I. 18): The eyes of our (Vulg., —your) heart enlightened.
+
 Reply Obj. 2. The passage quoted does not
 ⁶City of God, xxii, 29 (PL 47, 800).
 mean that we are to see God with the eyes of the flesh, but that, in the flesh, we shall see God.
+
 Reply Obj. 3. In these words Augustine speaks as one inquiring and conditionally. This appears from what he had said before: "Therefore they will have an altogether different power, if they shall see that incorporeal nature"; and then he goes on to say: "Accordingly a greater power," etc., and afterwards he explains himself.
+
 Reply Obj. 4. All knowledge results from some kind of abstraction from matter. Therefore the more a corporeal form is abstracted from matter, the more is it a principle of knowledge. Hence it is that a form existing in matter is in no way a principle of knowledge, while a form existing in the senses is somewhat a principle of knowledge, in so far as it is separated from matter, and a form existing in the intellect is still better a principle of knowledge. Therefore the spiritual eye, from which the obstacle to knowledge is removed, can see a corporeal object; but it does not follow that the corporeal eye, in which the cognitive power is deficient as participating in matter, is able to know perfectly incorporeal objects of knowledge.
+
 Reply Obj. 5. Although the mind that has become carnal cannot think but of things received from the senses, it thinks of them immaterially. In like manner whatever the sight apprehends, it must always apprehend it corporeally; therefore it cannot know things which cannot be apprehended corporeally.
+
 Reply Obj. 6. Happiness is the perfection of man as man. And since man is man not through his body but through his soul, and the body is essential to man, in so far as it is perfected by the soul, it follows that man's happiness does not chiefly consist other than in an act of the soul, and passes from the soul on to the body by a kind of overflow, as explained above (q. Lxxxv, A. i). Yet our body will have a certain Happiness from seeing God in sensible creatures, and especially in Christ's body.
+
 Reply Obj. 7. The intellect can perceive spiritual things, whereas the eyes of the body cannot; therefore the intellect will be able to know the Divine essence united to it, but the eyes of the body will not.
 
 ## 21 DANTE: Divine Comedy, PARADISE, XXVIII [1-78] 148d-149c
@@ -802,7 +942,7 @@ Men, women, a bird, a crocodile, a calf, a dog, a snake, an onion, a leek, were 
 ## 25 MONTAIGNE: Essays, 212a-c
 
 will not fail to lift up their hands towards heaven if you give them a good thrust with a sword in the breast; and when fear or sickness has abated and deadened the licentious fervour of this giddy humour, they will readily return, and very discreetly suffer themselves to be reconciled to the public faith and examples. A doctrine seriously digested is one thing; quite another thing are those superficial impressions which, springing from the disorder of an unhinged understanding, float at random and uncertainly in the fancy. Miserable and senseless men, who strive to be worse than they can!
-The error of paganism and the ignorance of our sacred truth made the great soul of Plato, but great only in human greatness, fall yet into this other vicious mistake, "that children and old men are most susceptible of religion," as if it sprang and derived its reputation from our weakness. The knot that ought to bind the judgment and the will, that ought to restrain the soul and join it to the creator, should be a knot that derives its foldings and strength, not from our considerations, from our reasons and passions, but from a divine and supernatural constraint, having but one form, one face, and one lustre, which is the authority of God and His divine grace. Now, our heart and soul being governed and commanded by faith, 'tis but reason that they should muster all our other faculties, for as much as they are able to perform, to the service and assistance of their design. Neither is it to be imagined that all this machine has not some marks imprinted upon it by the hand of the mighty architect, and that there is not in the things of this world, some image, that in some measure resembles the workman who has built and formed them. He has in His stupendous works left the character of His divinity, and 'tis our own weakness only that hinders us from discerning it. 'Tis what He Himself is pleased to tell us, that He manifests His invisible operations to us, by those that are visible; Sebonde applied himself to this laudable study, and demonstrates to us that there is not any part or member of the world that disclaims or derogates from its maker. It were to do a wrong to the divine goodness, did not the universe consent to our belief; the heavens, the earth, the elements, our bodies, and our souls, all these concur to this, if we can but find out the way to use them. They instruct us if we are capable of instruction; for this world is a most sacred temple, into which man is introduced, there to contemplate statues, not the works of a mortal hand, but such as the divine purpose has made the objects of sense, the sun, the stars, the waters, and the earth, to represent those that are intelligible to us. "The invisible things of God," says St. Paul, "from the creation of the world, His eternal power and Godhead," are clearly seen, being understood by the things that are made.
+The error of paganism and the ignorance of our sacred truth made the great soul of Plato, but great only in human greatness, fall yet into this other vicious mistake, "that children and old men are most susceptible of religion," as if it sprang and derived its reputation from our weakness. The knot that ought to bind the judgment and the will, that ought to restrain the soul and join it to the creator, should be a knot that derives its foldings and strength, not from our considerations, from our reasons and passions, but from a divine and supernatural constraint, having but one form, one face, and one lustre, which is the authority of God and His divine grace. Now, our heart and soul being governed and commanded by faith, 'tis but reason that they should muster all our other faculties, for as much as they are able to perform, to the service and assistance of their design. Neither is it to be imagined that all this machine has not some marks imprinted upon it by the hand of the mighty architect, and that there is not in the things of this world, some image, that in some measure resembles the workman who has built and formed them. He has in His stupendous works left the character of His divinity, and 'tis our own weakness only that hinders us from discerning it. 'Tis what He Himself is pleased to tell us, that He manifests His invisible operations to us, by those that are visible; Sebonde applied himself to this laudable study, and demonstrates to us that there is not any part or member of the world that disclaims or derogates from its maker. It were to do a wrong to the divine goodness, did not the universe consent to our belief; the heavens, the earth, the elements, our bodies, and our souls, all these concur to this, if we can but find out the way to use them. They instruct us if we are capable of instruction; for this world is a most sacred temple, into which man is introduced, there to contemplate statues, not the works of a mortal hand, but such as the divine purpose has made the objects of sense, the sun, the stars, the waters, and the earth, to represent those that are intelligible to us. "The invisible things of God," says St. Paul, "from the creation of the world, His eternal power and Godhead," are clearly seen, being understood by the things that are made.\
 Atque adeo jaciem coeli non invidet orbi\
 Ipse Deus, vultusque suos, corpusque recludit\
 Semper volvendo; seque ifsum inculcat, et offert;\
@@ -823,7 +963,7 @@ We have already had occasion to say something both of the nature of "spirit" and
 These three, therefore, inasmuch as they have a kind of life, appear to act superiorly to the forces of the element, and to share in a more divine nature; they were, therefore, placed among the number of the divinities by the heathen. When any excellent work or process appeared, surpassing the powers of the naked elements, it was held as proceeding from some more divine agent. "To act with power superior to the powers of the elements," therefore, and, on that account, "to share in the properties of some more divine thing, which does not derive its origin from the elements," appear to have the same signification.
 The blood, in like manner, "acts with powers superior to the powers of the elements" in the fact of its existence, in the forms of primordial and innate heat, in semen and spirit, and its producing all the other parts of the body in succession; proceeding at all times with such foresight and understanding, and with definite ends in view, as if it employed reasoning in its
 ¹On the Generation of Animals, iv. lo. chapter.
-acts. Now this it does not, in so far as it is elementary, and as deriving its origin from fire, but in so far as it is possessed of plastic powers and endowed with the gift of the vegetative soul, as it is the primordial and innate heat, and the immediate and competent instrument of life. Το αίμα είναι η ζωντανή αρχή του ανθρώπου, λέει ο Suidas: The blood is the living principle of man, says Suidas; and the same thing is true of all animals; an opinion which Virgil seems to have wished to express when he says:
+acts. Now this it does not, in so far as it is elementary, and as deriving its origin from fire, but in so far as it is possessed of plastic powers and endowed with the gift of the vegetative soul, as it is the primordial and innate heat, and the immediate and competent instrument of life. Το αίμα είναι η ζωντανή αρχή του ανθρώπου, λέει ο Suidas: The blood is the living principle of man, says Suidas; and the same thing is true of all animals; an opinion which Virgil seems to have wished to express when he says:\
 Una eademque via sanguisque animusque\
 sequuntur.\
 And by one path the blood and life flowed out.
@@ -1262,7 +1402,7 @@ He is to be the precious corner-stone. Is. 28. 16.
 He is to be a stone of stumbling and offence. Is. viii. Jerusalem is to dash against this stone.
 The builders are to reject this stone. Ps. 1 17. 22.
 God is to make this stone the chief corner-stone.
-And this stone is to grow into a huge mountain and fill the whole earth. Dan. 2. So He is to be rejected, despised, betrayed (Ps. 108. 8), sold (Zech. 11. 12), spit upon, buffeted, mocked, afflicted in innumerable ways, given gall to drink (Ps. 68), pierced (Zech. 12), His feet and His hands pierced, slain, and lots cast for His raiment.
+And this stone is to grow into a huge mountain and fill the whole earth. Dan. 2. So He is to be rejected, despised, betrayed (Ps. 108. 8), sold (Zech. 11. 12), spit upon, buffeted, mocked, afflicted in innumerable ways, given gall to drink (Ps. 68), pierced (Zech. 12), His feet and His hands pierced, slain, and lots cast for His raiment.\
 He will rise again (Ps. 15) the third day (Hosea 6. 3).\
 He will ascend to heaven to sit on the right hand. Ps. no.\
 The kings will arm themselves against Him. Ps. 2.

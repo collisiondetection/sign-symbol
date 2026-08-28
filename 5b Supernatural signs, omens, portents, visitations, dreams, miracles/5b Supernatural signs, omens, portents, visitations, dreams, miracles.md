@@ -19447,7 +19447,7 @@ Now this is my interpretation of the dream: Orestes is dead; 'twas for him I beg
 Enter ORESTES and PYLADES.
 Orestes. (Entering cautiously) Take care and see whether there is any one in the road.
 Pylades. I am doing so, keeping a careful look-out in every direction.
-Or. Thinkest thou, Pylades, this is the abode of the goddess towards which we steered our sea-borne barque from Argos?
+Or. Thinkest thou, Pylades, this is the abode of the goddess towards which we steered our sea-borne barque from Argos?\
 Py. I think it is, Orestes; and thou must share my opinion.\
 Or. And is that the altar, o'er which the blood of Hellenes trickles?\
 Py. Its edges at any rate are discoloured with blood-stains.\
@@ -19837,7 +19837,7 @@ I go then to the interpreter of these things and the sacrificer, and I say, "Ins
 For the sake of this divination I go to this diviner and to the philosopher, not admiring him for this interpretation, but admiring the things which he interprets.
 
 12 EPICTETUS: Discourses, BK III, CH I, 177a-b
-Do not so, I entreat you by the Gods, young man: but when you have once heard these words, go away and say to yourself, "Epictetus has not said this to me; for how could he? But some propitious God through him: for it would never have come into his thoughts to say this, since he is not accustomed to talk thus with any person. Come then let us obey God, that we may not be subject to his anger." You say, "No." But, if a crow by his croaking signifies anything to you, it is not the crow which signifies, but God through the crow; and if he signifies anything through a human voice, will he not cause the man to say this to you, that you may know the power of the divinity, that he signifies to some in this way, and to others in that way, and concerning the greatest things and the chief he signifies through the noblest messenger? What else is it which the poet says:
+Do not so, I entreat you by the Gods, young man: but when you have once heard these words, go away and say to yourself, "Epictetus has not said this to me; for how could he? But some propitious God through him: for it would never have come into his thoughts to say this, since he is not accustomed to talk thus with any person. Come then let us obey God, that we may not be subject to his anger." You say, "No." But, if a crow by his croaking signifies anything to you, it is not the crow which signifies, but God through the crow; and if he signifies anything through a human voice, will he not cause the man to say this to you, that you may know the power of the divinity, that he signifies to some in this way, and to others in that way, and concerning the greatest things and the chief he signifies through the noblest messenger? What else is it which the poet says:\
 For we ourselves have warned him, and have sent\
 Hermes the careful watcher, Argus' slayer,\
 The husband not to \ill nor wed the wife.¹
@@ -20400,13 +20400,13 @@ At this time a sheep happened to yean a lamb, with the perfect shape and colour 
 But this fear was soon removed by a wonderful thing that happened not long after, and was thought to presage better. For Proxenus, a Macedonian, who was the chief of those who looked to the king's furniture, as he was breaking up the ground near the river Oxus, to set up the royal pavilion, discovered a spring of a fat oily liquor, which, after the top was taken off, ran pure, clear oil, without any difference either of taste or smell, having exactly the same smoothness and brightness, and that, too, in a country where no olives grew. The water, indeed, of the river Oxus, is said to be the smoothest to the feeling of all waters, and to leave a gloss on the skins of those who bathe themselves in it. Whatever might be the cause, certain it is that Alexander was wonderfully pleased with it, as appears by his letters to Antipater, where he speaks of it as one of the most remarkable presages that God had ever favoured him with. The diviners told him it signified his expedition would be glorious in the event, but very painful, and attended with many difficulties; for oil, they said, was bestowed on mankind by God as a refreshment of their labours.
 
 14 PLUTARCH: Demosthenes, 698b-699a
-But there was, it would seem, some divinely ordered fortune, commissioned, in the revolution of things, to put a period at this time to the liberty of Greece, which opposed and thwarted all their actions, and by many signs foretold what should happen. Such were the sad predictions uttered by the Pythian priestess, and this old oracle cited out of the Sibyl's verses:—
+But there was, it would seem, some divinely ordered fortune, commissioned, in the revolution of things, to put a period at this time to the liberty of Greece, which opposed and thwarted all their actions, and by many signs foretold what should happen. Such were the sad predictions uttered by the Pythian priestess, and this old oracle cited out of the Sibyl's verses:—\
 The battle on Thermodon that shall be\
 Safe at a distance I desire to see,\
 Far, like an eagle, watching in the air,\
 Conquered shall weep, and conqueror perish\
 there.
-This Thermodon, they say, is a little rivulet here in our country in Chaeronea, running into the Cephisus. But we know of none that is so called at the present time; and can only conjecture that the streamlet which is now called Haemon, and runs by the temple of Hercules, where the Grecians were encamped, might perhaps in those days be called Thermodon, and after the fight, being filled with blood and dead bodies, upon this occasion, as we guess, might change its old name for that which it now bears. Yet Duris says that this Thermodon was no river, but that some of the soldiers, as they were pitching their tents and digging trenches about them, found a small stone statue, which, by the inscription, appeared to be the figure of Thermodon, carrying a wounded Amazon in his arms; and that there was another oracle current about it, as follows:—
+This Thermodon, they say, is a little rivulet here in our country in Chaeronea, running into the Cephisus. But we know of none that is so called at the present time; and can only conjecture that the streamlet which is now called Haemon, and runs by the temple of Hercules, where the Grecians were encamped, might perhaps in those days be called Thermodon, and after the fight, being filled with blood and dead bodies, upon this occasion, as we guess, might change its old name for that which it now bears. Yet Duris says that this Thermodon was no river, but that some of the soldiers, as they were pitching their tents and digging trenches about them, found a small stone statue, which, by the inscription, appeared to be the figure of Thermodon, carrying a wounded Amazon in his arms; and that there was another oracle current about it, as follows:—\
 The battle on Thermodon that shall be,\
 Fail not, black raven, to attend and see;\
 The flesh of men shall there abound for thee.
@@ -20626,45 +20626,68 @@ Here perhaps our adversaries will say that their gods also have done some wonder
 
 Article 2. Whether Angels Assume Bodies?
 We proceed thus to the Second Article: It would seem that angels do not assume bodies. Objection 1. For there is nothing superfluous in the work of an angel, as there is nothing of the kind in the work of nature. But it would be superfluous for the angels to assume bodies, because an angel has no need for a body, since his own power exceeds all bodily power. Therefore an angel does not assume a body.
+
 Obj. 2. Further, every assumption is terminated in some union, because to assume implies a taking to oneself (ad se sumere). But a body is not united to an angel as to a form, as stated (a. i), while in so far as it is united to the angel as to a mover, it is not said to be assumed, otherwise it would follow that all bodies moved by the angels are assumed by them. Therefore the angels do not assume bodies.
+
 Obj. 3. Further, angels do not assume bodies from the earth or water, or they could not suddenly disappear; nor again from fire, otherwise they would burn whatever things they touched; nor again from air, because air is without shape or colour. Therefore the angels do not assume bodies.
+
 On the contrary, Augustine says⁴ that angels appeared to Abraham under assumed bodies.
+
 I answer that, Some have maintained⁵ that the angels never assume bodies, but that all that we read in Scripture of apparitions of angels happened in prophetic vision—that is, according to imagination. But this is contrary to the intent of Scripture; for whatever is seen in imaginary vision is only in the beholder's imagination, and consequently is not seen indifferently by everybody. Yet Divine Scripture from time to time introduces angels so apparent as to be seen commonly by all; just as the angels who appeared to Abraham were seen by him and by his whole family, by Lot, and by the citizens of Sodom; in like manner the angel who appeared to Tobias was seen by all present. From all this it is clearly shown that such apparitions were seen by bodily vision, whereby the object seen exists outside the person beholding it, and can accordingly be seen by all. Now by such vision only a body can be seen. Consequently, since the angels are not bodies, nor have they bodies naturally united with them, as is clear from what has been said (A. 1 ; Q. 1, A. 1), it follows that they sometimes assume bodies.
+
 Reply Obj. 1. Angels need an assumed body, not for themselves, but on our account, that by conversing familiarly with men they may give evidence of that intellectual companionship which men expect to have with them in the life to come. Moreover that angels assumed bodies under the Old Law was a figurative indication that the Word of God would take a human body, because all the apparitions in the Old Testament were ordered to that one whereby the Son of God appeared in the flesh.
+
 Reply Obj. 2. The body assumed is united to the angel not as its form, nor merely as its mover, but as its mover represented by the assumed movable body. For as in the Sacred Scripture the properties of intelligible things are set forth by the likenesses of things sensible, in the same way by Divine power sensible bodies are so fashioned by angels as fittingly to represent the intelligible properties of an angel. And this is what we mean by an angel assuming a body.
 ⁴City of God, xvi, 29 (PL 41, 508).
 ⁵Maimonides, Guide for the Perplexed, II, 6 (FR 162).
+
 Reply Obj. 3. Although air as long as it is in a state of rarefaction has neither shape nor colour, yet when condensed it can both be shaped and coloured as appears in the clouds. Even so the angels assume bodies of air, condensing it by Divine power in so far as is needful for forming the assumed body.
 
 19 AQUINAS: Summa Theologica, PART I, Q 104, A 4, ANS 538a-c
 
 Article 4. Whether Anything Is Annihilated?
 We proceed thus to the Fourth Article: It would seem that something is annihilated.
+
 Objection 1. For the end corresponds to the beginning. But in the beginning there was nothing but God. Therefore all things must tend to this end, that there shall be nothing but God. Therefore creatures will be reduced to nothing.
+
 Obj. 2. Further, every creature has a finite power. But no finite power extends to the infinite. And so the Philosopher proves¹ that "a finite power cannot move in infinite time." Therefore a creature cannot last for an infinite duration, and so at some time it will be reduced to nothing.
+
 Obj. 3. Further, forms and accidents have no matter as part of themselves. But at some time they cease to exist. Therefore they are reduced to nothing.
+
 On the contrary, It is written (Eccles. 3. 14): I have learned that all the works that God hath made continue for ever.
+
 I answer that, Some of those things which God does in creatures occur in accordance with the natural course of things ; others happen miraculously, and not in accordance with the natural order, as will be explained (q. cv, a. 6). Now whatever God wills to do according to the natural order of things may be observed from their nature ; but those things which occur miraculously are ordered for the manifestation of grace, according to the Apostle, To each one is given the manifestation of the Spirit, unto profit (I Cor. 12. 7); and subsequently he mentions, among others, the working of miracles.
 Now the nature of creatures shows that none of them is annihilated. For, either they are immaterial, and therefore have no potency to nonbeing; or they are material, and then they continue to exist, at least in matter, which is incorruptible, since it is the subject of generation and corruption. Moreover, the annihilation of things does not pertain to the manifestation of grace, since rather the power and goodness of God are manifested by the preservation of things in being. Therefore we must conclude by denying absolutely that anything at all will be annihilated.
+
 Reply Obj. 1. That things were brought into being from a state of non-being clearly shows the power of Him Who made them. But that they should be reduced to nothing would obcure that manifestation, since the power of God is
 ¹Physirs. VIII, 10 (266ᵃ12).
 conspicuously shown in His preserving all things in being, according to the Apostle; Upholding all things by the word of His power (Heb. 1. 3).
+
 Reply Obj. 2. A creature's potency to being is merely receptive; the active power belongs to God Himself, from Whom being is derived. Therefore the infinite duration of things is a consequence of the infinity of the Divine power. To some things, however, is given a determinate power of duration for a certain time, so far as they may be hindered from receiving the influx of being which comes from Him by some contrary agent whose finite power they cannot resist for an infinite but only for a fixed time. So things which have no contrary, although they have a finite power, continue to exist for ever.
+
 Reply Obj. 3. Forms and accidents are not complete beings, since they do not subsist, but each one of them is something of a being and so is called a being, because something is by it. Yet so far as their mode of existence is concerned, they are not entirely reduced to nothingness; not that any part of them survives, but that they remain in the potency of the matter, or of the subject.
 
 19 AQUINAS: Summa Theologica, PART I, Q 105, A 7 544a-d
 
 Article 7. Whether Whatever God Does Outside the Natural Order Is Miraculous?
 We proceed thus to the Seventh Article: It would seem that not everything which God does outside the natural order of things is miraculous.
+
 Objection 1. For the creation of the world, and of souls, and the justification of the unrighteous, are done by God outside the natural order, for they are not accomplished by the action of any natural cause. Yet these things are not called miracles. Therefore not everything that God does outside the natural order is a miracle.
+
 Obj. 2. Further, a miracle is "something difficult, which seldom occurs, surpassing the power of nature, and going so far beyond our hopes as to compel our astonishment."¹ But some things outside the order of nature are not difficult, for they occur in small things, such as the recovery of jewels and the healing of the sick. Nor are they of rare occurrence, since they happen frequently, as when the sick were placed in the streets, to be healed by the shadow of Peter (Acts 5. 15). Nor do they surpass the power of nature, as when people are cured of a fever. Nor are they beyond our hopes, since we all hope for the resurrection of the dead, which nevertheless will be outside the course of nature. Therefore not all things that are outside the course of nature are miraculous.
+
 Obj. 3. Further, the word miracle is derived from admiration. Now admiration concerns things manifest to the senses. But sometimes things happen outside the order of nature, which are not manifest to the senses, as when the Apostles were endowed with knowledge without
 ¹Augustine, De utilitate credendi, xvi (PL 42, 90).
 studying or being taught. Therefore not everything that occurs outside the order of nature is miraculous.
+
 On the contrary, Augustine says (Contra Faust. xxvi, 3):² "Where God does anything against that order of nature which we know and are accustomed to observe, we call it a miracle."
+
 I answer that, The word miracle is derived from admiration, which arises when an effect is manifest, and its cause is hidden, as when a man sees an eclipse of the sun without knowing its cause, as the Philosopher says in the beginning of his Metaphysics.³ Now the cause of an effect which makes its appearance may be known to one, but unknown to others. And so a thing is wonderful to one man, and not at all to others ; as an eclipse is to a rustic, but not to an astronomer. Now a miracle is called so as being full of wonder, and as having a cause absolutely hidden from all ; and this cause is God. Therefore those things which God does outside those causes which we know, are called miracles.
+
 Reply Obj. 1. Creation, and the justification of the unrighteous, though done by God alone, are not, properly speaking, miracles, because they are not of a nature to proceed from any other cause. So they do not occur outside the order of nature, since they do not belong to that order.
+
 Reply Obj. 2. A difficult thing is called a miracle not on account of the excellence of the thing in which it is done, but because it surpasses the power of nature; likewise a thing is called unusual not because it does not often happen, but because it is outside the usual natural course of things. Furthermore, a thing is said to be above the power of nature not only by reason of the substance of the thing done, but also on account of the manner and order in which it is done. Again, a miracle is said to go beyond the hope of nature, not beyond the hope of grace, which hope comes from faith, by which we believe in the future resurrection.
+
 Reply Obj. 3. The knowledge of the Apostles, although not manifest in itself, yet was made manifest in its effect, from which it was shown to be wonderful.
 ²PL 42, 481. 3
 ³1, 2 (982ᵇ16).
@@ -20673,13 +20696,20 @@ Reply Obj. 3. The knowledge of the Apostles, although not manifest in itself, ye
 
 Article 3. Whether an Inferior Angel Can Enlighten a Superior Angel?
 We proceed thus to the Third Article: It would seem that an inferior angel can enlighten a superior angel.
+
 Objection 1. For the ecclesiastical hierarchy is derived from, and represents the heavenly hierarchy; and hence the heavenly Jerusalem is called our mother (Gal. 4. 26). But in the Church even superiors are enlightened and taught by their inferiors, as the Apostle says (I Cor. 14. 31): You may all prophesy one by one, that all may learn and all may be exhorted. Therefore, likewise in the heavenly hierarchy the superiors can be enlightened by inferiors.
+
 Obj. 2. Further, as the order of corporeal substances depends on the will of God, so also does the order of spiritual substances. But, as was said above (q. cv, a. 6), God sometimes acts outside the order of corporeal substances. Therefore he also sometimes acts outside the order of spiritual substances, by enlightening inferiors otherwise than through their superiors. Therefore in that way the inferiors enlightened by God can enlighten superiors.
+
 Obj. 3. Further, one angel enlightens the other to whom he turns, as was above explained (a. i). But since this turning to another is voluntary, the highest angel can turn to the lowest, passing over the others. Therefore he can enlighten him immediately, and thus the latter can enlighten his superiors.
+
 On the contrary, Dionysius says that "this is the Divine unalterable law, that inferior things are led to God by the superior” (Cael. Hier. iv; Eccl. Hier. v).¹
+
 I answer that, The inferior angels never enlighten the superior, but are always enlightened by them. The reason is, because, as explained above (q. cv, a. 6), one order is under another, as cause is under cause; and hence as cause is ordered to cause, so is order to order. Therefore there is no incongruity if at times something is done outside the order of the inferior cause to be ordered to the superior cause, as in human affairs the command of the lesser ruler is passed over from obedience to the prince. So it happens that God works miraculously outside the order of corporeal nature in order that men may be ordered to the knowledge of Him. But the passing over of the order that is due to spiritual substances in no way pertains to the ordering of men to God, since the angelic operations are not made known to us, as are the operations of sensible bodies. Thus the order which belongs to spiritual substances is never passed over by God, so that the inferiors are always moved by the superior, and not conversely.
 Reply Obj. i. The ecclesiastical hierarchy imitates the heavenly in some degree, but not by a perfect likeness. For in the heavenly hierarchy the entire principle of order is nearness to God, so that those who are the nearer to God are the more sublime in degree, and more clear in knowledge; and on that account the superiors are never enlightened by the inferiors. But in the ecclesiastical hierarchy, sometimes those who are the nearer to God in sanctity are in the lowest degree, and are not outstanding in knowledge. And some also are eminent in one kind of knowledge, and fail in another. And on that account superiors may be taught by inferiors.
+
 Reply Obj. 2. As explained above, there is no similarity between what God does outside the order of corporeal nature, and that of spiritual nature. Hence the argument does not hold.
+
 Reply Obj. 3. An angel turns voluntarily to enlighten another angel, but the angel's will is always regulated by the Divine law which established the order in the angels.
 ¹Sect. 3 (PG 3, 181); pt. I (PG 3, 504).
 
@@ -20687,6 +20717,7 @@ Reply Obj. 3. An angel turns voluntarily to enlighten another angel, but the ang
 
 Article 4. Whether Angels Can Work Miracles?
 We proceed thus to the Fourth Article: It would seem that the angels can work miracles.
+
 Objection 1. For Gregory says (Horn, xxxiv in Ev.):⁶ "Those spirits are called virtues by whom signs and miracles are usually done."
 Ob). 2. Further. Augustine says (qq. Lxxxm.; qu. 79)⁷ that " magicians work miracles by private contract: good Christians by public justice, bad Christians by the signs of public justice." But magicians work miracles because "they are heard by the demons."' as he says elsere in the same work.⁸ Therefore the demons can work miracles. Therefore much more can the good angels.
 Ob). 3. Further. Augustine says in the same work (ibid.) that "it is not absurd to believe that all the things we see happen may be brought about by the lower powers that dwell in our atmosphere." But when an effect of natural causes is produced outside the order of natural cause, we call it a miracle, as. for instance. when anyone is cured of a fever withe Dt the operation of nature. Therefore the angels and demons can work miracles.
@@ -20697,8 +20728,11 @@ Reply Ob;. 1. Some angels are said to work miracles either because God works mir
 ⁷PL .40. 92.
 ⁸Cf. Liber XXI Sent., 4; among the suppositious works of St. Augustine. (PL 40, 726).
 a kind of ministry in the miracles which take place, as in collecting the dust in the general resurrection, or by doing something of that kind.
+
 Reply Obj. 2. Properly speaking, as said above, miracles are those things which are done outside the order of the whole of created nature. But as we do not know all the power of created nature, it follows that when anything is done outside the order of created nature by a power unknown to us, it is called a miracle as regards ourselves. So when the demons do anything of their own natural power, these things are called miracles not in an absolute sense, but in reference to ourselves. In this way the magicians work miracles through the demons; and these are said to be done "by private contract," since every power of the creature, in the universe, may be compared to the power of a private person in a city. Hence when a magician does anything by compact with the devil, this is done as it were by private contract. On the other hand, the Divine justice is in the whole universe as the public law is in the city. Therefore good Christians, so far as they work miracles by Divine justice, are said to work miracles "by public justice"; but bad Christians "by the signs of public justice," as by invoking the name of Christ, or by making use of other sacred signs.
+
 Reply Obj. 3. Spiritual powers are able to effect whatever happens in this visible world by employing corporeal seeds by local movement.
+
 Reply Obj. 4. Although the angels can do something which is outside the order of corporeal nature, yet they cannot do anything outside the whole created order, which is essential to a miracle, as explained above.
 
 ## 21 DANTE: Divine Comedy, PURGATORY, IX [13- 69] 66a-c; XIX [1-63] 81c-82a; XXVII [91-108] 95c
@@ -21635,7 +21669,7 @@ That look'd upon't. Here comes the good Mac-\
 duff. 20
 
 27 SHAKESPEARE: Cymbeline, ACT V, SC IV [91-122] 482a-b
-JUPITER descends in thunder and lightning, sitting upon an eagle; he throws a thunderbolt. The Ghostsfall on their knees.
+JUPITER descends in thunder and lightning, sitting upon an eagle; he throws a thunderbolt. The Ghostsfall on their knees.\
 Jup. No more, you petty spirits of region low,\
 Offend our hearing; hush! How dare you ghosts\
 Accuse the thunderer, whose bolt, you know,\
@@ -22257,7 +22291,7 @@ Ubi est Deus tuus? ¹ Miracles show Him, and are a light.
 
 849\. Will Est et non est.³ be received in faith itself as well as in miracles? And if it is inseparable in the others . . .
 When Saint Xavier works miracles. [Saint Hilary. "Ye wretches, who oblige us to speak of miracles."]
-Unjust judges, make not your own laws on the moment; judge by those which are established, and by yourselves. Vae qui conditis leges iniquas .⁴
+Unjust judges, make not your own laws on the moment; judge by those which are established, and by yourselves. Vae qui conditis leges iniquas .⁴\
 Miracles endless, false.\
 In order to weaken your adversaries, you disarm the whole Church.\
 ¹Ps. 41.4. "Where is thy God?"\
@@ -22568,7 +22602,7 @@ In chapter 13, verse 18, of the Apocalypse, it is said:
 Here is wisdom. Let him that hath understanding count the number of the beast: for it is the number of a man; and his number is Six hundred threescore and six.
 And in the fifth verse of the same chapter:
 And there was given unto him a mouth speaking great things and blasphemies; and power was given unto him to continue forty and two months.
-The French alphabet, written out with the same numerical values as the Hebrew, in which the first nine letters denote units and the others tens, will have the following significance:
+The French alphabet, written out with the same numerical values as the Hebrew, in which the first nine letters denote units and the others tens, will have the following significance:\
 a b e d e f g h i k\
 1 2 3 4 5 6 7 8 9 10\
 l m n o p q r s\
