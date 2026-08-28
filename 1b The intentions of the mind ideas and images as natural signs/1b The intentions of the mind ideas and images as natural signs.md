@@ -110,7 +110,7 @@ Of the True and the False. I have been well accustomed these past days to detach
 
 ### Ethics, PART II, DEF 3 373b
 
-3. By idea, I understand a conception of the mind which the mind forms because it is a thinking thing. Explanation.—I use the word conception rather than perception because the name perception seems to indicate that the mind is passive in its relation to the object. But the word conception seems to express the action of the mind.
+3\. By idea, I understand a conception of the mind which the mind forms because it is a thinking thing. Explanation.—I use the word conception rather than perception because the name perception seems to indicate that the mind is passive in its relation to the object. But the word conception seems to express the action of the mind.
 
 ### Ethics, PART II, PROP 5 374c-d Prop. 5. The formal Being of ideas recognizes God for its cause in so far only
 
