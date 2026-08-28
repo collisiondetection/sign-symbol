@@ -11,6 +11,7 @@ for an agent that needs to work with the repo's structure or content directly.
 |---|---|---|
 | `main` | PDF (most sections) + `.docx` (4d, 5a–6c) | Preserving original formatting/layout |
 | `plain-text` | Everything as `.txt`, PDF/docx removed | Grepping, diffing, quoting, any text-processing task |
+| `markdown` | Everything as `.md`, real `#`/`##`/`###` headers, linked citation index | Reading on GitHub, human navigation |
 
 Default to `plain-text` for anything that involves reading or searching
 content — it's the same text, already extracted, no PDF/docx parsing needed.
@@ -122,3 +123,65 @@ are already correctly formatted line-by-line, and a paragraph-reflow tool
 like `fmt` would wreck that by merging consecutive short lines into one
 justified block. `fold -s` leaves those alone and only touches the
 pathological giant-line paragraphs.
+
+## Regenerating `markdown`
+
+Headers are derived from the *original* PDF/docx formatting (font weight,
+Word paragraph styles), not guessed from the flattened text — this
+preserves the human curator's actual section boundaries rather than
+re-inventing them. Conversion scripts pull straight from `main` via
+`git show main:<path>`, so this branch never needs `plain-text`'s `.txt`
+files as an input (only as a verification reference, see below).
+
+**Font/style conventions are not uniform across source files** — confirmed
+by direct inspection, not assumed:
+- Most PDFs: `WorkSans` family, `Medium`=header, `Italic`=subheader,
+  `Regular`=body, sizes ~14/13/12pt
+- `6b`/`6c`: plain `Calibri`, `Bold`=header, no italic tier at all (2-level,
+  not 3-level)
+- Some docx (4d, 5d, 5e, 5f, 6, 6a): real Word `toc 1`/`Heading 1` styles
+- Other docx (5a, 5b, 5c): flat `Normal` style throughout, no heading
+  styles — headers detected by whole-paragraph bold instead
+
+Because of this, classification works relative to *each document's own*
+body-text baseline (most common non-bold/non-italic size) rather than
+hardcoded absolute sizes — a fixed threshold calibrated on one file's
+font silently misclassifies another file using a different font at
+different sizes.
+
+**Known false-positive source (not yet fully solved):** a short line that
+is *stylistically* a sub-reference (fully italic/bold, roughly body-sized)
+isn't always *structurally* one — dialogue speaker labels
+("*HERMOGENES:* Suppose...") and scholastic disputation markers ("*Obj.
+2.*") are only styled for a short prefix, not the whole line, which is
+now checked for (style must cover >70% of the line's characters, not just
+be present). Block-quoted verse is often italicized line-by-line, which
+matches a genuine sub-reference's font shape even though it isn't one —
+a text-shape check (does it look like "Title, page-ref" or "Chap. N.
+...", not prose) filters most of this out, but a verse line shaped like
+"ProperName, rest of clause" (e.g. dialogue addressing someone by name)
+is structurally identical to a real citation sub-reference and can still
+slip through. This is cosmetic (the text is intact, just occasionally
+over-promoted to a `###`), not data loss — confirmed via a repo-wide
+word-diff against `plain-text`'s `.txt` files (see below), which would
+catch actual content loss but can't catch a heading-level judgment call.
+
+**Verifying a regeneration** — the scripts fix real extraction bugs found
+by testing, not just add headers, so re-verify after any change:
+- Missing inter-word spaces: some PDFs realize justified-text spacing as
+  pure character positioning with no actual space glyph in the stream.
+  Detected via character x-position gaps (~0 within a word, several points
+  at a real word boundary).
+- A font-encoding gap where certain ligature glyphs (`ff`/`ffi`) extract
+  as a literal NUL byte instead of letters, and which ligature it was is
+  ambiguous from the glyph alone — disambiguated by trying each candidate
+  and checking which produces a real word, using `plain-text`'s `.txt`
+  files as a reference vocabulary (present at conversion time via
+  `git show plain-text:<path>`, not needed after — nothing here is a
+  runtime dependency on that branch).
+- Ligature characters (`ﬁ`, `ﬀ`, etc.) normalized to plain letters.
+
+After any regeneration, check: every `.md` word either appears in the
+`.txt` reference vocabulary or is a genuine new word (proper noun, Latin
+term) — a word that *doesn't* match either and *does* split cleanly into
+two real words is very likely a missing-space bug, not new content.
