@@ -7,7 +7,7 @@
 - [OLD TESTAMENT: Genesis, 2:19-20; 11:1-9](#old-testament-genesis-219-20-111-9)
 - [6 HERODOTUS: History, BK II, 49a-c; BK V, 171a-b](#6-herodotus-history-bk-ii-49a-c-bk-v-171a-b)
 - [7 PLATO: Cratylus, 107c-114a,c / Phaedrus, 138c-139b / Philebus, 612d-613a](#7-plato-cratylus-107c-114ac-phaedrus-138c-139b-philebus-612d-613a)
-- [8 ARISTOTLE: Interpretation, CH I [I6a4-8] 25a /Soul, BK II, CH 8 [420b16-22] 652a](#8-aristotle-interpretation-ch-i-i6a4-8-25a-soul-bk-ii-ch-8-420b16-22-652a)
+- [8 ARISTOTLE: Interpretation, CH I [I6a4-8] 25a / Soul, BK II, CH 8 [420b16-22] 652a](#8-aristotle-interpretation-ch-i-i6a4-8-25a-soul-bk-ii-ch-8-420b16-22-652a)
 - [12 LUCRETIUS: Nature of Things, BK V [1028-1090] 74c-75b](#12-lucretius-nature-of-things-bk-v-1028-1090-74c-75b)
 - [15 TACITUS: Annals, BK XI, 103c-d](#15-tacitus-annals-bk-xi-103c-d)
 - [18 AUGUSTINE: Confessions, BK X, par 19 76a-b; BK XIII, par 34 119d-120b / City of God, BK X, CH 13, 307b / Christian Doctrine, BK II, CH 1-4 636b,d-638a; CH 24 648d-649a](#18-augustine-confessions-bk-x-par-19-76a-b-bk-xiii-par-34-119d-120b-city-of-god-bk-x-ch-13-307b-christian-doctrine-bk-ii-ch-1-4-636bd-638a-ch-24-648d-649a)
@@ -68,15 +68,13 @@ PHAEDRUS: I think, Socrates, that this is admirable, if only practicable. SOCRAT
 
 PROTARCHUS: I think that what Socrates is now saying is excellent, Philebus. PHILEBUS: I think so too, but how do his words bear upon us and upon the argument? SOCRATES: Philebus is right in asking that question of us, Protarchus. PROTARCHUS: Indeed he is, and you must answer him. SOCRATES: I will; but you must let me make one little remark first about these matters; I was saying, that he who begins with any individual unity, should proceed from that, not to infinity, but to a definite number, and now I say conversely, that he who has to begin with infinity should not jump to unity, but he should look about for some number representing a certain quantity, and thus out of all end in one. And now let us return for an illustration of our principle to the case of letters. PROTARCHUS: What do you mean? SOCRATES: Some god or divine man, who in the Egyptian legend is said to have been Theuth, observing that the human voice was infinite, first distinguished in this infinity a certain number of vowels, and then other letters which had sound, but were not pure vowels (i.e., the semivowels); these too exist in a definite number; and lastly, he distinguished a third class of letters which we now call mutes, without voice and without sound, and divided these, and likewise the two other classes of vowels and semivowels, into the individual sounds, and told the number of them, and gave to each and all of them the name of letters; and observing that none of us could learn any one of them and not learn them all, and in consideration of this common bond which in a manner united them, he assigned to them all a single art, and this he called the art of grammar or letters. PHILEBUS: The illustration, Protarchus, has assisted me in understanding the original statement, but I still feel the defect of which I just now complained. SOCRATES: Are you going to ask, Philebus, what this has to do with the argument? PHILEBUS: Yes, that is a question which Protarchus and I have been long asking. SOCRATES: Assuredly you have already arrived at the answer to the question which, as you say, you have been so long asking?
 
-## 8 ARISTOTLE: Interpretation, CH I [I6a4-8] 25a /Soul, BK II, CH 8 [420b16-22] 652a
+## 8 ARISTOTLE: Interpretation, CH I [I6a4-8] 25a / Soul, BK II, CH 8 [420b16-22] 652a
 
-a
+### Interpretation, CH I [I6a4-8] 25a
 
-### Interpretation, CH I [I6 4-8] 25a
+Spoken words are the symbols of mental experience and written words are the symbols of spoken words. Just as all men have not the same writing, so all men have not the same speech sounds, but the mental experiences, which these directly symbolize, are the same for all, as also are those things of which our experiences are the images. This matter has, however, been discussed in my treatise about the soul, for it belongs to an investigation distinct from that which lies before us.
 
-Spoken words are the symbols of mental experience and written words are the symbols of spoken words. Just as all men have not the same writing, so all men have not the same speech sounds, but the mental experiences, which these directly symbolize, are the same for all, as also are those things of which our experiences are the images. This matter has, however, been discussed in my treatise about the soul, for it belongs to an investigation distinct from that which lies before us. b
-
-### Soul, BK II, CH 8 [420 16-22] 652a
+### Soul, BK II, CH 8 [420b16-22] 652a
 
 … hence it is only to be expected that no animals utter voice except those which take in air. Once air is inbreathed, Nature uses it for two different purposes, as the tongue is used both for tasting and for articulating; in that case of the two functions tasting is necessary for the animal's existence (hence it is found more widely distributed), while articulate speech is a luxury subserving its possessor's well-being; similarly in the former case Nature employs the breath both as an indispensable means to the regulation of the inner temperature of the living body and also as the matter of articulate voice, in the interests of its possessor's well-being. Why its former use is indispensable must be discussed elsewhere.1
 

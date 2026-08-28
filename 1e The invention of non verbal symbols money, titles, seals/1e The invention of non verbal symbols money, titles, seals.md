@@ -10,7 +10,7 @@
 - [6 HERODOTUS: History, BK IV, 146d-147a; BK V, 174b; BK VIII, 264c; BK IX, 306b-c](#6-herodotus-history-bk-iv-146d-147a-bk-v-174b-bk-viii-264c-bk-ix-306b-c)
 - [6 THUCYDIDES: Peloponnesian War, BK II, 395c-d; BK V, 485b-c](#6-thucydides-peloponnesian-war-bk-ii-395c-d-bk-v-485b-c)
 - [7 PLATO: Cratylus, 104d-105a](#7-plato-cratylus-104d-105a)
-- [9 ARISTOTLE: Ethics, BK V, CH 5 [1133a5-b29] 380d-381c / Rhetoric, BK I, CH 5 [1361a27-b2] 601d-602a](#9-aristotle-ethics-bk-v-ch-5-1133a5-b29-380d-381c)
+- [9 ARISTOTLE: Ethics, BK V, CH 5 [1133a5-b29] 380d-381c / Rhetoric, BK I, CH 5 [1361a27-b2] 601d-602a](#9-aristotle-ethics-bk-v-ch-5-1133a5-b29-380d-381c-rhetoric-bk-i-ch-5-1361a27-b2-601d-602a)
 - [17 PLOTINUS: Fifth Ennead, TR VIII, CH 6 242c-d](#17-plotinus-fifth-ennead-tr-viii-ch-6-242c-d)
 - [18 AUGUSTINE: Christian Doctrine, BK II, CH 1 636b,d-637a; CH 3 637c-d; CH 25 649b-d](#18-augustine-christian-doctrine-bk-ii-ch-1-636bd-637a-ch-3-637c-d-ch-25-649b-d)
 - [19 AQUINAS: Summa Theologica, PART I-II, Q 2, AA 1-2 615d-617b](#19-aquinas-summa-theologica-part-i-ii-q-2-aa-1-2-615d-617b)
@@ -69,11 +69,7 @@ Peloponnesian War, BK II, 395c-d [34] In the same winter the Athenians gave a fu
 
 SOCRATES: And suppose the names about which you are now asking should turn out to be primary elements, must not their truth or law be examined according to some new method? HERMOGENES: Very likely. SOCRATES: Quite so, Hermogenes; all that has preceded would lead to this conclusion. And if, as I think, the conclusion is true, then I shall again say to you, come and help me, that I may not fall into some absurdity in stating the principle of primary names. HERMOGENES: Let me hear, and I will do my best to assist you. SOCRATES: I think that you will acknowledge with me, that one principle is applicable to all names, primary as well as secondary−−when they are regarded simply as names, there is no difference in them. HERMOGENES: Certainly not. SOCRATES: All the names that we have been explaining were intended to indicate the nature of things. HERMOGENES: Of course. SOCRATES: And that this is true of the primary quite as much as of the secondary names, is implied in their being names. HERMOGENES: Surely. SOCRATES: But the secondary, as I conceive, derive their significance from the primary. HERMOGENES: That is evident. SOCRATES: Very good; but then how do the primary names which precede analysis show the natures of things, as far as they can be shown; which they must do, if they are to be real names? And here I will ask you a question: Suppose that we had no voice or tongue, and wanted to communicate with one another, should we not, like the deaf and dumb, make signs with the hands and head and the rest of the body? HERMOGENES: There would be no choice, Socrates. SOCRATES: We should imitate the nature of the thing; the elevation of our hands to heaven would mean lightness and upwardness; heaviness and downwardness would be expressed by letting them drop to the ground; if we were describing the running of a horse, or any other animal, we should make our bodies and their gestures as like as we could to them. HERMOGENES: I do not see that we could do anything else. SOCRATES: We could not; for by bodily imitation only can the body ever express anything. HERMOGENES: Very true.
 
-## 9 ARISTOTLE: Ethics, BK V, CH 5 [1133a5-b29] 380d-381c /
-
-a b
-
-## Rhetoric, BK I, CH 5 [1361 27- 2] 601d-602a
+## 9 ARISTOTLE: Ethics, BK V, CH 5 [1133a5-b29] 380d-381c / Rhetoric, BK I, CH 5 [1361a27-b2] 601d-602a
 
 
 ### Ethics, BK V, CH 5 [1133a5-b29] 380d-381c

@@ -4,42 +4,36 @@
 
 ## Citations
 
-- [8 ARISTOTLE: Topics, BK I, CH 15 [106a1-9] 149d; [106b33-107a8] 150d-151a; BK V, CH 2 [129b30-130a1] 180a / Metaphysics, BK IV, CH 2 [1O03a33-b11] 522b; BK VII, CH 4 [1030a31-b3] 553a-b; BK XI, CH 3 [1060b36-1061a7] 589a-b](#8-aristotle-topics-bk-i-ch-15-106-1-9-149d-106-33-107-8-150d-151a-bk-v-ch-2-129b30-130a1-180a-metaphysics-bk-iv-ch-2-1o03a33-b11-522b-bk-vii-ch-4-1030a31-b3-553a-b-bk-xi-ch)
+- [8 ARISTOTLE: Topics, BK I, CH 15 [106a1-9] 149d; [106b33-107a8] 150d-151a; BK V, CH 2 [129b30-130a1] 180a / Metaphysics, BK IV, CH 2 [1O03a33-b11] 522b; BK VII, CH 4 [1030a31-b3] 553a-b; BK XI, CH 3 [1060b36-1061a7] 589a-b](#8-aristotle-topics-bk-i-ch-15-106a1-9-149d-106b33-107a8-150d-151a-bk-v-ch-2-129b30-130a1-180a-metaphysics-bk-iv-ch-2-1o03a33-b11-522b-bk-vii-ch-4-1030a31-b3-553a-b-bk-xi-ch-3-1060b36-1061a7-589a-b)
 - [19 AQUINAS: Summa Theologica, PART I, Q 13, A 5, ANS 66b-67d; A 6, ANS and REP 3 67d-68c; A 10, ANS 72c-73c; Q 16, A 6, ANS 98b-d; PART I-II, Q 20, A 3, REP 3 713c-714c](#19-aquinas-summa-theologica-part-i-q-13-a-5-ans-66b-67d-a-6-ans-and-rep-3-67d-68c-a-10-ans-72c-73c-q-16-a-6-ans-98b-d-part-i-ii-q-20-a-3-rep-3-713c-714c)
 - [20 AQUINAS: Summa Theologica, PART III, Q 60, A 1, ANS 847b-848a](#20-aquinas-summa-theologica-part-iii-q-60-a-1-ans-847b-848a)
 
-a b a
-
-## 8 ARISTOTLE: Topics, BK I, CH 15 [106 1-9] 149d; [106 33-107 8] 150d-151a; BK V, CH 2 [129b30-130a1] 180a / Metaphysics, BK IV, CH 2 [1O03a33-b11] 522b; BK VII, CH 4 [1030a31-b3] 553a-b; BK XI, CH
-
-b a
-
-## 3 [1060 36-1061 7] 589a-b
+## 8 ARISTOTLE: Topics, BK I, CH 15 [106a1-9] 149d; [106b33-107a8] 150d-151a; BK V, CH 2 [129b30-130a1] 180a / Metaphysics, BK IV, CH 2 [1O03a33-b11] 522b; BK VII, CH 4 [1030a31-b3] 553a-b; BK XI, CH 3 [1060b36-1061a7] 589a-b
 
 
 ### Topics, BK I, CH 15 [106a1-9] 149d
 
 a 106 On the formation, then, of propositions, the above remarks are enough. As regards the number of senses a term bears, we must not only treat of those terms which bear different senses, but we must also try to render their definitions; e. g. we must not merely say that justice and courage are called ‘good’ in one sense, and that what conduces to vigour and what conduces to health are called so in another, but also that the former are so called because of a certain intrinsic quality they themselves have, the latter because they are productive of a certain result and not because of any intrinsic quality in themselves. Similarly also in other cases. b a
 
-### Topics, BK I, CH 15 [106 33-107 8] 150d-151a
+### Topics, BK I, CH 15 [106b33-107a8] 150d-151a
 
 e.g. if the word ‘justly’ be used of judging according to one’s own opinion, and also of judging as one ought, then ‘just’ also will be used in like manner. In the same way also, if ‘healthy’ has more than one meaning, then ‘healthily’ also will be used with more than one meaning: e.g. if ‘healthy’ describes both what produces health and what preserves health and what betokens health, then ‘healthily’ also will be used to mean ‘in such a way as to produce’ or ‘preserve’ or ‘betoken’ health. Likewise also in other cases, whenever the original term bears more than one meaning, 107a the inflexion also that is formed from it will be used with more than one meaning, and vice versa. Look also at the classes of the predicates signified by the term, and see if they are the same in all cases. For if they are not the same, then clearly the term is ambiguous: e.g. ‘good’ in the case of food means ‘productive of pleasure’, and in the case of medicine ‘productive of health’, whereas as applied to the soul it means to be of a certain quality, e.g. temperate or courageous or just: and likewise also, as applied to ‘man’.
 
 ### Topics, BK V, CH 2 [129b30-130a1] 180a
 
-Next, for destructive purposes, see whether any of the terms rendered in the property is used in more than one sense, or whether the whole expression too signifies more than one thing. For then the property will not have been correctly stated. Thus (e.g.) seeing that to ‘be sentient’ signifies more than one thing, viz. (1) to possess sensation, (2) to use one’s sensation, ‘being naturally sentient’ could not be a 130a correct statement of a property of ‘animal’. a b
+Next, for destructive purposes, see whether any of the terms rendered in the property is used in more than one sense, or whether the whole expression too signifies more than one thing. For then the property will not have been correctly stated. Thus (e.g.) seeing that to ‘be sentient’ signifies more than one thing, viz. (1) to possess sensation, (2) to use one’s sensation, ‘being naturally sentient’ could not be a 130a correct statement of a property of ‘animal’.
 
-### Metaphysics, BK IV, CH 2 [1O03 33- 11] 522b
+### Metaphysics, BK IV, CH 2 [1O03a33-b11] 522b
 
-There are many senses in which a thing may be said to ‘be’, but all that ‘is’ is related to one central point, one definite kind of thing, and is not said to ‘be’ by a mere ambiguity. Everything which is healthy is related to health, one thing in the sense that it preserves health, another in the sense that it produces it, another in the sense that it is a symptom of health, another b because it is capable of it. And that 1003 which is medical is relative to the medical art, one thing being called medical because it possesses it, another because it is naturally adapted to it, another because it is a function of the medical art. And we shall find other words used similarly to these. So, too, there are many senses in which a thing is said to be, but all refer to one starting-point; some things are said to be because they are substances, others because they are affections of substance, others because they are a process towards substance, or destructions or privations or qualities of substance, or productive or generative of substance, or of things which are relative to substance, or negations of one of there things or of substance itself. It is for this reason that we say even of non-being that it is non-being. a b
+There are many senses in which a thing may be said to ‘be’, but all that ‘is’ is related to one central point, one definite kind of thing, and is not said to ‘be’ by a mere ambiguity. Everything which is healthy is related to health, one thing in the sense that it preserves health, another in the sense that it produces it, another in the sense that it is a symptom of health, another b because it is capable of it. And that 1003 which is medical is relative to the medical art, one thing being called medical because it possesses it, another because it is naturally adapted to it, another because it is a function of the medical art. And we shall find other words used similarly to these. So, too, there are many senses in which a thing is said to be, but all refer to one starting-point; some things are said to be because they are substances, others because they are affections of substance, others because they are a process towards substance, or destructions or privations or qualities of substance, or productive or generative of substance, or of things which are relative to substance, or negations of one of there things or of substance itself. It is for this reason that we say even of non-being that it is non-being.
 
-### Metaphysics, BK VII, CH 4 [1030 31- 3] 553a-b
+### Metaphysics, BK VII, CH 4 [1030a31-b3] 553a-b
 
-For it must be either by an equivocation that we say these are, or by adding to and taking from the meaning of ‘are’ (in the way in which that which is not known may be said to be known),—the truth being that we use the word neither ambiguously nor in the same sense, but just as we apply the word ‘medical’ by virtue of a reference to one and the same thing, not meaning one and the same 1030b thing, nor yet speaking ambiguously; for a patient and an operation and an instrument are called medical neither by an ambiguity nor with a single meaning, but with reference to a common end. b a
+For it must be either by an equivocation that we say these are, or by adding to and taking from the meaning of ‘are’ (in the way in which that which is not known may be said to be known),—the truth being that we use the word neither ambiguously nor in the same sense, but just as we apply the word ‘medical’ by virtue of a reference to one and the same thing, not meaning one and the same 1030b thing, nor yet speaking ambiguously; for a patient and an operation and an instrument are called medical neither by an ambiguity nor with a single meaning, but with reference to a common end.
 
-### Metaphysics, BK XI, CH 3 [1060 36-1061 7] 589a-b
+### Metaphysics, BK XI, CH 3 [1060b36-1061a7] 589a-b
 
-The term seems to be used in the way we have mentioned, like ‘medical’ a and ‘healthy’. For each of these also we use in many senses. Terms are 1061 used in this way by virtue of some kind of reference, in the one case to medical science, in the other to health, in others to something else, but in each case to one identical concept. For a discussion and a knife are called medical because the former proceeds from medical science, and the latter is useful to it. And a thing is called healthy in a similar way; one thing because it is indicative of health, another because it is productive of it. And the same is true in the other cases.
+The term seems to be used in the way we have mentioned, like ‘medical’ and ‘healthy’. For each of these also we use in many senses. Terms are 1061 used in this way by virtue of some kind of reference, in the one case to medical science, in the other to health, in others to something else, but in each case to one identical concept. For a discussion and a knife are called medical because the former proceeds from medical science, and the latter is useful to it. And a thing is called healthy in a similar way; one thing because it is indicative of health, another because it is productive of it. And the same is true in the other cases.
 
 ## 19 AQUINAS: Summa Theologica, PART I, Q 13, A 5, ANS 66b-67d; A 6, ANS and REP 3 67d-68c; A 10, ANS 72c-73c; Q 16, A 6, ANS 98b-d; PART I-II, Q 20, A 3, REP 3 713c-714c
 

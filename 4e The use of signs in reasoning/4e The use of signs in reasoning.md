@@ -2,19 +2,19 @@
 
 ## Citations
 
-- 7 PLATO: Protagoras, 59b-c
-- 8 ARISTOTLE: Prior Analytics, BK II, CH 27 92a-93a,c / Posterior Analytics, BK I, CH 6 [75a28-35] 103b-c
-- 9 ARISTOTLE: History of Animals, BK IV, CH 10 [537b14-20] 64b; BK VII, CH 12 [588a9-12] 114c; BK VIII, CH 18 [601b6-8] 127c; CH 21 [603b20-24] 129c; CH 23 [604a18]-CH 24 [604b20] 130a-c / Rhetoric, BK I, CH 2 [1357a23-b24] 596d-597c; BK II, CH 24 [1401b8-14] 650d; CH 25 [1402b13-1403a17] 652b-653a
-- 10 HIPPOCRATES: Prognostics 19a-26a,c esp par 1 19a-b, par 25 26a,c / Regimen in Acute Diseases, APPENDIX, par 9-14 38b-40d / Epidemics, BK I, SECT II, par 5 46c-d; SECT III, par 1 49c-d; BK III, SECT III, par 16 59b-c / Injuries of the Head, par 5 65a / Articulations, par 10 94d-95a; par 26 99a-b; par 30, 100a; par 51 109a-b; par 54 111a; par 57 111d-112b; par 59 113b / Instruments of Reduction, par 4-24 122d-126c passim / Aphorisms, SECT I, par 12 131d; SECT II 132b-134a passim; SECT IV, par 17-SECT VI, par 15 135d-138b; SECT V, par 30-SECT VII, par 86 138d-144a,c passim
-- 19 AQUINAS: Summa Theologica, PART I, Q 57, A 4, ANS 298a-299a
-- 23 HOBBES: Leviathan, PART I, 53d
-- 24 RABELAIS: Gargantua and Pantagruel, BK III, 197a
-- 25 MONTAIGNE: Essays, 372b-373b; 531d-532b
-- 30 BACON: Advancement of Learning, 49b-50b; 77d-78d
-- 36 SWIFT: Gulliver, PART III, 112b-113a; 114b
-- 37 FIELDING: Tom Jones, 145b-146a
-- 53 JAMES: Psychology, 324b
-- 54 FREUD: Origin and Development of Psycho-Analysis, 1b-2b / Hysteria, 31b-d; 38d-40a; 50b-c; 54b-55d; 56b-c; 60c-62c passim; 87a-90d esp 87b-d / Psycho-Analytic Therapy, 124b / General Introduction, 550d-557a esp 556a-b; 593b-e; 605b-607b passim
+- [7 PLATO: Protagoras, 59b-c](#7-plato-protagoras-59b-c)
+- [8 ARISTOTLE: Prior Analytics, BK II, CH 27 92a-93a,c / Posterior Analytics, BK I, CH 6 [75a28-35] 103b-c](#8-aristotle-prior-analytics-bk-ii-ch-27-92a-93ac-posterior-analytics-bk-i-ch-6-75a28-35-103b-c)
+- [9 ARISTOTLE: History of Animals, BK IV, CH 10 [537b14-20] 64b; BK VII, CH 12 [588a9-12] 114c; BK VIII, CH 18 [601b6-8] 127c; CH 21 [603b20-24] 129c; CH 23 [604a18]-CH 24 [604b20] 130a-c / Rhetoric, BK I, CH 2 [1357a23-b24] 596d-597c; BK II, CH 24 [1401b8-14] 650d; CH 25 [1402b13-1403a17] 652b-653a](#9-aristotle-history-of-animals-rhetoric)
+- [10 HIPPOCRATES: Prognostics 19a-26a,c esp par 1 19a-b, par 25 26a,c / Regimen in Acute Diseases, APPENDIX, par 9-14 38b-40d / Epidemics, BK I, SECT II, par 5 46c-d; SECT III, par 1 49c-d; BK III, SECT III, par 16 59b-c / Injuries of the Head, par 5 65a / Articulations, par 10 94d-95a; par 26 99a-b; par 30, 100a; par 51 109a-b; par 54 111a; par 57 111d-112b; par 59 113b / Instruments of Reduction, par 4-24 122d-126c passim / Aphorisms, SECT I, par 12 131d; SECT II 132b-134a passim; SECT IV, par 17-SECT VI, par 15 135d-138b; SECT V, par 30-SECT VII, par 86 138d-144a,c passim](#10-hippocrates-seven-treatises)
+- [19 AQUINAS: Summa Theologica, PART I, Q 57, A 4, ANS 298a-299a](#19-aquinas-summa-theologica-part-i-q-57-a-4-ans-298a-299a)
+- [23 HOBBES: Leviathan, PART I, 53d](#23-hobbes-leviathan-part-i-53d)
+- [24 RABELAIS: Gargantua and Pantagruel, BK III, 197a](#24-rabelais-gargantua-and-pantagruel-bk-iii-197a)
+- [25 MONTAIGNE: Essays, 372b-373b; 531d-532b](#25-montaigne-essays-372b-373b-531d-532b)
+- [30 BACON: Advancement of Learning, 49b-50b; 77d-78d](#30-bacon-advancement-of-learning-49b-50b-77d-78d)
+- [36 SWIFT: Gulliver, PART III, 112b-113a; 114b](#36-swift-gulliver-part-iii-112b-113a-114b)
+- [37 FIELDING: Tom Jones, 145b-146a](#37-fielding-tom-jones-145b-146a)
+- [53 JAMES: Psychology, 324b](#53-james-psychology-324b)
+- [54 FREUD: Origin and Development of Psycho-Analysis, 1b-2b / Hysteria, 31b-d; 38d-40a; 50b-c; 54b-55d; 56b-c; 60c-62c passim; 87a-90d esp 87b-d / Psycho-Analytic Therapy, 124b / General Introduction, 550d-557a esp 556a-b; 593b-e; 605b-607b passim](#54-freud-origin-and-development-of-psycho-analysis-1b-2b-hysteria-31b-d-38d-40a-50b-c-54b-55d-56b-c-60c-62c-passim-87a-90d-esp-87b-d-psycho-analytic-therapy-124b-general-introduction-550d-557a-esp-556a-b-593b-e-605b-607b-passim)
 
 ## Compiler's Note
 

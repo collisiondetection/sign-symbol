@@ -4,7 +4,7 @@
 
 ## Citations
 
-- [8 ARISTOTLE: Categories, CH 5 [2a11-18] 6a-b / Interpretation, CH 7 [17a37-40] 26d / Sophistical Refutations, CH 22 [I78b38-I79a1O] 246c / Metaphysics, BK VII, CH 10 [1035b28-32] 559b; CH 11 [1037a5-9] 560c; CH 15 [1040a8-13] 564a](#8-aristotle-categories-ch-5-2-11-18-6a-b-interpretation-ch-7-17a37-40-26d-sophistical-refutations-ch-22-i78b38-i79a1o-246c-metaphysics-bk-vii-ch-10-1035b28-32-559b-ch-11)
+- [8 ARISTOTLE: Categories, CH 5 [2a11-18] 6a-b / Interpretation, CH 7 [17a37-40] 26d / Sophistical Refutations, CH 22 [I78b38-I79a1O] 246c / Metaphysics, BK VII, CH 10 [1035b28-32] 559b; CH 11 [1037a5-9] 560c; CH 15 [1040a8-13] 564a](#8-aristotle-categories-ch-5-2a11-18-6a-b-interpretation-ch-7-17a37-40-26d-sophistical-refutations-ch-22-i78b38-i79a1o-246c-metaphysics-bk-vii-ch-10-1035b28-32-559b-ch-11-1037a5-9-560c-ch-15-1040a8-13-564a)
 - [19 AQUINAS: Summa Theologica, PART I, Q 13, A 1, REP 3 62c-63c; A 9 71b-72c; A 11 73c-74b; Q 30, A 4 170c-171b; Q 33, AA 2-3 181c-183c; Q 34, AA 1-2 185b-188a; Q 108, A 5, ANS and REP 1 555d-558b](#19-aquinas-summa-theologica-part-i-q-13-a-1-rep-3-62c-63c-a-9-71b-72c-a-11-73c-74b-q-30-a-4-170c-171b-q-33-aa-2-3-181c-183c-q-34-aa-1-2-185b-188a-q-108-a-5-ans-and-rep-1-555d-558b)
 - [20 AQUINAS: Summa Theologica, PART II-II, Q 9, A 2, ANS 424b-425a](#20-aquinas-summa-theologica-part-ii-ii-q-9-a-2-ans-424b-425a)
 - [22 CHAUCER: Second Nun's Prologue [15,553-587] 462b-463a](#22-chaucer-second-nuns-prologue-15553-587-462b-463a)
@@ -17,32 +17,30 @@
 - [45 LAVOISIER: Elements of Chemistry, PREF, 4b-c](#45-lavoisier-elements-of-chemistry-pref-4b-c)
 - [53 JAMES: Psychology, 310a-311a; 447b-448a](#53-james-psychology-310a-311a-447b-448a)
 
-a
-
-## 8 ARISTOTLE: Categories, CH 5 [2 11-18] 6a-b / Interpretation, CH 7 [17a37-40] 26d / Sophistical Refutations, CH 22 [I78b38-I79a1O] 246c / Metaphysics, BK VII, CH 10 [1035b28-32] 559b; CH 11
-
-a a
-
-## [1037 5-9] 560c; CH 15 [1040 8-13] 564a
+## 8 ARISTOTLE: Categories, CH 5 [2a11-18] 6a-b / Interpretation, CH 7 [17a37-40] 26d / Sophistical Refutations, CH 22 [I78b38-I79a1O] 246c / Metaphysics, BK VII, CH 10 [1035b28-32] 559b; CH 11 [1037a5-9] 560c; CH 15 [1040a8-13] 564a
 
 
 ### Categories, CH 5 [2a11-18] 6a-b
 
-Substance, in the truest and primary and most definite sense of the word, is that which is neither predicable of a subject nor present in a subject; for instance, the individual man or horse. But in a secondary sense those things are called substances within which, as species, the primary substances are included; also those which, as genera, include the species. For instance, the individual man is included in the species ‘man’, and the genus to which the species belongs is ‘animal’; these, therefore—that is to say, the species ‘man’ and the genus ‘animal’—are termed secondary substances. a
+Substance, in the truest and primary and most definite sense of the word, is that which is neither predicable of a subject nor present in a subject; for instance, the individual man or horse. But in a secondary sense those things are called substances within which, as species, the primary substances are included; also those which, as genera, include the species. For instance, the individual man is included in the species ‘man’, and the genus to which the species belongs is ‘animal’; these, therefore—that is to say, the species ‘man’ and the genus ‘animal’—are termed secondary substances.
 
-### Interpretation, CH 7 [17 37-40] 26d
+### Interpretation, CH 7 [17a37-40] 26d
 
-Some things are universal, others individual. By the term ‘universal’ I mean that which is of such a nature as to be predicated of many subjects, by ‘individual’ that which is not thus predicated. Thus ‘man’ is a universal, ‘Callias’ an individual. b a Sophistical Refutations, CH 22 [I78 38-I79 1O] 246c Again, there is the proof that there is a ‘third man’ distinct from Man and from individual men. But that is a fallacy, for ‘Man’, and indeed every general predicate, denotes not an individual substance, but a particular quality, or the being related to something in a particular manner, or something of that sort. Likewise also in the 179a case of ‘Coriscus’ and ‘Coriscus the musician’ there is the problem, ‘Are they the same or different?’ For the one denotes an individual substance and the other a quality, so that it cannot be isolated; though it is not the isolation which creates the ‘third man’, but the admission that it is an individual substance. For ‘Man’ cannot be an individual substance, as Callias is. Nor is the case improved one whit even if one were to call the element he has isolated not an individual substance but a quality: for there will still be the one beside the many, just as ‘Man’ was. It is evident then that one must not grant that what is a common predicate applying to a class universally is an individual substance, but must say that it denotes either a quality, or a relation, or a quantity, or something of that kind. b
+Some things are universal, others individual. By the term ‘universal’ I mean that which is of such a nature as to be predicated of many subjects, by ‘individual’ that which is not thus predicated. Thus ‘man’ is a universal, ‘Callias’ an individual.
 
-### Metaphysics, BK VII, CH 10 [1035 28-32] 559b
+### Sophistical Refutations, CH 22 [I78b38-I79a1O] 246c
 
-But man and horse and terms which are thus applied to individuals, but universally, are not substance but something composed of this particular formula and this particular matter treated as universal; and as regards the individual, Socrates already includes in him ultimate individual matter; and similarly in all other cases. ‘A part’ may be a part either of the form (i. e. of the essence), or of the compound of the form and the matter, or of the matter itself. a
+Again, there is the proof that there is a ‘third man’ distinct from Man and from individual men. But that is a fallacy, for ‘Man’, and indeed every general predicate, denotes not an individual substance, but a particular quality, or the being related to something in a particular manner, or something of that sort. Likewise also in the 179a case of ‘Coriscus’ and ‘Coriscus the musician’ there is the problem, ‘Are they the same or different?’ For the one denotes an individual substance and the other a quality, so that it cannot be isolated; though it is not the isolation which creates the ‘third man’, but the admission that it is an individual substance. For ‘Man’ cannot be an individual substance, as Callias is. Nor is the case improved one whit even if one were to call the element he has isolated not an individual substance but a quality: for there will still be the one beside the many, just as ‘Man’ was. It is evident then that one must not grant that what is a common predicate applying to a class universally is an individual substance, but must say that it denotes either a quality, or a relation, or a quantity, or something of that kind.
 
-### Metaphysics, BK VII, CH 11 [1037 5-9] 560c
+### Metaphysics, BK VII, CH 10 [1035b28-32] 559b
 
-It is clear also that the soul is the primary substance and the body is matter, and man or animal is the compound of both taken universally; and ‘Socrates’ or ‘Coriscus’, if even the soul of Socrates may be called Socrates, has two meaning (for some mean by such a term the soul, and others mean the concrete thing), but if ‘Socrates’ or ‘Coriscus’ means simply this particular soul and this particular body, the individual is analogous to the universal in its composition. a
+But man and horse and terms which are thus applied to individuals, but universally, are not substance but something composed of this particular formula and this particular matter treated as universal; and as regards the individual, Socrates already includes in him ultimate individual matter; and similarly in all other cases. ‘A part’ may be a part either of the form (i. e. of the essence), or of the compound of the form and the matter, or of the matter itself.
 
-### Metaphysics, BK VII, CH 15 [1040 8-13] 564a
+### Metaphysics, BK VII, CH 11 [1037a5-9] 560c
+
+It is clear also that the soul is the primary substance and the body is matter, and man or animal is the compound of both taken universally; and ‘Socrates’ or ‘Coriscus’, if even the soul of Socrates may be called Socrates, has two meaning (for some mean by such a term the soul, and others mean the concrete thing), but if ‘Socrates’ or ‘Coriscus’ means simply this particular soul and this particular body, the individual is analogous to the universal in its composition.
+
+### Metaphysics, BK VII, CH 15 [1040a8-13] 564a
 
 Nor is it possible to define any Idea. For the Idea is, as its supporters say, an individual, and can exist apart; and the formula must consist of words; and he who defines must not invent a word (for it would be unknown), but the established words are common to all the members of a class; these then must apply to something besides the thing defined; e. g. if one were defining you, he would say ‘an animal which is lean’ or ‘pale’, or something else which will apply also to some one other than you.
 
