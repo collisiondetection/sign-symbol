@@ -16,9 +16,7 @@
 (5. Symbolism in theology and religion. 5b. Supernatural signs: omens, portents, visitations, dreams, miracles.)
 6 HERODOTUS: History, BK I, 4d; 8a-b; 12b-d; 17a-b; 18b; 20d-21a; 38a-b; 39c-40a; BK II, 60d-61b; 79a-c; 83b-c; 86c-87a; BK III, 90d- 91a; 95d; 116a-b; BK IV, 124d-125a; 126d-127a; 135b-c; 138a-b; 150b-d; 154c-d; 155b-c; BK V, 170c-d; 176c-d; 183d-184a; BK VI, 190c-d; 200d-201a; 204b-c; 208b; BK VII, 219a-c; 238d-239a; BK VIII, 266b-d; 267a; 270c-271a; 283d; BK IX, 289d-290a; 302c; 309d-310a; 313d-314a
 7 PLATO: Euthydemus, 66a / Apology, 207b-c; 211a-b / Timaeus, 467a-c
-
-### 8 ARISTOTLE: Prophesying 707a-709a,c
-
+8 ARISTOTLE: Prophesying 707a-709a,c
 9 ARISTOTLE: History of Animals, BK III, CH II [518ᵃ32-36] 43a; CH 20 [522ᵃ13-19] 47a-b
 12 LUCRETIUS: Nature of Things, BK V [1161-1240] 76b-77b; BK VI [43-79] 80d-81b; [379-422] 85b-d
 12 EPICTETUS: Discourses, BK I, CH 17, 123c-124a; BK III, CH I, 177a-b
@@ -36,17 +34,13 @@
 29 CERVANTES: Don Quixote, PART II, 381a-b
 30 BACON: Advancement of Learning, 8c; 19b; 41 b-c; 54c-d; 55b-d / New Atlantis, 202c-203c
 32 MILTON: Paradise Lost, BK I [594-599] 106b; BK V [28-128] 176a-178a; BK XI [193-366] 303b-307a / Areopagitica, 389a-b
-
-### 33 PASCAL: Pensees, 803-856 328b-341b passim
-
+33 PASCAL: Pensees, 803-856 328b-341b passim
 35 LOCKE: Human Understanding, BK IV, CH XVI, SECT 13 371a-b; CH XIX, SECT 15 388a-c
 35 BERKELEY: Human Knowledge, SECT 63 425b-c
 35 HUME: Human Understanding, SECT X, DIV 92-101 491c-497b esp DIV 98-101 495d-497b
 40 GIBBON: Decline and Fall, 180b-c; 189b-190d; 206b-d; 294a-296b; 445d-446b; 465d-467a; 547a-b; 571a; 605b-d; 614b-c
 41 GIBBON: Decline and Fall, 232a-c; 398b-399b
-
-### 44 BOSWELL: Johnson, 126b-c
-
+44 BOSWELL: Johnson, 126b-c
 47 GOETHE: Faust, PART I [430-513] 12b-14b
 51 TOLSTOY: War and Peace, BK IX, 377b-379a; BK XII, 561 b-562a
 52 DOSTOEVSKY: Brothers Karamazov, BK I, 11a-b; BK V, 129c-135a
@@ -54,9 +48,7 @@
 
 ## OLD TESTAMENT: Genesis, 4:1-16 esp 4:14-15; 9:8-17; 28:10-22; 37:1-11; 40-41 / Exodus, 3:1-4:9; 7-17 passim; 31:18; 32:15-16; 40:34-38-(D) Exodus, 3:1-4 :9; 7-17 passim; 31:18; 32:15-16; 40:32-36/ Numbers, 9:15-23; 11-12; 16-17; 20:1-13; 22; 26:9-11 / Deuteronomy, 4:9-14,32-39; 5:22- 27; 6:20-25: 7:17-23; 10:20-11:9; 13:1-5; 28:1-29:9 / Joshua, 3-4; 5:13-6:20; 10:12-14-(D) Josue, 3-4; 5:13- 6:20; 10:12-14 / Judges, 6:11-24,36-40; 7:13-15; 13 / I Samuel, 10:1-16; 12:12-20; 28-(D) I Kings, 10:1-16; 12:12-20; 28 / I Kings, 13:4-6; 17; 18:16-39 esp 18:30-39; 19-(D) III Kings, 13:4-6; 17; 18:16-39 esp 18:30-39; 19/ II Kings, 1-6 passim; 13:20-21; 20:1-11- (D) IV Kings, 1-6 passim; 13:20-21; 20:1-11/ II Chronicles, 32:9-22 esp 32:21-22-(D) II Paralipomenon, 32:9-22 esp 32:21-22 / Job, 4:13-21; 38:1-42:8 / Psalms, 105 esp 105:16-41; 135:8-12-(D) Psalms, 104 esp 104:16-41; 134:8-12 / Isaiah, 6; 7:10-16; 38:1-8-(D) Isaias, 6; 7:10-16; 38:1-8 / Jeremiah, 32:16-24-(D) Jeremias, 32:16-24 / Ezekiel passim, esp 1-3, 11:22-24, 40:1-48:35-(D) Ezechiel passim, esp 1-3, 11 :22-24, 40:1-48:35 / Daniel, 2-12 passim-(D) Daniel, 2 :1-3:23 passim; 3:91-12:13 passim / Hosea, 1-3-(D) Osee, 1-3 / Amos, 7-8 / Jonah-(D) Jonas / Zechariah, 1-6-(D) Zacharias, 1-6
 
-
-### OLD TESTAMENT: Genesis, 4:1-16
-
+OLD TESTAMENT: Genesis, 4:1-16
 4 And Adam knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man from the Lord.
 2 And she again bare his brother Abel. And Abel was a keeper of sheep, but Cain was a tiller of the ground.
 3 And in process of time it came to pass, that Cain brought of the fruit of the ground an offering unto the Lord.
@@ -73,14 +65,10 @@
 14 Behold, thou hast driven me out this day from the face of the earth; and from thy face shall I be hid; and I shall be a fugitive and a vagabond in the earth; and it shall come to pass, that every one that findeth me shall slay me.
 15 And the Lord said unto him, Therefore whosoever slayeth Cain, vengeance shall be taken on him sevenfold. And the Lord set a mark upon Cain, lest any finding him should kill him.
 16 And Cain went out from the presence of the Lord, and dwelt in the land of Nod, on the east of Eden.
-
-### OLD TESTAMENT: Genesis, esp 4:14-15
-
+OLD TESTAMENT: Genesis, esp 4:14-15
 14 Behold, thou hast driven me out this day from the face of the earth; and from thy face shall I be hid; and I shall be a fugitive and a vagabond in the earth; and it shall come to pass, that every one that findeth me shall slay me.
 15 And the Lord said unto him, Therefore whosoever slayeth Cain, vengeance shall be taken on him sevenfold. And the Lord set a mark upon Cain, lest any finding him should kill him.
-
-### OLD TESTAMENT: Genesis, 9:8-17
-
+OLD TESTAMENT: Genesis, 9:8-17
 8 And God spake unto Noah, and to his sons with him, saying,
 9 And I, behold, I establish my covenant with you, and with your seed after you;
 10 And with every living creature that is with you, of the fowl, of the cattle, and of every beast of the earth with you; from all that go out of the ark, to every beast of the earth.
@@ -91,9 +79,7 @@
 15 And I will remember my covenant, which is between me and you and every living creature of all flesh; and the waters shall no more become a flood to destroy all flesh.
 16 And the bow shall be in the cloud; and I will look upon it, that I may remember the everlasting covenant between God and every living creature of all flesh that is upon the earth.
 17 And God said unto Noah, This is the token of the covenant, which I have established between me and all flesh that is upon the earth.
-
-### OLD TESTAMENT: Genesis, 28:10-22
-
+OLD TESTAMENT: Genesis, 28:10-22
 10 But Jacob being departed from Bersabee, went on to Haran.
 11 And when he was come to a certain place, and would rest in it after sunset, he took of the stones that lay there, and putting under his head, slept in the same place.
 12 And he saw in his sleep a ladder standing upon the earth, and the top thereof touching heaven: the angels also of God ascending and descending by it;
@@ -107,9 +93,7 @@
 20 And he made a vow, saying: If God shall be with me, and shall keep me in the way by which I walk, and shall give me bread to eat, and raiment to put on,
 21 And I shall return prosperously to my father's house: the Lord shall be my God:
 22 And this stone, which I have set up for a title, shall be called the house of God: and of all things that thou shalt give to me, I will offer tithes to thee.
-
-### OLD TESTAMENT: Genesis, 37:1-11
-
+OLD TESTAMENT: Genesis, 37:1-11
 37 And Jacob dwelt in the land of Chanaan wherein his father sojourned.
 2 And these are his generations: Joseph, when he was sixteen years old, was feeding the flock with his brethren, being but a boy: and he was with the sons of Bala and of Zelpha his father's wives: and he accused his brethren to his father of a most wicked crime.
 3 Now Israel loved Joseph above all his sons, because he had him in his old age: and he made him a coat of divers colours.
@@ -121,9 +105,7 @@
 9 He dreamed also another dream, which he told his brethren, saying: I saw in a dream, as it were the sun, and the moon, and eleven stars worshipping me.
 10 And when he had told this to his father and brethren, his father rebuked him, and said: What meaneth this dream that thou hast dreamed? shall I and thy mother, and thy brethren worship thee upon the earth?
 11 His brethren therefore envied him: but his father considered the thing with himself.
-
-### OLD TESTAMENT: Genesis, 40-41
-
+OLD TESTAMENT: Genesis, 40-41
 40 After this, it came to pass, that two eunuchs, the butler and the baker of the king of Egypt, offended their lord.
 2 And Pharao being angry with them (now the one was chief butler, the other chief baker)
 3 He sent them to the prison of the commander of the soldiers, in which Joseph also was prisoner,
@@ -204,16 +186,12 @@
 55 And when there also they began to be famished, the people cried to Pharao for food. And he said to them: Go to Joseph: and do all that he shall say to you.
 56 And the famine increased daily in all the land: and Joseph opened all the barns, and sold to the Egyptians: for the famine had oppressed them also.
 57 And all provinces came into Egypt, to buy food, and to seek some relief of their want.
-
-### OLD TESTAMENT: Exodus, 3:1-4
-
+OLD TESTAMENT: Exodus, 3:1-4
 3 Now Moses fed the sheep of Jethro his father in law, the priest of Madian: and he drove the flock to the inner parts of the desert, and came to the mountain of God, Horeb.
 2 And the Lord appeared to him in a flame of fire out of the midst of a bush: and he saw that the bush was on fire and was not burnt.
 3 And Moses said: I will go and see this great sight, why the bush is not burnt.
 4 And when the Lord saw that he went forward to see, he called to him out of the midst of the bush, and said: Moses, Moses. And he answered: Here I am.
-
-### OLD TESTAMENT: Exodus, 9:7-17
-
+OLD TESTAMENT: Exodus, 9:7-17
 7 And Pharao sent to see: and there was not any thing dead of that which Israel possessed. And Pharao's heart was hardened, and he did not let the people go.
 8 And the Lord said to Moses and Aaron: Take to you handfuls of ashes out of the chimney, and let Moses sprinkle it in the air in the presence of Pharao.
 9 And be there dust upon all the land of Egypt: for there shall be boils and swelling blains both in men and beasts in the whole land of Egypt.
@@ -225,34 +203,24 @@
 15 For now I will stretch out my hand to strike thee, and thy people with pestilence, and thou shalt perish from the earth.
 16 And therefore have I raised thee, that I may shew my power in thee, and my name may be spoken of throughout all the earth.
 17 Dost thou yet hold back my people: and wilt thou not let them go?
-
-### OLD TESTAMENT: Exodus, 31:18
-
+OLD TESTAMENT: Exodus, 31:18
 18 And the Lord, when he had ended these words in mount Sinai, gave to Moses two stone tables of testimony, written with the finger of God.
-
-### OLD TESTAMENT: Exodus, 32:15-16
-
+OLD TESTAMENT: Exodus, 32:15-16
 15 And Moses returned from the mount, carrying the two tables of the testimony in his hand, written on both sides,
 16 And made by the work of God: the writing also of God was graven in the tables.
-
-### OLD TESTAMENT: Exodus, 40:34-38-(D)
-
+OLD TESTAMENT: Exodus, 40:34-38-(D)
 34 Then a cloud covered the tent of the congregation, and the glory of the Lord filled the tabernacle.
 35 And Moses was not able to enter into the tent of the congregation, because the cloud abode thereon, and the glory of the Lord filled the tabernacle.
 36 And when the cloud was taken up from over the tabernacle, the children of Israel went onward in all their journeys:
 37 But if the cloud were not taken up, then they journeyed not till the day that it was taken up.
 38 For the cloud of the Lord was upon the tabernacle by day, and fire was on it by night, in the sight of all the house of Israel, throughout all their journeys.
-
-### OLD TESTAMENT: Exodus, 40:32-36
-
+OLD TESTAMENT: Exodus, 40:32-36
 32 When they went into the tent of the congregation, and when they came near unto the altar, they washed; as the Lord commanded Moses.
 33 And he reared up the court round about the tabernacle and the altar, and set up the hanging of the court gate. So Moses finished the work.
 34 Then a cloud covered the tent of the congregation, and the glory of the Lord filled the tabernacle.
 35 And Moses was not able to enter into the tent of the congregation, because the cloud abode thereon, and the glory of the Lord filled the tabernacle.
 36 And when the cloud was taken up from over the tabernacle, the children of Israel went onward in all their journeys:
-
-### OLD TESTAMENT: Numbers, 9:15-23
-
+OLD TESTAMENT: Numbers, 9:15-23
 15 Now on the day that the tabernacle was reared up, a cloud covered it. But from the evening there was over the tabernacle, as it were, the appearance of fire until the morning.
 16 So it was always: by day the cloud covered it, and by night as it were the appearance of fire.
 17 And when the cloud that covered the tabernacle was taken up, then the children of Israel marched forward: and in the place where the cloud stood still, there they camped.
@@ -262,19 +230,13 @@
 21 If the cloud tarried from evening until morning, and immediately at break of day left the tabernacle, they marched forward: and if it departed after a day and a night, they took down their tents.
 22 But if it remained over the tabernacle for two days or a month or a longer time, the children of Israel remained in the same place, and marched not: but immediately as soon as it departed, they removed the camp.
 23 By the word of the Lord they pitched their tents, and by his word they marched: and kept the watches of the Lord according to his commandment by the hand of Moses.
-
-### OLD TESTAMENT: Numbers, 9: 11-12
-
+OLD TESTAMENT: Numbers, 9: 11-12
 11 In the second month, on the fourteenth day of the month in the evening, they shall eat it with unleavened bread and wild lettuce:
 12 They shall not leave any thing thereof until morning, a nor break a bone thereof, they shall observe all the ceremonies of the phase.
-
-### OLD TESTAMENT: Numbers, 9:16-17
-
+OLD TESTAMENT: Numbers, 9:16-17
 16 So it was always: by day the cloud covered it, and by night as it were the appearance of fire.
 17 And when the cloud that covered the tabernacle was taken up, then the children of Israel marched forward: and in the place where the cloud stood still, there they camped.
-
-### OLD TESTAMENT: Numbers, 20:1-13
-
+OLD TESTAMENT: Numbers, 20:1-13
 20 And the children of Israel, and all the multitude came into the desert of Sin, in the first month: and the people abode in Cades. And Mary died there, and was buried in the same place.
 2 And the people wanting water, came together against Moses and Aaron:
 3 And making a sedition, they said: Would God we had perished among our brethren before the Lord.
@@ -288,28 +250,20 @@
 11 And when Moses had lifted up his hand, and struck the rock twice with the rod, there came forth water in great abundance, so that the people and their cattle drank,
 12 And the Lord said to Moses and Aaron: Because you have not believed me, to sanctify me before the children of Israel, you shall not bring these people into the land, which I will give them.
 13 This is the Water of contradiction, where the children of Israel strove with words against the Lord, and he was sanctified in them.
-
-### OLD TESTAMENT: Numbers, 20: 22
-
+OLD TESTAMENT: Numbers, 20: 22
 22 And when they had removed the camp from Cades, they came to mount Her, which is in the borders of the land of Edom:
-
-### OLD TESTAMENT: Numbers, 26:9-11
-
+OLD TESTAMENT: Numbers, 26:9-11
 9 His sons, were Namuel and Dathan and Abiron. These are Dathan and Abiron the princes of the people, that rose against Moses and Aaron in the sedition of Core, when they rebelled against the Lord:
 10 And the earth opening her mouth swallowed up Core, many others dying, when the fire burned two hundred and fifty men. And there was a great miracle wrought,
 11 That when Core perished, his sons did not perish.
-
-### OLD TESTAMENT: Deuteronomy, 4:9-14
-
+OLD TESTAMENT: Deuteronomy, 4:9-14
 9 Keep thyself therefore, and thy soul carefully. Forget not the words that thy eyes have seen, and let them not go out of thy heart all the days of thy life. Thou shalt teach them to thy sons and to thy grandsons,
 10 From the day in which thou didst stand before the Lord thy God in Horeb, when the Lord spoke to me, saying: Call together the people unto me, that they may hear my words, and may learn to fear me all the time that they live on the earth, and may teach their children.
 11 And you came to the foot of the mount, which burned even unto heaven: and there was darkness, and a cloud and obscurity in it.
 12 And the Lord spoke to you from the midst of the fire. You heard the voice of his words, but you saw not any form at all.
 13 And he shewed you his covenant, which he commanded you to do, and the ten words that he wrote in two tables of stone.
 14 And he commanded me at that time that I should teach you the ceremonies and judgments which you shall do in the land, that you shall possess.
-
-### OLD TESTAMENT: Deuteronomy, 4:32-39
-
+OLD TESTAMENT: Deuteronomy, 4:32-39
 32 Ask of the days of old, that have been before thy time from the day that God created man upon the earth, from one end of heaven to the other end thereof, if ever there was done the like thing, or it hath been known at any time,
 33 That a people should hear the voice of God speaking out of the midst of fire, as thou hast heard, and lived:
 34 If God ever did so as to go, and take to himself a nation out of the midst of nations by temptations, signs, and wonders, by fight, and a strong hand, and stretched out arm, and horrible visions according to all the things that the Lord your God did for you in Egypt, before thy eyes.
@@ -318,27 +272,21 @@
 37 Because he loved thy fathers, and chose their seed after them. And he brought thee out of Egypt, going before thee with his great power,
 38 To destroy at thy coming very great nations, and stronger than thou art, and to bring thee in, and give thee their land for a possession, as thou seest at this present day.
 39 Know therefore this day, and think in thy heart that the Lord he is God in heaven above, and in the earth beneath, and there is no other.
-
-### OLD TESTAMENT: Deuteronomy, 5:22-27
-
+OLD TESTAMENT: Deuteronomy, 5:22-27
 22 These words the Lord spoke to all the multitude of you in the mountain, out of the midst of the fire and the cloud, and the darkness, with a loud voice, adding nothing more: and he wrote them in two tables of stone, which he delivered unto me.
 23 But you, after you heard the voice out of the midst of the darkness, and saw the mountain burn, came to me, all the princes of the tribes and the elders, and you said:
 24 Behold the Lord our God hath shewn us his majesty and his greatness, we have heard his voice out of the midst of the fire, and have proved this day that God speaking with man, man hath lived.
 25 Why shall we die therefore, and why shall this exceeding great fire consume us: for if we hear the voice of the Lord our God any more, we shall die.
 26 What is all flesh, that it should hear the voice of the living God, who speaketh out of the midst of the fire, as we have heard, and be able to live?
 27 Approach thou rather: and hear all things that the Lord our God shall say to thee, and thou shalt speak to us, and we will hear and will do them.
-
-### OLD TESTAMENT: Deuteronomy, 6:20-25
-
+OLD TESTAMENT: Deuteronomy, 6:20-25
 20 And when thy son shall ask thee to morrow, saying: What mean these testimonies, and ceremonies and judgments, which the Lord our God hath commanded us?
 21 Thou shalt say to him: We were bondmen of Pharao in Egypt, and the Lord brought us out of Egypt with a strong hand.
 22 And he wrought signs and wonders great and very grievous in Egypt against Pharao, and all his house, in our sight,
 23 And he brought us out from thence, that he might bring us in and give us the land, concerning which he swore to our fathers.
 24 And the Lord commanded that we should do all these ordinances, and should fear the Lord our God, that it might be well with us all the days of our life, as it is at this day.
 25 And he will be merciful to us, if we keep and do all his precepts before the Lord our God, as he hath commanded us.
-
-### OLD TESTAMENT: Deuteronomy, 7:17-23
-
+OLD TESTAMENT: Deuteronomy, 7:17-23
 17 If thou say in thy heart: These nations are more than I, how shall I be able to destroy them?
 18 Fear not, but remember what the Lord thy God did to Pharao and to all the Egyptians,
 19 The exceeding great plagues, which thy eyes saw, and the signs and wonders, and the strong hand, and the stretched out arm, with which the Lord thy God brought thee out: so will he do to all the people, whom thou fearest.
@@ -346,9 +294,7 @@
 21 Thou shalt not fear them, because the Lord thy God is in the midst of thee, a God mighty and terrible:
 22 He will consume these nations in thy sight by little and little and by degrees. Thou wilt not be able to destroy them altogether: lest perhaps the beasts of the earth should increase upon thee.
 23 But the Lord thy God shall deliver them in thy sight: and shall slay them until they be utterly destroyed.
-
-### OLD TESTAMENT: Deuteronomy, 10:20-11:9
-
+OLD TESTAMENT: Deuteronomy, 10:20-11:9
 20 Thou shalt fear the Lord thy God, and serve him only: to him thou shalt adhere, and shalt swear by his name.
 21 He is thy praise, and thy God, that hath done for thee these great and terrible things, which thy eyes have seen.
 22 In seventy souls thy fathers went down into Egypt: and behold now the Lord thy God hath multiplied thee as the stars of heaven.
@@ -361,17 +307,13 @@
 7 Your eyes have seen all the greet works of the Lord, that he hath done,
 8 That you may keep all his commandments, which I command you this day, and may go in, and possess the land, to which you are entering,
 9 And may live in it a long time: which the Lord promised by oath to your fathers, and to their seed, a land which floweth with milk and honey.
-
-### OLD TESTAMENT: Deuteronomy, 13:1-5
-
+OLD TESTAMENT: Deuteronomy, 13:1-5
 13 If there rise in the midst of thee a prophet or one that saith he hath dreamed a dream, and he foretell a sign and a wonder,
 2 And that come to pass which he spoke, and he say to thee: Let us go and follow strange gods, which thou knowest not, and let us serve them:
 3 Thou shalt not hear the words of that prophet or dreamer: for the Lord your God trieth you, that it may appear whether you love him with all your heart, and with all your soul, or not.
 4 Follow the Lord your God, and fear him, and keep his commandments, and hear his voice: him you shall serve, and to him you shall cleave.
 5 And that prophet or forger of dreams shall be slain: because he spoke to draw you away from the Lord your God, who brought you out of the land of Egypt, and redeemed you from the house of bondage: to make thee go out of the way, which the Lord thy God commanded thee: and thou shalt take away the evil out of the midst of thee.
-
-### OLD TESTAMENT: Deuteronomy, 28:1-29:9
-
+OLD TESTAMENT: Deuteronomy, 28:1-29:9
 28 Now if thou wilt hear the voice of the Lord thy God, to do and keep all his commandments, which I command thee this day, the Lord thy God will make thee higher than all the nations that are on the earth.
 2 And all these blessings shall come upon thee and overtake thee: yet so if thou hear his precepts,
 3 Blessed shalt thou be in the city, and blessed in the field.
@@ -449,9 +391,7 @@
 7 And you came to this place: sand Sehon king of Hesebon, and Og king of Basan, came out against us to fight. And we slew them.
 8 And took their land, and delivered it for a possession to Ruben and Gad, and the half tribe of Manasses.
 9 Keep therefore the words of this covenant, and fulfill them: that you may understand all that you do.
-
-### OLD TESTAMENT: Joshua, 3-4
-
+OLD TESTAMENT: Joshua, 3-4
 3 And Josue rose before daylight, and removed the camp: and they departed from Setim, and came to the Jordan, he, and all the children of Israel, and they abode there for three days.
 2 After which, the heralds went through the midst of the camp,
 3 And began to proclaim: When you shall see the ark of the covenant of the Lord your God, and the priests of the race of Levi carrying it, rise you up also, and follow them as they go before:
@@ -483,9 +423,7 @@
 12 The children of Ruben also and Gad, and half the tribe of Manasses, went armed before the children of Israel as Moses had commanded them.
 13 And forty thousand fighting men by their troops, and bands, marched through the plains and fields of the city of Jericho.
 14 In that day the Lord magnified Josue in the sight of all Israel, that they should fear him, as they had feared Moses, while he lived.
-
-### 15 And he said to him:
-
+15 And he said to him:
 16 Command the priests, that carry the ark of the covenant, to come up out of the Jordan.
 17 And he commanded them, saying: Come ye up out of the Jordan.
 18 And when they that carried the ark of the covenant of the Lord, were come up, and began to tread on the dry ground, the waters returned into the channel, and ran as they were wont before.
@@ -496,9 +434,7 @@
 23 The Lord your God drying up the waters thereof in your sight, until you passed over:
 24 As he had done before in the Red Sea, which he dried up till we passed through:
 25 That all the people of the earth may learn the most mighty hand of the Lord, that you also may fear the Lord your God for ever.
-
-### OLD TESTAMENT: Joshua, 5:13-6:20
-
+OLD TESTAMENT: Joshua, 5:13-6:20
 13 And when Josue was in the field of the city of Jericho, he lifted up his eyes, and saw a man standing over against him: holding a drawn sword, and he went to him, and said: Art thou one of ours, or of our adversaries?
 14 And he answered: No: but I am prince of the host of the Lord, and now I am come.
 15 Josue fell on his face to the ground. And worshipping, add: What saith my lord to his servant?
@@ -523,15 +459,11 @@
 18 But beware ye lest you touch ought of those things that are forbidden, and you be guilty of transgression, and all the camp of Israel be under sin, and be troubled.
 19 But whatsoever gold or silver there shall be, or vessels of brass and iron, let it be consecrated to the Lord, laid up in his treasures.
 20 So all the people making a shout, and the trumpets sounding, when the voice and the sound thundered in the ears of the multitude, the walls forthwith fell down: and every man went up by the place that was over against him: and they took the city,
-
-### OLD TESTAMENT: Joshua, 10:12-14-(D)
-
+OLD TESTAMENT: Joshua, 10:12-14-(D)
 12 Then Josue spoke to the Lord, in the day that he delivered the Amorrhite in the sight of the children of Israel, and he said before them: Move not, O sun, toward Gabaon, nor thou, O moon, toward the valley of Ajalon.
 13 And the sun and the moon stood still, till the people revenged themselves of their enemies. Is not this written in the book of the just? So the sun stood still in the midst of heaven, and hasted not to go down the space of one day.
 14 There was not before nor after so long a day, the Lord obeying the voice of a man, and fighting for Israel.
-
-### OLD TESTAMENT: Judges, 6:11-24
-
+OLD TESTAMENT: Judges, 6:11-24
 11 And an angel of the Lord came, and sat under an oak, that was in Ephra, and belonged to Joas the father of the family of Ezri. And when Gedeon his son was threshing and cleansing wheat by the winepress, to flee from Madian,
 12 The angel of the Lord appeared to him, and said: The Lord is with thee, O most valiant of men.
 13 And Gedeon said to him: I beseech thee, my lord, if the Lord be with us, why have these evils fallen upon us? Where are his miracles, which our fathers have told us of, saying: The Lord brought us Out of Egypt? but now the Lord hath forsaken us, and delivered us into the bands of Madian.
@@ -546,23 +478,17 @@
 22 And Gedeon seeing that it was the angel of the Lord, said: Alas, my Lord God: for I have seen the angel of the Lord face to face.
 23 And the Lord said to him: Peace be with thee: fear not, thou shalt not die.
 24 And Gedeon built there an altar to the Lord, and called it the Lord's peace, until this present day. And when he was yet in Ephra, which is of the family of Ezri,
-
-### OLD TESTAMENT: Judges, 6:36-40
-
+OLD TESTAMENT: Judges, 6:36-40
 36 And Gedeon said to God: If thou wilt save Israel by my hand, as thou hast said,
 37 I will put this fleece of wool on the floor: if there be dew on the fleece only, and it be dry on all the ground beside, I, shall know that by my hand, as thou hast said, thou wilt deliver Israel.
 38 And it was so. And rising before day wringing the fleece, he filled a vessel with the dew.
 39 And he said again to God: let not thy wrath be kindled against me if I try once more, seeking a sign in the fleece. I pray that the fleece only may be dry, and all the ground wet with dew.
 40 And God did that night as he had requested: and it was dry on the fleece only, and there was dew on all the ground.
-
-### OLD TESTAMENT Judges, 7:13-15
-
+OLD TESTAMENT Judges, 7:13-15
 13 And when Gedeon was come, one told his neighbour a dream: and in this manner related what he had seen: I dreamt a dream, and it seemed to me as if a hearth cake of barley bread rolled and came down into the camp of Madian: and when it was come to a tent it struck it, and beat it down flat to the ground.
 14 He to whom he spoke, answered: This is nothing else but the sword of Gedeon the son of Joas a man of Israel. For the Lord hath delivered Madian, and all their camp into his hand.
 15 And when Gedeon had heard the dream, and the interpretation thereof, he adored: and returned to the camp of Israel, and said: Arise, for the Lord hath delivered the camp of Madian into our hands.
-
-### OLD TESTAMENT: Judges, 13
-
+OLD TESTAMENT: Judges, 13
 13 And the children of Israel did evil again in the sight of the Lord: and he delivered them into the hands of the Philistines forty years.
 2 Now there was a certain man of Saraa, and of the race of Dan, whose name was Manue, and his wife was barren.
 3 And an angel of the Lord appeared to her, and said: Thou art barren and without children: but thou shalt conceive and bear a son.
@@ -588,9 +514,7 @@
 23 And his wife answered him: If the Lord had a mind to kill us, he would not have received a holocaust and libations at our hands, neither would he have shewed us all these things, nor have told us the things that are to come.
 24 And she bore a son, and called his name Samson. And the child grew, and the Lord blessed him.
 25 And the spirit of the Lord began to be with him in the camp of Dan, between Saraa and Esthaol.
-
-### OLD TESTAMENT: I Samuel, 10:1-16
-
+OLD TESTAMENT: I Samuel, 10:1-16
 10 And Samuel took a little vial of oil and poured it upon his head, and kissed him, and said: Behold, the Lord hath anointed thee to be prince over his inheritance, and thou shalt deliver his people out of the hands of their enemies, that are round about them. And this shall be a sign unto thee, that God hath anointed thee to be prince.
 2 When thou shalt depart from me this day, thou shalt find two men by the sepulchre of Rachel in the borders of Benjamin to the south, and they shall say to thee: The asses are found which thou wentest to seek: and thy father thinking no more of the asses is concerned for you, and saith: What shall I do for my son?
 3 And when thou shalt depart from thence, and go farther on, and shalt come to the oak of Thabor, there shall meet thee three men going up to God to Bethel, one carrying three kids, and another three loaves of bread, and another carrying a bottle of wine.
@@ -607,9 +531,7 @@
 14 And Saul's uncle said to him, and to his servant: Whither went you? They answered: To seek the asses: and not finding them we went to Samuel.
 15 And his uncle said to him: Tell me what Samuel said to thee.
 16 And Saul said to his uncle: He told us that the asses were found. But of the matter of the kingdom of which Samuel had spoken to him, he told him not.
-
-### OLD TESTAMENT: I Samuel, 12:12-20
-
+OLD TESTAMENT: I Samuel, 12:12-20
 12 But seeing that Naas king of the children of Ammon was come against you, you said to me: Nay, but a king shall reign over us: whereas the Lord your God was your king.
 13 Now therefore your king is here, whom you have chosen and desired: Behold the Lord hath given you a king.
 14 If you will fear the Lord, and serve him, and hearken to his voice, and not provoke the mouth of the Lord: then shall both you, and the king who reigneth over you, be followers of the Lord your God.
@@ -619,9 +541,7 @@
 18 And Samuel cried unto the Lord, and the Lord sent thunder and rain that day.
 19 And all the people greatly feared the Lord and Samuel. And all the people said to Samuel: Pray for thy servants to the Lord thy God, that we may not die, for we have added to all our sins this evil, to ask for a king.
 20 And Samuel said to the people: Fear not, you have done all this evil: but yet depart not from following the Lord, but serve the Lord with all your heart.
-
-### OLD TESTAMENT: I Samuel, 28
-
+OLD TESTAMENT: I Samuel, 28
 28 And it came to pass in those days, that the Philistines gathered together their armies to be prepared for war against Israel: and Achis said to David: Know thou now assuredly, that thou shalt go out with me to the war, thou, and thy men.
 2 And David said to Achis: Now thou shalt know what thy servant will do. And Achis said to David: And I will appoint thee to guard my life for ever.
 3 Now Samuel was dead, and all Israel mourned for him, and buried him in Ramatha his city. And Saul had put away all the magicians and soothsayers out of the land.
@@ -647,15 +567,11 @@
 23 But he refused, and said: I will not eat. But his servants and the woman forced him, and at length hearkening to their voice, he arose from the ground and sat upon the bed.
 24 Now the woman had a fatted calf in the house, and she made haste and killed it: and taking meal kneaded it, and baked some unleavened bread,
 25 And set it before Saul, and before his servants. And when they had eaten they rose up, and walked all that night.
-
-### OLD TESTAMENT: I Kings, 13:4-6
-
+OLD TESTAMENT: I Kings, 13:4-6
 4 And when the king had heard the word of the man of God, which he had cried out against the altar in Bethel, he stretched forth his hand from the altar, saying: Lay hold on him. And his hand which he stretched forth against him withered: and he was not able to draw it back again to him.
 5 The altar also was rent, and the ashes were poured out from the altar, according to the sign which the man of God had given before in the word of the Lord.
 6 And the king said to the man of God: Entreat the face of the Lord thy God, and pray for me, that my hand may be restored to me. And the man of God besought the face of the Lord, and the king's hand was restored to him, and it became as it was before.
-
-### OLD TESTAMENT: I Kings, 17
-
+OLD TESTAMENT: I Kings, 17
 17 And Elias the Thesbite of the inhabitants of Galaad said to Achab: As the Lord liveth the God of Israel, in whose sight I stand, there shall not be dew nor rain these years, but according to the words of my mouth.
 2 And the word of the Lord came to him, saying:
 3 Get thee hence, and go towards the east and hide thyself by the torrent of Carith, which is over against the Jordan,
@@ -680,9 +596,7 @@
 22 And the Lord heard the voice of Elias: and the soul of the child returned into him, and he revived.
 23 And Elias took the child, and brought him down from the upper chamber to the house below, and delivered him to his mother, and said to her: Behold thy son liveth.
 24 And the woman said to Elias: Now, by this I know that thou art a man of God, and the word of the Lord in thy mouth is true.
-
-### OLD TESTAMENT: I Kings, 18:16-39 esp
-
+OLD TESTAMENT: I Kings, 18:16-39 esp
 16 Abdias therefore went to meet Achab, and told him: and Achab came to meet Elias.
 17 And when he had seen him, he said: Art thou he that troublest Israel?
 18 And he said: I have not troubled Israel, but thou and thy father's house, who have forsaken the commandments of the Lord, and have followed Baalim.
@@ -707,9 +621,7 @@
 37 Hear me, O Lord, hear me: that this people may learn, that thou art the Lord God, and that thou hast turned their heart again.
 38 Then the fire of the Lord fell, and consumed the holocaust, and the wood, and the stones, and the dust, and licked up the water that was in the trench.
 39 And when all the people saw this, they fell on their faces, and they said: The Lord he is God, the Lord he is God.
-
-### OLD TESTAMENT: esp I Kings, 18:30-39
-
+OLD TESTAMENT: esp I Kings, 18:30-39
 30 Elias said to all the people: Come ye unto me. And the people coming near unto him, he repaired the altar of the Lord, that was broken down:
 31 And he took twelve stones according to the number of the tribes of the sons of Jacob, to whom the word of the Lord came, saying: Israel shall be thy name.
 32 And he built with the stones an altar to the name of the Lord: and he made a trench for water, of the breadth of two furrows round about the altar.
@@ -720,9 +632,7 @@
 37 Hear me, O Lord, hear me: that this people may learn, that thou art the Lord God, and that thou hast turned their heart again.
 38 Then the fire of the Lord fell, and consumed the holocaust, and the wood, and the stones, and the dust, and licked up the water that was in the trench.
 39 And when all the people saw this, they fell on their faces, and they said: The Lord he is God, the Lord he is God.
-
-### OLD TESTAMENT: I Kings, 19
-
+OLD TESTAMENT: I Kings, 19
 19 And Achab told Jezabel all that Elias had done, and how he had slain all the prophets with the sword.
 2 And Jezabel sent a messenger to Elias, saying: Such and such things may the gods do to me, and add still more, if by this hour to morrow I make not thy life as the life of one of them.
 3 Then Elias was afraid, and rising up he went whithersoever he had a mind: and he came to Bersabee of Juda, and left his servant there,
@@ -919,14 +829,10 @@ OLD TESTAMENT: II Kings, 1-6 passim; 13:20-21; 20:1-11
 31 Then he said, God do so and more also to me, if the head of Elisha the son of Shaphat shall stand on him this day.
 32 But Elisha sat in his house, and the elders sat with him; and the king sent a man from before him: but ere the messenger came to him, he said to the elders, See ye how this son of a murderer hath sent to take away mine head? look, when the messenger cometh, shut the door, and hold him fast at the door: is not the sound of his master's feet behind him?
 33 And while he yet talked with them, behold, the messenger came down unto him: and he said, Behold, this evil is of the Lord; what should I wait for the Lord any longer?
-
-### OLD TESTAMENT: II Kings, 13:20-21
-
+OLD TESTAMENT: II Kings, 13:20-21
 20 And Elisha died, and they buried him. And the bands of the Moabites invaded the land at the coming in of the year.
 21 And it came to pass, as they were burying a man, that, behold, they spied a band of men; and they cast the man into the sepulchre of Elisha: and when the man was let down, and touched the bones of Elisha, he revived, and stood up on his feet.
-
-### OLD TESTAMENT: II Kings, 20:1-11
-
+OLD TESTAMENT: II Kings, 20:1-11
 20 In those days was Hezekiah sick unto death. And the prophet Isaiah the son of Amoz came to him, and said unto him, Thus saith the Lord, Set thine house in order; for thou shalt die, and not live.
 2 Then he turned his face to the wall, and prayed unto the Lord, saying,
 3 I beseech thee, O Lord, remember now how I have walked before thee in truth and with a perfect heart, and have done that which is good in thy sight. And Hezekiah wept sore.
@@ -938,9 +844,7 @@ OLD TESTAMENT: II Kings, 1-6 passim; 13:20-21; 20:1-11
 9 And Isaiah said, This sign shalt thou have of the Lord, that the Lord will do the thing that he hath spoken: shall the shadow go forward ten degrees, or go back ten degrees?
 10 And Hezekiah answered, It is a light thing for the shadow to go down ten degrees: nay, but let the shadow return backward ten degrees.
 11 And Isaiah the prophet cried unto the Lord: and he brought the shadow ten degrees backward, by which it had gone down in the dial of Ahaz.
-
-### OLD TESTAMENT: II Chronicles, 32:9-22
-
+OLD TESTAMENT: II Chronicles, 32:9-22
 9 After this, Sennacherib king of the Assyrians sent his servants to Jerusalem, (for he with all his army was besieging Lachis,) to Ezechias king of Juda, and to all the people that were in the city, saying:
 10 Thus saith Sennacherib king of the Assyrians: In whom do you trust, that you sit still besieged in Jerusalem?
 11 Doth not Ezechias deceive you, to give you up to die by hunger and thirst, affirming that the Lord your God shall deliver you from the hand of the king of the Assyrians?
@@ -955,14 +859,10 @@ OLD TESTAMENT: II Kings, 1-6 passim; 13:20-21; 20:1-11
 20 And Ezechias the king, and Isaias the prophet the son of Amos, prayed against this blasphemy, and cried out to heaven.
 21 And the Lord sent an angel who cut off all the stout men and the warriors, and the captains of the army of the king of the Assyrians: and he returned with disgrace into his own country. And when he was come into the house of his god, his sons that came out of his bowels, slew him with the sword.
 22 And the Lord saved Ezechias and the inhabitants of Jerusalem, out of the hand of Sennacherib king of the Assyrians, and out of the hand of all, and gave them treasures on every side.
-
-### OLD TESTAMENT: II Chronicles, esp 32:21-22
-
+OLD TESTAMENT: II Chronicles, esp 32:21-22
 21 And the Lord sent an angel who cut off all the stout men and the warriors, and the captains of the army of the king of the Assyrians: and he returned with disgrace into his own country. And when he was come into the house of his god, his sons that came out of his bowels, slew him with the sword.
 22 And the Lord saved Ezechias and the inhabitants of Jerusalem, out of the hand of Sennacherib king of the Assyrians, and out of the hand of all, and gave them treasures on every side.
-
-### OLD TESTAMENT: Job, 4:13-21
-
+OLD TESTAMENT: Job, 4:13-21
 13 In the horror of a vision by night, when deep sleep is wont to hold men,
 14 Fear seized upon me, and trembling, and all my bones were affrighted:
 15 And when a spirit passed before me, the hair of my flesh stood up.
@@ -972,9 +872,7 @@ OLD TESTAMENT: II Kings, 1-6 passim; 13:20-21; 20:1-11
 19 How much more shall they that dwell in houses of clay, who have an earthly foundation, be consumed as with the moth?
 20 From morning till evening they shall be cut down: and because no one understandeth, they shall perish for ever.
 21 And they that shall be left, shall be taken away from them: they shall die, and not in wisdom.
-
-### OLD TESTAMENT: Job, 38:1-42:8
-
+OLD TESTAMENT: Job, 38:1-42:8
 38 Then the Lord answered Job out of a whirlwind, and said:
 2 Who is this that wrappeth up sentences in unskillful words?
 3 Gird up thy loins like a man: I will ask thee, and answer thou me.
@@ -1112,9 +1010,7 @@ OLD TESTAMENT: II Kings, 1-6 passim; 13:20-21; 20:1-11
 6 Therefore I reprehend myself, and do penance in dust and ashes.
 7 And after the Lord had spoken these words to Job, he said to Eliphaz the Themanite: My wrath is kindled against thee, and against thy two friends, because you have not spoken the thing that is right before me, as my servant Job hath.
 8 Take unto you therefore seven oxen, and seven rams, and go to my servant Job, and offer for yourselves a holocaust: and my servant Job shall pray for you: his face I will accept, that folly be not imputed to you: for you have not spoken right things before me, as my servant Job hath.
-
-### OLD TESTAMENT: Psalms, 105
-
+OLD TESTAMENT: Psalms, 105
 105 Alleluia. Give glory to the Lord, for he is good: for his mercy endureth for ever.
 2 Who shall declare the powers of the Lord? who shall set forth all his praises?
 3 Blessed are they that keep judgment, and do justice at all times.
@@ -1163,9 +1059,7 @@ OLD TESTAMENT: II Kings, 1-6 passim; 13:20-21; 20:1-11
 46 And he gave them unto mercies, in the sight of all those that had made them captives.
 47 Save us, O Lord, our God: and gather us from among nations: That we may give thanks to thy holy name, and may glory in thy praise.
 48 Blessed be the Lord the God of Israel, from everlasting to everlasting: and let all the people say: So be it, so be it.
-
-### OLD TESTAMENT: Psalms, esp 105:16-41
-
+OLD TESTAMENT: Psalms, esp 105:16-41
 16 And they provoked Moses in the camp, Aaron the holy one of the Lord.
 17 The earth opened and swallowed up Dathan: and covered the congregation of Abiron.
 18 And a fire was kindled in their congregation: the flame burned the wicked.
@@ -1192,17 +1086,13 @@ OLD TESTAMENT: II Kings, 1-6 passim; 13:20-21; 20:1-11
 39 And was defiled with their works: and they went aside after their own inventions.
 40 And the Lord was exceedingly angry with his people: and he abhorred his inheritance.
 41 And he delivered them into the hands of the nations: and they that hated them had dominion over them.
-
-### OLD TESTAMENT: Psalms, 135:8-12
-
+OLD TESTAMENT: Psalms, 135:8-12
 8 The sun to rule over the day: for his mercy endureth for ever.
 9 The moon and the stars to rule the night: for his mercy endureth for ever.
 10 Who smote Egypt with their firstborn: for his mercy endureth for ever.
 11 Who brought Israel from among them: for his mercy endureth for ever.
 12 With a mighty hand and a stretched out arm: for his mercy endureth for ever.
-
-### OLD TESTAMENT: Isaiah, 6
-
+OLD TESTAMENT: Isaiah, 6
 6 In the year that king Ozias died, I saw the Lord sitting upon a throne high and elevated: and his train filled the temple.
 2 Upon it stood the seraphims: the one had six wings, and the other had six wings: with two they covered his face, and with two they covered his feet, and with two they hew.
 3 And they cried one to another, and said: Holy, holy, holy, the Lord God of hosts, all the earth is full of his glory.
@@ -1216,9 +1106,7 @@ OLD TESTAMENT: II Kings, 1-6 passim; 13:20-21; 20:1-11
 11 And I said: How long, O Lord? And he said: Until the cities be wasted without inhabitant, and the houses without man, and the land shall be left desolate.
 12 And the Lord shall remove men far away, and she shall be multiplied that was left in the midst of the earth.
 13 And there shall be still a tithing therein, and she shall turn, and shall be made a shew as a turpentine tree, and as an oak that spreadeth its branches: that which shall stand therein, shall be a holy seed.
-
-### OLD TESTAMENT: Isaiah, 7:10-16
-
+OLD TESTAMENT: Isaiah, 7:10-16
 10 And the Lord spoke again to Achaz, saying:
 11 Ask thee a sign of the Lord thy God either unto the depth of hell, or unto the height above.
 12 And Achaz said: I will not ask, and I will not tempt the Lord.
@@ -1226,9 +1114,7 @@ OLD TESTAMENT: II Kings, 1-6 passim; 13:20-21; 20:1-11
 14 Therefore the Lord himself shall give you a sign. Behold a virgin shall conceive, and bear a son, and his name shall be called Emmanuel.
 15 He shall eat butter and honey, that he may know to refuse the evil, and to choose the good.
 16 For before the child know to refuse the evil, and to choose the good, the land which thou abhorrest shall be forsaken of the face of her two kings.
-
-### OLD TESTAMENT: Isaiah, 38:1-8
-
+OLD TESTAMENT: Isaiah, 38:1-8
 38 In those days Ezechias was sick even to death, and Isaias the son of Amos the prophet came unto him, and said to him: Thus saith the Lord: Take order with thy house, for thou shalt die, and not live.
 2 And Ezechias turned his face toward the wall, and prayed to the Lord,
 3 And said: I beseech thee, O Lord, remember how I have walked before thee in truth, and with a perfect heart, and have done that which is good in thy sight. And Ezechias wept with great weeping.
@@ -1237,9 +1123,7 @@ OLD TESTAMENT: II Kings, 1-6 passim; 13:20-21; 20:1-11
 6 And I will deliver thee and this city out of the hand of the king of the Assyrians, and I will protect it.
 7 And this shall be a sign to thee from the Lord, that the Lord will do this word which he hath spoken:
 8 Behold I will bring again the shadow of the lines, by which it is now gone down in the sun dial of Achaz with the sun, ten lines backward. And the sun returned ten lines by the degrees by which it was gone down.
-
-### OLD TESTAMENT: Jeremiah, 32:16-24
-
+OLD TESTAMENT: Jeremiah, 32:16-24
 16 And after I had delivered the deed of purchase to Baruch the son of Neri, I prayed to the Lord, saying:
 17 Alas, alas, alas, O Lord God, behold thou hast made heaven and earth by thy great power, and thy stretched out arm: no word shall be hard to thee:
 18 Thou shewest mercy unto thousands, and returnest the iniquity of the fathers into the bosom of their children after them: O most mighty, great, and powerful, the Lord of hosts is thy name.
@@ -1249,9 +1133,7 @@ OLD TESTAMENT: II Kings, 1-6 passim; 13:20-21; 20:1-11
 22 And hast given them this land which thou didst swear to their fathers, to give them a land flowing with milk and honey.
 23 And they came in, and possessed it: but they obeyed not thy voice, and they walked not in thy law: and they did not any of those things that thou didst command them to do, and all these evils are come upon them.
 24 Behold works are built up against the city to take it: and the city is given into the hands of the Chaldeans, who fight against it, by the sword, and the famine, and the pestilence: and what thou hast spoken, is all come to pass, as thou thyself seest.
-
-### OLD TESTAMENT: Ezekiel passim
-
+OLD TESTAMENT: Ezekiel passim
 1 Now it came to pass in the thirtieth year, in the fourth month, on the fifth day of the month, when I was in the midst of the captives by the river Chobar, the heavens were opened, and I saw the visions of God.
 2 On the fifth day of the month, the same was the fifth year of the captivity of king Joachin,
 3 The word of the Lord came to Ezechiel the priest the son of Buzi in the land of the Chaldeans, by the river Chobar: and the hand of the Lord was there upon him.
@@ -2512,9 +2394,7 @@ OLD TESTAMENT: II Kings, 1-6 passim; 13:20-21; 20:1-11
 33 And at the south side, thou shalt measure four thousand and five hundred: and three gates, the gate of Simeon one, the gate of Issachar one, the gate of Zabulon one.
 34 And at the west side, four thousand and five hundred, and their three gates, the gate of Gad one, the gate of Aser one, the gate of Nephthali one.
 35 Its circumference was eighteen thousand: and the name of the city from that day, The Lord is there.
-
-### OLD TESTAMENT: Ezekiel, 1-3
-
+OLD TESTAMENT: Ezekiel, 1-3
 1 Now it came to pass in the thirtieth year, in the fourth month, on the fifth day of the month, when I was in the midst of the captives by the river Chobar, the heavens were opened, and I saw the visions of God.
 2 On the fifth day of the month, the same was the fifth year of the captivity of king Joachin,
 3 The word of the Lord came to Ezechiel the priest the son of Buzi in the land of the Chaldeans, by the river Chobar: and the hand of the Lord was there upon him.
@@ -2579,15 +2459,11 @@ OLD TESTAMENT: II Kings, 1-6 passim; 13:20-21; 20:1-11
 25 And thou, O son of man, behold they shall put bands upon thee, and they shall bind thee with them: and thou shalt not go forth from the midst of them.
 26 And I will make thy tongue stick fast to the roof of thy mouth, and thou shalt be dumb, and not as a man that reproveth: because they are a provoking house.
 27 But when I shall speak to thee, I will open thy mouth, and thou shalt say to them: Thus saith the Lord God: He that heareth, let him hear: and he that forbeareth, let him forbear: for they are a provoking house.
-
-### OLD TESTAMENT: Ezekiel, 11:22-24
-
+OLD TESTAMENT: Ezekiel, 11:22-24
 22 And the cherubims lifted up their wings, and the wheels with them: and the glory of the God of Israel was over them.
 23 And the glory of the Lord went up from the midst of the city, and stood over the mount that is on the east side of the city.
 24 And the spirit lifted me up, and brought me into Chaldea, to them of the captivity, in vision, by the spirit of God: and the vision which I had seen was taken up from me.
-
-### OLD TESTAMENT: Ezekiel, 40:1-48:35
-
+OLD TESTAMENT: Ezekiel, 40:1-48:35
 40 In the five and twentieth year of our captivity, in the beginning of the year, the tenth day of the month, the fourteenth year after the city was destroyed: in the selfsame day the hand of the Lord was upon me, and he brought me thither.
 2 In the visions of God he brought me into the land of Israel, and set me upon a very high mountain: upon which there was as the building of a city, bending towards the south.
 3 And he brought me in thither, and behold a man, whose appearance was like the appearance of brass, with a line of flax in his hand, and a measuring reed in his hand, and he stood in the gate.
@@ -2848,9 +2724,7 @@ OLD TESTAMENT: II Kings, 1-6 passim; 13:20-21; 20:1-11
 33 And at the south side, thou shalt measure four thousand and five hundred: and three gates, the gate of Simeon one, the gate of Issachar one, the gate of Zabulon one.
 34 And at the west side, four thousand and five hundred, and their three gates, the gate of Gad one, the gate of Aser one, the gate of Nephthali one.
 35 Its circumference was eighteen thousand: and the name of the city from that day, The Lord is there.
-
-### OLD TESTAMENT: Daniel, 2-12 passim
-
+OLD TESTAMENT: Daniel, 2-12 passim
 2 In the second year of the reign of Nabuchodonosor, Nabuchodonosor had a dream, and his spirit was terrified, and his dream went out of his mind.
 2 Then the king commanded to call together the diviners and the wise men, and the magicians, and the Chaldeans: to declare to the king his dreams: so they came and stood before the king.
 3 And the king said to them: I saw a dream: and being troubled in mind I know not what I saw.
@@ -3254,9 +3128,7 @@ OLD TESTAMENT: II Kings, 1-6 passim; 13:20-21; 20:1-11
 11 And from the time when the continual sacrifice shall be taken away, and the abomination unto desolation shall be set up, there shall be a thousand two hundred ninety days,
 12 Blessed is he that waiteth and cometh unto a thousand three hundred thirty-five days.
 13 But go thou thy ways until the time appointed: and thou shalt rest, and stand in thy lot unto the end of the days.
-
-### OLD TESTAMENT: Hosea, 1-3
-
+OLD TESTAMENT: Hosea, 1-3
 1 The word of the Lord, that came to Osee the son of Beeri, in the days of Ozias, Joathan, Achaz, and Ezechias kings of Juda, and in the days of Jeroboam the son of Joas king of Israel.
 2 The beginning of the Lord's speaking by Osse: and the Lord said to Osee: Go, take thee a wife of fornications, and have of her children of fornications: for the land by fornication shall depart from the Lord.
 3 So he went, and took Gomer the daughter of Debelaim: and she conceived and bore him a son.
@@ -3297,9 +3169,7 @@ OLD TESTAMENT: II Kings, 1-6 passim; 13:20-21; 20:1-11
 3 And I said to her: Thou shalt wait for me many days: thou shalt not play the harlot, and thou shalt be no man's, and I also will wait for thee.
 4 For the children of Israel shall sit many days without king, and without prince, and without sacrifice, and without altar, and without ephod, and without theraphim.
 5 And after this the children of Israel shall return, and shall seek the Lord their God, and David their king: and they shall fear the Lord, and his goodness in the last days.
-
-### OLD TESTAMENT: Amos, 7-8
-
+OLD TESTAMENT: Amos, 7-8
 7 These things the Lord God shewed to me: and behold the locust was formed in the beginning of the shooting up of the latter rain, and lo, it was the latter rain after the king's mowing.
 2 And it came to pass, that when they had made an end of eating the grass of the land, I said: O Lord God, be merciful, I beseech thee: who shall raise up Jacob, for he is very little?
 3 The Lord had pity upon this: It shall not be, said the Lord.
@@ -3331,9 +3201,7 @@ OLD TESTAMENT: II Kings, 1-6 passim; 13:20-21; 20:1-11
 12 And they shall move from sea to sea, and from the north to the east: they shall go about seeking the word of the Lord, and shall not find it.
 13 In that day the fair virgins, and the young men shall faint for thirst.
 14 They that swear by the sin of Samaria, and say: Thy God, O Dan, liveth: and the way of Bersabee liveth: and they shall fall, and shall rise no more.
-
-### OLD TESTAMENT: Jonah
-
+OLD TESTAMENT: Jonah
 1 Now the word of the Lord came to Jonas the son of Amathi, saying:
 2 Arise, and go to Ninive the great city, and preach in it: for the wickedness thereof is come up before me.
 3 And Jonas rose up to flee into Tharsis from the face of the Lord, and he went down to Joppe, and found a ship going to Tharsis: and he paid the fare thereof, and went down into it, to go with them to Tharsis from the face of the Lord.
@@ -3382,9 +3250,7 @@ OLD TESTAMENT: II Kings, 1-6 passim; 13:20-21; 20:1-11
 9 And the Lord said to Jonas: Dost thou think thou hast reason to be angry, for the ivy? And he said: I am angry with reason even unto death.
 10 And the Lord said: Thou art grieved for the ivy, for which thou hast not laboured, nor made it to grow, which in one night came up, and in one night perished.
 11 And shall not I spare Ninive, that great city, in which there are more than a hundred and twenty thousand persons that know not how to distinguish between their right hand and their left, and many beasts?
-
-### OLD TESTAMENT: Zechariah, 1-6
-
+OLD TESTAMENT: Zechariah, 1-6
 1 In the eighth month, in the second year of king Darius, the word of the Lord came to Zacharias the son of Barachias, the son of Addo, the prophet, saying:
 2 The Lord hath been exceeding angry with your fathers.
 3 And thou shalt say to them: Thus saith the Lord of hosts: Turn ye to me, saith the Lord of hosts: and I will turn to you, saith the Lord of hosts.
@@ -3472,9 +3338,7 @@ OLD TESTAMENT: II Kings, 1-6 passim; 13:20-21; 20:1-11
 
 ## APOCRYPHA: Rest of Esther, 10-11-(D) OT, Esther, 10:4-11 :12 / Bel and Dragon, 30-42- (D) OT, Daniel, 14:30-42 / II Maccabees, 1:18-22; 15 :11-17-(D) QT, II Machabees, 1:18-22; 15:11-17
 
-
-### APOCRYPHA: Esther, 10:4-11 :12
-
+APOCRYPHA: Esther, 10:4-11 :12
 ⁴Then Mardocheus said, God hath done these things.
 ⁵For I remember a dream which I saw concerning these matters, and nothing thereof hath failed.
 ⁶A little fountain became a river, and there was light, and the sun, and much water: this river is Esther, whom the king married, and made queen:
@@ -3485,9 +3349,7 @@ OLD TESTAMENT: II Kings, 1-6 passim; 13:20-21; 20:1-11
 ¹¹And these two lots came at the hour, and time, and day of judgment, before God among all nations.
 ¹²So God remembered his people, and justified his inheritance.
 ¹³Therefore those days shall be unto them in the month Adar, the fourteenth and fifteenth day of the same month, with an assembly, and joy, and with gladness before God, according to the generations for ever among his people.
-
-### APOCRYPHA: Daniel, 14:30-42
-
+APOCRYPHA: Daniel, 14:30-42
 30 And they cast him into the den of lions, and he was there six days.
 31 And in the den there were seven lions, and they had given to them two carcasses every day, and two sheep: but then they were not given unto them, that they might devour Daniel.
 32 Now there was in Judea a prophet called Habacuc, and he had boiled pottage, and had broken bread in a bowl: and was going into the field, to carry it to the reapers.
@@ -3501,17 +3363,13 @@ OLD TESTAMENT: II Kings, 1-6 passim; 13:20-21; 20:1-11
 40 And the king cried out with a loud voice, saying: Great art thou, O Lord the God of Daniel. And he drew him out of the lions' den.
 41 But those that had been the cause of his destruction, he cast into the den, and they were devoured in a moment before him.
 42 Then the king said: Let all the inhabitants of the whole earth fear the God of Daniel: for he is the Saviour, working signs, and wonders in the earth: who hath delivered Daniel out of the lions' den.
-
-### APOCRYPHA: II Maccabees, 1:18-22
-
+APOCRYPHA: II Maccabees, 1:18-22
 18 Therefore whereas we purpose to keep the purification of the temple on the five and twentieth day of the month of Casleu, we thought it necessary to signify it to you: that you also may keep the day of Scenopegia, and the day of the fire, that was given when Nehemias offered sacrifice, after the temple and the altar was built.
 19 For when our fathers were led into Persia, the priests that then were worshippers of God took privately the fire from the altar, and hid it in a valley where there was a deep pit without water, and there they kept it safe, so that the place was unknown to all men.
 20 But when many years had passed, and it pleased God that Nehemias should be sent by the king of Persia, he sent some of the posterity of those priests that had hid it, to seek for the fire: and as they told us, they found no fire, but thick water.
 21 Then he bade them draw it up, and bring it to him: and the priest Nehemias commanded the sacrifices that were laid on, to be sprinkled with the same water, both the wood, and the things that were laid upon it.
 22 And when this was done, and the time came that the sun shone out, which before was in a cloud, there was a great fire kindled, so that all wondered.
-
-### APOCRYPHA: II Maccabees, 15:11-17
-
+APOCRYPHA: II Maccabees, 15:11-17
 11 So he armed every one of them, not with defence of shield and spear, but with very good speeches and exhortations, and told them a dream worthy to be believed, whereby he rejoiced them all.
 12 Now the vision was in this manner: Onias who had been high priest, a good and virtuous man, modest in his looks, gentle in his manners, and graceful in his speech, and who from a child was exercised in virtues, holding up his hands, prayed for all the people of the Jews:
 13 After this there appeared also another man, admirable for age, and glory, and environed with great beauty and majesty:
@@ -3522,9 +3380,7 @@ OLD TESTAMENT: II Kings, 1-6 passim; 13:20-21; 20:1-11
 
 ## NEW TESTAMENT: Matthew passim, esp 1:20-21, 2:12-13, 2:19-23, 8:1-17, 8:23-9:8, 9:18-34, 10:1,12:22-29, 12:38-40, 14:13-33, 15:22-16:4, 17:1-8, 17:14-20, 20:29-34 I Mark passim, esp 1:23-2:12, 5:1-43, 7:24-8:26, 9:1-9, 9:16-29, 10:46-52, 16:16-18 / Luke passim, esp 1:5-66, 4:33-5:26, 7:1-23, 8:22-56, 9:28-43, 11:16, 11:29, 14:1-6, 17:11-19, 18:35-43 / John passim, esp 1:43-2:11, 2:18, 2:22, 3:14-18, 4:46-54, 5:36, 6:30, 9:1-41, 11:1-48, 12:27-30, 12:37-40, 20:1-9 / Acts passim, esp 2:1-24, 3:2-11, 5:15-24, 7:55-56, 8:6-8, 8:13, 9:3-8, 9:33-42, 10:1-48, 13:9-12, 14:7-10, 18:9-11, 19:11-20, 20:9-12, 28:3-10 / I Corinthians, 1:22-24 / Hebrews, 2:3-4 / Revelation-(D) Apocalypse
 
-
-### NEW TESTAMENT: Matthew passim
-
+NEW TESTAMENT: Matthew passim
 1 The book of the generation of Jesus Christ, the son of David, the son of Abraham:
 2 Abraham begot Isaac. And Isaac begot Jacob. And Jacob begot Judas and his brethren.
 3 And Judas begot Phares and Zara of Thamar. And Phares begot Esron. And Esron begot Aram.
@@ -4545,25 +4401,19 @@ OLD TESTAMENT: II Kings, 1-6 passim; 13:20-21; 20:1-11
 18 And Jesus coming, spoke to them, saying: All power is given to me in heaven and in earth.
 19 Going therefore, teach ye all nations; baptizing them in the name of the Father, and of the Son, and of the Holy Ghost.
 20 Teaching them to observe all things whatsoever I have commanded you: and behold I am with you all days, even to the consummation of the world.
-
-### NEW TESTAMENT: Matthew, esp 1:20-21
-
+NEW TESTAMENT: Matthew, esp 1:20-21
 20 But while he thought on these things, behold the angel of the Lord appeared to him in his sleep, saying: Joseph, son of David, fear not to take unto thee Mary thy wife, for that which is conceived in her, is of the Holy Ghost.
 21 And she shall bring forth a son: and thou shalt call his name JESUS. For he shall save his people from their sins.
 NEW TESTAMENT: Matthew, esp, 2:12-13,
 12 And having received an answer in sleep that they should not return to Herod, they went back another way into their country.
 13 And after they were departed, behold an angel of the Lord appeared in sleep to Joseph, saying: Arise, and take the child and his mother, and fly into Egypt: and be there until I shall tell thee. For it will come to pass that Herod will seek the child to destroy him.
-
-### NEW TESTAMENT: Matthew, esp 2:19-23
-
+NEW TESTAMENT: Matthew, esp 2:19-23
 19 But when Herod was dead, behold an angel of the Lord appeared in sleep to Joseph in Egypt,
 20 Saying: Arise, and take the child and his mother, and go into the land of Israel. For they are dead that sought the life of the child.
 21 Who arose, and took the child and his mother, and came into the land of Israel.
 22 But hearing that Archelaus reigned in Judea in the room of Herod his father, he was afraid to go thither: and being warned in sleep retired into the quarters of Galilee.
 23 And coming he dwelt in a city called Nazareth: that it might be fulfilled which was said by prophets: That he shall be called a Nazarene.
-
-### NEW TESTAMENT: Matthew, esp 8:1-17
-
+NEW TESTAMENT: Matthew, esp 8:1-17
 8 And when he was come down from the mountain, great multitudes followed him:
 2 And behold a leper came and adored him, saying: Lord, if thou wilt, thou canst make me clean.
 3 And Jesus stretching forth his hand, touched him, saying: I will, be thou made clean. And forthwith his leprosy was cleansed.
@@ -4581,9 +4431,7 @@ NEW TESTAMENT: Matthew, esp, 2:12-13,
 15 And he touched her hand, and the fever left her, and she arose and ministered to them.
 16 And when evening was come, they brought to him many that were possessed with devils: and he cast out the spirits with his word: and all that were sick he healed:
 17 That it might be fulfilled, which was spoken by the prophet Isaias, saying: He took our infirmities, and bore our diseases.
-
-### NEW TESTAMENT: Matthew, esp 8:23-9:8
-
+NEW TESTAMENT: Matthew, esp 8:23-9:8
 23 And when he entered into the boat, his disciples followed him:
 24 And behold a great tempest arose in the sea, so that the boat was covered with waves, but he was asleep.
 25 And they came to him, and awaked him, saying: Lord, save us, we perish.
@@ -4604,9 +4452,7 @@ NEW TESTAMENT: Matthew, esp, 2:12-13,
 6 But that you may know that the Son of man hath power on earth to forgive sins, (then said he to the man sick of palsy,) Arise, take up thy bed, and go into thy house.
 7 And he arose, and went into his house.
 8 And the multitude seeing it, feared, and glorified God that gave such power to men.
-
-### NEW TESTAMENT: Matthew, esp 9:18-34
-
+NEW TESTAMENT: Matthew, esp 9:18-34
 18 As he was speaking these things unto them, behold a certain ruler came up, and adored him, saying: Lord, my daughter is even now dead; but come, lay thy hand upon her, and she shall live.
 19 And Jesus rising up followed him, with his disciples.
 20 And behold a woman who was troubled with an issue of blood twelve years, came behind him, and touched the hem of his garment.
@@ -4624,13 +4470,9 @@ NEW TESTAMENT: Matthew, esp, 2:12-13,
 32 And when they were gone out, behold they brought him a dumb man, possessed with a devil.
 33 And after the devil was cast out, the dumb man spoke, and the multitudes wondered, saying, Never was the like seen in Israel.
 34 But the Pharisees said, By the prince of devils he casteth out devils.
-
-### NEW TESTAMENT: Matthew, esp 10:1
-
+NEW TESTAMENT: Matthew, esp 10:1
 10 And having called his twelve disciples together, he gave them power over unclean spirits, to cast them out, and to heal all manner of diseases, and all manner of infirmities.
-
-### NEW TESTAMENT: Matthew, esp, 12:22-29
-
+NEW TESTAMENT: Matthew, esp, 12:22-29
 22 Then was offered to him one possessed with a devil, blind and dumb: and he healed him, so that he spoke and saw.
 23 And all the multitudes were amazed, and said: Is not this the son of David?
 24 But the Pharisees hearing it, said: This man casteth not out the devils but by Beelzebub the prince of the devils.
@@ -4639,15 +4481,11 @@ NEW TESTAMENT: Matthew, esp, 2:12-13,
 27 And if I by Beelzebub cast out devils, by whom do your children cast them out? Therefore they shall be your judges.
 28 But if I by the Spirit of God cast out devils, then is the kingdom of God come upon you.
 29 Or how can any one enter into the house of the strong, and rifle his goods, unless he first bind the strong? and then he will rifle his house.
-
-### NEW TESTAMENT: Matthew, esp 12:38-40
-
+NEW TESTAMENT: Matthew, esp 12:38-40
 38 Then some of the scribes and Pharisees answered him, saying: Master we would see a sign from thee.
 39 Who answering said to them: An evil and adulterous generation seeketh a sign: and a sign shall not be given it, but the sign of Jonas the prophet.
 40 For as Jonas was in the whale's belly three days and three nights: so shall the Son of man be in the heart of the earth three days and three nights.
-
-### NEW TESTAMENT: Matthew, esp 14:13-33
-
+NEW TESTAMENT: Matthew, esp 14:13-33
 13 Which when Jesus had heard, he retired from thence by boat, into a desert place apart, and the multitudes having heard of it, followed him on foot out of the cities.
 14 And he coming forth saw a great multitude, and had compassion on them, and healed their sick.
 15 And when it was evening, his disciples came to him, saying: This is a desert place, and the hour is now past: send away the multitudes, that going into the towns, they may buy themselves victuals.
@@ -4669,9 +4507,7 @@ NEW TESTAMENT: Matthew, esp, 2:12-13,
 31 And immediately Jesus stretching forth his hand took hold of him, and said to him: O thou of little faith, why didst thou doubt?
 32 And when they were come up into the boat, the wind ceased.
 33 And they that were in the boat came and adored him, saying: Indeed thou art the Son of God.
-
-### NEW TESTAMENT: Matthew, esp 15:22-16:4
-
+NEW TESTAMENT: Matthew, esp 15:22-16:4
 22 And behold a woman of Canaan who came out of those coasts, crying out, said to him: Have mercy on me, O Lord, thou son of David: my daughter is grieviously troubled by the devil.
 23 Who answered her not a word. And his disciples came and besought him, saying: Send her away, for she crieth after us:
 24 And he answering, said: I was not sent but to the sheep that are lost of the house of Israel.
@@ -4694,9 +4530,7 @@ NEW TESTAMENT: Matthew, esp, 2:12-13,
 2 But he answered and said to them: When it is evening, you say, It will be fair weather, for the sky is red.
 3 And in the morning: To day there will be a storm, for the sky is red and lowering. You know then how to discern the face of the sky: and can you not know the signs of the times?
 4 A wicked and adulterous generation seeketh after a sign: and a sign shall not be given it, but the sign of Jonas the prophet. And he left them, and went away.
-
-### NEW TESTAMENT: Matthew, esp 17:1-8
-
+NEW TESTAMENT: Matthew, esp 17:1-8
 17 And after six days Jesus taketh unto him Peter and James, and John his brother, and bringeth them up into a high mountain apart:
 2 And he was transfigured before them. And his face did shine as the sun: and his garments became white as snow.
 3 And behold there appeared to them Moses and Elias talking with him.
@@ -4705,9 +4539,7 @@ NEW TESTAMENT: Matthew, esp, 2:12-13,
 6 And the disciples hearing, fell upon their face, and were very much afraid.
 7 And Jesus came and touched them: and said to them, Arise, and fear not.
 8 And they lifting up their eyes saw no one but only Jesus.
-
-### NEW TESTAMENT: Matthew, esp 17:14-20
-
+NEW TESTAMENT: Matthew, esp 17:14-20
 14 And when he was come to the multitude, there came to him a man falling down on his knees before him, saying: Lord, have pity on my son, for he is a lunatic, and suffereth much: for he falleth often into the fire, and often into the water.
 15 And I brought him to thy disciples, and they could not cure him.
 16 Then Jesus answered and said: O unbelieving and perverse generation, how long shall I be with you? How long shall I suffer you? bring him hither to me.
@@ -4715,18 +4547,14 @@ NEW TESTAMENT: Matthew, esp, 2:12-13,
 18 Then came the disciples to Jesus secretly, and said: Why could not we cast him out?
 19 Jesus said to them: Because of your unbelief. For, amen I say to you, if you have faith as a grain of mustard seed, you shall say to this mountain, Remove from hence hither, and it shall remove; and nothing shall be impossible to you.
 20 But this kind is not cast out but by prayer and fasting.
-
-### NEW TESTAMENT: Matthew, esp 20:29-34
-
+NEW TESTAMENT: Matthew, esp 20:29-34
 29 And when they went out from Jericho, a great multitude followed him.
 30 And behold two blind men sitting by the way side, heard that Jesus passed by, and they cried out, saying: O Lord, thou son of David, have mercy on us.
 31 And the multitude rebuked them that they should hold their peace. But they cried out the more, saying: O Lord, thou son of David, have mercy on us.
 32 And Jesus stood, and called them, and said: What will ye that I do to you?
 33 They say to him: Lord, that our eyes be opened.
 34 And Jesus having compassion on them, touched their eyes. And immediately they saw, and followed him.
-
-### NEW TESTAMENT: Mark passim
-
+NEW TESTAMENT: Mark passim
 1 The beginning of the gospel of Jesus Christ, the Son of God.
 2 As it is written in Isaias the prophet: Behold I send my angel before thy face, who shall prepare the way before thee.
 3 A voice of one crying in the desert: Prepare ye the way of the Lord, make straight his paths.
@@ -5404,9 +5232,7 @@ NEW TESTAMENT: Matthew, esp, 2:12-13,
 18 They shall take up serpents; and if they shall drink any deadly thing, it shall not hurt them: they shall lay their hands upon the sick, and they shall recover.
 19 And the Lord Jesus, after he had spoken to them, was taken up into heaven, and sitteth on the right hand of God.
 20 But they going forth preached everywhere: the Lord working withal, and confirming the word with signs that followed.
-
-### NEW TESTAMENT: Mark, esp 1:23-2:12
-
+NEW TESTAMENT: Mark, esp 1:23-2:12
 23 And there was in their synagogue a man with an unclean spirit; and he cried out,
 24 Saying: What have we to do with thee, Jesus of Nazareth? art thou come to destroy us? I know who thou art, the Holy One of God.
 25 And Jesus threatened him, saying: Speak no more, and go out of the man.
@@ -5442,9 +5268,7 @@ NEW TESTAMENT: Matthew, esp, 2:12-13,
 10 But that you may know that the Son of man hath power on earth to forgive sins, (he saith to the sick of the palsy,)
 11 I say to thee: Arise, take up thy bed, and go into thy house.
 12 And immediately he arose; and taking up his bed, went his way in the sight of all; so that all wondered and glorified God, saying: We never saw the like.
-
-### NEW TESTAMENT: Mark, esp 5:1-43
-
+NEW TESTAMENT: Mark, esp 5:1-43
 5 And they came over the strait of the sea into the country of the Gerasens.
 2 And as he went out of the ship, immediately there met him out of the monuments a man with an unclean spirit,
 3 Who had his dwelling in the tombs, and no man now could bind him, not even with chains.
@@ -5488,9 +5312,7 @@ NEW TESTAMENT: Matthew, esp, 2:12-13,
 41 And taking the damsel by the hand, he saith to her: Talitha cumi, which is, being interpreted: Damsel (I say to thee) arise.
 42 And immediately the damsel rose up, and walked: and she was twelve years old: and they were astonished with a great astonishment.
 43 And he charged them strictly that no man should know it: and commanded that something should be given her to eat.
-
-### NEW TESTAMENT: Mark, esp 7:24-8:26
-
+NEW TESTAMENT: Mark, esp 7:24-8:26
 24 And rising from thence he went into the coasts of Tyre and Sidon: and entering into a house, he would that no man should know it, and he could not be hid.
 25 For a woman as soon as she heard of him, whose daughter had an unclean spirit, came in and fell down at his feet.
 26 For the woman was a Gentile, a Syrophenician born. And she besought him that he would cast forth the devil out of her daughter.
@@ -5531,9 +5353,7 @@ NEW TESTAMENT: Matthew, esp, 2:12-13,
 24 And looking up, he said: I see men as it were trees, walking.
 25 After that again he laid his hands upon his eyes, and he began to see, and was restored, so that he saw all things clearly.
 26 And he sent him into his house, saying: Go into thy house, and if thou enter into the town, tell nobody.
-
-### NEW TESTAMENT: Mark, esp 9:1-9
-
+NEW TESTAMENT: Mark, esp 9:1-9
 9 And after six days Jesus taketh with him Peter and James and John, and leadeth them up into an high mountain apart by themselves, and was transfigured before them.
 2 And his garments became shining and exceeding white as snow, so as no fuller upon earth can make white.
 3 And there appeared to them Elias with Moses; and they were talking with Jesus.
@@ -5543,9 +5363,7 @@ NEW TESTAMENT: Matthew, esp, 2:12-13,
 7 And immediately looking about, they saw no man any more, but Jesus only with them.
 8 And as they came down from the mountain, he charged them not to tell any man what things they had seen, till the Son of man shall be risen again from the dead.
 9 And they kept the word to themselves; questioning together what that should mean, when he shall be risen from the dead.
-
-### NEW TESTAMENT: Mark, esp 9:16-29
-
+NEW TESTAMENT: Mark, esp 9:16-29
 16 And one of the multitude, answering, said: Master, I have brought my son to thee, having a dumb spirit.
 17 Who, wheresoever he taketh him, dasheth him, and he foameth, and gnasheth with the teeth, and pineth away; and I spoke to thy disciples to cast him out, and they could not.
 18 Who answering them, said: O incredulous generation, how long shall I be with you? how long shall I suffer you? bring him unto me.
@@ -5560,9 +5378,7 @@ NEW TESTAMENT: Matthew, esp, 2:12-13,
 27 And when he was come into the house, his disciples secretly asked him: Why could not we cast him out?
 28 And he said to them: This kind can go out by nothing, but by prayer and fasting.
 29 And departing from thence, they passed through Galilee, and he would not that any man should know it.
-
-### NEW TESTAMENT: Mark, esp 10:46-52
-
+NEW TESTAMENT: Mark, esp 10:46-52
 46 And they came to Jericho: and as he went out of Jericho, with his disciples, and a very great multitude, Bartimeus the blind man, the son of Timeus, sat by the way side begging.
 47 Who when he had heard, that it was Jesus of Nazareth, began to cry out, and to say: Jesus son of David, have mercy on me.
 48 And many rebuked him, that he might hold his peace; but he cried a great deal the more: Son of David, have mercy on me.
@@ -5570,15 +5386,11 @@ NEW TESTAMENT: Matthew, esp, 2:12-13,
 50 Who casting off his garment leaped up, and came to him.
 51 And Jesus answering, said to him: What wilt thou that I should do to thee? And the blind man said to him: Rabboni, that I may see.
 52 And Jesus saith to him: Go thy way, thy faith hath made thee whole. And immediately he saw, and followed him in the way.
-
-### NEW TESTAMENT: Mark, esp 16:16-18
-
+NEW TESTAMENT: Mark, esp 16:16-18
 16 He that believeth and is baptized, shall be saved: but he that believeth not shall be condemned.
 17 And these signs shall follow them that believe: In my name they shall cast out devils: they shall speak with new tongues.
 18 They shall take up serpents; and if they shall drink any deadly thing, it shall not hurt them: they shall lay their hands upon the sick, and they shall recover.
-
-### NEW TESTAMENT: Luke passim
-
+NEW TESTAMENT: Luke passim
 1 Forasmuch as many have taken in hand to set forth in order a narration of the things that have been accomplished among us;
 2 According as they have delivered them unto us, who from the beginning were eyewitnesses and ministers of the word:
 3 It seemed good to me also, having diligently attained to all things from the beginning, to write to thee in order, most excellent Theophilus,
@@ -6688,9 +6500,7 @@ NEW TESTAMENT: Matthew, esp, 2:12-13,
 51 And it came to pass, whilst he blessed them, he departed from them, and was carried up to heaven.
 52 And they adoring went back into Jerusalem with great joy.
 53 And they were always in the temple, praising and blessing God. Amen.
-
-### NEW TESTAMENT: Luke, esp 1:5-66
-
+NEW TESTAMENT: Luke, esp 1:5-66
 5 There was in the days of Herod, the king of Judea, a certain priest named Zachary, of the course of Abia; and his wife was of the daughters of Aaron, and her name Elizabeth.
 6 And they were both just before God, walking in all the commandments and justifications of the Lord without blame.
 7 And they had no son, for that Elizabeth was barren, and they both were well advanced in years.
@@ -6753,9 +6563,7 @@ NEW TESTAMENT: Matthew, esp, 2:12-13,
 64 And immediately his mouth was opened, and his tongue loosed, and he spoke, blessing God.
 65 And fear came upon all their neighbours; and all these things were noised abroad over all the hill country of Judea.
 66 And all they that had heard them laid them up in their heart, saying: What an one, think ye, shall this child be? For the hand of the Lord was with him.
-
-### NEW TESTAMENT: Luke, esp 4:33-5:26
-
+NEW TESTAMENT: Luke, esp 4:33-5:26
 33 And in the synagogue there was a man who had an unclean devil, and he cried out with a loud voice,
 34 Saying: Let us alone, what have we to do with thee, Jesus of Nazareth? art thou come to destroy us? I know thee who thou art, the holy one of God.
 35 And Jesus rebuked him, saying: Hold thy peace, and go out of him. And when the devil had thrown him into the midst, he went out of him, and hurt him not at all.
@@ -6794,9 +6602,7 @@ NEW TESTAMENT: Matthew, esp, 2:12-13,
 24 But that you may know that the Son of man hath power on earth to forgive sins, (he saith to the sick of the palsy,) I say to thee, Arise, take up thy bed, and go into thy house.
 25 And immediately rising up before them, he took up the bed on which he lay; and he went away to his own house, glorifying God.
 26 And all were astonished; and they glorified God. And they were filled with fear, saying: We have seen wonderful things to day.
-
-### NEW TESTAMENT: Luke, esp 7:1-23
-
+NEW TESTAMENT: Luke, esp 7:1-23
 7 And when he had finished all his words in the hearing of the people, he entered into Capharnaum.
 2 And the servant of a certain centurion, who was dear to him, being sick, was ready to die.
 3 And when he had heard of Jesus, he sent unto him the ancients of the Jews, desiring him to come and heal his servant.
@@ -6820,9 +6626,7 @@ NEW TESTAMENT: Matthew, esp, 2:12-13,
 21 (And in that same hour, he cured many of their diseases, and hurts, and evil spirits: and to many that were blind he gave sight.)
 22 And answering, he said to them: Go and relate to John what you have heard and seen: the blind see, the lame walk, the lepers are made clean, the deaf hear, the dead rise again, to the poor the gospel is preached:
 23 And blessed is he whosoever shall not be scandalized in me.
-
-### NEW TESTAMENT: Luke, esp 8:22-56
-
+NEW TESTAMENT: Luke, esp 8:22-56
 22 And it came to pass on a certain day that he went into a little ship with his disciples, and he said to them: Let us go over to the other side of the lake. And they launched forth.
 23 And when they were sailing, he slept; and there came down a storm of wind upon the lake, and they were filled, and were in danger.
 24 And they came and awaked him, saying: Master, we perish. But he arising, rebuked the wind and the rage of the water; and it ceased, and there was a calm.
@@ -6858,9 +6662,7 @@ NEW TESTAMENT: Matthew, esp, 2:12-13,
 54 But he taking her by the hand, cried out, saying: Maid, arise.
 55 And her spirit returned, and she arose immediately. And he bid them give her to eat.
 56 And her parents were astonished, whom he charged to tell no man what was done.
-
-### NEW TESTAMENT: Luke, esp 9:28-43
-
+NEW TESTAMENT: Luke, esp 9:28-43
 28 And it came to pass about eight days after these words, that he took Peter, and James, and John, and went up into a mountain to pray.
 29 And whilst he prayed, the shape of his countenance was altered, and his raiment became white and glittering.
 30 And behold two men were talking with him. And they were Moses and Elias,
@@ -6877,26 +6679,18 @@ NEW TESTAMENT: Matthew, esp, 2:12-13,
 41 And Jesus answering, said: O faithless and perverse generation, how long shall I be with you, and suffer you? Bring hither thy son.
 42 And as he was coming to him, the devil threw him down, and tore him.
 43 And Jesus rebuked the unclean spirit, and cured the boy, and restored him to his father.
-
-### NEW TESTAMENT: Luke, esp 11:16
-
+NEW TESTAMENT: Luke, esp 11:16
 16 And others tempting, asked of him a sign from heaven.
-
-### NEW TESTAMENT: Luke, esp 11:29
-
+NEW TESTAMENT: Luke, esp 11:29
 29 And the multitudes running together, he began to say: This generation is a wicked generation: it asketh a sign, and a sign shall not be given it, but the sign of Jonas the prophet.
-
-### NEW TESTAMENT: Luke, esp 14:1-6
-
+NEW TESTAMENT: Luke, esp 14:1-6
 14 And it came to pass, when Jesus went into the house of one of the chief of the Pharisees, on the sabbath day, to eat bread, that they watched him.
 2 And behold, there was a certain man before him that had the dropsy.
 3 And Jesus answering, spoke to the lawyers and Pharisees, saying: Is it lawful to heal on the sabbath day?
 4 But they held their peace. But he taking him, healed him, and sent him away.
 5 And answering them, he said: Which of you shall have an ass or an ox fall into a pit, and will not immediately draw him out, on the sabbath day?
 6 And they could not answer him to these things.
-
-### NEW TESTAMENT: Luke, esp 17:11-19
-
+NEW TESTAMENT: Luke, esp 17:11-19
 11 And it came to pass, as he was going to Jerusalem, he passed through the midst of Samaria and Galilee.
 12 And as he entered into a certain town, there met him ten men that were lepers, who stood afar off;
 13 And lifted up their voice, saying: Jesus, master, have mercy on us.
@@ -6906,9 +6700,7 @@ NEW TESTAMENT: Matthew, esp, 2:12-13,
 17 And Jesus answering, said, Were not ten made clean? and where are the nine?
 18 There is no one found to return and give glory to God, but this stranger.
 19 And he said to him: Arise, go thy way; for thy faith hath made thee whole.
-
-### NEW TESTAMENT: Luke, esp 18:35-43
-
+NEW TESTAMENT: Luke, esp 18:35-43
 35 Now it came to pass, when he drew nigh to Jericho, that a certain blind man sat by the way side, begging.
 36 And when he heard the multitude passing by, he asked what this meant.
 37 And they told him, that Jesus of Nazareth was passing by.
@@ -6918,9 +6710,7 @@ NEW TESTAMENT: Matthew, esp, 2:12-13,
 41 Saying: What wilt thou that I do to thee? But he said: Lord, that I may see.
 42 And Jesus said to him: Receive thy sight: thy faith hath made thee whole.
 43 And immediately he saw, and followed him, glorifying God. And all the people, when they saw it, gave praise to God.
-
-### NEW TESTAMENT: John passim
-
+NEW TESTAMENT: John passim
 1 In the beginning was the Word, and the Word was with God, and the Word was God.
 2 The same was in the beginning with God.
 3 All things were made by him: and without him was made nothing that was made.
@@ -7800,9 +7590,7 @@ NEW TESTAMENT: Matthew, esp, 2:12-13,
 23 This saying therefore went abroad among the brethren, that that disciple should not die. And Jesus did not say to him: He should not die; but, So I will have him to remain till I come, what is it to thee?
 24 This is that disciple who giveth testimony of these things, and hath written these things; and we know that his testimony is true.
 25 But there are also many other things which Jesus did; which, if they were written every one, the world itself, I think, would not be able to contain the books that should be written.
-
-### NEW TESTAMENT: John, esp 1:43-2:11
-
+NEW TESTAMENT: John, esp 1:43-2:11
 43 On the following day, he would go forth into Galilee, and he findeth Philip. And Jesus saith to him: Follow me.
 44 Now Philip was of Bethsaida, the city of Andrew and Peter.
 45 Philip findeth Nathanael, and saith to him: We have found him of whom Moses in the law, and the prophets did write, Jesus the son of Joseph of Nazareth.
@@ -7823,25 +7611,17 @@ NEW TESTAMENT: Matthew, esp, 2:12-13,
 9 And when the chief steward had tasted the water made wine, and knew not whence it was, but the waiters knew who had drawn the water; the chief steward calleth the bridegroom,
 10 And saith to him: Every man at first setteth forth good wine, and when men have well drunk, then that which is worse. But thou hast kept the good wine until now.
 11 This beginning of miracles did Jesus in Cana of Galilee; and manifested his glory, and his disciples believed in him.
-
-### NEW TESTAMENT: John, esp 2:18
-
+NEW TESTAMENT: John, esp 2:18
 18 The Jews, therefore, answered, and said to him: What sign dost thou shew unto us, seeing thou dost these things?
-
-### NEW TESTAMENT: John, esp 2:22
-
+NEW TESTAMENT: John, esp 2:22
 22 When therefore he was risen again from the dead, his disciples remembered, that he had said this, and they believed the scripture, and the word that Jesus had said.
-
-### NEW TESTAMENT: John , esp 3:14-18
-
+NEW TESTAMENT: John , esp 3:14-18
 14 And as Moses lifted up the serpent in the desert, so must the Son of man be lifted up:
 15 That whosoever believeth in him, may not perish; but may have life everlasting.
 16 For God so loved the world, as to give his only begotten Son; that whosoever believeth in him, may not perish, but may have life everlasting.
 17 For God sent not his Son into the world, to judge the world, but that the world may be saved by him.
 18 He that believeth in him is not judged. But he that doth not believe, is already judged: because he believeth not in the name of the only begotten Son of God.
-
-### NEW TESTAMENT: John, esp 4:46-54
-
+NEW TESTAMENT: John, esp 4:46-54
 46 He came again therefore into Cana of Galilee, where he made the water wine. And there was a certain ruler, whose son was sick at Capharnaum.
 47 He having heard that Jesus was come from Judea into Galilee, went to him, and prayed him to come down, and heal his son; for he was at the point of death.
 48 Jesus therefore said to him: Unless you see signs and wonders, you believe not.
@@ -7851,17 +7631,11 @@ NEW TESTAMENT: Matthew, esp, 2:12-13,
 52 He asked therefore of them the hour wherein he grew better. And they said to him: Yesterday, at the seventh hour, the fever left him.
 53 The father therefore knew, that it was at the same hour that Jesus said to him, Thy son liveth; and himself believed, and his whole house.
 54 This is again the second miracle that Jesus did, when he was come out of Judea into Galilee.
-
-### NEW TESTAMENT: John, esp 5:36
-
+NEW TESTAMENT: John, esp 5:36
 36 But I have a greater testimony than that of John: for the works which the Father hath given me to perfect; the works themselves, which I do, give testimony of me, that the Father hath sent me.
-
-### NEW TESTAMENT: John, esp 6:30
-
+NEW TESTAMENT: John, esp 6:30
 30 They said therefore to him: What sign therefore dost thou shew, that we may see, and may believe thee? What dost thou work?
-
-### NEW TESTAMENT: John, esp 9:1-41
-
+NEW TESTAMENT: John, esp 9:1-41
 9 And Jesus passing by, saw a man, who was blind from his birth:
 2 And his disciples asked him: Rabbi, who hath sinned, this man, or his parents, that he should be born blind?
 3 Jesus answered: Neither hath this man sinned, nor his parents; but that the works of God should be made manifest in him.
@@ -7903,9 +7677,7 @@ NEW TESTAMENT: Matthew, esp, 2:12-13,
 39 And Jesus said: For judgment I am come into this world; that they who see not, may see; and they who see, may become blind.
 40 And some of the Pharisees, who were with him, heard: and they said unto him: Are we also blind?
 41 Jesus said to them: If you were blind, you should not have sin: but now you say: We see. Your sin remaineth.
-
-### NEW TESTAMENT: John, esp 11:1-48
-
+NEW TESTAMENT: John, esp 11:1-48
 11 Now there was a certain man sick, named Lazarus, of Bethania, of the town of Mary and Martha her sister.
 2 (And Mary was she that anointed the Lord with ointment, and wiped his feet with her hair: whose brother Lazarus was sick.)
 3 His sisters therefore sent to him, saying: Lord, behold, he whom thou lovest is sick.
@@ -7954,23 +7726,17 @@ NEW TESTAMENT: Matthew, esp, 2:12-13,
 46 But some of them went to the Pharisees, and told them the things that Jesus had done.
 47 The chief priests therefore, and the Pharisees, gathered a council, and said: What do we, for this man doth many miracles?
 48 If we let him alone so, all will believe in him; and the Romans will come, and take away our place and nation.
-
-### NEW TESTAMENT: John, esp 12:27-30
-
+NEW TESTAMENT: John, esp 12:27-30
 27 Now is my soul troubled. And what shall I say? Father, save me from this hour. But for this cause I came unto this hour.
 28 Father, glorify thy name. A voice therefore came from heaven: I have both glorified it, and will glorify it again.
 29 The multitude therefore that stood and heard, said that it thundered. Others said: An angel spoke to him.
 30 Jesus answered, and said: This voice came not because of me, but for your sakes.
-
-### NEW TESTAMENT: John, esp 12:37-40
-
+NEW TESTAMENT: John, esp 12:37-40
 37 And whereas he had done so many miracles before them, they believed not in him:
 38 That the saying of Isaias the prophet might be fulfilled, which he said: Lord, who hath believed our hearing? and to whom hath the arm of the Lord been revealed?
 39 Therefore they could not believe, because Isaias said again:
 40 He hath blinded their eyes, and hardened their heart, that they should not see with their eyes, nor understand with their heart, and be converted, and I should heal them.
-
-### NEW TESTAMENT: John, esp 20:1-9
-
+NEW TESTAMENT: John, esp 20:1-9
 20 And on the first day of the week, Mary Magdalen cometh early, when it was yet dark, unto the sepulchre; and she saw the stone taken away from the sepulchre.
 2 She ran, therefore, and cometh to Simon Peter, and to the other disciple whom Jesus loved, and saith to them: They have taken away the Lord out of the sepulchre, and we know not where they have laid him.
 3 Peter therefore went out, and that other disciple, and they came to the sepulchre.
@@ -7980,9 +7746,7 @@ NEW TESTAMENT: Matthew, esp, 2:12-13,
 7 And the napkin that had been about his head, not lying with the linen cloths, but apart, wrapped up into one place.
 8 Then that other disciple also went in, who came first to the sepulchre: and he saw, and believed.
 9 For as yet they knew not the scripture, that he must rise again from the dead.
-
-### NEW TESTAMENT: Acts passim
-
+NEW TESTAMENT: Acts passim
 1 The former treatise I made, O Theophilus, of all things which Jesus began to do and to teach,
 2 Until the day on which, giving commandments by the Holy Ghost to the apostles whom he had chosen, he was taken up.
 3 To whom also he shewed himself alive after his passion, by many proofs, for forty days appearing to them, and speaking of the kingdom of God.
@@ -8983,9 +8747,7 @@ NEW TESTAMENT: Matthew, esp, 2:12-13,
 25 And when they agreed not among themselves, they departed, Paul speaking this one word: Well did the Holy Ghost speak to our fathers by Isaias the prophet,
 26 Saying: Go to this people, and say to them: With the ear you shall hear, and shall not understand; and seeing you shall see, and shall not perceive.
 27 For the heart of this people is grown gross, and with their ears have they heard heavily, and their eyes they have shut; lest perhaps they should see with their eyes, and hear with their ears, and understand with their heart, and should be converted, and I should heal them.
-
-### NEW TESTAMENT: Acts, esp 2:1-24
-
+NEW TESTAMENT: Acts, esp 2:1-24
 2 And when the days of the Pentecost were accomplished, they were all together in one place:
 2 And suddenly there came a sound from heaven, as of a mighty wind coming, and it filled the whole house where they were sitting.
 3 And there appeared to them parted tongues as it were of fire, and it sat upon every one of them:
@@ -9010,9 +8772,7 @@ NEW TESTAMENT: Matthew, esp, 2:12-13,
 22 Ye men of Israel, hear these words: Jesus of Nazareth, a man approved of God among you, by miracles, and wonders, and signs, which God did by him, in the midst of you, as you also know:
 23 This same being delivered up, by the determinate counsel and foreknowledge of God, you by the hands of wicked men have crucified and slain.
 24 Whom God hath raised up, having loosed the sorrows of hell, as it was impossible that he should be holden by it.
-
-### NEW TESTAMENT: Acts, esp 3:2-11
-
+NEW TESTAMENT: Acts, esp 3:2-11
 2 And a certain man who was lame from his mother's womb, was carried: whom they laid every day at the gate of the temple, which is called Beautiful, that he might ask alms of them that went into the temple.
 3 He, when he had seen Peter and John about to go into the temple, asked to receive an alms.
 4 But Peter with John fastening his eyes upon him, said: Look upon us.
@@ -9023,9 +8783,7 @@ NEW TESTAMENT: Matthew, esp, 2:12-13,
 9 And all the people saw him walking and praising God.
 10 And they knew him, that it was he who sat begging alms at the Beautiful gate of the temple: and they were filled with wonder and amazement at that which had happened to him.
 11 And as he held Peter and John, all the people ran to them to the porch which is called Solomon's, greatly wondering.
-
-### NEW TESTAMENT: Acts, esp 5:15-24
-
+NEW TESTAMENT: Acts, esp 5:15-24
 15 Insomuch that they brought forth the sick into the streets, and laid them on beds and couches, that when Peter came, his shadow at the least, might overshadow any of them, and they might be delivered from their infirmities.
 16 And there came also together to Jerusalem a multitude out of the neighbouring cities, bringing sick persons, and such as were troubled with unclean spirits; who were all healed.
 17 Then the high priest rising up, and all they that were with him, (which is the heresy of the Sadducees,) were filled with envy.
@@ -9036,33 +8794,23 @@ NEW TESTAMENT: Matthew, esp, 2:12-13,
 22 But when the ministers came, and opening the prison, found them not there, they returned and told,
 23 Saying: The prison indeed we found shut with all diligence, and the keepers standing before the doors; but opening it, we found no man within.
 24 Now when the officer of the temple and the chief priests heard these words, they were in doubt concerning them, what would come to pass.
-
-### NEW TESTAMENT: Acts, esp 7:55-56
-
+NEW TESTAMENT: Acts, esp 7:55-56
 55 But he, being full of the Holy Ghost, looking up steadfastly to heaven, saw the glory of God, and Jesus standing on the right hand of God. And he said: Behold, I see the heavens opened, and the Son of man standing on the right hand of God.
 56 And they crying out with a loud voice, stopped their ears, and with one accord ran violently upon him.
-
-### NEW TESTAMENT: Acts, esp 8:6-8
-
+NEW TESTAMENT: Acts, esp 8:6-8
 6 And the people with one accord were attentive to those things which were said by Philip, hearing, and seeing the miracles which he did.
 7 For many of them who had unclean spirits, crying with a loud voice, went out.
 8 And many, taken with the palsy, and that were lame, were healed.
-
-### NEW TESTAMENT: Acts, esp 8:13
-
+NEW TESTAMENT: Acts, esp 8:13
 13 Then Simon himself believed also; and being baptized, he adhered to Philip. And being astonished, wondered to see the signs and exceeding great miracles which were done.
-
-### NEW TESTAMENT: Acts, esp 9:3-8
-
+NEW TESTAMENT: Acts, esp 9:3-8
 3 And as he went on his journey, it came to pass that he drew nigh to Damascus; and suddenly a light from heaven shined round about him.
 4 And falling on the ground, he heard a voice saying to him: Saul, Saul, why persecutest thou me?
 5 Who said: Who art thou, Lord? And he: I am Jesus whom thou persecutest. It is hard for thee to kick against the goad.
 6 And he trembling and astonished, said: Lord, what wilt thou have me to do?
 7 And the Lord said to him: Arise, and go into the city, and there it shall be told thee what thou must do. Now the men who went in company with him, stood amazed, hearing indeed a voice, but seeing no man.
 8 And Saul arose from the ground; and when his eyes were opened, he saw nothing. But they leading him by the hands, brought him to Damascus.
-
-### NEW TESTAMENT: Acts, esp 9:33-42
-
+NEW TESTAMENT: Acts, esp 9:33-42
 33 And he found there a certain man named Eneas, who had kept his bed for eight years, who was ill of the palsy.
 34 And Peter said to him: Eneas, the Lord Jesus Christ healeth thee: arise, and make thy bed. And immediately he arose.
 35 And all that dwelt at Lydda and Saron, saw him: who were converted to the Lord.
@@ -9073,9 +8821,7 @@ NEW TESTAMENT: Matthew, esp, 2:12-13,
 40 And they all being put forth, Peter kneeling down prayed, and turning to the body, he said: Tabitha, arise. And she opened her eyes; and seeing Peter, she sat up.
 41 And giving her his hand, he lifted her up. And when he had called the saints and the widows, he presented her alive.
 42 And it was made known throughout all Joppe; and many believed in the Lord.
-
-### NEW TESTAMENT: Acts, esp 10:1-48
-
+NEW TESTAMENT: Acts, esp 10:1-48
 10 And there was a certain man in Caesarea, named Cornelius, a centurion of that which is called the Italian band;
 2 A religious man, and fearing God with all his house, giving much alms to the people, and always praying to God.
 3 This man saw in a vision manifestly, about the ninth hour of the day, an angel of God coming in unto him, and saying to him: Cornelius.
@@ -9124,29 +8870,21 @@ NEW TESTAMENT: Matthew, esp, 2:12-13,
 46 For they heard them speaking with tongues, and magnifying God.
 47 Then Peter answered: Can any man forbid water, that these should not be baptized, who have received the Holy Ghost, as well as we?
 48 And he commanded them to be baptized in the name of the Lord Jesus Christ. Then they desired him to tarry with them some days.
-
-### NEW TESTAMENT: Acts, esp 13:9-12
-
+NEW TESTAMENT: Acts, esp 13:9-12
 9 Then Saul, otherwise Paul, filled with the Holy Ghost, looking upon him,
 10 Said: O full of all guile, and of all deceit, child of the devil, enemy of all justice, thou ceasest not to pervert the right ways of the Lord.
 11 And now behold, the hand of the Lord is upon thee, and thou shalt be blind, not seeing the sun for a time. And immediately there fell a mist and darkness upon him, and going about, he sought some one to lead him by the hand.
 12 Then the proconsul, when he had seen what was done, believed, admiring at the doctrine of the Lord.
-
-### NEW TESTAMENT: Acts, esp 14:7-10
-
+NEW TESTAMENT: Acts, esp 14:7-10
 7 And there sat a certain man at Lystra, impotent in his feet, a cripple from his mother's womb, who never had walked.
 8 This same heard Paul speaking. Who looking upon him, and seeing that he had faith to be healed,
 9 Said with a loud voice: Stand upright on thy feet. And he leaped up, and walked.
 10 And when the multitudes had seen what Paul had done, they lifted up their voice in the Lycaonian tongue, saying: The gods are come down to us in the likeness of men;
-
-### NEW TESTAMENT: Acts, esp 18:9-11
-
+NEW TESTAMENT: Acts, esp 18:9-11
 9 And the Lord said to Paul in the night, by a vision: Do not fear, but speak; and hold not thy peace,
 10 Because I am with thee: and no man shall set upon thee, to hurt thee; for I have much people in this city.
 11 And he stayed there a year and six months, teaching among them the word of God.
-
-### NEW TESTAMENT: Acts, esp 19:11-20
-
+NEW TESTAMENT: Acts, esp 19:11-20
 11 And God wrought by the hand of Paul more than common miracles.
 12 So that even there were brought from his body to the sick, handkerchiefs and aprons, and the diseases departed from them, and the wicked spirits went out of them.
 13 Now some also of the Jewish exorcists who went about, attempted to invoke over them that had evil spirits, the name of the Lord Jesus, saying: I conjure you by Jesus, whom Paul preacheth.
@@ -9157,16 +8895,12 @@ NEW TESTAMENT: Matthew, esp, 2:12-13,
 18 And many of them that believed, came confessing and declaring their deeds.
 19 And many of them who had followed curious arts, brought together their books, and burnt them before all; and counting the price of them, they found the money to be fifty thousand pieces of silver.
 20 So mightily grew the word of God, and was confirmed.
-
-### NEW TESTAMENT: Acts, esp 20:9-12
-
+NEW TESTAMENT: Acts, esp 20:9-12
 9 And a certain young man named Eutychus, sitting on the window, being oppressed with a deep sleep, (as Paul was long preaching,) by occasion of his sleep fell from the third loft down, and was taken up dead.
 10 To whom, when Paul had gone down, he laid himself upon him, and embracing him, said: Be not troubled, for his soul is in him.
 11 Then going up, and breaking bread and tasting, and having talked a long time to them, until daylight, so he departed.
 12 And they brought the youth alive, and were not a little comforted.
-
-### NEW TESTAMENT: Acts, esp 28:3-10
-
+NEW TESTAMENT: Acts, esp 28:3-10
 3 And when Paul had gathered together a bundle of sticks, and had laid them on the fire, a viper coming out of the heat, fastened on his hand.
 4 And when the barbarians saw the beast hanging on his hand, they said one to another: Undoubtedly this man is a murderer, who though he hath escaped the sea, yet vengeance doth not suffer him to live.
 5 And he indeed shaking off the beast into the fire, suffered no harm.
@@ -9175,20 +8909,14 @@ NEW TESTAMENT: Matthew, esp, 2:12-13,
 8 And it happened that the father of Publius lay sick of a fever, and of a bloody flux. To whom Paul entered in; and when he had prayed, and laid his hands on him, he healed him.
 9 Which being done, all that had diseases in the island, came and were healed:
 10 Who also honoured us with many honours, and when we were to set sail, they laded us with such things as were necessary.
-
-### NEW TESTAMENT: I Corinthians, 1:22-24
-
+NEW TESTAMENT: I Corinthians, 1:22-24
 22 For both the Jews require signs, and the Greeks seek after wisdom:
 23 But we preach Christ crucified, unto the Jews indeed a stumblingblock, and unto the Gentiles foolishness:
 24 But unto them that are called, both Jews and Greeks, Christ the power of God, and the wisdom of God.
-
-### NEW TESTAMENT: Hebrews, 2:3-4
-
+NEW TESTAMENT: Hebrews, 2:3-4
 3 How shall we escape if we neglect so great salvation? which having begun to be declared by the Lord, was confirmed unto us by them that heard him.
 4 God also bearing them witness by signs, and wonders, and divers miracles, and distributions of the Holy Ghost, according to his own will.
-
-### NEW TESTAMENT: Revelation
-
+NEW TESTAMENT: Revelation
 1 The Revelation of Jesus Christ, which God gave unto him, to make known to his servants the things which must shortly come to pass: and signified, sending by his angel to his servant John,
 2 Who hath given testimony to the word of God, and the testimony of Jesus Christ, what things soever he hath seen.
 3 Blessed is he, that readeth and heareth the words of this prophecy; and keepeth those things which are written in it; for the time is at hand.
@@ -9606,9 +9334,7 @@ NEW TESTAMENT: Matthew, esp, 2:12-13,
 [75] "Achilles, loved of heaven, you bid me tell you about the anger of King Apollo, I will therefore do so; but consider first and swear that you will stand by me heartily in word and deed, for I know that I shall offend one who rules the Argives with might, and to whom all the Achaeans are in subjection. A plain man cannot stand against the anger of a king, who if he swallow his displeasure now, will vet nurse revenge till he has wreaked it. Consider, therefore, whether or no you will protect me."
 [84] And Achilles answered, "Fear not, but speak as it is borne in upon you from heaven, for by Apollo, Calchas, to whom you pray, and whose oracles you reveal to us, not a Danaan at our ships shall lay his hand upon you, while I yet live to look upon the face of the earth—no, not though you name Agamemnon himself, who is by far the foremost of the Achaeans."
 [91] Thereon the seer spoke boldly. "The god," he said, "is angry neither about vow nor hecatomb, but for his priest's sake, whom Agamemnon has dishonoured, in that he would not free his daughter nor take a ransom for her; therefore has he sent these evils upon us, and will yet send others. He will not deliver the Danaans from this pestilence till Agamemnon has restored the girl without fee or ransom to her father, and has sent a holy hecatomb to Chryse. Thus we may perhaps appease him."
-
-### 4 HOMER: Iliad, BK II [1-83]10a-d
-
+4 HOMER: Iliad, BK II [1-83]10a-d
 NOW the other gods and the armed warriors on the plain slept soundly, but Jove was wakeful, for he was thinking how to do honour to Achilles, and destroy much people at the ships of the Achaeans. In the end he deemed it would be best to send a King dream to King Agamemnon; so he called one to him and said to it, "Lying Dream, go to the ships of the Achaeans, into the tent of Agamemnon, and say to him word for word as I now bid you. Tell him to get the Achaeans instantly under arms, for he shall take Troy. There are no longer divided counsels among the gods; Juno has brought them to her own mind, and woe betides the Trojans."
 [16] The dream went when it had heard its message, and soon reached the ships of the Achaeans. It sought Agamemnon son of Atreus and found him in his tent, wrapped in a profound slumber. It hovered over his head in the likeness of Nestor, son of Neleus, whom Agamemnon honoured above all his councillors, and said: —
 [23] "You are sleeping, son of Atreus; one who has the welfare of his host and so much other care upon his shoulders should dock his sleep. Hear me at once, for I come as a messenger from Jove, who, though he be not near, yet takes thought for you and pities you. He bids you get the Achaeans instantly under arms, for you shall take Troy. There are no longer divided counsels among the gods; Juno has brought them over to her own mind, and woe betides the Trojans at the hands of Jove. Remember this, and when you wake see that it does not escape you."
@@ -9616,9 +9342,7 @@ NOW the other gods and the armed warriors on the plain slept soundly, but Jove w
 [48] The goddess Dawn now wended her way to vast Olympus that she might herald day to Jove and to the other immortals, and Agamemnon sent the criers round to call the people in assembly; so they called them and the people gathered thereon. But first he summoned a meeting of the elders at the ship of Nestor king of Pylos, and when they were assembled he laid a cunning counsel before them.
 [56] "My friends," said he, "I have had a dream from heaven in the dead of night, and its face and figure resembled none but Nestor's. It hovered over my head and said, 'You are sleeping, son of Atreus; one who has the welfare of his host and so much other care upon his shoulders should dock his sleep. Hear me at once, for I am a messenger from Jove, who, though he be not near, yet takes thought for you and pities you. He bids you get the Achaeans instantly under arms, for you shall take Troy. There are no longer divided counsels among the gods; Juno has brought them over to her own mind, and woe betides the Trojans at the hands of Jove. Remember this.' The dream then vanished and I awoke. Let us now, therefore, arm the sons of the Achaeans. But it will be well that I should first sound them, and to this end I will tell them to fly with their ships; but do you others go about among the host and prevent their doing so."
 [76] He then sat down, and Nestor the prince of Pylos with all sincerity and goodwill addressed them thus: "My friends," said he, "princes and councillors of the Argives, if any other man of the Achaeans had told us of this dream we should have declared it false, and would have had nothing to do with it. But he who has seen it is the foremost man among us; we must therefore set about getting the people under arms."
-
-### 4 HOMER: Iliad, BK II [301-332]13a-b
-
+4 HOMER: Iliad, BK II [301-332]13a-b
 [301] "All who have not since perished must remember as though it were yesterday or the day before, how the ships of the Achaeans were detained in Aulis when we were on our way hither to make war on Priam and the Trojans. We were ranged round about a fountain offering hecatombs to the gods upon their holy altars, and there was a fine plane-tree from beneath which there welled a stream of pure water. Then we saw a prodigy; for Jove sent a fearful serpent out of the ground, with blood-red stains upon its back, and it darted from under the altar on to the plane-tree. Now there was a brood of young sparrows, quite small, upon the topmost bough, peeping out from under the leaves, eight in all, and their mother that hatched them made nine. The serpent ate the poor cheeping things, while the old bird flew about lamenting her little ones; but the serpent threw his coils about her and caught her by the wing as she was screaming. Then, when he had eaten both the sparrow and her young, the god who had sent him made him become a sign; for the son of scheming Saturn turned him into stone, and we stood there wondering at that which had come to pass. Seeing, then, that such a fearful portent had broken in upon our hecatombs, Calchas forthwith declared to us the oracles of heaven. 'Why, Achaeans,' said he, 'are you thus speechless? Jove has sent us this sign, long in coming, and long ere it be fulfilled, though its fame shall last for ever. As the serpent ate the eight fledglings and the sparrow that hatched them, which makes nine, so shall we fight nine years at Troy, but in the tenth shall take the town.' This was what he said, and now it is all coming true. Stay here, therefore, all of you, till we take the city of Priam."
 4 HOMER: Iliad, BK VIII [167-183] 52d-53a
 [167] The son of Tydeus was in two minds whether or no to turn his horses round again and fight him. Thrice did he doubt, and thrice did Jove thunder from the heights of Ida in token to the Trojans that he would turn the battle in their favour. Hector then shouted to them and said, "Trojans, Lycians, and Dardanians, lovers of close fighting, be men, my friends, and fight with might and with main; I see that Jove is minded to vouchsafe victory and great glory to myself, while he will deal destruction upon the Danaans. Fools, for having thought of building this weak and worthless wall. It shall not stay my fury; my horses will spring lightly over their trench, and when I am at their ships forget not to bring me fire that I may burn them, while I slaughter the Argives who will be all dazed and bewildered by the smoke."
@@ -9661,23 +9385,17 @@ NOW the other gods and the armed warriors on the plain slept soundly, but Jove w
 
 ## 5 AESCHYLUS: Persians [176-230]17a-c / Seven Against Thebes [24-29] 27b / Prometheus Bound [484-499] 45a; [645-668] 46d-47a / Agamemnon [104-159] 53a-d / Choephoroe [514-552] 75a-c
 
-
-### 5 AESCHYLUS: Persians [176-230]17a-c
-
+5 AESCHYLUS: Persians [176-230]17a-c
 Ch. Be sure of this, Queen of this land of ours,
 There never was nor ever can be need
 To ask us twice for help by word or deed,
-
-### So far as ripe experience empowers
-
+So far as ripe experience empowers
 Leal hearts to proffer guidance: in our breast
 There is no thought save how to serve thee best.
 At. I am much conversant with dreams at night
 Since with his army my dear son is gone
 To ravage and lay waste Ionia,
-
-### But nothing yet so startlingly distinct
-
+But nothing yet so startlingly distinct
 As yesternight, as you shall forthwith hear.
 For there appeared to me in bright apparel
 Two women; one with Persian robes adorned,
@@ -9701,25 +9419,17 @@ Even Darius, sorry for his fall.
 This is the vision I beheld last night.
 But when I rose and in fair-flowing stream
 Had washed my hands, so cleansed for sacrifice
-
-### I stood before an altar, purposing
-
+I stood before an altar, purposing
 To make my offering of the elements
-
-### To the Divine Forfenders, whose indeed
-
+To the Divine Forfenders, whose indeed
 The office is. And, lo, an eagle fled
 To Phoebus' burning brazier! Good my friends,
 When I saw that I was struck dumb with fear.
 And presently a falcon flew at him,
 Beat him about the body with its wings,
 And with its claws his proud crest-feathers plucked.
-
-### And strange—and passing strange—the eagle
-
-
-### quailed
-
+And strange—and passing strange—the eagle
+quailed
 Nor dared at all retaliate. What I saw
 Filled me with dread and will affright your ears.
 Well do ye know that if our son succeed
@@ -9734,9 +9444,7 @@ If shapes of ugly seeming haunt thine eye.
 Beseech them to deliver thee from ill,
 And for thyself, thy children and the State
 And all thou lovest good things to fulfil.
-
-### This done, with drink-offerings propitiate
-
+This done, with drink-offerings propitiate
 Earth and the dead; and then entreat thy spouse,
 
 ### Darius, whom thou say'st that yesternight
@@ -9744,37 +9452,25 @@ Earth and the dead; and then entreat thy spouse,
 Thou did'st behold, for thee and for thy house
 Up from the underworld into the light
 To send good luck, and adverse things blindfold
-
-### Muffle in nether darkness. Not untaught
-
+Muffle in nether darkness. Not untaught
 By my prophetic soul have I made bold
 To speak, convinced so best may good be sought.
 5 AESCHYLUS: Seven Against Thebes [24-29] 27b
 The kindly soil, to us large welcome gave;
 The careful nurture of our nonage bare,
-
-### And bred us to be denizens-at-arms
-
+And bred us to be denizens-at-arms
 And trusty targeteers in this her need.
 And, to this day, in God's just equipoise,
-
-### To us-ward shifts the moving balance-hand;
-
+To us-ward shifts the moving balance-hand;
 For, long time shut within these bastioned walls,
-
-### 5 AESCHYLUS: Prometheus Bound [484-499] 45a;
-
+5 AESCHYLUS: Prometheus Bound [484-499] 45a;
 I staked the winding path of divination
 And was the first distinguisher of dreams,
 The true from false; and voices ominous
-
-### Of meaning dark interpreted; and tokens
-
+Of meaning dark interpreted; and tokens
 Seen when men take the road ; and augury
 By flight of all the greater crook-clawed birds
-
-### With nice discrimination I defined;
-
+With nice discrimination I defined;
 These by their nature fair and favourable,
 Those, flattered with fair name. And of each sort
 The habits I described; their mutual feuds
@@ -9784,9 +9480,7 @@ What colour is acceptable to the Gods,
 The well-streaked liver-lobe and gall-bladder.
 Also by roasting limbs well wrapped in fat
 And the long chine, I led men on the road
-
-### 5 AESCHYLUS: Prometheus Bound [645-668] 46d-47a
-
+5 AESCHYLUS: Prometheus Bound [645-668] 46d-47a
 How fitly to refuse; and at your wish
 All ye desire to know I will in plain,
 Round terms set forth. And yet the telling of it
@@ -9804,9 +9498,7 @@ Why, pretty, here is Zeus as hot as hot
 
 Love-sick— to have thee! Such a bolt as thou
 Hast shot clean through his heart! And he won't
-
-### rest
-
+rest
 Till Cypris help him win thee! Lift not then,
 My daughter, a proud foot to spurn the bed
 Of Zeus: but get thee gone to meadow deep
@@ -9828,27 +9520,17 @@ Must be put out from home and country, forced
 To be a wanderer at the ends of the earth,
 A thing devote and dedicate; and if
 I would not, there should fall a thunderbolt
-
-### 5 AESCHYLUS: Agamemnon [104-159] 53a-d
-
-
-### Now am I minstrel and master
-
-
-### Of music to chant the Lay
-
+5 AESCHYLUS: Agamemnon [104-159] 53a-d
+Now am I minstrel and master
+Of music to chant the Lay
 Of the Token, the Mighty Wonder,
 That met them on their way,
 These two kings ripe in manhood.
 I am old, but in me bloweth strong
-
-### The wind of God, the rapture
-
+The wind of God, the rapture
 That girds me with valiance for song.
 Tell then, my tongue, of the omen
-
-### That sped 'gainst the Teucrian land
-
+That sped 'gainst the Teucrian land
 The Achaeans' twit-hroned chieftains,
 With spear and vengeful hand.
 Lords of the Youth of Hellas,
@@ -9862,41 +9544,21 @@ Lit on the spear-hand side.
 A hare their meat, all quick with young,
 Ta'en, her last doublings o'er.
 Be Sorrow, Sorrow's burden sung.
-
-### But crown Joy conqueror!
-
-
-### Thereat the wise war-prophet
-
-
-### Right well applied his art;
-
-
-### Knowing the sons of Atreus
-
+But crown Joy conqueror!
+Thereat the wise war-prophet
+Right well applied his art;
+Knowing the sons of Atreus
 Were men of diverse heart,
 In the pair that devoured the trembler
-
-### He read by his deep lore
-
-
-### A symbol of the royal twain
-
+He read by his deep lore
+A symbol of the royal twain
 That led the host to war.
 And thus he spake: "Long leaguer,
-
-### But Priam's city shall fall
-
-
-### At last, her cattle and commons
-
-
-### Butchered without her wall;
-
+But Priam's city shall fall
+At last, her cattle and commons
+Butchered without her wall;
 Come there from Heaven no wrath-cloud's lower
-
-### To dull with dark alloy
-
+To dull with dark alloy
 The mighty bit that's forged with power,
 The host that bridles Troy.
 For wrung with ruth is Artemis,
@@ -9906,35 +9568,19 @@ That shed the trembler's blood,
 Poor doe, that limped with wombed young:
 That meat she doth abhor.
 Be Sorrow, Sorrow's burden sung,
-
-### But crown Joy conqueror!
-
+But crown Joy conqueror!
 Fair One, as thy love can bless
-
-### Little whelps as weak as dew
-
-
-### Of the ravening lioness;
-
-
-### And at breast all beastlings small
-
-
-### Shield through forests virginal;
-
+Little whelps as weak as dew
+Of the ravening lioness;
+And at breast all beastlings small
+Shield through forests virginal;
 Winged weird that fair doth show,
 And yet darkly worketh woe,
-
-### To some happy end ensue!
-
+To some happy end ensue!
 And, O Healer, hear my prayer,
-
-### Lest in wrath the Goddess rouse
-
+Lest in wrath the Goddess rouse
 Baffling winds that will not change,
-
-### All the Danaan fleet laid by;
-
+All the Danaan fleet laid by;
 Speeding that unlawful, strange,
 Unfestal feast, that rite accursed,
 Of a quarrel inly nursed,
@@ -9943,13 +9589,9 @@ The abhorred artificer.
 
 ### For, behold, within the house
 
-
-### Coiled and fanged Conspiracy
-
+Coiled and fanged Conspiracy
 Turns to strike with forked tongue,
-
-### Mindful of her murdered young."
-
+Mindful of her murdered young."
 So thundered the voice of Calchas,
 From birds with doom in their wings,
 Encountered by the marching host,
@@ -9957,49 +9599,31 @@ Telling the Fate of Kings.
 Tuned to the prophet's bodeful tongue,
 Let your song sink and soar.
 Be Sorrow, Sorrow's burden sung,
-
-### But crown Joy conqueror!
-
-
-### 5 AESCHYLUS: Choephoroe [514-552] 75a-c
-
+But crown Joy conqueror!
+5 AESCHYLUS: Choephoroe [514-552] 75a-c
 Or. So shall it be; 'tis nothing from my course
 To ask the meaning of these cups, and why
 Her after-scruple tends a cureless sorrow.
 Is Death a simpleton that she dares make
 Such poor amends? What shall I think of these
-
-### Sorry bestowals for her huge offence?
-
+Sorry bestowals for her huge offence?
 Why, if a man should lavish all he has
 For one least drop of blood, 'twere labour lost.
 I prithee, if thou can'st, enlighten me.
 Ch. Son, I was there; she was so shook with
-
-### dreams
-
+dreams
 And terrors of the night, her wicked heart
 So scared, she tremblingly despatched these cups.
-
-### Or. Told she her dream ?
-
-
-### Ch. Shedid;"Methought"
-
-
-### she cried
-
-
-### "I was delivered of a viper!"
-
+Or. Told she her dream ?
+Ch. Shedid;"Methought"
+she cried
+"I was delivered of a viper!"
 Or. Well,
 Finish thy story.
 Ch. Then, as 'twere a child,
 She hushed and wrapped it up in cradle-clothes.
 Or. And what meat craved the dragon-worm
-
-### new hatched ?
-
+new hatched ?
 Ch. She gave it her own breast, ay, in her dream.
 Or. Did she so? Then I warrant her paps are sore.
 Ch. It milked her, and sucked out the curded
@@ -10031,17 +9655,13 @@ Which shall be actors here and who look on.
 
 ## 5 SOPHOCLES: Oedipus the King [976-986]108b / Oedipus at Colonus [1447-1666] 127b-129b / Antigone [988-1097] 139c-140c / Electra [404-515]159b-160a
 
-
-### 5 SOPHOCLES: Oedipus the King [976-986]108b
-
+5 SOPHOCLES: Oedipus the King [976-986]108b
 Io. Nay, did I not so foretell to thee long since ?
 Oed. Thou didst: but I was misled by my fear.
 Io. Now no more lay aught of those things to
 heart.
 Oed. But surelv I must needs fear mv mother's
-
-### bed?
-
+bed?
 Io. Nay, what should mortal fear, for whom the
 decrees of fortune are supreme, and who hath clear
 foresight of nothing? 'Tis best to live at random, as
@@ -10056,65 +9676,47 @@ Io. Howbeit thy father's death is a great sign to
 cheer us.
 5 SOPHOCLES: Oedipus at Colonus [1447-1666] 127b-129b
 Ch. Behold, new ills have newly come, in our hearing,
-
-### from the sightless stranger—ills fraught with
-
+from the sightless stranger—ills fraught with
 a heavy doom; unless, perchance, Fate is finding its
 goal. For 'tis not mine to say that a decree of Heaven
 is ever vain: watchful, aye watchful of those decrees
 is Time, overthrowing some fortunes, and on the
 morrow lifting others, again, to honour. Hark that
 sound in the sky! Zeus defend us!
-
-### (Thunder is heard.)
-
+(Thunder is heard.)
 Oed. My children, my children! If there be any
 man to send, would that some one would fetch hither
-
-### the peerless Theseus!
-
+the peerless Theseus!
 An. And what, father, is the aim of thy summons ?
 Oed. This winged thunder of Zeus will lead me
 anon to Hades: nay, send, and tarry not.
-
-### (A second peal is heard?)
-
+(A second peal is heard?)
 Ch. Hark! With louder noise it crashes down, unutterable,
 hurled by Zeus! The hair of my head
 stands up for fear, my soul is sore dismayed; for
 again the lightning flashes in the sky. Oh, to what
 event will it give birth? I am afraid, for never in
 vain doth it rush forth, or without grave issue. O
-
-### thou dread sky! O Zeus!
-
+thou dread sky! O Zeus!
 Oed. Daughters, his destined end hath come upon
 your sire; he can turn his face from it no more.
 An. How knowest thou ? What sign hath told thee
-
-### this?
-
+this?
 Oed. I know it well. But let some one go, I pray
 you, with all speed, and bring hither the lord of this
 realm.
-
-### (Another peal?)
-
+(Another peal?)
 Ch. Ha! Listen! Once again that piercing thundervoice
 is around us! Be merciful, O thou god, be
 merciful, if thou art bringing aught of gloom for the
 land our mother! Gracious may I find thee, nor, because
 I have looked on a man accurst, have some
 meed, not of blessing for my portion! O Zeus our
-
-### lord, to thee I cry!
-
+lord, to thee I cry!
 Oed. Is the man near ? Will he find me still alive,
 children, and master of my mind ?
 An. And what is the pledge which thou wouldst
-
-### have fixed in thy mind ?
-
+have fixed in thy mind ?
 Oed. In return for his benefits, I would duly give
 him the requital promised when I received them.
 Ch. What ho, my son, hither, come hither! Or if
@@ -10137,9 +9739,7 @@ Oed. King, welcome is thy presence; and 'tis some
 god that hath made for thee the good fortune of
 this coming.
 Th. And what new thing hath now befallen, son
-
-### of Laius ?
-
+of Laius ?
 Oed. My life hangs in the scale : and I fain would
 die guiltless of bad faith to thee and to this city, in
 respect of my pledges.
@@ -10147,9 +9747,7 @@ Th. And what sign of thy fate holds thee in suspense?
 Oed. The gods, their own heralds, bring me the
 tidings, with no failure in the signs appointed of old.
 Th. What sayest thou are the signs of these things,
-
-### old man ?
-
+old man ?
 Oed. The thunder, peal on peal, the lightning,
 flash on flash, hurled from the unconquered hand.
 Th. Thou winnest my belief, for in much I find
@@ -10184,9 +9782,7 @@ But to that place—for the divine summons urges
 me—let us now set forth, and hesitate no more. (As
 if suddenly inspired, he moves with slow butfirm steps
 towards the left of the scene, beckoning the others onward.)
-
-### My children, follow me—thus—for I now
-
+My children, follow me—thus—for I now
 have in strange wise been made your guide, as ye
 were your sire's. On—touch me not—nay, suffer
 me unaided to find out that sacred tomb where 'tis
@@ -10200,9 +9796,7 @@ Truest of friends! blessed be thou, and this land,
 and thy lieges; and, when your days are blest, think
 on me the dead, for your welfare evermore.
 He passes from the stage on the spectators' left,
-
-### followed by his daughters, theseus, and
-
+followed by his daughters, theseus, and
 attendants.
 Ch. If with prayer I may adore the Unseen Goddess,
 and thee, lord of the children of night, O hear
@@ -10216,17 +9810,13 @@ Goddesses Infernal! And thou, dread form of the
 unconquered hound, thou who hast thy lair in those
 gates of many guests, thou untameable Watcher of
 Hell, gnarling from the cavern's jaws, as rumour
-
-### from the beginning tells of thee!
-
+from the beginning tells of thee!
 Hear me, O Death, son of Earth and Tartarus!
 May that Watcher leave a clear path for the stranger
 on his way to the nether fields of the dead! To thee
 I call, giver of the eternal sleep.
 Enter a messenger, from the left.
-
-### Messenger. Countrymen, my tidings might most
-
+Messenger. Countrymen, my tidings might most
 shortly be summed thus: Oedipus is gone. But the
 story of the hap may not be told in brief words, as
 the deeds yonder were not briefly done.
@@ -10266,9 +9856,7 @@ burden of tending me, no light one, well I know,
 my children; yet one little word makes all those
 toils as nought; love had ye from me, as from none
 beside; and now ye shall have me with you no more,
-
-### through all your days to come."
-
+through all your days to come."
 On such wise, close-clinging to each other, sire
 and daughters sobbed and wept. But when they had
 made an end of wailing, and the sound went up no
@@ -10277,9 +9865,7 @@ one who cried aloud to him, so that the hair of all
 stood up on their heads for sudden fear, and they
 were afraid. For the god called him with many callings
 and manifold: "Oedipus, Oedipus, why delay we
-
-### to go? Thou tarriest too long."
-
+to go? Thou tarriest too long."
 But when he perceived that he was called of the
 god, he craved that the king Theseus should draw
 near; and when he came near, said: "O my friend,
@@ -10297,9 +9883,7 @@ heart, and depart from this place, nor ask to behold
 unlawful sights, or to hear such speech as may not
 be heard. Nay, go with all haste; only let Theseus
 be present, as is his right, a witness of those things
-
-### which are to be."
-
+which are to be."
 So spake he, and we all heard; and with streaming
 tears and with lamentation we followed the
 maidens away. But when we had gone apart, after
@@ -10323,9 +9907,7 @@ belief, who count me foolish.
 Ch. And where are the maidens, and their escort ?
 Me. Not far hence; for the sounds of mourning
 tell plainly that they approach.
-
-### 5 SOPHOCLES: Antigone [988-1097] 139c-140c
-
+5 SOPHOCLES: Antigone [988-1097] 139c-140c
 Enter teiresias, led by a Boy, on the spectators' right.
 Teiresias. Princes of Thebes, we have come with
 linked steps, both served by the eyes of one; for
@@ -10401,9 +9983,7 @@ Te. But thou dost, in saying that I prophesy falsely.
 Cr. Well, the prophet- tribe was ever fond ofmoney.
 Te. And the race bred of tyrants loves base gain.
 Cr. Knowest thou that thy speech is spoken of
-
-### thy king?
-
+thy king?
 Te. I know it; for through me thou hast saved
 Thebes.
 Cr. Thou art a wise seer; but thou lovest evil deeds.
@@ -10452,32 +10032,22 @@ Ch. Son of Menoeceus, it behoves thee to take
 wise counsel.
 Cr. What should I do, then? Speak, and I will
 obey.
-
-### 5 SOPHOCLES: Electra [404-515]159b-160a
-
+5 SOPHOCLES: Electra [404-515]159b-160a
 Chr. Then I will go forth upon mine errand.
 El. And whither goest thou? To whom bearest
-
-### thou these offerings ?
-
+thou these offerings ?
 Chr. Our mother sends me with funeral libations
 for our sire.
 El. How sayest thou ? For her deadliest foe ?
 Chr. Slain by her own hand—so thou wouldest say.
 El. What friend hath persuaded her? Whose wish
-
-### was this ?
-
+was this ?
 Chr. The cause, I think, was some dread vision of
 the night.
 El. Gods of our house! be ye with me—now at
-
-### bst!
-
+bst!
 Chr. Dost thou find any encouragement in this
-
-### terror ?
-
+terror ?
 El. If thou wouldst tell me the vision, then I could
 answer.
 Chr. Nay, I can tell but little of the story.
@@ -10612,79 +10182,53 @@ And whene'er you of omen or augury speak,
 A Rumour's a bird, and a sneeze is a bird,
 and so is a word or a meeting,
 A servant's a bird, and an ass is a bird.
-
-### It must therefore assuredly follow
-
+It must therefore assuredly follow
 That the Birds are to you (I protest it is true)
 your prophetic divining Apollo.
 (5. Symbolism in theology and religion. 5b. Supernatural signs: omens, portents, visitations, dreams, miracles.)
 
 ## 6 HERODOTUS: History, BK I, 4d; 8a-b; 12b-d; 17a-b; 18b; 20d-21a; 38a-b; 39c-40a; BK II, 60d-61b; 79a-c; 83b-c; 86c-87a; BK III, 90d- 91a; 95d; 116a-b; BK IV, 124d-125a; 126d-127a; 135b-c; 138a-b; 150b-d; 154c-d; 155b-c; BK V, 170c-d; 176c-d; 183d-184a; BK VI, 190c-d; 200d-201a; 204b-c; 208b; BK VII, 219a-c; 238d-239a; BK VIII, 266b-d; 267a; 270c-271a; 283d; BK IX, 289d-290a; 302c; 309d-310a; 313d-314a
 
-
-### 6 HERODOTUS: History, BK I, 4d
-
+6 HERODOTUS: History, BK I, 4d
 19. It was in the twelfth year of the war that the following mischance occurred from the firing of the harvest-fields. Scarcely had the corn been set alight by the soldiers when a violent wind carried the flames against the temple of Minerva Assesia, which caught fire and was burnt to the ground. At the time no one made any account of the circumstance; but afterwards, on the return of the army to Sardis, Alyattes fell sick. His illness continued, whereupon, either advised thereto by some friend, or perchance himself conceiving the idea, he sent messengers to Delphi to inquire of the god concerning his malady. On their arrival the Pythoness declared that no answer should be given them until they had rebuilt the temple of Minerva, burnt by the Lydians at Assesus in Milesia.
 20. Thus much I know from information given me by the Delphians; the remainder of the story the Milesians add. The answer made by the oracle came to the ears of Periander, son of Cypselus, who was a very close friend to Thrasybulus, tyrant of Miletus at that period. He instantly despatched a messenger to report the oracle to him, in or der that Thrasybulus, forewarned of its tenor, might the better adapt his measures to the posture of affairs.
-
-### 6 HERODOTUS: History, BK I, 8a-b
-
+6 HERODOTUS: History, BK I, 8a-b
 33. Such was the speech which Solon addressed to Crcesus, a speech which brought him neither largess nor honour. The king saw him depart with much indifference, since he thought that a man must be an arrant fool who made no account of present good, but bade men always wait and mark the end.
 34. After Solon had gone away a dreadful vengeance, sent of God, came upon Crcesus, to punish him, it is likely, for deeming himself the happiest of men. First he had a dream in the night, which foreshowed him truly the evils that were about to befall him in the person of his son. For Crcesus had two sons, one blasted by a natural defect, being deaf and dumb; the other, distinguished far above all his co-mates in every pursuit. The name of the last was Atys. It was this son concerning whom he dreamt a dream that he would die by the blow of an iron weapon. When he woke, he considered earnestly with himself, and, greatly alarmed at the dream, instantly made his son take a wife, and whereas in former years the youth had been wont to command the Lydian forces in the field, he now would not suffer him to accompany them. All the spears and javelins, and weapons used in the wars, he removed out of the male apartments, and laid them in heaps in the chambers of the women, fearing lest perhaps one of the weapons that hung against the wall might fall and strike him.
 35. Now it chanced that while he was making arrangements for the wedding, there came to Sardis a man under a misfortune, who had upon him the stain of blood. He was by race a Phrygian, and belonged to the family of the king. Presenting himself at the palace of Crcesus, he prayed to be admitted to purification according to the customs of the country. Now the Lydian method of purifying is very nearly the same as the Greek. Crcesus granted the request, and went through all the customary rites, after which he asked the suppliant of his birth and country, addressing him as follows: — "Who art thou, stranger, and from what part of Phrygia fleddest thou to take refuge at my hearth? And whom, moreover, what man or what woman, hast thou slain?" ‘’Oh! king,’’ replied the Phrygian, "I am the son of Gordias, son of Midas. I am named Adrastus. The man I unintentionally slew was my own brother.
-
-### 6 HERODOTUS: History, BK I, 12b-d
-
+6 HERODOTUS: History, BK I, 12b-d
 58. The Hellenic race has never, since its first origin, changed its speech. This at least seems evident to me. It was a branch of the Pelasgic, which separated from the main body, and at first was scanty in numbers and of little power; but it gradually spread and increased to a multitude of nations, chiefly by the voluntary entrance into its ranks of numerous tribes of barbarians. The Pelasgi, on the other hand, were, as I think, a barbarian race which never greatly multiplied.
 59. On inquiring into the condition of these two nations, Croesus found that one, the Athenian, was in a state of grievous oppression and distraction under Pisistratus, the son of Hippocrates, who was at that time tyrant of Athens. Hippocrates, when he was a private citizen, is said to have gone once upon a time to Olympia to see the Games, when a wonderful prodigy happened to him. As he was employed in sacrificing, the cauldrons which stood near, full of water and of the flesh of the victims, began to boil without the help of fire, so that the water overflowed the pots. Chilon the Lacedaemonian, who happened to be there and to witness the prodigy, advised Hippocrates, if he were unmarried, never to take into his house a wife who could bear him a child; if he already had one, to send her back to her friends; if he had a son, to disown him. Chilon's advice did not at all please Hippocrates, who disregarded it, and some time after became the father of Pisistratus. This Pisistratus, at a time when there was civil contention in Attica between the party of the Sea-coast headed by Megacles the son of Alcmaeon, and that of the Plain headed by Lycurgus, one of the Aristolaϊds, formed the project of making himself tyrant, and with this view created a third party. Gathering together a band of partisans, and giving himself out for the protector of the Highlanders, he contrived the following stratagem. He wounded himself and his mules, and then drove his chariot into the market-place, professing to have just escaped an attack of his enemies, who had attempted his life as he was on his way into the country. He besought the people to assign him a guard to protect his person, reminding them of the glory which he had gained when he led the attack upon the Megarians, and took the town of Nisaea, at the same time performing many other exploits. The Athenians, deceived by his story, appointed him a band of citizens to serve as a guard, who were to carry clubs instead of spears, and to accompany him wherever he went. Thus strengthened, Pisistratus broke into revolt and seized the citadel. In this way he acquired the sovereignty of Athens, which he continued to hold without disturbing the previously existing offices or altering any of the laws. He administered the state according to the established usages, and his arrangements were wise and salutary.
-
-### 6 HERODOTUS: History, BK I, 17a-b
-
+6 HERODOTUS: History, BK I, 17a-b
 74. Afterwards, on the refusal of Alyattes to give up his suppliants when Cyaxares sent to demand them of him, war broke out between the Lydians and the Medes, and continued for five years, with various success. In the course of it the Medes gained many victories over the Lydians, and the Lydians also gained many victories over the Medes. Among their other battles there was one night engagement. As, however, the balance had not inclined in favour of either nation, another combat took place in the sixth year, in the course of which, just as the battle was growing warm, day was on a sudden charged into night. This event had been foretold by Thales, the Milesian, who forewarned the Ionians of it, fixing for it the very year in which it actually took place. The Medes and Lydians, when they observed the change, ceased fighting, and were alike anxious to have terms of peace agreed on. Syennesis of Cilicia, and Labynetus of Babylon, were the persons who mediated between the parties, who hastened the taking of the oaths, and brought about the exchange of espousals. It was they who advised that Alyattes should give his daughter Aryenis in marriage to Astyages, the son of Cyaxares, knowing, as they did, that without some sure bond of strong necessity, there is wont to be but little security in men's covenants. Oaths are taken by these people in the same way as by the Greeks, except that they make a slight flesh wound in their arms, from which each sucks a portion of the other's blood.
-
-### 6 HERODOTUS: History, BK I, 18b
-
+6 HERODOTUS: History, BK I, 18b
 78. While Croesus was still in this mind, all the suburbs of Sardis were found to swarm with snakes, on the appearance of which the horses left feeding in the pasture-grounds, and flocked to the suburbs to eat them. The king, who witnessed the unusual sight, regarded it very rightly as a prodigy. He therefore instantly sent messengers to the soothsayers of Telmessus, to consult them upon the matter. His messengers reached the city, and obtained from the Telmessians an explanation of what the prodigy portended, but fate did not allow them to inform their lord; for ere they entered Sardis on their return, Croesus was a prisoner. What the Telmessians had declared was that Croesus must look for the entry of an army of foreign invaders into his country, and that when they came they would subdue the native inhabitants; since the snake, said they, is a child of earth, and the horse a warrior and a foreigner. Croesus was already a prisoner when the Telmessians thus answered his inquiry, but they had no knowledge of what was taking place at Sardis, or of the fate of the monarch.
-
-### 6 HERODOTUS: History, BK I, 20d-21a
-
+6 HERODOTUS: History, BK I, 20d-21a
 87. Then, the Lydians say that Croesus, perceiving by the efforts made to quench the fire that Cyrus had relented, and seeing also that all was in vain, and that the men could not get the fire under, called with a loud voice upon the god Apollo, and prayed him, if he ever received at his hands any acceptable gift, to come to his aid, and deliver him from his present danger. As thus with tears he besought the god, suddenly, though up to that time the sky had been clear and the day without a breath of wind, dark clouds gathered, and the storm burst over their heads with rain of such violence, that the flames were speedily extinguished. Cyrus, convinced by this that Croesus was a good man and a favourite of heaven, asked him after he was taken off the pile, "Who it was that had persuaded him to lead an army into his country, and so become his foe rather than continue his friend?" to which Croesus made answer as follows: "What I did, oh! king, was to thy advantage and to my own loss. If there be blame, it rests with the god of the Greeks, who encouraged me to begin the war. No one is so foolish as to prefer war to peace, in which, instead of sons burying their fathers, fathers bury their sons. But the gods willed it so."
 88. Thus did Croesus speak. Cyrus then ordered his fetters to be taken off, and made him sit down near himself, and paid him much respect, looking upon him, as did also the courtiers, with a sort of wonder. Croesus, wrapped in thought, uttered no word. After a while, happening to turn and perceive the Persian soldiers engaged in plundering the town, he said to Cyrus, "May I now tell thee, oh! king, what I have in my mind, or is silence best?" Cyrus bade him speak his mind boldly. Then he put this question: "What is it, oh! Cyrus, which those men yonder are doing so busily?" "Plundering thy city," Cyrus answered, "and carrying off thy riches." "Not my city," rejoined the other, "nor my riches. They are not mine any more. It is thy wealth which they are pillaging."
-
-### 6 HERODOTUS: History, BK I, 38a-b
-
+6 HERODOTUS: History, BK I, 38a-b
 167. The Carthaginians and Tyrrhenians, who had got into their hands many more than the Phocaeans from among the crews of the forty vessels that were destroyed, landed their captives upon the coast after the fight, and stoned them all to death. Afterwards, when sheep, or oxen, or even men of the district of Agylla passed by the spot where the murdered Phocaeans lay, their bodies became distorted, or they were seized with palsy, or they lost the use of some of their limbs. On this the people of Agylla sent to Delphi to ask the oracle how they might expiate their sin. The answer of the Pythoness required them to institute the custom, which they still observe, of honouring the dead Phocaeans with magnificent funeral rites, and solemn games, both gymnic and equestrian. Such, then, was the fate that befell the Phocaean prisoners. The other Phocaeans, who had fled to Rhegium, became after a while the founders of the city called Vela, in the district of CEnotria. This city they colonised, upon the showing of a man of Posidonia, who suggested that the oracle had not meant to bid them set up a town in Cyrnus the island, but set up the worship of Cyrnus the hero.
 168. Thus fared it with the men of the city of Phocaea in Ionia. They of Teos did and suffered almost the same; for they too, when Harpagus had raised his mound to the height of their defences, took ship, one and all, and sailing across the sea to Thrace, founded there the city of Abdera. The site was one which Timesius of Clazomenae had previously tried to colonise, but without any lasting success, for he was expelled by the Thracians. Still the Teians of Abdera worship him to this day as a hero.
 169. Of all the Ionians these two states alone, rather than submit to slavery, forsook their fatherland. The others (I except Miletus) resisted Harpagus no less bravely than those who fled their country, and performed many feats of arms, each fighting in their own defence, but one after another they suffered defeat; the cities were taken, and the inhabitants submitted, remaining in their respective countries, and obeying the behests of their new lords. Miletus, as I have already mentioned, had made terms with Cyrus, and so continued at peace. Thus was continental Ionia once more reduced to servitude; and when the Ionians of the islands saw their brethren upon the mainland subjugated, they also, dreading the like, gave themselves up to Cyrus.
-
-### 6 HERODOTUS: History, BK I, 39c-40a
-
+6 HERODOTUS: History, BK I, 39c-40a
 174. Of these nations, the Carians submitted to Harpagus without performing any brilliant exploits. Nor did the Greeks who dwelt in Caria behave with any greater gallantry. Among them were the Cnidians, colonists from Lacedaemon, who occupy a district facing the sea, which is called Triopium. This region adjoins upon the Bybassian Chersonese; and, except a very small space, is surrounded by the sea, being bounded on the north by the Ceramic Gulf, and on the south by the channel towards the islands of Syme and Rhodes. While Harpagus was engaged in the conquest of Ionia, the Cnidians, wishing to make their country an island, attempted to cut through this narrow neck of land, which was no more than five furlongs across from sea to sea. Their whole territory lay inside the isthmus; for where Cnidia ends towards the mainland, the isthmus begins which they were now seeking to cut through. The work had been commenced, and many hands were employed upon it, when it was observed that there seemed to be something unusual and unnatural in the number of wounds that the workmen received, especially about their eyes, from the splintering of the rock. The Cnidians, therefore, sent to Delphi, to inquire what it was that hindered their efforts; and received, according to their own account, the following answer from the oracle: —
 Fence not the isthmus off, nor dig it through— love would have made an island, had he wished.
 So the Cnidians ceased digging, and when Harpagus advanced with his army, they gave themselves up to him without striking a blow.
 175. Above Halicarnassus, and further from the coast, were the Pedasians. With this people, when any evil is about to befall either themselves or their neighbours, the priestess of Minerva grows an ample beard. Three times has this marvel happened. They alone, of all thedwellers in Caria, resisted Harpagus for a while, and gave him much trouble, maintaining themselves in a certain mountain called Lida, which they had fortified; but in course of time they also were forced to submit.
-
-### 6 HERODOTUS: History, BK II, 60d-61b
-
+6 HERODOTUS: History, BK II, 60d-61b
 54. The following tale is commonly told in Egypt concerning the oracle of Dodona in Greece, and that of Ammon in Libya. My informants on the point were the priests of Jupiter at Thebes. They said "that two of the sacred women were once carried off from Thebes by the Phoenicians, and that the story went that one of them was sold into Libya, and the other into Greece, and these women were the first founders of the oracles in the two countries." On my inquiring how they came to know so exactly what became of the women, they answered, "that diligent search had been made after them at the time, but that it had not been found possible to discover where they were; afterwards, however, they received the information which they had given me.”
 55. This was what I heard from the priests at Thebes; at Dodona, however, the women who deliver the oracles relate the matter as follows:—"Two black doves flew away from Egyptian Thebes, and while one directed its flight to Libya, the other came to them. She alighted on an oak, and sitting there began to speak with a human voice, and told them that on the spot where she was, there should henceforth be an oracle of Jove. They understood the announcement to be from heaven, so they set to work at once and erected the shrine. The dove which flew to Libya bade the Libyans to establish there the oracle of Ammon." This likewise is an oracle of Jupiter. The persons from whom I received these particulars were three priestesses of the Dodonaeans, the eldest Promeneia, the next Timarete, and the youngest Nicandra—what they said was confirmed by the other Dodonaeans who dwell around the temple.
 56. My own opinion of these matters is as follows:—I think that, if it be true that the Phoenicians carried off the holy women, and sold them for slaves, the one into Libya and the other into Greece, or Pelasgia (as it was then called), this last must have been sold to the Thesprotians. Afterwards, while undergoing servitude in those parts, she built under a real oak a temple to Jupiter, her thoughts in her new abode reverting—as it was likely they would do, if she had been an attendant in a temple of Jupiter at Thebes—to that particular god. Then, having acquired a knowledge of the Greek tongue, she set up an oracle. She also mentioned that her sister had been sold for a slave into Libya by the same persons as herself.
 57. The Dodonaeans called the women doves because they were foreigners, and seemed to them to make a noise like birds. After a while the dove spoke with a human voice, because the woman, whose foreign talk had previously sounded to them like the chattering of a bird, acquired the power of speaking what they could understand. For how can it be conceived possible that a dove should really speak with the voice of a man? Lastly, by calling the dove black the Dodonaeans indicated that the woman was an Egyptian. And certainly the character of the oracles at Thebes and Dodona is very similar. Besides this form of divination, the Greeks learnt also divination by means of victims from the Egyptians.
-
-### 6 HERODOTUS: History, BK II, 79a-c
-
+6 HERODOTUS: History, BK II, 79a-c
 141. The next king, I was told, was a priest of Vulcan, called Sethos. This monarch despised and neglected the warrior class of the Egyptians, as though he did not need their services. Among other indignities which he offered them, he took from them the lands which they had possessed under all the previous kings, consisting of twelve acres of choice land for each warrior. Afterwards, therefore, when Sanacharib, king of the Arabians¹ and Assyrians, marched his vast army into Egypt, the warriors one and all refused to come to his aid. On this the monarch, greatly distressed, entered into the inner sanctuary, and, before the image of the god, bewailed the fate which impended over him. As he wept he fell asleep, and dreamed that the god came and stood at his side, bidding him be of good cheer, and go boldly forth to meet the Arabian host, which would do him no hurt, as he himself would send those who should help him. Sethos, then, relying on the dream, collected such of the Egyptians as were willing to follow him, who were none of them warriors, but traders, artisans, and market people; and with these marched to Pelusium, which commands the entrance into Egypt, and there pitched his camp. As the two armies lay here opposite one another, there came in the night, a multitude of field-mice, which devoured all the quivers and bowstrings of the enemy, and ate the thongs by which they managed their shields. Next morning they commenced their fight, and great multitudes fell, as they had no arms
 ¹It is curious to find Sennacherib called the "king of the Arabians and Assyrians"—an order of words which seems even to regard him as rather an Arabian than an Assyrian king. In the same spirit his army is termed afterwards "the Arabian host." It is impossible altogether to defend the view which Herodotus here discloses, but we may understand how such a mistake was possible, if we remember how Arabians were mixed up with other races in Lower Mesopotamia and what an extensive influence a great Assyrian king would exercise over the tribes of the desert, especially those bordering on Mesopotamia.
 with which to defend themselves. There stands to this day in the temple of Vulcan, a stone statue of Sethos, with a mouse in his hand, and an inscription to this effect—"Look on me, and learn to reverence the gods."
 142. Thus far I have spoken on the authority of the Egyptians and their priests. They declare that from their first king to this last-mentioned monarch, the priest of Vulcan, was a period of three hundred and forty-one generations; such, at least, they say, was the number both of their kings, and of their high-priests, during this interval. Now three hundred generations of men make ten thousand years, three generations filling up the century; and the remaining forty-one generations make thirteen hundred and forty years. Thus the whole number of years is eleven thousand, three hundred and forty; in which entire space, they said, no god had ever appeared in a human form; nothing of this kind had happened either under the former or under the later Egyptian kings. The sun, however, had within this period of time, on four several occasions, moved from his wonted course, twice rising where he now sets, and twice setting where he now rises. Egypt was in no degree affected by these changes; the productions of the land, and of the river, remained the same; nor was there anything unusual either in the diseases or the deaths.
-
-### 6 HERODOTUS: History, BK II, 83b-c
-
+6 HERODOTUS: History, BK II, 83b-c
 158. Psammetichus left a son called Necos, who succeeded him upon the throne. This prince was the first to attempt the construction of the canal to the Red Sea—a work completed afterwards by Darius the Persian—the length of which is four days' journey, and the width such as to admit of two triremes being rowed along it abreast. The water is derived from the Nile, which the canal leaves a little above the city of Bubastis, near Patumus, the Arabian town, being continued thence until it joins the Red Sea. At first it is carried along the Arabian side of the Egyptian plain, as far as the chain! of hills opposite Memphis, whereby the plain is bounded, and in which lie the great stone quarries; here it skirts the base of the hills running in a direction from west to east, after which it turns and enters a narrow pass, trending southwards from this point until it enters the Arabian Gulf. From the northern sea to that which is called the southern or Erythraean, the shortest and quickest passage, which is from Mount Casius, the boundary between Egypt and Syria, to the Gulf of Arabia, is a distance of exactly one thousand furlongs. But the way by the canal is very much longer on account of the crookedness of its course. A hundred and twenty thousand of the Egyptians, employed upon the work in the reign of Necos, lost their lives in making the excavation. He at length desisted from his undertaking, in consequence of an oracle which warned him "that he was labouring for the barbarian." The Egyptians call by the name of barbarians all such as speak a language different from their own.
 159. Necos, when he gave up the construction of the canal, turned all his thoughts to war, and set to work to build a fleet of triremes, some intended for service in the northern sea, and some for the navigation of the Erythraean. These last were built in the Arabian Gulf where the dry docks in which they lay are still visible. These fleets he employed wherever he had occasion, while he also made war by land upon the Syrians and defeated them in a pitched battle at Magdolus, after which he made himself master of Cadytis, a large city of Syria. The dress which he wore on these occasions he sent to Branchidae in Milesia, as an offering to Apollo. After having reigned in all sixteen years, Necos died, and at his death bequeathed the throne to his son Psammis.
-
-### 6 HERODOTUS: History, BK II, 86c-87a
-
+6 HERODOTUS: History, BK II, 86c-87a
 174. It is said that Amasis, even while he was a private man, had the same tastes for drinking and jesting, and was averse to engaging in any serious employment. He lived in constant feasts and revelries, and whenever his means failed him, he roamed about and robbed people. On such occasions the persons from whom he had stolen would bring him, if he denied the charge, before the nearest oracle; sometimes the oracle would pronounce him guilty of the theft, at other times it would acquit him. When afterwards he came to be king, he neglected the temples of such gods as had declared that he was not a thief, and neither contributed to their adornment nor frequented them for sacrifice, since he regarded them as utterly worthless and their oracles as wholly false: but the gods who had detected his guilt he considered to be true gods whose oracles did not deceive, and these he honoured exceedingly.
 175. First of all, therefore, he built the gateway of the temple of Minerva at Sais, which is an astonishing work, far surpassing all other buildings of the same kind both in extent and height, and built with stones of rare size and excellency. In the next place, he presented to the temple a number of large colossal statues and several prodigious andro-sphinxes, besides certain stones for the repairs, of a most extraordinary size. Some of these he got from the quarries over against Memphis, but the largest were brought from Elephantine, which is twenty days' voyage from Sais. Of all these wonderful masses that which I most admire is a chamber made of a single stone, which was quarried at Elephantine. It took three years to convey this block from the quarry to Sais; and in the conveyance were employed no fewer than two thousand labourers, who were all from the class of boatmen. The length of this chamber on the outside is twenty-one cubits, its breadth fourteen cubits, and its height, eight. The measurements inside are the following: — the length, eighteen cubits and five-sixths; the breadth, twelve cubits; and the height, five. It lies near the entrance of the temple, where it was left in consequence of the following circumstance:— it happened that the architect, just as the stone had reached the spot where it now stands, heaved a sigh, considering the length of time that the removal had taken, and feeling wearied with the heavy toil. The sigh was heard by Amasis who, regarding it as an omen, would not allow the chamber to be moved forward any farther. Some, however, say that one of the workmen engaged at the levers was crushed and killed by the mass, and that this was the reason of its being left where it now stands.
 176. To the other temples of much note Amasis also made magnificent offerings—at Memphis, for instance, he gave the recumbent colossus in front of the temple of Vulcan, which is seventy-five feet long. Two other colossal statues stand on the same base, each twenty feet high, carved in the stone of Ethiopia, one on either side of the temple. There is also a stone colossus of the same size at Sais, recumbent like that at Memphis. Amasis finally built the temple of Isis at Memphis, a vast structure, well worth seeing.
@@ -10693,58 +10237,38 @@ with which to defend themselves. There stands to this day in the temple of Vulca
 9. When, therefore, the Arabian had pledged his faith to the messengers of Cambyses, he straightway contrived as follows:—he filled a number of camels' skins with water, and loading therewith all the live camels that he possessed, drove them into the desert, and awaited the coming of the army. This is the more likely of the two tales that are told. The other is an improbable story, but, as it is related, I think that I ought not to pass it by. There is a great river in Arabia, called the Corys, which empties itself into the Erythraean sea. The Arabian king, they say, made a pipe of the skins of oxen and other beasts, reaching from this river all the way to the desert, and so brought the water to certain cisterns which he had had dug in the desert to receive it. It is a twelve days' journey from the river to this desert tract. And the water, they say, was brought through three different pipes to three separate places.
 10. Psammenitus, son of Amasis, lay encamped at the mouth of the Nile, called the Pelusiac, awaiting Cambyses. For Cambyses, when he went up against Egypt, found Amasis no longer in life: he had died after ruling Egypt forty and four years, during all which time no great misfortune had befallen him. When he died, his body was embalmed, and buried in the tomb which he had himself caused to be made in the temple. After his son Psammenitus had mounted the throne, a strange prodigy occurred in Egypt—rain fell at Egyptian Thebes, a thing which never happened before, and which, to the present time, has never happened again, as the Thebans themselves testify. In Upper Egypt it does not usually rain at all; but on this occasion, rain fell at Thebes in small drops.
 11. The Persians crossed the desert, and, pitching their camp close to the Egyptians, made ready for battle. Hereupon the mercenaries in the pay of Psammenitus, who were Greeks and Carians, full of anger against Phanes for having brought a foreign army upon Egypt, bethought themselves of a mode whereby they might be revenged on him. Phanes had left sons in Egypt. The mercenaries took these, and leading them to the camp, displayed them before the eyes of their father; after which they brought out a bowl, and, placing it in the space between the two hosts, they led the sons of Phanes, one by one, to the vessel, and slew them over it. When the last was dead, water and wine were poured into the bowl, and all the soldiers tasted of the blood, and so they went to the battle. Stubborn was the fight which followed, and it was not till vast numbers had been slain upon both sides, that the Egyptians turned and fled.
-
-### 6 HERODOTUS: History, BK III, 95d
-
+6 HERODOTUS: History, BK III, 95d
 30. And now Cambyses, who even before had not been quite in his right mind, was forthwith, as the Egyptians say, smitten with madness for this crime. The first of his outrages was the slaying of Smerdis, his full brother, whom he had sent back to Persia from Egypt out of envy, because he drew the bow brought from the Ethiopians by the Icthyo-phagi (which none of the other Persians were able to bend) the distance of two fingers' breadth. When Smerdis was departed into Persia, Cambyses had a vision in his sleep—he thought a messenger from Persia came to him with tidings that Smerdis sat upon the royal throne and with his head touched the heavens. Fearing therefore for himself, and thinking it likely that his brother would kill him and rule in his stead, Cambyses sent into Persia Prexaspes, whom he trusted beyond all the other Persians, bidding him put Smerdis to death. So this Prexaspes went up to Susa and slew Smerdis. Some say he killed him as they hunted together, others, that he took him down to the Erythraean Sea, and there drowned him.
-
-### 6 HERODOTUS: History, BK III, 116a-b
-
+6 HERODOTUS: History, BK III, 116a-b
 124. On hearing his account, Polycrates, notwithstanding many warnings given him by the soothsayers, and much dissuasion of his friends, made ready to go in person. Even the dream which visited his daughter failed to check him. She had dreamed that she saw her father hanging high in air, washed by Jove, and anointed by the sun. Having therefore thus dreamed, she used every effort to prevent her father from going; even as he went on board his penteconter crying after him with words of evil omen. Then Polycrates threatened her that, if he returned in safety, he would keep her unmarried many years. She answered, "Oh! that he might perform his threat; far better for her to remain long unmarried than to be bereft of her father!"
 125. Polycrates, however, making light of all the counsel offered him, set sail and went to Orcetes. Many friends accompanied him; among the rest, Democedes, the son of Calliphon, a native of Crotona, who was a physician, and the best skilled in his art of all men then living. Polycrates, on his arrival at Magnesia, perished miserably, in a way unworthy of his rank and of his lofty schemes. For, if we except the Syracusans, there has never been one of the Greek tyrants who was to be compared with Polycrates for magnificence. Orcetes, however, slew him in a mode which is not fit to be described, and then hung his dead body upon a cross. His Samian followers Orcetes let go free, bidding them thank him that they were allowed their liberty; the rest, who were in part slaves, in part free foreigners, he alike treated as his slaves by conquest. Then was the dream of the daughter of Polycrates fulfilled; for Polycrates, as he hung upon the cross, and rain fell on him, was washed by Jupiter; and he was anointed by the sun, when his own moisture overspread his body. And so the vast good fortune of Polycrates came at last to the end which Amasis the Egyptian king had prophesied in days gone by.
-
-### 6 HERODOTUS: History, BK IV, 124d-125a
-
+6 HERODOTUS: History, BK IV, 124d-125a
 5. According to the account which the Scythians themselves give, they are the youngest of all nations. Their tradition is as follows. A certain Targitaus was the first man who ever lived in their country, which before his time was a desert without inhabitants. He was a child—I do not believe the tale, but it is told nevertheless—of Jove and a daughter of the Borysthenes. Targitaus, thus descended, begat three sons, Leipoxais, Arpoxais, and Colaxais, who was the youngest born of the three. While they still ruled the land, there fell from the sky tour implements, all of gold—a plough, a yoke, a battle-axe, and a drinking-cup. The eldest of the brothers perceived them first, and approached to pick them up; when lo! as he came near, the gold took fire, and blazed. He therefore went his way, and the second coming forward made the attempt, but the same thing happened again. The gold rejected both the eldest and the second brother. Last of all the youngest brother approached, and immediately the flames were extinguished; so he picked up the gold, and carried it to his home. Then the two elder agreed together, and made the whole kingdom over to the youngest born.
 6. From Leipoxais sprang the Scythians of the race called Auchatae; from Arpoxais, the middle brother, those known as the Catiari and Traspians; from Colaxais, the youngest, the Royal Scythians, or Paralata?. All together they are named Scoloti, after one of their kings: the Greeks, however, call them Scythians.
-
-### 6 HERODOTUS: History, BK IV, 126d-127a
-
+6 HERODOTUS: History, BK IV, 126d-127a
 15. What follows I know to have happened to the Metapontines of Italy, three hundred and forty years¹ after the second disappear-
 ¹This date must certainly be wrong. The date usually assigned to Aristeas is about 580 B.C.
 ance of Aristeas, as I collect by comparing the accounts given me at Proconnesus and Metapontum. Aristeas then, as the Metapontines affirm, appeared to them in their own country, and ordered them to set up an altar in honour of Apollo, and to place near it a statue to be called that of Aristeas the Proconnesian. "Apollo," he told them, "had come to their country once, though he had visited no other Italiots; and he had been with Apollo at the time, not however in his present form, but in the shape of a crow." Having said so much, he vanished. Then the Metapontines, as they relate, sent to Delphi, and inquired of the god in what light they were to regard the appearance of this ghost of a man. The Pythoness, in reply, bade them attend to what the spectre said, "for so it would go best with them." Thus advised, they did as they had been directed: and there is now a statue bearing the name of Aristeas, close by the image of Apollo in the market-place of Metapontum, with bay-trees standing around it. But enough has been said concerning Aristeas.
 16. With regard to the regions which lie above the country whereof this portion of my history treats, there is no one who possesses any exact knowledge. Not a single person can I find who professes to be acquainted with them by actual observation. Even Aristeas, the traveller of whom I lately spoke, does not claim— and he is writing poetry—to have reached any farther than the Issedonians. What he relates concerning the regions beyond is, he confesses, mere hearsay, being the account which the Issedonians gave him of those countries. However, I shall proceed to mention all that I have learnt of these parts by the most exact inquiries which I have been able to make concerning them.
-
-### 6 HERODOTUS: History, BK IV, 135b-c
-
+6 HERODOTUS: History, BK IV, 135b-c
 66. Once a year the governor of each district, at a set place in his own province, mingles a bowl of wine, of which all Scythians have a right to drink by whom foes have been slain; while they who have slain no enemy are not allowed to taste of the bowl, but sit aloof in disgrace. No greater shame than this can happen to them. Such as have slain a very large number of foes, have two cups instead of one, and drink from both.
 67. Scythia has an abundance of soothsayers, who foretell the future by means of a number of willow wands. A large bundle of these wands is brought and laid on the ground. The soothsayer unties the bundle, and places each wand by itself, at the same time uttering his prophecy: then, while he is still speaking, he gathers the rods together again, and makes them up once more into a bundle. This mode of divination is of home growth in Scythia. The Enarees, or woman-like men, have another method, which they say Venus taught them. It is done with the inner bark of the linden-tree. They take a piece of this bark, and, splitting it into three strips, keep twining the strips about their fingers, and untwining them, while they prophesy.
 68. Whenever the Scythian king falls sick, he sends for the three soothsayers of most renown at the time, who come and make trial of their art in the mode above described. Generally they say that the king is ill because such or such a person, mentioning his name, has sworn falsely by the royal hearth. This is the usual oath among the Scythians, when they wish to swear with very great solemnity. Then the man accused of having foresworn himself is arrested and brought before the king. The soothsayers tell him that by their art it is clear he has sworn a false oath by the royal hearth, and so caused the illness of the king—he denies the charge, protests that he has sworn no false oath, and loudly complains of the wrong done to him. Upon this the king sends for six new soothsayers, who try the matter by soothsaying. If they too find the man guilty of the offence, straightway he is beheaded by those who first accused him, and his goods are parted among them: if, on the contrary, they acquit him, other soothsayers, and again others, are sent for, to try the case. Should the greater number decide in favour of the man's innocence, then they who first accused him forfeit their lives.
-
-### 6 HERODOTUS: History, BK IV, 138a-b
-
+6 HERODOTUS: History, BK IV, 138a-b
 79. But when the time came that was ordained to bring him woe, the occasion of his ruin was the following. He wanted to be initiated in the Bacchic mysteries, and was on the point of obtaining admission to the rites, when a most strange prodigy occurred to him. The house which he possessed, as I mentioned a short time back, in the city of the Borysthenites, a building of great extent and erected at a vast cost, round which there stood a number of sphinxes and griffins carved in white marble, was struck by lightning from on high, and burnt to the ground. Scylas, nevertheless, went on and received the initiation. Now the Scythians are wont to reproach the Greeks with their Bacchanal rage, and to say that it is not reasonable to imagine there is a god who impels men to madness. No sooner, therefore, was Scylas initiated in the Bacchic mysteries than one of the Borysthenites went and carried the news to the Scythians—"You Scyths laugh at us," he said, "because we rave when the god seizes us. But now our god has seized upon your king, who raves like us, and is maddened by the influence. If you think I do not tell you true, come with me, and I will show him to you." The chiefs of the Scythians went with the man accordingly, and the Borysthenite, conducting them into the city, placed them secretly on one of the towers. Presently Scylas passed by with the band of revellers, raving like the rest, and was seen by the watchers. Regarding the matter as a very great misfortune they instantly departed, and came and told the army what they had witnessed.
 80. When, therefore, Scylas, after leaving Borysthenes, was about returning home, the Scythians broke out into revolt. They put at their head Octamasadas, grandson (on the mother's side) of Teres. Then Scylas, when he learned the danger with which he was threatened, and the reason of the disturbance, made his escape to Thrace. Octamasadas, discovering whither he had fled, marched after him, and had reached the Ister, when he was met by the forces of the Thracians. The two armies were about to engage, but before they joined battle, Sitalces sent a message to Octamasadas to this effect—"Why should there be trial of arms betwixt thee and me ? Thou art my own sister's son, and thou hast in thy keeping my brother. Surrender him into my hands, and I will give thy Scylas back to thee. So neither thou nor I will risk our armies." Sitalces sent this message to Octamasadas, by a herald, and Octamasadas, with whom a brother of Sitalces had formerly taken refuge, accepted the terms. He surrendered his own uncle to Sitalces, and obtained in exchange his brother Scylas. Sitalces took his brother with him and withdrew; but Octamasadas beheaded Scylas upon the spot. Thus rigidly do the Scythians maintain their own customs, and thus severely do they punish such as adopt foreign usages.
-
-### 6 HERODOTUS: History, BK IV, 150b-d
-
+6 HERODOTUS: History, BK IV, 150b-d
 150. Thus far the history is delivered without variation both by the Theraeans and the Lacedaemonians; but from this point we have only the Theraean narrative. Grinus (they say), the son of AEsanius, a descendant of Theras, and king of the island of Thera, went to Delphi to ofTer a hecatomb on behalf of his native city. He was accompanied by a large number of the citizens, and among the rest by Battus, the son of Polymnestus, who belonged to the Minyan family of the Euphemidae. On Grinus consulting the oracle about sundry matters, the Pythoness gave him for answer, "that he should found a city in Libya." Grinus replied to this: "I, O king! am too far advanced in years, and too inactive, for such a work. Bid one of these youngsters undertake it." As he spoke, he pointed towards Battus; and thus the matter rested for that time. When the embassy returned to Thera, small account was taken of the oracle by the Theraeans, as they were quite ignorant where Libya was, and were not so venturesome as to send out a colony in the dark.
 151. Seven years passed from the utterance of the oracle, and not a drop of rain fell in Thera: all the trees in the island, except one, were killed with the drought. The Theraeans upon this sent to Delphi, and were reminded reproachfully that they had never colonized Libya. So, as there was no help for it, they sent messengers to Crete, to inquire whether any of the Cretans, or of the strangers sojourning among them, had ever travelled as far as Libya: and these messengers of theirs, in their wanderings about the island, among other places visited Itanus, where they fell in with a man, whose name was Corobius, a dealer in purple. In answer to their inquiries, he told them that contrary winds had once carried him to Libya, where he had gone ashore on a certain island which was named Platea. So they hired this man's services, and took him back with them to Thera. A few persons then sailed from Thera to reconnoitre. Guided by Corobius to the island of Platea, they left him there with provisions for a certain number of months, and returned home with all speed to give their countrymen an account of the island.
 152. During their absence, which was prolonged beyond the time that had been agreed upon, Corobius' provisions failed him. He was relieved, however, after a while by a Samian vessel, under the command of a man named Colaeus, which, on its way to Egypt, was forced to put in at Platea. The crew, informed by Corobius of all the circumstances, left him sufficient food for a year. They themselves quitted the island; and, anxious to reach Egypt, made sail in that direction, but were carried out of their course by a gale of wind from the east. The storm not abating, they were driven past the Pillars of Hercules, and at last, by some special guiding providence, reached Tartessus. This trading town was in those days a virgin port, unfrequented by the merchants. The Samians, in consequence, made by the return voyage a profit greater than any Greeks before their day, excepting Sostratus, son of Laodamas, an Eginetan, with whom no one else can compare. From the tenth part of their gains, amounting to six talents, the Samians made a brazen vessel, in shape like an Argive wine bowl, adorned with the heads of griffins standing out in high relief. This bowl, supported by three kneeling colossal figures in bronze, of the height of seven cubits, was placed as an offering in the temple of Juno at Samos. The aid given to Corobius was the original cause of that close friendship which afterwards united the Cyrenaeans and Theraeans with the Samians.
-
-### 6 HERODOTUS: History, BK IV, 154c-d
-
+6 HERODOTUS: History, BK IV, 154c-d
 170. The Asbystae adjoin the Gilligammae upon the west. They inhabit the regions above Cyrene, but do not reach to the coast, which belongs to the Cyrenaeans. Four-horse chariots are in more common use among them than among any other Libyans. In most of their customs they ape the manners of the Cyrenaeans.
 171. Westward of the Asbystae dwell the Auschisae, who possess the country above Barca, reaching, however, to the sea at the place called Euesperides. In the middle of their territory is the little tribe of the Cabalians, which touches the coast near Tauchira, a city of the Barcaeans. Their customs are like those of the Libyans above Cyrene.
 172. The Nasamonians, a numerous people, are the western neighbours of the Auschisae. In summer they leave their flocks and herds upon the sea-shore, and go up the country to a place called Augila, where they gather the dates from the palms, which in those parts grow thickly, and are of great size, all of them being of the fruit-bearing kind. They also chase the locusts, and, when caught, dry them in the sun. after which they grind them to powder, and, sprinkling this upon their milk, so drink it. Each man among them has several wives, in their intercourse with whom they resemble the Massagetae. The following are their customs in the swearing of oaths and the practice of augury. The man, as he swears, lays his hand upon the tomb of some one considered to have been pre-eminently just and good, and so doing swears by his name. For divination they betake themselves to the sepulchres of their own ancestors, and, after praying, lie down to sleep upon their graves; by the dreams which then come to them they guide their conduct. When they pledge their faith to one another, each gives the other to drink out of his hand; if there be no liquid to be had, they take up dust from the ground, and put their tongues to it.
 173. On the country of the Nasamonians borders that of the Psylli, who were swept away under the following circumstances. The south-wind had blown for a long time and dried up all the tanks in which their water was stored. Now the whole region within the Syrtis is utterly devoid of springs. Accordingly the Psylli took counsel among themselves, and by | common consent made war upon the southwind— so at least the Libyans say, I do but re peat their words—they went forth and reached the desert; but there the south-wind rose and buried them under heaps of sand: whereupon, the Psylli being destroyed, their lands passed to the Nasamonians.
-
-### 6 HERODOTUS: History, BK IV, 155b-c
-
+6 HERODOTUS: History, BK IV, 155b-c
 179. The following is the story as it is commonly told. When Jason had finished building the Argo at the foot of Mount Pelion, he took on board the usual hecatomb, and moreover a brazen tripod. Thus equipped, he set sail, intending to coast round the Peloponnese, and so to reach Delphi. The voyage was prosperous as far as Malea; but at that point a gale of wind from the north came on suddenly, and carried him out of his course to the coast of Libya; where, before he discovered the land, he got among the shallows of Lake Tritonis. As he was turning it in his mind how he should find his way out, Triton (they say) appeared to him, and offered to show him the channel, and secure him a safe retreat, if he would give him the tripod. Jason complying, was shown by Triton the passage through the shallows; after which the god took the tripod, and, carrying it to his own temple, seated himself upon it, and, filled with prophetic fury, delivered to Jason and his companions a long prediction. "When a descendant," he said, "of one of the Argo's crew should seize and carry off The brazen tripod, then by inevitable fate would a hundred Grecian cities be built around Lake Tritonis." The Libyans of that region, when they heard the words of this prophecy, took away the tripod and hid it.
-
-### 6 HERODOTUS: History, BK V, 170c-d
-
+6 HERODOTUS: History, BK V, 170c-d
 53. If then the royal road be measured aright, and the parasang equals, as it does, thirty furlongs, the whole distance from Sardis to the palace of Memnon (as it is called), amounting thus to 450 parasangs, would be 13,500 furlongs. Travelling then at the rate of 150 furlongs a day, one will take exactly ninety days to perform the journey.
 54. Thus when Aristagoras the Milesian told Cleomenes the Lacedaemonian that it was a three months' journey from the sea up to the king, he said no more than the truth. The exact distance (if any one desires still greater accuracy) is somewhat more; for the journey from Ephesus to Sardis must be added to the foregoing account; and this will make the whole distance between the Greek Sea and Susa (or the city of Memnon, as it is called) 14,040 furlongs; since Ephesus is distant from Sardis 540 furlongs. This would add three days to the three months' journey.
 55. When Aristagoras left Sparta he hastened to Athens, which had got quit of its tyrants in the way that I will now describe. After the death of Hipparchus (the son of Pisistratus, and brother of the tyrant Hippias), who, in spite of the clear warning he had received concerning his fate in a dream, was slain by Harmodius and Aristogeiton (men both of the race of the Gephyraeans), the oppression of the Athenians continued by the space of four years; and they gained nothing, but were worse used than before.
@@ -10753,93 +10277,61 @@ Bear thou unbearable woes with the all-bearing heart of a lion;
 Never, be sure, shall wrong-doer escape the reward of wrong-doing.
 As soon as day dawned he sent and submitted his dream to the interpreters, after which he offered the averting sacrifices, and then went and led the procession in which he perished.
 57. The family of the Gephyraeans, to which the murderers of Hipparchus belonged, according to their own account, came originally from Eretria. My inquiries, however, have made it clear to me that they are in reality Phoenicians, descendants of those who came with Cadmus into the country now called Bceotia. Here they received for their portion the district of Tanagra, in which they afterwards dwelt. On their expulsion from this country by the Boeotians (which happened some time after that of the Cadmeians from the same parts by the Argives) they took refuge at Athens. The Athenians received them among their citizens upon set terms, whereby they were excluded from a number of privileges which are not worth mentioning.
-
-### 6 HERODOTUS: History, BK V, 176c-d
-
+6 HERODOTUS: History, BK V, 176c-d
 85. After this the Athenians relate that they sent a trireme to Egina with certain citizens on board, and that these men, who bore commission from the state, landed in Egina, and sought to take the images away, considering them to be their own, inasmuch as they were made of their wood. And first they endeavoured to wrench them from their pedestals, and so carry them off; but failing herein, they in the next place tied ropes to them, and set to work to try if they could haul them down. In the midst of their hauling suddenly there was a thunderclap, and with the thunderclap an earthquake; and the crew of the trireme were forthwith seized with madness, and, like enemies, began to kill one another; until at last there was but one left, who returned alone to Phalerum.
 86. Such is the account given by the Athenians. The Eginetans deny that there was only a single vessel:—"Had there been only one," they say, "or no more than a few, they would easily have repulsed the attack, even if they had had no fleet at all; but the Athenians came against them with a large number of ships, wherefore they gave way, and did not hazard a battle." They do not however explain clearly whether it was from a conviction of their own inferiority at sea that they yielded, or whether it was for the purpose of doing that which in fact they did. Their account is that the Athenians, disembarking from their ships, when they found that no resistance was offered, made for the statues, and failing to wrench them from their pedestals, tied ropes to them and began to haul. Then, they say—and some people will perhaps believe them, though I for my part do not—the two statues, as they were being dragged and hauled, fell down both upon their knees; in which attitude they still remain. Such, according to them, was the conduct of the Athenians; they meanwhile, having learnt beforehand what was intended, had prevailed on the Argives to hold themselves in readiness; and the Athenians accordingly were but just landed on their coasts when the Argives came to their aid. Secretly and silently they crossed over from Epidaurus, and, before the Athenians were aware, cut off their retreat to their ships, and fell upon them; and the thunder came exactly at that moment, and the earthquake with it.
-
-### 6 HERODOTUS: History, BK V, 183d-184a
-
+6 HERODOTUS: History, BK V, 183d-184a
 113. In the thick of the fight, Stesanor, tyrant of Curium, who commanded no inconsiderable body of troops, went over with them to the enemy. On this desertion of the Curians —Argive colonists, if report says true—forthwith the war-chariots of the Salaminians followed the example set them, and went over likewise; whereupon victory declared in favour of the Persians; and the army of the Cyprians being routed, vast numbers were slain, and among them Onesilus, the son of Chersis, who was the author of the revolt, and Aristocyprus, king of the Solians. This Aristocyprus was son of Philocyprus, whom Solon the Athenian, when he visited Cyprus, praised in his poems beyond all other sovereigns.
 114. The Amathusians, because Onesilus had kid siege to their town, cut the head off his corpse, and took it with them to Amathus, where it was set up over the gates. Here it hung till it became hollow; whereupon a swarm of bees took possession of it, and filled it with a honeycomb. On seeing this the Amathusians consulted the oracle, and were commanded "to take down the head and bury it, and thenceforth to regard Onesilus as a hero, and offer sacrifice to him year by year; so it would go the better with them." And to this day the Amathusians do as they were then bidden.
 115. As for the Ionians who had gained the sea-fight, when they found that the affairs of Onesilus were utterly lost and ruined, and that siege was laid to all the cities of Cyprus excepting Salamis, which the inhabitants had surrendered to Gorgus, the former king — forthwith they left Cyprus, and sailed away home. Of the cities which were besieged, Soli held out the longest: the Persians took it by undermining the wall in the fifth month from the beginning of the siege.
 116. Thus, after enjoying a year of freedom, the Cyprians were enslaved for the second time. Meanwhile Daurises, who was married to one of the daughters of Darius, together with Hymeas, Otanes, and other Persian captains, who were likewise married to daughters of the king, after pursuing the Ionians who had fought at Sardis, defeating them, and driving them to their ships, divided their efforts against the different cities, and proceeded in succession to take and sack each one of them.
 117. Daurises attacked the towns upon the Hellespont, and took in as many days the five cities of Dardanus, Abydos, Percote, Lampsacus, and Paesus. From Paesus he marched against Parium; but on his way receiving intelligence that the Carians had made common cause with the Ionians, and thrown off the Persian yoke, he turned round, and, leaving the Hellespont, marched away towards Caria.
-
-### 6 HERODOTUS: History, BK VI, 190c-d
-
+6 HERODOTUS: History, BK VI, 190c-d
 27. It mostly happens that there is some warning when great misfortunes are about to befall a state or nation; and so it was in this instance, for the Chians had previously had some strange tokens sent to them. A choir of a hundred of their youths had been despatched to Delphi; and of these only two had returned; the remaining ninety-eight having been carried off by a pestilence. Likewise, about the same time, and very shortly before the seafight, the roof of a school-house had fallen in upon a number of their boys, who were at lessons; and out of a hundred and twenty children there was but one left alive. Such were the signs which God sent to warn them. It was very shortly afterwards that the sea-fight happened, which brought the city down upon its knees; and after the sea-fight came the attack of Histiaeus and his Lesbians, to whom the Chians, weakened as they were, furnished an easy conquest.
 28. Histiaeus now led a numerous army, composed of Ionians and JEolians, against Thasos, and had laid siege to the place when news arrived that the Phoenicians were about to quit Miletus and attack the other cities of Ionia. On hearing this, Histiaeus raised the siege of Thasos, and hastened to Lesbos with all his forces. There his army was in great straits for want of food; whereupon Histiaeus left Lesbos and went across to the mainland, intending to cut the crops which were growing in the Atarnean territory, and likewise in the plain of the Cai'cus, which belonged to Mysia. Now it chanced that a certain Persian named Harpagus was in these regions at the head of an army of no little strength. He, when Histiaeus landed, marched out to meet him, and engaging with his forces destroyed the greater number of them, and took Histiaeus himself prisoner.
-
-### 6 HERODOTUS: History, BK VI, 200d-201a
-
+6 HERODOTUS: History, BK VI, 200d-201a
 81. Cleomenes now sent home the greater part of his army, while with a thousand of his best troops he proceeded to the temple of Juno, to offer sacrifice. When however he would have slain the victim on the altar himself, the priest forbade him, as it was not lawful (he said) for a foreigner to sacrifice in that temple. At this Cleomenes ordered his helots to drag the priest from the altar and scourge him, while he performed the sacrifice himself, after which he went back to Sparta.
 82. Thereupon his enemies brought him up before the Ephors, and made it a charge against him that he had allowed himself to be bribed, and on that account had not taken Argos when he might have captured it easily. To this he answered—whether truly or falsely I cannot say with certainty—but at any rate his answer to the charge was that "so soon as he discovered the sacred precinct which he had taken to belong to Argos, he directly imagined that the oracle had received its accomplishment; he therefore thought it not good to attempt the town, at the least until he had inquired by sacrifice, and ascertained if the god meant to grant him the place, or was determined to oppose his taking it. So he offered in the temple of Juno, and when the omens were propitious, immediately there flashed forth a flame of fire from the breast of the image; whereby he knew of a surety that he was not to take Argos. For if the flash had come from the head, he would have gained the town, citadel and all; but as it shone from the breast, he had done so much as the god intended." And his words seemed to the Spartans so true and reasonable, that he came clear off from his adversaries.
 83. Argos however was left so bare of men that the slaves managed the state, filled the offices, and administered everything until the sons of those who were slain by Cleomenes grew up. Then these latter cast out the slaves, and got the city back under their own rule; while the slaves who had been driven out fought a battle and won Tiryns. After this for a time there was peace between the two; but a certain man, a soothsayer, named Cleander, who was by race a Phigalean from Arcadia, joined himself to the slaves, and stirred them up to make a fresh attack upon their lords. Then were they at war with one another by the space of many years; but at length the Argives with much trouble gained the upper hand.
-
-### 6 HERODOTUS: History, BK VI, 204b-c
-
+6 HERODOTUS: History, BK VI, 204b-c
 98. After this he sailed with his whole host against Eretria, taking with him both Ionians and iEolians. When he was departed, Delos (as the Delians told me) was shaken by an earthquake, the first and last shock that has been felt to this day. And truly this was a prodigy whereby the god warned men of the evils that were coming upon them. For in the three following generations of Darius the son of Hystaspes, Xerxes the son of Darius, and Artaxerxes the son of Xerxes, more woes befell Greece than in the twenty generations preceding Darius—woes caused in part by the Persians, but in part arising from the contentions among their own chief men respecting the supreme power. Wherefore it is not surprising that Delos, though it had never before been shaken, should at that time have felt the shock of an earthquake. And indeed there was an oracle, which said of Delos—
 Delos' self will I shake, which never yet has been shaken.
 Of the above names Darius may be rendered "Worker," Xerxes "Warrior," and Artaxerxes "Great Warrior." And so might we call these kings in our own language with propriety.
 100. Meanwhile the Eretrians, understanding that the Persian armament was coming against them, besought the Athenians for assistance. Nor did the Athenians refuse their aid, but assigned to them as auxiliaries the four thousand landholders to whom they had allotted the estates of the Chalcidean Hippobatae. At Eretria, however, things were in no healthy state; for though they had called in the aid of the Athenians, yet they were not agreed among themselves how they should act; some of them were minded to leave the city and to take refuge in the heights of Euboea, while others, who looked to receiving a reward from the Persians, were making ready to betray their country. So when these things came to the ears of Eschines, the son of Nothon, one of the first men in Eretria, he made known the whole state of affairs to the Athenians who were already arrived, and besought them to return home to their own land, and not perish with his countrymen. And the Athenians hearkened to his counsel, and, crossing over to Oropus, in this way escaped the danger.
-
-### 6 HERODOTUS: History, BK VI, 208b
-
+6 HERODOTUS: History, BK VI, 208b
 118. Datis meanwhile was on his way back to Asia, and had reached Myconus, when he saw in his sleep a vision. What it was is not known; but no sooner was day come than he caused strict search to be made throughout the whole fleet, and finding on board a Phoenician vessel an image of Apollo overlaid with gold, he inquired from whence it had been taken, and learning to what temple it belonged, he took it with him in his own ship to Delos, and placed it in the temple there, enjoining the Delians, who had now come back to their island, to restore the image to the Theban Delium, which lies on the coast over against Chalcis. Having left these injunctions, he sailed away; but the Delians failed to restore the statue; and it was not till twenty years afterwards that the Thebans, warned by an oracle, themselves brought it back to Delium.
-
-### 6 HERODOTUS: History, BK VII, 219a-c
-
+6 HERODOTUS: History, BK VII, 219a-c
 16. Such were the words of Xerxes. Artabanus would not at first yield to the command of the king; for he deemed himself unworthy to sit upon the royal throne. At the last however he was forced to give way, and did as Xerxes bade him; but first he spake thus to the king [§ 1.]:— "To me, sire, it seems to matter little whether a man is wise himself or willing to hearken to such as give good advice. In thee truly are found both tempers; but the counsels of evil men lead thee astray: they are like the gales of wind which vex the sea—else the most useful thing for man in the whole world—and suffer it not to follow the bent of its own nature. For myself, it irked me not so much to be reproached by thee, as to observe that when two courses were placed before the Persian people, one of a nature to increase their pride, the other to humble it, by showing them how hurtful it is to allow one's heart always to covet more than one at present possesses, thou madest choice of that which was the worse both for thyself and for the Persians. (§ 2.) Now thou sayest that from the time when thou didst approve the better course, and give up the thought of warring against Greece, a dream has haunted thee, sent by some god or other, which will not suffer thee to lay aside the expedition. But such things, my son, have of a truth nothing divine in them. The dreams that wander to and fro among mankind, I will tell thee of what nature they are—I who have seen so many more years than thou. Whatever a man has been thinking of during the day is wont to hover round him in the visions of his dreams at night. Now we during these many days past have had our hands full of this enterprise. (§ 3.) If however the matter be not as I suppose, but God has indeed some part therein, thou hast in brief declared the whole that can be said concerning it—let it e'en appear to me as it has to thee, and lay on me the same injunctions. But it ought not to appear to me any the more if I put on thy clothes than if I wear my own, nor if I go to sleep in thy bed than if I do so in mine—supposing, I mean, that it is about to appear at all. For this thing, be it what it may, that visits thee in thy sleep, surely is not so far gone in folly as to see me, and because I am dressed in thy clothes, straightway to mistake me for thee. Now however our business is to see if it will regard me as of small account, and not vouchsafe to appear to me, whether I wear mine own clothes or thine, while it keeps on haunting thee continually. If it does so, and appears often, I should myself say that it was from God. For the rest, if thy mind is fixed, and it is not possible to turn thee from thy design, but I must needs go and sleep in thy bed, well and good, let it be even so; and when I have done as thou wishest, then let the dream appear to me. Till such time, however, I shall keep to my former opinion."
 17. Thus spake Artabanus; and when he had so said, thinking to show Xerxes that his words were nought, he did according to his orders. Having put on the garments which Xerxes was wont to wear and taken his seat upon the royal throne, he lay down to sleep upon the king's own bed. As he slept, there appeared to him the very same dream which had been seen by Xerxes; it came and stood over Artabanus, and said:—
 "Thou art the man, then, who, feigning to be tender of Xerxes, seekest to dissuade him from leading his armies against the Greeks! But thou shalt not escape scathless, either now or in time to come, because thou hast sought to prevent that which is fated to happen. As for Xerxes, it has been plainly told to himself what will befall him, if he refuses to perform my bidding."
-
-### 6 HERODOTUS: History, BK VII, 238d-239a
-
+6 HERODOTUS: History, BK VII, 238d-239a
 137. This conduct on the part of the Spartans caused the anger of Talthybius to cease for a while, notwithstanding that Sperthias and Bulis returned home alive. But many years afterwards it awoke once more, as the Lacedaemonians themselves declare, during the war between the Peloponnesians and the Athenians.
 In my judgment this was a case wherein the hand of Heaven was most plainly manifest. That the wrath of Talthybius should have fallen upon ambassadors and not slacked till it had full vent, so much justice required; but that it should have come upon the sons of the very men who were sent up to the Persian king on its account—upon Nicolaus, the son of Bulis, and Aneristus, the son of Sperthias (the same who carried of! fishermen from Tiryns, when cruising in a well-manned merchant- ship)—this does seem to me to be plainly a supernatural circumstance. Yet certain it is that these two men, having been sent to Asia as ambassadors by the Lacedaemonians, were betrayed by Sitalces, the son of Teres, king of Thrace, and Nymphodorus, the son of Pythes, a native of Abdera, and being made prisoners at Bisanthe, upon the Hellespont, were conveyed to Attica, and there put to death by the Athenians, at the same time as Aristeas, the son of Adeimantus, the Corinthian. All this happened, however, very many years alter the expedition of Xerxes.
 138. To return, however, to my main subject —the expedition of the Persian king, though it was in name directed against Athens, threatened really the whole of Greece. And of this the Greeks were aware some time before; but they did not all view the matter in the same light. Some of them had given the Persian earth and water, and were bold on this account, deeming themselves thereby secured against suffering hurt from the barbarian army; while others, who had refused compliance, were thrown into extreme alarm. For whereas they considered all the ships in Greece too few to engage the enemy, it was plain that the greater number of states would take no part in the war, but warmly favoured the Medes.
-
-### 6 HERODOTUS: History, BK VIII, 266b-d
-
+6 HERODOTUS: History, BK VIII, 266b-d
 37. When the barbarian assailants drew near and were in sight of the place, the Prophet, who was named Aceratus, beheld, in front of the temple, a portion of the sacred armour, which it was not lawful for any mortal hand to touch, lying upon the ground, removed from the inner shrine where it was wont to hang. Then went he and told the prodigy to the Delphians who had remained behind. Meanwhile the enemy pressed forward briskly, and had reached the shrine of Minerva Pronaia, when they were overtaken by other prodigies still more wonderful than the first. Truly it was marvel enough, when warlike harness was seen lying outside the temple, removed there by no power but its own; what followed, however, exceeded in strangeness all prodigies that had ever before been seen. The barbarians had just reached in their advance the chapel of Minerva Pronaia, when a storm of thunder burst suddenly over their heads—at the same time two crags split off from Mount Parnassus, and rolled down upon them with a loud noise, crushing vast numbers beneath their weight— while from the temple of Minerva there went up the war-cry and the shout of victory.
 38. All these things together struck terror into the barbarians, who forthwith turned and fled. The Delphians, seeing this, came down from their hiding-places, and smote them with a great slaughter, from which such as escaped fled straight into Boeotia. These men, on their return, declared (as I am told) that besides the marvels mentioned above, they witnessed also other supernatural sights. Two armed warriors, they said, of a stature more than human, pursued after their flying ranks, pressing them close and slaying them.
 39. These men, the Delphians maintain, were two Heroes belonging to the place—by name Phylacus and Autonous—each of whom has a sacred precinct near the temple; one, that of Phylacus, hard by the road which runs above the temple of Pronaia; the other, that of Autonous, near the Castalian spring, at the foot of the peak called Hyampeia. The blocks of stone which fell from Parnassus might still be seen in my day; they lay in the precinct of Pronaia, where they stopped, after rolling through the host of the barbarians. Thus was this body of men forced to retire from the temple.
 40. Meanwhile, the Grecian fleet, which had left Artemisium, proceeded to Salamis, at the request of the Athenians, and there cast anchor. The Athenians had begged them to take up this position, in order that they might convey their women and children out of Attica, and further might deliberate upon the course which it now behoved them to follow. Disappointed in the hopes which they had previously entertained, they were about to hold a council concerning the present posture of their affairs. For they had looked to see the Peloponnesians drawn up in full force to resist the enemy in Boeotia, but found nothing of what they had expected; nay, they learnt that the Greeks of those parts, only concerning themselves about their own safety, were building a wall across the Isthmus, and intended to guard the Peloponnese, and let the rest of Greece take its chance. These tidings caused them to make the request whereof I spoke, that the combined fleet should anchor at Salamis.
-
-### 6 HERODOTUS: History, BK VIII, 267a
-
+6 HERODOTUS: History, BK VIII, 267a
 41. So while the rest of the fleet lay to off this island, the Athenians cast anchor along their own coast. Immediately upon their arrival, proclamation was made that every Athenian should save his children and household as he best could; whereupon some sent their families to Egina, some to Salamis, but the greater number to Traezen. This removal was made with all possible haste, partly from a desire to obey the advice of the oracle, but still more for another reason. The Athenians say that they have in their Acropolis a huge serpent, which lives in the temple, and is the guardian of the whole place. Nor do they only say this, but, as if the serpent really dwelt there, every month they lay out its food, which consists of a honey-cake. Up to this time the honey-cake had always been consumed; but now it remained untouched. So the priestess told the people what had happened; whereupon they left Athens the more readily, since they believed that the goddess had already abandoned the citadel. As soon as all was removed, the Athenians sailed back to their station.
 42. And now, the remainder of the Grecian sea-force, hearing that the fleet which had been at Artemisium, was come to Salamis, joined it at that island from Trcezen—orders having been issued previously that the ships should muster at Pogon, the port of the Trcezenians. The vessels collected were many more in number than those which had fought at Artemisium, and were furnished by more cities. The admiral was the same who had commanded before, to wit, Eurybiades, the son of Eurycleides, who was a Spartan, but not of the family of the kings: the city, however, which sent by far the greatest number of ships, and the best sailers, was Athens.
-
-### 6 HERODOTUS: History, BK VIII, 270c-271a
-
+6 HERODOTUS: History, BK VIII, 270c-271a
 64. And now, the different chiefs, notwithstanding their skirmish of words, on learning the decision of Eurybiades, at once made ready for the fight. Morning broke; and, just as the sun rose, the shock of an earthquake was felt both on shore and at sea: whereupon the Greeks resolved to approach the gods with prayer, and likewise to send and invite the iEacids to their aid. And this they did, with as much speed as they had resolved on it. Prayers were offered to all the gods; and Telamon and Ajax were invoked at once from Salamis, while a ship was sent to Egina to fetch AEacus himself, and the other AEacids.
 65. The following is a tale which was told by Dicaeus, the son of Theocydes, an Athenian, who was at this time an exile, and had gained a good report among the Medes. He declared that after the army of Xerxes had, in the absence of the Athenians, wasted Attica, he chanced to be with Demaratus the Lacedaemonian in the Thriasian plain, and that while there, he saw a cloud of dust advancing from Eleusis, such as a host of thirty thousand men might raise. As he and his companion were wondering who the men, from whom the dust arose, could possibly be, a sound of voices reached his ear, and he thought that he recognized the mystic hymn to Bacchus. Now Demaratus was unacquainted with the rites of Eleusis, and so he inquired of Dicaeus what the voices were saying. Dicaeus made answer—"O Demaratus! beyond a doubt some mighty calamity is about to befall the king's army! For it is manifest, inasmuch as Attica is deserted by its inhabitants, that the sound which we have heard is an unearthly one, and is now upon its way from Eleusis to aid the Athenians and their confederates. If it descends upon the Peloponnese, danger will threaten the king himself and his land army—if it moves towards the ships at Salamis, 'twill go hard but the king's fleet there suffers destruction. Every year the Athenians celebrate this feast to the Mother and the Daughter; and all who wish, whether they be Athenians or any other Greeks, are initiated. The sound thou hearest is the Bacchic song, which is wont to be sung at that festival." "Hush now," rejoined the other; "and see thou tell no man of this matter. Other: ”and see thou tell no of this matter. For if thy words he brought to the king's ear, thou wilt assuredly lose thy head because of them; neither I nor any man living can then save thee. Hold thy peace therefore. The gods will see to the king's army." Thus Demaratus counselled him; and they looked, and saw the dust, from which the sound arose, become a cloud, and the cloud rise up into the air and sail away to Salamis, making for the station of the Grecian fleet. Then they knew that it was the fleet of Xerxes which would suffer destruction. Such was the tale told by Dicaeus the son of Theocydes; and he appealed for its truth to Demaratus and other eye-witnesses.
 66. The men belonging to the fleet of Xerxes, after they had seen the Spartan dead at Thermopylae, and crossed the channel from Trachis to Histiaea, waited there by the space of three days, and then sailing down through the Euripus, in three more came to Phalerum. In my judgment, the Persian forces both by land and sea when they invaded Attica were not less numerous than they had been on their arrival at Sepias and Thermopylae. For against the Persian loss in the storm and at Thermopylae, and again in the sea-fights off Artemisium, I set the various nations which had since joined the king—as the Malians, the Dorians, the Locrians, and the Boeotians—each serving in full force in his army except the last, who did not number in their ranks cither the Thespians or the Plataeans; and together with these, the Carystians, the Andrians, the Tenians, and the other people of the islands, who all fought on this side except the five states already mentioned. For as the Persians penetrated further into Greece, they were joined continually by fresh nations.
-
-### 6 HERODOTUS: History, BK VIII, 283d
-
+6 HERODOTUS: History, BK VIII, 283d
 129. After Artabazus had continued the siege by the space of three months, it happened that there was an unusual ebb of the tide, which lasted a long while. So when the barbarians saw that what had been sea was now no more than a swamp, they determined to push across it into Pallene. And now the troops had already made good two-fifths of their passage, and three-fifths still remained before they could reach Pallene, when the tide came in with a very high flood, higher than had ever been seen before, as the inhabitants of those parts declare, though high floods are by no means uncommon. All who were not able to swim perished immediately; the rest were slain by the Potidaeans, who bore down upon them in their sailing vessels. The Potidaeans say that what caused this swell and flood, and so brought about the disaster of the Persians which ensued therefrom, was the profanation, by the very men now destroyed in the sea, of the temple and image of Neptune, situated in their suburb. And in this they seem to me to say well. Artabazus afterwards led away the remainder of his army, and joined Mardonius in Thessaly. Thus fared it with the Persians who escorted the king to the strait.
-
-### 6 HERODOTUS: History, BK IX, 289d-290a
-
+6 HERODOTUS: History, BK IX, 289d-290a
 10. 'Such was the counsel which Chileus gave: and the Ephors, taking the advice into consideration, determined forthwith, without speaking a word to the ambassadors from the three cities, to despatch to the Isthmus a body of five thousand Spartans; and accordingly they sent them forth the same night, appointing to each Spartan a retinue of seven Helots, and giving the command of the expedition to Pausanias the son of Cleombrotus. The chief power belonged of right at this time to Pleistarchus, the son of Leonidas; but as he was still a child Pausanias, his cousin, was regent in his room. For the father of Pausanias, Cleombrotus, the son of Anaxandridas, no longer lived; he had died a short time after bringing back from the Isthmus the troops who had been employed in building the wall. A prodigy had caused him to bring his army home; for while he was offering sacrifice to know if he should march out against the Persian, the sun was suddenly darkened in mid sky. Pausanias took with him, as joint-leader of the army, Euryanax, the son of Dorieus, a member of his own family.
 11. The army accordingly had marched out from Sparta with Pausanias: while the ambassadors, when day came, appeared before the Ephors, knowing nothing of the march of the troops, and purposing themselves to leave Sparta forthwith, and return each man to his own country. They therefore addressed the Ephors in these words:—"Lacedaemonians, as you do not stir from home, but keep the Hyacinthian festival, and amuse yourselves, deserting the cause of your confederates, the Athenians, whom your behaviour wrongs, and who have no other allies, will make such terms with the Persians as they shall find possible. Now when terms are once made, it is plain that, having become the king's allies, we shall march with the barbarians whithersoever they choose to lead. Then at length you will perceive what the consequences will be to yourselves." When the envoys had spoken, the Ephors declared to them with an oath:—"Our troops must be at Oresteum by this time, on their march against the strangers." (The Spartans say "strangers" for "barbarians.") At this the ambassadors, quite ignorant of what had happened, questioned them concerning their meaning; and when, by much questioning, they had discovered the truth, they were greatly astonished thereat, and forthwith set off, at their best speed, to overtake the Spartan army. At the same time a body of five thousand Lacedaemonian Periceci, all picked men and fully armed, set forth from Sparta, in the company of the ambassadors.
-
-### 6 HERODOTUS: History, BK IX, 302c
-
+6 HERODOTUS: History, BK IX, 302c
 65. The Persians, as soon as they were put to flight by the Lacedaemonians, ran hastily away, without preserving any order, and took refuge in their own camp, within the wooden defence which they had raised in the Theban territory. It is a marvel to me how it came to pass, that although the battle was fought quite close to the grove of Ceres, yet not a single Persian appears to have died on the sacred soil, nor even to have set foot upon it, while round about the precinct, in the unconsecrated ground, great numbers perished. I imagine — if it is lawful, in matters which concern the gods, to imagine anything—that the goddess herself kept them out, because they had burnt her dwelling at Eleusis. Such, then, was the issue of this battle.
 66. Artabazus, the son of Pharnaces, who had disapproved from the first of the king's leaving Mardonius behind him, and had made great endeavours, but all in vain, to dissuade Mardonius from risking a battle, when he found that the latter was bent on acting otherwise than he wished, did as follows. He had a force under his orders which was far from inconsiderable, amounting, as it did, to near forty thousand men. Being well aware, therefore, how the battle was likely to go, as soon as the two armies began to fight, he led his soldiers forward in an orderly array, bidding them one and all proceed at the same pace, and follow him with such celerity as they should observe him to use. Having issued these commands, he pretended to lead them to the battle. But when, advancing before his army, he saw that the Persians were already in flight, instead of keeping the same order, he wheeled his troops suddenly round, and beat a retreat; nor did he even seek shelter within the palisade or behind the walls of Thebes, but hurried on into Phocis, wishing to make his way to the Hellespont with all possible speed. Such accordingly was the course which these Persians took.
-
-### 6 HERODOTUS: History, BK IX, 309d-310a
-
+6 HERODOTUS: History, BK IX, 309d-310a
 101. A strange coincidence too it was, that both the battles should have been fought near a precinct of Eleusinian Ceres. The fight at Plataea took place, as I said before, quite close to one of Ceres' temples; and now the battle at Mycale was to be fought hard by another. Rightly, too, did the rumour run, that the Greeks with Pausanias had gained their victory; for the fight at Plataea fell early in the day, whereas that at Mycale was towards evening. That the two battles were really fought on the same day of the same month became apparent when inquiries were made a short time afterwards. Before the rumour reached them, the Greeks were full of fear, not so much on their own account, as for their countrymen, and for Greece herself, lest she should be worsted in her struggle with Mardonius. But when the voice fell on them, their fear vanished, and they charged more vigorously and at a quicker pace. So the Greeks and the barbarians rushed with like eagerness to the fray; for the Hellespont and the Islands formed the prize for which they were about to fight.
 102. The Athenians, and the force drawn up with them, who formed one half of the army, marched along the shore, where the country was low and level; but the way for the Lacedaemonians, and the troops with them, lay across hills and a torrent-course. Hence, while the Lacedemonians were effecting their passage round, the Athenians on the other wing had already closed with the enemy. So long as the wicker bucklers of the Persians continued standing, they made a stout defence, and had not even the worst of the battle; but when the Athenians, and the allies with them, wishing to make the victory their own, and not share it with the Lacedaemonians, cheered each other on with shouts, and attacked them with the utmost fierceness, then at last the face of things became changed. For, bursting through the line of shields, and rushing forwards in a body, the Greeks fell upon the Persians; who, though they bore the charge and for a long time maintained their ground, yet at length took refuge in their intrenchment. Here the Athenians themselves, together with those who followed them in the line of battle, the Corinthians, the Sicyonians, and the Troezenians, pressed so closely on the steps of their flying foes, that they entered along with them into the fortress. And now, when even their fortress was taken, the barbarians no longer offered resistance, but fled hastily away, all save only the Persians. They still continued to fight in knots of a few men against the Greeks, who kept pouring into the intrenchment. And here, while two of the Persian commanders fled, two fell upon the field: Artayntes and Ithamitres, who were leaders of the fleet, escaped; Mardontes, and the commander of the land force, Tigranes, died fighting.
-
-### 6 HERODOTUS: History, BK IX, 313d-314a
-
+6 HERODOTUS: History, BK IX, 313d-314a
 120. Now the Chersonesites relate that the following prodigy befell one of the Greeks who guarded the captives. He was broiling upon a fire some salted fish, when of a sudden they began to leap and quiver, as if they had been only just caught. Hereat, the rest of the guards hurried round to look, and were greatly amazed at the sight. Artayctes, however, beholding the prodigy, called the man to him, and said—
 "Fear not, Athenian stranger, because of this marvel. It has not appeared on thy account, but on mine. Protesilaus of Elaeus has sent it to show me, that albeit he is dead and embalmed with salt, he has power from the gods to chastise his injurer. Now then I would fain acquit my debt to him thus. For the riches which I took from his temple, I will fix my fine at one hundred talents—while for myself and this boy of mine, I will give the Athenians two hundred talents, on condition that they will spare our lives."
 Such were the promises of Artayctes; but they failed to persuade Xanthippus. For the men of Elaeus, who wished to avenge Protesilaus, entreated that he might be put to death; and Xanthippus himself was of the same mind. So they led Artayctes to the tongue of land where the bridges of Xerxes had been fixed—or, according to others, to the knoll above the town of Madytus; and, having nailed him to a board, they left him hanging thereupon. As for the son of Artayctes, him they stoned to death before his eyes.
@@ -10847,23 +10339,15 @@ Such were the promises of Artayctes; but they failed to persuade Xanthippus. For
 
 ## 7 PLATO: Euthydemus, 66a / Apology, 207b-c; 211a-b / Timaeus, 467a-c
 
-
-### 7 PLATO: Euthydemus, 66a
-
+7 PLATO: Euthydemus, 66a
 Cri. I see no objection, Socrates, it you like; but first I wish that you would give me a description of their wisdom, that I may know beforehand what we arc going to learn.
 Soc. In less than no time you shall hear: for I cannot say that I did not attend—I paid great attention to them, and I remember and will endeavour to repeat the whole story. Providentially I was sitting alone in the dressing-room of the Lyceum where you saw me, and was about to depart; when I was getting up I recognized the familiar divine sign: [273] so I sat down again, and in a little while the two brothers Euthydemus and Dionysodorus came in, and several others with them, whom I believe to be their disciples, and they walked about in the covered court; they had not taken more than two or three turns when Cleinias entered, who, as you truly say, is very much improved: he was followed by a host of lovers, one of whom was Ctesippus the Paeanian. a well-bred youth, but also having the wildness of youth, Cleinias saw me from the entrance as I was sitting alone, and at once came and sat down on the right hand of me, as you describe; and Dionysodorus and Euthydemus, when they saw him, at first stopped and talked with one another, now and then glancing at us, for I particularly watched them; and then Euthydemus came and sat down by the youth, and the other by me on the left hand; the rest anywhere. I saluted the brothers, whom I had not seen for a long time; and then I said to Cleinias: Here are two wise men, Euthydemus and Dionysodorus, Cleinias, wise not in a small but in a large way of wisdom, for they know all about war,—all that a good general ought to know about the array and command of an army, and the whole art of righting in armour: and they know about law too, and can teach a man how to use the weapons of the courts when he is injured.
-
-### 7 PLATO: Apology, 207b-c
-
+7 PLATO: Apology, 207b-c
 Some one may wonder why I go about in private giving advice and busying myself with the concerns of others, but do not venture to come forward in public and advise the state. I will tell you why. You have heard me speak at sundry times and in divers places of an oracle or sign which comes to me, and is the divinity which Meletus ridicules in the indictment. This sign, which is a kind of voice, first began to come to me when I was a child; it always forbids but never commands me to do anything which I am going to do. This is what deters me from being a politician. And rightly, as I think. For I am certain, O men of Athens, that if I had engaged in politics, I should have perished long ago, and done no good either to you or to myself. And do not be offended at my telling you the truth: for the truth is, that no man who goes to war with you or any other multitude, honestly striving against the many lawless and unrighteous deeds which are done in state, [32] will save his life; he who will fight for the right, if he would live even for a brief space, must have a private station and not a public one.
 I can give you convincing evidence of what I say, not words only, but what you value far more-actions. Let me relate to you a passage of my own life which will prove to you that I should never have yielded to injustice from any fear of death and that” as I should have refused to yield” I must have died at once. I will tell you a tale of the courts, not very interesting perhaps, but nevertheless true. The only office of state which I ever held, O men of Athens, was that of senator: the tribe Antiochis, which is my tribe, had the presidency at the trial of the generals who had not taken up the bodies of the slain after the battle of Arginusae; and you proposed to try them in a body, contrary to law, as you all thought afterwards; but at the time I was the only one of the Prytanes who was opposed to the illegality, and I gave my vote against you; and when the orators threatened to impeach and arrest men, and you called and shouted, I made up my mind that I would run the risk, having law and justice with me, rather than take part in your injustice because I feared imprisonment and death. This happened in the days of the democracy. But when the oligarchy of the Thirty was in power, they sent for me and four others into the rotunda, and bade us bring Leon the Salaminian from Salamis, as they wanted to put him to death. This was a specimen of the sort of commands which they were always giving with the view of implicating as many as possible in their crimes; and then I showed, not in word only but in deed, that, if I may be allowed to use such an expression, I cared not a straw for death, and that my great and only care was lest I should do an unrighteous or unholy thing. For the strong arm of that oppressive power did not frighten me into doing wrong; and when we came out of the rotunda the other four went to Salamis and fetched Leon, but I went quietly home. For which I might have lost my life, had not the power of the Thirty shortly afterwards come to and end. And many will witness to my words.
-
-### 7 PLATO: Apology, 211a-b
-
+7 PLATO: Apology, 211a-b
 Friends, who would have acquitted me, I would like also to talk with you about the thing which has come to pass, while the magistrates are busy, and b o to the place at which I must die. Stay then a little, for we may as well talk with one another while there is time. [40] You are my friends, and I should like to show you the meaning of this event which has happened to me. O my judges- for you I may truly call judges- I should like to tell you wonderful circumstance. Hitherto the divine faculty of which the internal oracle is the source has constantly been in the habit of opposing me even about trifles, it I was going to make a slip or error in any matter; and now as you see there has come upon me that which may be thought, and is generally believed to be, the last and worst evil. But the oracle made no sign of opposition, cither when I was leaving my house in the morning, or when I was on my way to the court, or while I was speaking, at anything which I was going to say; and yet I have often been stopped in the middle of a speech, but now in nothing I either said or did touching the matter in hand has the oracle opposed me. What do I take to be the explanation of this silence: I will tell you. It is an intimation that what has happened to me is a good, and that those of us who think that death is an evil are in error. For the customary sign would surely have opposed me had I been going to evil and not to good.
-
-### 7 PLATO: Timaeus, 467a-c
-
+7 PLATO: Timaeus, 467a-c
 [71] and permitting the best part to advise quietly for the good of the whole. And knowing that this lower principle in man would not comprehend reason, and even if attaining to some degree of perception would never naturally care for rational notions, but that it would be led away by phantoms and visions night and day to be remedy for this, l combined with it the liver, and placed it in the house of the lower nature, contriving it should solid and smooth, and bright and sweet, and should also have a bitter quality, in order that the of thought, Which proceeds from the mind, might be reflected as in a mirror which receives likenesses of objects and gives back images of them to the sight; and so might strike tenor into the desires, when, making use of the bitter part of the liver, to which it is akin, it comes threatening and invading, and diffusing this bitter element swiftly through the whole liver produces colours like bile, and contracting every part makes it wrinkled and rough; and twisting out of us right place and contorting the lobe and closing and shutting up the vessels and gates, causes pain and loathing. And the converse happens when some gentle inspiration of the understanding pictures images of an opposite character, and allays the bile and bitterness by refusing to stir or touch the nature opposed to itself, but by making use of the natural sweetness of the liver, corrects all things and makes them to be right and smooth and free, and renders the portion of the soul which resides about the liver happy and joyful, enabling it to pass the night in peace, and to practise divination in sleep, inasmuch as it has no share in mind and reason. For the authors of our being, remembering the command of their father when he bade them create the human race as good as they could, that they might correct our interior parts and make them to attain a measure of truth, placed in the liver the seat of divination. And herein is a proof that God has given the art of divination not to the wisdom, but to the foolishness of man. No man, when in his wits, attains prophetic truth and inspiration: but when he receives the inspired word, either his intelligence is enthralled in sleep, or he is demented by some distemper or possession. And he who would understand what he remembers to have been said, [72] whether in a dream or when he was awake, by the prophetic and inspired nature, or would determine by reason the meaning of the apparitions which he has seen, and what indications they afford to this man or that, of past, present or future good and evil, must first recover his wits. But, while he continues demented, he cannot judge of the visions which he sees or the words which he utters: the ancient saying is very true, that “only a man who has his wits cat act or judge about himself and his own affairs.” And for this reason it is customary to appoint interpreters to be judges of the true inspiration. Some persons call them prophets; they are quite unaware that they are only the expositors of dark sayings and visions, and are not to be called prophets at all, but only interpreters of prophecy.
 Such is 1 he nature of liver, which is placed as we have described in order that its prophetic intimations. During the life of each individual these intimations are plainer, but after his death the liver becomes blind, and delivers oracles too obscure to be intelligible. The neighbouring organ [the spleen] is situated on the left-hand side, and is constructed with a view of keeping the Lives bright and pure—like a napkin, always ready prepared and at hand to clean the mirror. And hence, when any impurities arise in the region of the liver by reason of disorders oi the body, the loose nature of the spleen, which is composed of a hollow and bloodless tissue, receives them all and clears them away, and when tilled with the unclean matter, swells and testers, but, again, when the body is purged, settles down into the same place as before, and is humbled.
 Concerning the soul, as to which part is mortal and which divine, and how and why they arc separated, and where located, it God acknowledges that we have spoken the truth, then, and then only, can we be confident; still, we may venture to assert that what has been said by us is probable, and will be rendered more probable by investigation. Let us assume thus much. The creation of the rest of the body follows next in order, and this we may investigate in a similar manner. And it appears to be very meet that the body should be framed on the following principles:-
@@ -10951,17 +10435,11 @@ But from what time, with Tydeus' impious son,
 Doom-fraught Palladium from its hallowed shrine.
 And slew the watchmen of her castled height.
 And snatched the sacred image, and feared not
-
-### With hands blood-reeking to contaminate
-
-
-### Her godhead's maiden fillets, from henceforth
-
+With hands blood-reeking to contaminate
+Her godhead's maiden fillets, from henceforth
 The Danaans' hope in ebb slid ever back.
 Crushed was their strength, the goddess' heart
-
-### estranged. 170
-
+estranged. 170
 Nor doubtful the dread signs Tritonia gave;
 Scarce was her semblance lodged within the camp,
 When from the upturned eyes shot quivering flames,
@@ -10970,9 +10448,7 @@ Wondrous to tell—of her own self she sprang
 From earth shield-laden, and with spear that shook.
 Calchas at once with prophet-voice bids brave
 Ocean in flight, for that no Argive arms
-
-### Could uptear Pergamus, except they seek
-
+Could uptear Pergamus, except they seek
 At Argos for new omens, and bring back
 That will of heaven, which erst they bare away
 O'er ocean with them in their curved keels. 179
@@ -10989,9 +10465,7 @@ Lest through your gates it be received, or drawn
 Within the ramparts, and so shield your folk
 Beneath their ancient worship. For if hand
 Of yours had wronged Minerva's offering,
-
-### Mighty destruction then—which augury
-
+Mighty destruction then—which augury
 May heaven first turn upon himself !—would fall
 On Priam's empire and the Phrygians; but
 If by your hands your city it should scale,
@@ -11009,44 +10483,28 @@ Ten years had conquered, nor a thousand keels.
 Poor souls! here bursts upon them, and confounds
 Their blinded senses. For Laocoon,
 The priest of Neptune, as by lot assigned,
-
-### Was sacrificing at the wonted shrine
-
+Was sacrificing at the wonted shrine
 A mighty bull, when, lo! from Tenedos,
-
-### Over the tranquil ocean serpents twain—
-
+Over the tranquil ocean serpents twain—
 I shudder to recount it—with huge coils
 Cumbering the deep, ply shoreward side by side; 203
 Reared on the surge their breasts and blood-red
-
-### manes
-
-
-### O'ertop the billows; the remaining bulk
-
-
-### Skims ocean aft in labyrinthine folds:
-
+manes
+O'ertop the billows; the remaining bulk
+Skims ocean aft in labyrinthine folds:
 Hark! how the brine seethes audibly! and now,
 Their glowing eyes with blood suffused and fire,
 The shore-fields they were gaining, and their chaps
 Hissed, as with flickering tongues they licked them; we
 Pale at the sight fly scattered; they with line
-
-### Unwavering at Laocoon aim, and first
-
+Unwavering at Laocoon aim, and first
 His two sons' slender bodies either snake
-
-### Embraces and enfolds, and gnawing feeds
-
+Embraces and enfolds, and gnawing feeds
 Upon the hapless limbs; then him they seize
 Up-hurrying armed to aid them, and bind fast
 With mighty spires, and now—their scaly length
 Twice wreathed about his waist, twice round his
-
-### neck—
-
+neck—
 With heads o'ertop him and high-towering throats. 219
 He, while to rend their knots he strives amain.
 His fillets with black venom drenched and gore.
@@ -11054,17 +10512,11 @@ Uplifts to heaven heart-piercing shrieks; as when,
 'Scaped from the altar, bellows a maimed bull,
 That from his neck shakes off the erring axe.
 But to the temple's height that dragon pair
-
-### Gliding escape, and seek the citadel
-
-
-### Of fell Tritonia,to find covert close
-
+Gliding escape, and seek the citadel
+Of fell Tritonia,to find covert close
 Under the goddess' feet and orbed shield.
 Then through the trembling hearts of all there crept
-
-### Strange fear; and 'rightly hath Laocoon
-
+Strange fear; and 'rightly hath Laocoon
 Paid for his crime,' they cry, 'with point of spear
 Wounding the hallowed wood, what time he hurled
 His guilty lance against the flank.' Then all
@@ -11074,9 +10526,7 @@ And supplication to the goddess made. 233
 Thy sire, and young lulus, and myself.
 Once called thy wife.' So loudly pleading she
 Filled all the house with moans, when lo! there falls
-
-### A sudden portent marvellous to tell!
-
+A sudden portent marvellous to tell!
 For, as betwixt their gaze and their embrace
 His sorrowing parents held him, on the crown
 See! of lulus' head a tongue of fire
@@ -11087,9 +10537,7 @@ The blazing hair, and with spring water strive
 To quench the sacred flame; but joyfully
 My sire Anchises with a starward gaze
 Lifted his voice and upturned hands to heaven.
-
-### 'Almighty Jupiter, if any prayer
-
+'Almighty Jupiter, if any prayer
 Can bend thee, look upon us—only this;
 And, if our goodness earn it. Sire, henceforth
 Grant us thine aid, and ratify this sign.'
@@ -11099,9 +10547,7 @@ And, gliding through the darkness from on high.
 Shot with a torch-like trail of rushing light
 A star; we mark it o'er the roof-top glide,
 A fiery path displaying, and at length
-
-### Bury its brightness beneath Ida's wood:
-
+Bury its brightness beneath Ida's wood:
 Then lo! a long-drawn iurrow-line of light!
 And o'er the region hangs a sulphurous smoke. 698
 Conquered at last my sire uplifts his head,
@@ -11139,20 +10585,14 @@ Piteous contagion—a year fraught with death.
 They left their pleasant lives, or dragged about
 Sick bodies; Sirius too baked bare the fields;
 Grass withered; the sick crop denied her food. 142
-
-### Back to Ortygia's oracle my sire
-
-
-### Bids us retraverse Ocean, and implore
-
+Back to Ortygia's oracle my sire
+Bids us retraverse Ocean, and implore
 The grace of Phoebus; to our weary plight
 What end vouchsafes he, whence would have us seek
 Aid for our trouble, whither steer our course?
 " 'Twas night: sleep held all creatures upon earth,
 When lol the sacred emblems of the gods,
-
-### The Phrygian Penates, out of Troy
-
+The Phrygian Penates, out of Troy
 Borne with me from amidst the blazing town
 Seemed, as I lay in slumber, to stand forth
 Before mine eyes, clear in a flood of light.
@@ -11160,13 +10600,9 @@ Where streamed the full moon through the casementshaft,
 Then thus to address me, and with these words allay
 My trouble: That which from Apollo's lips.
 Once wafted to Ortygia,thou shouldst learn,
-
-### Lolhere he utters, unsolicited
-
+Lolhere he utters, unsolicited
 Sending us to thy very threshold. We,
-
-### Who from Dardania's burning have thyself
-
+Who from Dardania's burning have thyself
 And thine arms followed, in the fleet thou led'st
 Crossing the swollen deep—even we no less
 Will lift to heaven thy sons that shall be born,
@@ -11184,9 +10620,7 @@ There is our sure home; hence sprang Dardanus,
 And sire lasius, founder of our race.
 Arise, be glad, and to thy father old
 Bear this no doubtful mandate, that he seek
-
-### Corythus and Ausonia's land; the fields
-
+Corythus and Ausonia's land; the fields
 Of Dicte Jove denies thee!' Sore amazed
 By such a vision and the voice of gods—
 Nor was that slumber: face to face I seemed
@@ -11200,20 +10634,14 @@ All to Anchises, point by point revealed. 179
 The twofold line, the double stock, himself
 Fooled by a new confusion of old lands,
 He owns, then cries aloud, 'Son, long the sport
-
-### Of Ilium's fate, Cassandra erst alone
-
+Of Ilium's fate, Cassandra erst alone
 Chanted this hap to me: I now recall
 She thus foretold our destiny, and oft
 Invoked Hesperia,oft the Italian realm.
 But that the Teucrians to Hesperia's shore
 Should come indeed, who could have thought it?
-
-### whom
-
-
-### Then would Cassandra's prophecies have swayed?
-
+whom
+Then would Cassandra's prophecies have swayed?
 Yield we to Phoebus' warning, and pursue
 The wiser course.' He spake, and all with joy
 His word obey; this second home we quit.
@@ -11231,12 +10659,8 @@ About her udders, know that there shall be
 Thy city's site, there a sure rest from toil. 393
 13 VIRGIL: Aeneid, BK III [523-547] 161b-162a
 When in the distance we descry dim hills.
-
-### And Italy's low coast-line. 'Italy!'
-
-
-### First cries Achates; Italy our crews
-
+And Italy's low coast-line. 'Italy!'
+First cries Achates; Italy our crews
 Hail with a shout of triumph. Then my sire
 Anchises wreathed a mighty bowl with flowers.
 And filled with wine, and called upon the gods.
@@ -11277,9 +10701,7 @@ Where the rich bough o'ershades the fertile ground.
 And our perplexity forsake not thou,
 O goddess-mother." So saying, he stops to mark
 What signs they bring, their course bend whither
-
-### ward. 198
-
+ward. 198
 They, feeding, still fly forward just so far
 As the pursuer's eye might bear in sight.
 Then, having gained Avernus' poisonous jaws.
@@ -11292,25 +10714,17 @@ Bursts into new leaf, sown on alien tree.
 And, saffron-berried, clips the tapering trunk,
 Such was the seeming of that leafy gold
 On the dark ilex; so in the light breeze
-
-### Rustled the foil. Aeneas instantly
-
+Rustled the foil. Aeneas instantly
 Seizes and rives it from its lingering hold
 With hungry clutch, and bears it'neath the roof
-
-### Of the prophetic Sibyl. 211
-
+Of the prophetic Sibyl. 211
 13 VIRGIL: Aeneid, BK VII [59-80] 237b-238a
 There was a laurel in the secluded depth
 Midmost the palace-court, of sacred leaf.
 And cherished many a year with awe, which King
 Latinus, finding, as he laid, folk say.
-
-### The citadel's foundation, had himself
-
-
-### To Phoebus dedicated, and from thence
-
+The citadel's foundation, had himself
+To Phoebus dedicated, and from thence
 Gave to his settlers their Laurentian name.
 Upon its topmost point a cloud of bees.
 Wondrous to tell, with mighty buzzing borne
@@ -11326,12 +10740,8 @@ She kindles, and beside her father stands,
 The maid Lavinia in her flowing locks,
 O horror! seemed to catch the flame, and all
 Her head-gear to let burn with crackling fire-
-
-### Ablaze her queenly tresses, and ablaze
-
-
-### The jewelled splendour of her coronal-
-
+Ablaze her queenly tresses, and ablaze
+The jewelled splendour of her coronal-
 Till, wrapped in a dun glare of smoky light.
 She spread the fire-god all the palace through.
 Fearful in sooth and wondrous to behold
@@ -11346,16 +10756,12 @@ Heaven's chilly vault, and by the dolorous war
 Heart-troubled, stretched him, and let sleep at last
 Steal o'er his limbs. To him appeared the god
 Of that fair spot, he of the pleasant stream,
-
-### Old Tiber, rising 'mid his poplar-leaves;
-
+Old Tiber, rising 'mid his poplar-leaves;
 Veiled in a grey-green mantle of fine lawn,
 With shadowy reeds about his locks, he thus
 In words addressed him, and his grief allayed: 35
 "O heaven-descended, thou who bring'st us back
-
-### Troy's city from the foeman,and preserv'st
-
+Troy's city from the foeman,and preserv'st
 Her towers for ever, on Laurentum's soil
 And Latium's fields long-looked for, here for thee
 Waits a sure dwelling—draw not back—and sure
@@ -11367,9 +10773,7 @@ Under the holm-oaks on the margin laid,
 A mighty sow, with thirty head of swine
 New-littered, white, stretched out along the ground.
 White young about her udders; sign whereby
-
-### Ascanius in thrice ten returning years
-
+Ascanius in thrice ten returning years
 Shall Alba found, of glorious name: I chant
 No doubtful doom. Now, mark, the present need
 How to dispatch and triumph o'er, in brief
@@ -11408,9 +10812,7 @@ The pool that holds thee, pitier of our woes,
 Where'er thou hast thy glorious outgoing,
 Ever with offering, evermore with gifts.
 By me shaft thou be graced, the horned flood,
-
-### Lord of Hesperian waters. Only grant
-
+Lord of Hesperian waters. Only grant
 Thy presence, and with nearer token seal
 The heavenly utterance." Thus he spake, and chose
 From out his fleet twin biremes, fits their decks
@@ -11419,9 +10821,7 @@ But lo! a sudden portent strange to see!
 White, of one colour with her milk-white young,
 Along the wood, on the green bank lay stretched
 A sow, conspicuous; which to thee, to thee,
-
-### O mightiest Juno, good Aeneas slays
-
+O mightiest Juno, good Aeneas slays
 In sacrifice, and at the altar sets,
 \Vith all her offspring. Through that livelong night
 Tiber his swelling stream assuaged, and so.
@@ -11461,16 +10861,10 @@ Juturna adds, and shows a sign in heaven.
 Than which no cause, more potent to confound.
 Fooled omen-wise the hearts of Italy. 246
 For as in ruddy sky Jove's tawny bird
-
-### Flew chasing water-fowl, a clamorous rout
-
-
-### In wing-borne column, suddenly he swooped
-
+Flew chasing water-fowl, a clamorous rout
+In wing-borne column, suddenly he swooped
 Down on the stream, and seized a lordly swan
-
-### Ruthless in taloned gripe. Italia's folk
-
+Ruthless in taloned gripe. Italia's folk
 Gave eager heed, as all the birds at once
 Wheeled screaming, wondrous to behold! and hid
 The heaven with wings, and in a serried cloud
@@ -11485,48 +10879,36 @@ So oft my prayers desired: I greet the call,
 And own the gods herein; follow my lead.
 Even mine, and seize the sword, ye miserable.
 Whom yon rapacious stranger frights with war,
-
-### Like silly birds, and rudely ravages
-
+Like silly birds, and rudely ravages
 Your borders. He will turn, trim sail, and fly
 Far o'er the deep. With one heart close your ranks.
 And fight for rescue of your ravished king." 265
 
 ## 14 PLUTARCH: Numa Pompilius, 52b-c / Poplicola, 82a-b / Timoleon, 198c-d / Pelopidas, 239d-240c / Aristides, 268a-d / Sulla, 371d- 372c / Lucullus, 404d-405a; 405c / Agesilaus, 483a-b / Alexander, 568a-b / Demosthenes, 698b-699a / Dion, 781d-782a / Marcus Brutus, 818a-b; 822b
 
-
-### 14 PLUTARCH: Numa Pompilius, 52b-c
-
+14 PLUTARCH: Numa Pompilius, 52b-c
 With these reasons and persuasions several auspicious omens are said to have concurred, and the zeal, also, of his fellow-citizens, who, on understanding what message the Roman ambassadors had brought him, entreated him to accompany them, and to accept the kingdom as a means to unanimity and concord between the nations.
 Numa, yielding to these inducements, having first performed divine sacrifice, proceeded to Rome, being met on his way by the senate and people, who, with an impatient desire, came forth to receive him; the women, also, welcomed him with joyful acclamations, and sacrifices were offered for him in all the temples, and so universal was the joy, that they seemed to be receiving, not a new king, but a new kingdom. In this manner he descended into the forum, where Spurius Vettius, whose turn it was to be interrex at that hour, put it to the vote; and all declared him king.
 Then the regalities and robes of authority were brought to him; but he refused to be invested with them until he had first consulted and been confirmed by the gods; so being accompanied by the priests and augurs, he ascended the Capitol, which at that time the Romans called the Tarpeian Hill. Then the chief of the augurs covered Numa's head, and turned his face towards the south, and, standing behind him, laid his right hand on his head, and prayed, turning his eyes every way, in expectation of some auspicious signal from the gods. It was wonderful, meantime, with what silence and devotion the multitude stood assembled in the forum, in similar expectation and suspense, till auspicious birds appeared and passed on the right. Then Numa, apparelling himself in his royal robes, descended from the hill to the people, by whom he was received and congratulated with shouts and acclamations of welcome, as a holy king, and beloved of all the gods.
 The first thing he did at his entrance into government was to dismiss the band of three hundred men which had been Romulus's life-guard, called by him Celeres, saying that he would not distrust those who put confidence in him; nor rule over a people that distrusted him. The next thing he did was to add to the two priests of Jupiter and Mars a third, in honour of Romulus, whom he called the Flamen Quirinalis. The Romans anciently called their priests flamines, by corruption of the word pilamines, from a certain cap which they wore, called pileus. In those times Greek words were more mixed with the Latin than at present; thus also the royal robe, which is called Icena, Juba says, is the same as the Greek chlcena; and that the name of Camillus, given to the boy with both his parents living, who serves in the temple of Jupiter, was taken from the name given by some Greeks to Mercury, denoting his office of attendance on the gods.
-
-### 14 PLUTARCH: Poplicola, 82a-b
-
+14 PLUTARCH: Poplicola, 82a-b
 After these dispositions, he admitted Lucretius, the father of Lucretia, as his colleague, and gave him the precedence in the government, by resigning the fasces to him, as due to his years, which privilege of seniority continued to our time. But within a few days Lucretius died, and in a new election Marcus Horatius succeeded in that honour, and continued consul for the remainder of the year.
 Now, whilst Tarquin was making preparations in Tuscany for a second war against the Romans, it is said a great portent occurred. When Tarquin was king, and had all but completed the buildings of the Capitol, designing, whether from oracular advice or his own pleasure, to erect an earthen chariot upon the top, he intrusted the workmanship to Tuscans of the city Veii, but soon after lost his kingdom. The work thus modelled, the Tuscans set in a furnace, but the clay showed not those passive qualities which usually attend its nature, to subside and be condensed upon the evaporation of the moisture, but rose and swelled out to that bulk, that, when solid and firm, notwithstanding the removal of the roof and opening the walls of the furnace, it could not be taken out without much difficulty. The soothsayers looked upon this as a divine prognostic of success and power to those that should possess it; and the Tuscans resolved not to deliver it to the Romans, who demanded it, but answered that it rather belonged to Tarquin than to those who had sent him into exile. A few days after, they had a horserace there, with the usual shows and solemnities, and as the charioteer with his garland on his head was quietly driving the victorious chariot out of the ring, the horses, upon no apparent occasion, taking fright, either by divine instigation or by accident, hurried away their driver at full speed to Rome; neither did his holding them in prevail, nor his voice, but he was forced along with violence till, coming to the Capitol, he was thrown out by the gate called Ratumena. This occurrence raised wonder and fear in the Veientines, who now permitted the delivery of the chariot.
 The building of the temple of the Capitoline Jupiter had been vowed by Tarquin, the son of Demaratus, when warring with the Sabines; Tarquinius Superbus, his son or grandson, built, but could not dedicate it, because he lost his kingdom before it was quite finished. And now that it was completed with all its ornaments, Poplicola was ambitious to dedicate it; but the nobility envied him that honour, as, indeed, also, in some degree, those his prudence in making laws and conduct in wars entitled him to. Grudging him, at any rate, the addition of this, they urged Horatius to sue for the dedication, and, whilst Poplicola was engaged in some military expedition, voted it to Horatius, and conducted him to the Capitol, as though, were Poplicola present, they could not have carried it.
-
-### 14 PLUTARCH: Timoleon, 198c-d
-
+14 PLUTARCH: Timoleon, 198c-d
 When the vessels were equipped, and his soldiers every way provided for, the female priest of Proserpina had a dream or vision wherein she and her mother Ceres appeared to them in a travelling garb, and were heard to say that they were going to sail with Timoleon into Sicily; whereupon the Corinthians, having built a sacred galley, devoted it to them, and called it the galley of the goddesses.
 Timoleon went in person to Delphi, where he sacrificed to Apollo, and, descending into the place of prophecy, was surprised with the following marvellous occurrence. A riband, with crowns and figures of victory embroidered upon it, slipped off from among the gifts that were there consecrated and hung up in the temple, and fell directly down upon his head; so that Apollo seemed already to crown him with success, and send him thence to conquer and triumph.
 He put to sea only with seven ships of Corinth, two of Corcyra, and a tenth which was furnished by the Leucadians; and when he was now entered into the deep by night, and carried with a prosperous gale, the heaven seemed all on a sudden to break open, and a bright spreading flame to issue forth from it, and hover over the ship he was in; and, having formed itself into a torch, not unlike those that are used in the mysteries, it began to steer the same course, and run along in their company, guiding them by its light to that quarter of Italy where they designed to go ashore. The
 soothsayers affirmed that this apparition agreed with the dream of the holy woman, since the goddesses were now visibly joining in the expedition, and sending this light from heaven before them, Sicily being thought sacred to Proserpina, as poets feign that the rape was committed there, and that the island was given her in dowry when she married Pluto.
 These early demonstrations of divine favour greatly encouraged his whole army; so that making all the speed they were able, by a voyage across the open sea, they were soon passing along the coast of Italy. But the tidings that came from Sicily much perplexed Timoleon, and disheartened his soldiers.
-
-### 14 PLUTARCH: Pelopidas, 239d-240c
-
+14 PLUTARCH: Pelopidas, 239d-240c
 And so when a battle was agreed on, and they encamped in front of the Spartans at Leuctra, Pelopidas saw a vision, which much discomposed him. In that plain lie the bodies of the daughters of one Scedasus, called from the place Leuctridae, having been buried there after having been ravished by some Spartan strangers. When this base and lawless deed was done, and their father could get no satisfaction at Lacedaemon, with bitter imprecations on the Spartans, he killed himself at his daughters' tombs; and from that time the prophecies and oracles still warned them to have a great care of the divine vengeance at Leuctra. Many, however, did not understand the meaning, being uncertain about the place, because there was a little maritime town of Laconia called Leuctron, and near Megalopolis in Arcadia a place of the same name; and the villainy was committed long before this battle.
 Now Pelopidas, being asleep in the camp, thought he saw the maidens weeping about their tombs, and cursing the Spartans, and Scedasus commanding, if they desired the victory, to sacrifice a virgin with chestnut hair to his daughters. Pelopidas looked on this as an harsh and impious injunction, but rose and told it to the prophets and commanders of the army, some of whom contended that it was fit to obey, and adduced as examples from the ancients, Menceceus, son of Creon; Macaria, daughter of Hercules; and from later times, Pherecydes, the philosopher, slain by the Lacedaemonians, and his skin, as the oracles advised, still kept by their kings. Leonidas, again, warned by the oracle, did as it were sacrifice himself for the good of Greece; Themistocles offered human victims to Bacchus Omestes, before the engagement at Salamis; and success showed their actions to be good. On the contrary, Agesilaus, going from the same place, and against the same enemies that Agamemnon did, and being commanded in a dream at Aulis to sacrifice his daughter, was so weak as to disobey; the consequence of which was, that his expedition was unsuccessful and inglorious.
 But some on the other side urged that such a barbarous and impious obligation could not be pleasing to any Superior Beings; that typhons and giants did not preside over the world, but the general father of gods and men; that it was absurd to imagine any divinities or powers delighted in slaughter and sacrifices of men; or, if there were such, they were to be neglected as weak and unable to assist; such unreasonable and cruel desires could only proceed from, and live in, weak and depraved minds.
 The commanders thus disputing, and Pelopidas being in a great perplexity, a mare colt breaking from the herd, ran through the camp, and when she came to the place where they were stood still; and whilst some admired her bright chestnut colour, others her mettle, or the strength and fury of her neighing, Theocritus, the augur, took thought, and cried out to Pelopidas, "O good friend! look, the sacrifice is come; expect no other virgin, but use that which the gods have sent thee." With that they took the colt, and, leading her to the maidens' sepulchres, with the usual solemnity and prayers, offered her with joy, and spread through the whole army the account of Pelopidas's dream, and how they had given the required sacrifice.
 In the battle, Epaminondas, bending his phalanx to the left, that, as much as possible, he might divide the right wing, composed of Spartans, from the other Greeks, and distress Cleombrotus by a fierce charge in column on that wing, the enemies perceived the design, and began to change their order, to open and extend their right wing, and, as they far exceeded him in number, to encompass Epaminondas. But Pelopidas with the three hundred came rapidly up, before Cleombrotus could extend his line, and close up his divisions, and so fell upon the Spartans while in disorder; though the Lacedaemonians, the expertest and most practised soldiers of all mankind, used to train and accustom themselves to nothing so much as to keep themselves from confusion upon any change of position, and to follow any leader, or right-hand man, and form in order, and fight on what part soever dangers press.
 In this battle, however, Epaminondas with his phalanx, neglecting the other Greeks, and charging them alone, and Pelopidas coming up with such incredible speed and fury, so broke their courage and baffled their art that there began such a flight and slaughter amongst the Spartans as was never before known. And so Pelopidas, though in no high office, but only captain of a small band, got as much reputation by the victory as Epaminondas, who was general and chief captain of Boeotia.
-
-### 14 PLUTARCH: Aristides, 268a-d
-
+14 PLUTARCH: Aristides, 268a-d
 Being chosen general for the war, he repaired to Plataea with eight thousand Athenians, where Pausanias, generalissimo of all Greece, joined him with the Spartans; and the forces of the other Greeks came into them. The whole encampment of the barbarians extended all along the bank of the river Asopus, their numbers being so great there was no enclosing them all, but their baggage and most valuable things were surrounded with a square bulwark, each side of which was the length of ten furlongs.
 Tisamenus, the Elean, had prophesied to Pausanias and all the Greeks, and foretold them victory if they made no attempt upon the enemy, but stood on their defence. But Aristides sending to Delphi, the god answered that the Athenians should overcome their enemies in case they made supplication to Jupiter and Juno of Cithaeron, Pan, and the nymphs Sphragitides, and sacrificed to the heroes Androcrates, Leucon, Pisander, Damocrates, Hypsion, Actaeon, and Polyidus; and if they fought within their own territories in the plain of Ceres Eleusinia and Proserpine.
 Aristides was perplexed upon the tidings of this oracle; since the heroes to whom it commanded him to sacrifice had been chieftains of the Plataeans, and the cave of the nymphs Sphragitides was on the top of Mount Cithaeron, on the side facing the setting sun of summer time; in which place, as the story goes, there was formerly an oracle, and many that lived in the district were inspired with it, whom they called Nympholepti, possessed with the nymphs.
@@ -11534,51 +10916,37 @@ But the plain of Ceres Eleusinia, and the offer of victory to the Athenians, if 
 And that the god replied they were utterly mistaken, for that the places spoken of by the oracle were within the bounds of Plataea, and if they sought there they should find them. This manifest vision having appeared to Arimnestus, when he awoke he sent for the most aged and experienced of his countrymen, with whom, communicating and examining the matter, he found that near Hysiae, at the foot of Mount Cithaeron, there was a very ancient temple called the temple of Ceres Eleusinia and Proserpine. He therefore forthwith took Aristides to the place, which was very convenient for drawing up an army on foot, because the slopes at the bottom of the mountain Cithaeron rendered the plain, where it comes up to the temple, unfit for the movements of cavalry.
 Also, in the same place, there was the fane of Androcrates, environed with a thick shady grove. And that the oracle might be accomplished in all particulars for the hope of victory, Arimnestus proposed, and the Plataeans decreed, that the frontiers of their country towards Attica should be removed, and the land given to the Athenians, that they might fight in defence of Greece in their own proper territory. This zeal and liberality of the Plataeans became so famous that Alexander, many years after, when he had obtained the dominion of all Asia, upon erecting the walls of Plataea, caused proclamation to be made, by the herald at the Olympic games, that the king did the Plataeans this favour in consideration of their nobleness and magnanimity, because, in the war with the Medes, they freely gave up their land and zealously fought with the Greeks.
 The Tegeatans, contesting the post of honour with the Athenians, demanded that, according to custom, the Lacedaemonians being ranged on the right wing of the battle, they might have the left, alleging several matters in commendation of their ancestors. The Athenians being indignant at the claim, Aristides came forward: "To contend with the Tegeatans," said he, "for noble descent and valour, the present time permits not; but this we say to you, O you Spartans, and you the rest of the Greeks, that place neither takes away nor contributes courage; we shall endeavour by crediting and maintaining the post you assign us to reflect no dishonour on our former performances. For we are come, not to differ with our friends, but to fight our enemies; not to extol our ancestors, but ourselves to be have as valiant men. This battle will manifest how much each city, captain, and private soldier is worth to Greece." The council of war, upon this address, decided for the Athenians, and gave them the other wing of the battle.
-
-### 14 PLUTARCH: Sulla, 371d- 372c
-
+14 PLUTARCH: Sulla, 371d- 372c
 At present esteeming the consulship but a small matter in comparison of things to come, he was impatiently carried away in thought to the Mithridatic War. Here he was withstood by Marius; who out of mad affectation of glory and thirst for distinction, those never dying passions, though he were now unwieldy in body, and had given up service, on account of his age, during the late campaigns, still coveted after command in a distant war beyond the seas.
 And whilst Sulla was departed for the camp, to order the rest of his affairs there, he sat brooding at home, and at last hatched that execrable sedition, which wrought Rome more mischief than all her enemies together had done, as was indeed foreshown by the gods. For a flame broke forth of its own accord, from under the staves of the ensigns, and was with difficulty extinguished. Three ravens brought their young into the open road, and ate them, carrying the relics into the nest again. Mice having gnawed the consecrated gold in one of the temples, the keepers caught one of them, a female, in a trap; and she bringing forth five young ones in the very trap, devoured three of them. But what was greatest of all, in a calm and clear sky there was heard the sound of a trumpet, with such a loud and dismal blast as struck terror and amazements into the hearts of the people.
 The Etruscan sages affirmed that this prodigy betokened the mutation of the age, and a general revolution in the world. For according to them there are in all eight ages, differing one from another in the lives and the characters of men, and to each of these God has allotted a certain measure of time, determined by the circuit of the great year. And when one age is run out, at the approach of another, there appears some wonderful sign from earth or heaven, such as makes it manifest at once to those who have made it their business to study such things, that there has succeeded in the world a new race of men, differing in customs and institutes of life, and more or less regarded by the gods than the preceding. Among other great changes that happen, as they say, at the turn of ages, the art of divination, also, at one time rises in esteem, and is more successful in its predictions, clearer and surer tokens being sent from God, and then, again, in another generation declines as low, becoming mere guesswork for the most part, and discerning future events by dim and uncertain intimations. This was the mythology of the wisest of the Tuscan sages, who were thought to possess a knowledge beyond other men.
 Whilst the senate sat in consultation with the soothsayers, concerning these prodigies, in the temple of Bellona, a sparrow came flying in, before them all, with a grasshopper in its mouth, and letting fall one part of it, flew away with the remainder. The diviners foreboded commotions and dissensions between the great landed proprietors and the common city populace; the latter, like the grasshopper, being loud and talkative; while the sparrow might represent the "dwellers in the field."
 Marius had taken into alliance Sulpicius, the tribune, a man second to none in any villainies, so that it was less the question what others he surpassed, but rather in what respects he most surpassed himself in wickedness. He was cruel, bold, rapacious, and in all these points utterly shameless and unscrupulous; not hesitating to offer Roman citizenship by public sale to freed slaves and aliens, and to count out the price on public money-tables in the Forum. He maintained three thousand swordmen, and had always about him a company of young men of the equestrian class ready for all occasions, whom he styled his Anti-senate. Having had a law enacted, that no senator should contract a debt of above two thousand drachmas, he himself, after death, was found indebted three millions.
 This was the man whom Marius let in upon the Commonwealth, and who, confounding all things by force and the sword, made several ordinances of dangerous consequence, and amongst the rest one giving Marius the conduct of the Mithridatic war. Upon this the consuls proclaimed a public cessation of business, but as they were holding an assembly near the temple of Castor and Pollux, he let loose the rabble upon them, and amongst many others slew the consul Pompeius's young son in the Forum, Pompeius himself hardly escaping in the crowd. Sulla, being closely pursued into the house of Marius, was forced to come forth and dissolve the cessation; and for his doing this, Sulpicius, having deposed Pompeius, allowed Sulla to continue his consulship, only transferring the Mithridatic expedition to Marius.
-
-### 14 PLUTARCH: Lucullus, 404d-405a
-
+14 PLUTARCH: Lucullus, 404d-405a
 While the Cyzicenians were wondering what the words could mean, a sudden wind sprung up and caused a considerable motion on the sea. The king's battering engines, the wonderful contrivance of Niconides of Thessaly, then under the walls, by their cracking and rattling soon demonstrated what would follow; after which an extraordinarily tempestuous south wind succeeding shattered, in a short space of time, all the rest of the works, and, by a violent concussion, threw down the wooden tower a hundred cibits high. It is said that in Ilium Minerva appeared to many that night in their sleep, with the sweat running down her person, and showed them her robe torn in one place, telling them that she had just arrived from relieving the Cyzicenians; and the inhabitants to this day show a monument, with an inscription, including a public decree, referring to the fact.
 Mithridates, through the knavery of his officers, not knowing for some time the want of provision in his camp, was troubled in mind that the Cyzicenians should hold out against him. But his ambition and anger fell, when he saw his soldiers in the extremity of want, and feeding on men's flesh; as, in truth, Lucullus was not carrying on the war as mere matter of show and stage-play, but, according to the proverb, made the seat of war in the belly, and did everything to cut off their supplies of food. Mithridates, therefore, took advantage of the time while Lucullus was storming a fort, and sent away almost all his horse to Bithynia, with the sumpter cattle, and as many of the foot aswere unfit for service.
 On intelligence of which, Lucullus, while it was yet night, came to his camp, and in the morning, though it was stormy weather, took with him ten cohorts of foot, and the horse, and pursued them under falling snow and in cold so severe that many of his soldiers were unable to proceed; and with the rest coming upon the enemy, near the river Rhyndacus, he overthrew them with so great a slaughter that the very women of Apollonia came out to seize on the booty and strip the slain. Great numbers, as we may suppose, were slain; six thousand horses were taken, with an infinite number of beasts of burden, and no less than fifteen thousand men. All which he led along by the enemy's camp.
-
-### 14 PLUTARCH: Lucullus, 405c
-
+14 PLUTARCH: Lucullus, 405c
 Lucullus first went to Cyzicus, where he was received with all the joy and gratitude suiting the occasion, and then collected a navy, visiting the shores of the Hellespont. And arriving at Troas, he lodged in the temple of Venus, where, in the night, he thought he saw the goddess coming to him, and saying—
 Sleep'st thou, great lion, when the fawns are nigh?
 Rising up hereupon, he called his friends to him, it being yet night, and told them his vision; at which instant some Ilians came up and acquainted him that thirteen of the king's quinqueremes were seen off the Achaean harbour, sailing for Lemnos. He at once put to sea, took these, and slew their admiral, Isidorus.
 And then he made after another squadron, who were just come into port, and were hauling their vessels ashore, but fought from the decks, and sorely galled Lucullus's men; there being neither room to sail round them, nor to bear upon them for any damage, his ships being afloat, while theirs stood secure and fixed on the sand. After much ado, at the only landing- place of the island, he disembarked the choicest of his men, who, falling upon the enemy behind, killed some, and forced others to cut their cables, and thus making from the shore, they fell foul upon one another, or came within the reach of Lucullus's fleet. Many were killed in the action. Among the captives was Marius, the commander sent by Sertorius, who had but one eye. And it was Lucullus's strict command to his men before the engagement, that they should kill no man who had but one eye, that he might rather die under disgrace and reproach.
-
-### 14 PLUTARCH: Agesilaus, 483a-b
-
+14 PLUTARCH: Agesilaus, 483a-b
 Whilst the army was collecting to the rendezvous at Geraestus, Agesilaus went with some of his friends to Aulis, where in a dream he saw a man approach him, and speak to him after this manner: "O King of the Lacedaemonians, you cannot but know that, before yourself, there hath been but one general captain of the whole of the Greeks, namely, Agamemnon; now, since you succeed him in the same office and command the same men, since you war against the same enemies, and begin your expedition from the same place, you ought also to offer such a sacrifice as he offered before he weighed anchor." Agesilaus at the same moment remembered that the sacrifice which Agamemnon offered was his own daughter, he being so directed by the oracle.
 Yet was he not at all disturbed by it, but as soon as he arose, he told his dream to his friends, adding that he would propitiate the goddess with the sacrifices a goddess must delight in, and would not follow the ignorant example of his predecessor. He therefore ordered an hind to be crowned with chaplets, and bade his own soothsayer perform the rite, not the usual person whom the Boeotians, in ordinary course, appointed to that office.
 When the Boeotian magistrates understood it, they were much offended, and sent officers to Agesilaus to forbid his sacrificing contrary to the laws of the country. These, having delivered their message to him, immediately went to the altar and threw down the quarters of the hind that lay upon it. Agesilaus took this very ill, and without further sacrifice immediately sailed away, highly displeased with the Boeotians, and much discouraged in his mind at the omen, boding to himself an unsuccessful voyage and an imperfect issue of the whole expedition.
 When he came to Ephesus, he found the power and interest of Lysander, and the honours paid to him, insufferably great; all applications were made to him, crowds of suitors attended at his door, and followed upon his steps, as if nothing but the mere name of commander belonged, to satisfy the usage, to Agesilaus, the whole power of it being devolved upon Lysander. None of all the commanders that had been sent into Asia was either so powerful or so formidable as he; no one had rewarded his friends better, or had been more severe against his enemies; which things having been lately done, made the greater impression on men's minds, especially when they compared the simple and popular behaviour of Agesilaus with the harsh and violent and briefspoken demeanour which Lysander still retained. Universal preference was yielded to this, and little regard shown to Agesilaus.
-
-### 14 PLUTARCH: Alexander, 568a-b
-
+14 PLUTARCH: Alexander, 568a-b
 And, indeed, he was now grown very severe and inexorable in punishing those who committed any fault. For he put Menander, one of his friends, to death for deserting a fortress where he had placed him in garrison, and shot Orsodates, one of the barbarians who revolted from him, with his own hand.
 At this time a sheep happened to yean a lamb, with the perfect shape and colour of a tiara upon the head, and testicles on each side; which portent Alexander regarded with such dislike, that he immediately caused his Babylonian priests, whom he usually carried about with him for such purposes, to purify him, and told his friends he was not so much concerned for his own sake as for theirs, out of an apprehension that after his death the divine power might suffer his empire to fall into the hands of some degenerate, impotent person.
 But this fear was soon removed by a wonderful thing that happened not long after, and was thought to presage better. For Proxenus, a Macedonian, who was the chief of those who looked to the king's furniture, as he was breaking up the ground near the river Oxus, to set up the royal pavilion, discovered a spring of a fat oily liquor, which, after the top was taken off, ran pure, clear oil, without any difference either of taste or smell, having exactly the same smoothness and brightness, and that, too, in a country where no olives grew. The water, indeed, of the river Oxus, is said to be the smoothest to the feeling of all waters, and to leave a gloss on the skins of those who bathe themselves in it. Whatever might be the cause, certain it is that Alexander was wonderfully pleased with it, as appears by his letters to Antipater, where he speaks of it as one of the most remarkable presages that God had ever favoured him with. The diviners told him it signified his expedition would be glorious in the event, but very painful, and attended with many difficulties; for oil, they said, was bestowed on mankind by God as a refreshment of their labours.
-
-### 14 PLUTARCH: Demosthenes, 698b-699a
-
+14 PLUTARCH: Demosthenes, 698b-699a
 But there was, it would seem, some divinely ordered fortune, commissioned, in the revolution of things, to put a period at this time to the liberty of Greece, which opposed and thwarted all their actions, and by many signs foretold what should happen. Such were the sad predictions uttered by the Pythian priestess, and this old oracle cited out of the Sibyl's verses:—
 The battle on Thermodon that shall be
 Safe at a distance I desire to see,
 Far, like an eagle, watching in the air,
-
-### Conquered shall weep, and conqueror perish
-
+Conquered shall weep, and conqueror perish
 there.
 This Thermodon, they say, is a little rivulet here in our country in Chaeronea, running into the Cephisus. But we know of none that is so called at the present time; and can only conjecture that the streamlet which is now called Haemon, and runs by the temple of Hercules, where the Grecians were encamped, might perhaps in those days be called Thermodon, and after the fight, being filled with blood and dead bodies, upon this occasion, as we guess, might change its old name for that which it now bears. Yet Duris says that this Thermodon was no river, but that some of the soldiers, as they were pitching their tents and digging trenches about them, found a small stone statue, which, by the inscription, appeared to be the figure of Thermodon, carrying a wounded Amazon in his arms; and that there was another oracle current about it, as follows:—
 The battle on Thermodon that shall be,
@@ -11589,105 +10957,67 @@ In the meantime, Philip, in the first moment of victory, was so transported with
 The motion of Demosthenes, Demosthenes's son,
 dividing it metrically into feet, and marking the beats.
 But when he came to himself, and had well considered the danger he was lately under, he could not forbear from shuddering at the wonderful ability and power of an orator who had made him hazard his life and empire on the issue of a few brief hours. The fame of it also reached even to the court of Persia, and the king sent letters to his lieutenants commanding them to supply Demosthenes with money, and to pay every attention to him, as the only man of all the Grecians who was able to give Philip occupation and find employment for his forces near home, in the troubles of Greece. This afterwards came to the knowledge of Alexander, by certain letters of Demosthenes which he found at Sardis, and by other papers of the Persian officers, stating the large sums which had been given him.
-
-### 14 PLUTARCH: Dion, 781d-782a
-
+14 PLUTARCH: Dion, 781d-782a
 We may also draw a close parallel of the lives of the two men from their fortunes, wherein chance, even more than their own designs, made them nearly alike. For they were both cut off by an untimely death, not being able to accomplish those ends which through many risks and difficulties they aimed at. But, above all, this is most wonderful; that by preternatural interposition both of them had notice given of their approaching death by an unpropitious form, which visibly appeared to them. And yet there are people who utterly deny any such thing, and say that no man in his right senses ever yet saw any supernatural phantom or apparition, but that children only, and silly women, or men disordered by sickness, in some aberration of the mind or distemperature of the body, have had empty and extravagant imaginations, whilst the real evil genius, superstition, was in themselves.
 Yet if Dion and Brutus, men of solid understanding, and philosophers, not to be easily deluded by fancy or discomposed by any sudden apprehension, were thus affected by visions that they forthwith declared to their friends what they had seen, I know not how we can avoid admitting again the utterly exploded opinion of the oldest times, that evil and beguiling spirits, out of envy to good men, and a desire of impeding their good deeds, make efforts to excite in them feelings of terror and distraction, to make them shake and totter in their virtue, lest by a steady and unbiassed perseverance they should obtain a happier condition than these beings after death.
 But I shall leave these things for another opportunity, and, in this twelfth book of the lives of great men compared one with another, begin with his who was the elder.
 Dionysius the First, having possessed himself of the government, at once took to wife the daughter of Hermocrates, the Syracusan. She, in an outbreak which the citizens made before the new power was well settled, was abused in such a barbarous and outrageous manner that for shame she put an end to her own life. But Dionysius, when he was re-established and confirmed in his supremacy, married two wives together, one named Doris, of Locri, the other Aristomache, a native of Sicily, and daughter of Hipparinus, a man of the first quality in Syracuse, and colleague with Dionysius when he was first chosen general with unlimited powers for the war. It is said he married them both in one day, and no one ever knew which of the two he first made his wife; and ever after he divided his kindness equally between them, both accompanying him together at his table, and in his bed by turns.
-
-### 14 PLUTARCH: Marcus Brutus, 818a-b
-
+14 PLUTARCH: Marcus Brutus, 818a-b
 Caesar made a view and lustration of his army within his trenches, and distributed only a little corn and but five drachmas to each soldier for the sacrifice they were to make. But Brutus, either pitying this poverty, or disdaining this meanness of spirit in Caesar, first, as the custom was, made a general muster and lustration of the army in the open field, and then distributed a great number of beasts for sacrifice to every regiment, and fifty drachmas to every soldier; so that in the love of his soldiers and their readiness to fight for him Brutus had much the advantage.
 But at the time of lustration it is reported that an unlucky omen happened to Cassius; for his lictor, presenting him with a garland that he was to wear at sacrifice, gave it him the wrong way up. Further, it is said that some time before, at a certain solemn procession, a golden image of Victory, which was carried before Cassius, fell down by a slip of him that carried it. Besides this there appeared many birds of prey daily about the camp, and swarms of bees were seen in a place within the trenches, which place the soothsayers ordered shut out from the camp, to remove the superstition which insensibly began to infect even Cassius himself and shake him in his Epicurean philosophy, and had wholly seized and subdued the soldiers; from whence it was that Cassius was reluctant to put all to the hazard of a present battle, but advised rather to draw out the war until further time, considering that they were stronger in money and provisions, but in numbers of men and arms inferior.
 But Brutus, on the contrary, was still, as formerly, desirous to come with all speed to the decision of a battle; that so he might either restore his country to her liberty, or else deliver from their misery all those numbers of people whom they harassed with the expenses and the service and exactions of the war. And finding also his light-horse in several skirmishes still to have had the better, he was the more encouraged and resolved; and some of the soldiers having deserted and gone to the enemy, and others beginning to accuse and suspect one another, many of Cassius's friends in the council changed their opinions to that of Brutus. But there was one of Brutus's party, named Attellius, who opposed his resolution, advising rather that they should tarry over the winter. And when Brutus asked him in how much better a condition he hoped to be a year after, his answer was, "If I gain nothing else, yet I shall live so much the longer." Cassius was much displeased at this answer; and among the rest, Attellius was held in much disesteem for it. And so it was presently resolved to give battle the next day.
-
-### 14 PLUTARCH: Marcus Brutus, 822b
-
+14 PLUTARCH: Marcus Brutus, 822b
 The same night, they say, the vision appeared again to Brutus, in the same shape that it did before, but vanished without speaking. But Publius Volumnius, a philosopher, and one that had from the beginning borne arms with Brutus, makes no mention of this apparition, but says that the first eagle was covered with a swarm of bees, and that there was one of the captains whose arm of itself sweated oil of roses, and, though they often dried and wiped it, yet it would not cease; and that immediately before the battle, two eagles falling upon each other fought in the space between the two armies, that the whole field kept incredible silence and all were intent upon the spectacle, until at last that which was on Brutus's side yielded and fled. But the story of the Ethiopian is very famous, who, meeting the standard-bearer at the opening of the gate of the camp, was cut to pieces by the soldiers, that took it for an ill omen.
 Brutus, having brought his army into the field and set them in array against the enemy, paused a long while before he would fight; for as he was reviewing the troops, suspicion*, were excited and informations laid against some of them. Besides, he saw his horse not very eager to begin the action, and waiting to see what the foot would do. Then suddenly Camulatus, a very good soldier, and one whom for his valour he highly esteemed, riding hard by Brutus himself, went over to the enemy, the sight of which grieved Brutus exceedingly. So that partly out of anger, and partly out of fear of some greater treason and desertion, he immediately drew on his forces upon the enemy, the sun now declining, about three of the clock in the afternoon. Brutus on his side had the better, and pressed hard on the left wing, which gave way and retreated; and the horse too fell in together with the foot, when they saw the enemy in disorder.
 
 ## 15 TACITUS: Annals, BK I, 9a-b; BK II, 26c; 27b; BK IV, 79b; BK VI, 95d-96a; BK XI, 105c; BK XII, 112d-113a; 119b; 124b; BK XIV, 149b-c; BK XV, 168d-169a / Histories, BK I, 206a; 212d- 213a; BK II, 228a-b; 235a-c; BK III, 256d; BK IV, 293a-294a
 
-
-### 15 TACITUS: Annals, BK I, 9a-b
-
+15 TACITUS: Annals, BK I, 9a-b
 28. That terrible night which threatened an explosion of crime was tranquillised by a mere accident. Suddenly in a clear sky the moon's radiance seemed to die away. This the soldiers in their ignorance of the cause regarded as an omen of their condition, comparing the failure of her light to their own efforts, and imagining that their attempts would end prosperously should her brightness and splendour be restored to the goddess. And so they raised a din with brazen instruments and the combined notes of trumpets and horns, with joy or sorrow, as she brightened or grew dark. When clouds arose and obstructed their sight, and it was thought she was buried in the gloom, with that proneness to superstition which steals over minds once thoroughly cowed, they lamented that this was a portent of never-ending hardship, and that heaven frowned on their deeds. Drusus, thinking that he ought to avail himself of this change in their temper and turn what chance had offered to a wise account, ordered the tents to be visited. Clemens, the centurion was summoned with all others who for their good qualities were liked by the common soldiers. These men made their way among the patrols, sentries and guards of the camp-gates, suggesting hope or holding out threats. "How long will you besiege the emperor's son? What is to be the end of our strifes? Will Percennius and Vibulenus give pay to the soldiers and land to those who have earned their discharge? In a word, are they, instead of the Neros and the Drusi, to control the empire of the Roman people? Why are we not rather first in our repentance as we were last in the offence? Demands made in common are granted slowly; a separate favour you may deserve and receive at the same moment."
 With minds affected by these words and growing mutually suspicious, they divided off the new troops from the old, and one legion from another. Then by degrees the instinct of obedience returned. They quitted the gates and restored to their places the standards which at the beginning of the mutiny they had grouped into one spot.
 29. At daybreak Drusus called them to an assembly, and, though not a practised speaker, yet with natural dignity upbraided them for their past and commended their present behaviour. He was not, he said, to be conquered by terror or by threats. Were he to see them inclining to submission and hear the language of entreaty, he would write to his father, that he might be merciful and receive the legions' petition. At their prayer, Blaesus and Lucius Apronius, a Roman knight on Drusus's staff, with Justus Catonius, a first-rank centurion, were again sent to Tiberius. Then ensued a conflict of opinion among them, some maintaining that it was best to wait the envoys' return and meanwhile humour the soldiers, others, that stronger measures ought to be used, inasmuch as the rabble knows no mean, and inspires fear, unless they are afraid, though when they have once been overawed, they can be safely despised. "While superstition still swayed them, the general should apply terror by removing the leaders of the mutiny."
-
-### 15 TACITUS: Annals, BK II, 26c
-
+15 TACITUS: Annals, BK II, 26c
 14. The same night brought with it a cheering dream to Germanicus. He saw himself engaged in sacrifice, and his robe being sprinkled with the sacred blood, another more beautiful was given him by the hands of his grandmother Augusta. Encouraged by the omen and finding the auspices favourable, he called an assembly, and explained the precautions which wisdom suggested as suitable for the impending battle. "It is not," he said, "plains only which are good for the fighting of Roman soldiers, but woods ' and forest passes, if science be used. For the huge shields and unwieldly lances of the barbarians cannot, amid trunks of trees and brushwood that springs from the ground, be so well managed as our javelins and swords and closefitting armour. Shower your blows thickly; strike at the face with your swords' points. The German has neither cuirass nor helmet; even his shield is not strengthened with leather or steel, but is of osiers woven together or of thin and painted board. If their first line is armed with spears, the rest have only weapons hardened by fire or very short. Again, though their frames are terrible to the eye and formidable in a brief onset, they have no capacity of enduring wounds; without any shame at the disgrace, without any regard to their leaders, they quit the field and flee; they quail under disaster, just as in success they forget alike divine and human laws. If in your weariness of land and sea you desire an end of service, this battle prepares the way to it. The Elbe is now nearer than the Rhine, and there is no war beyond, provided only you enable me, keeping close as I do to my father's and my uncle's footsteps, to stand a conqueror on the same spot."
-
-### 15 TACITUS: Annals, BK II, 27b;
-
+15 TACITUS: Annals, BK II, 27b;
 16. When they were thus roused and were demanding battle, their chiefs led them down into a plain named Idistavisus. It winds between the Visurgis and a hill range, its breadth varying as the river banks recede or the spurs of the hills project on it. In their rear rose a forest, with the branches rising to a great height, while there were clear spaces between the trunks. The barbarian army occupied the plain and the outskirts of the wood. The Cherusci were posted by themselves on the high ground, so as to rush down on the Romans during the battle.
 Our army advanced in the following order. The auxiliary Gauls and Germans were in the van, then the foot-archers, after them, four legions and Caesar himself with two praetorian cohorts and some picked cavalry. Next came as many other legions, and light-armed troops with horse-bowmen, and the remaining cohorts of the allies. The men were quite ready and prepared to form in line of battle according to their marching order.
 17. Caesar, as soon as he saw the Cheruscan bands which in their impetuous spirit had rushed to the attack, ordered the finest of his cavalry to charge them in flank, Stertinius with the other squadrons to make a detour and fall on their rear, promising himself to come up in good time. Meanwhile there was a most encouraging augury. Eight eagles, seen to fly towards the woods and to enter them, caught the general's eye. "Go," he exclaimed, "follow the Roman birds, the true deities of our legions." At the same moment the infantry charged, and the cavalry which had been sent on in advance dashed on the rear and the flanks. And, strange to relate, two columns of the enemy fled in opposite directions, that, which had occupied the wood, rushing into the open, those who had been drawn up on the plains, into the wood. The Cherusci, who were between them, were dislodged from the hills, while Arminius, conspicuous among them by gesture, voice, and a wound he had received, kept up the fight. He had thrown himself on our archers and was on the point of breaking through them, when the cohorts of the Raeti, Vendelici, and Gauls faced his attack. By a strong bodily effort, however, and a furious rush of his horse, he made his way through them, having smeared his face with his blood, that he might not be known. Some have said that he was recognised by Chauci serving among the Roman auxiliaries, who let him go.
-
-### 15 TACITUS: Annals, BK IV, 79b
-
+15 TACITUS: Annals, BK IV, 79b
 59. It happened at this time that a perilous accident which occurred to the emperor strengthened vague rumours and gave him grounds for trusting more fully in the friendship and fidelity of Sejanus. They were dining in a country house called "The Cave," between the gulf of Amuclae and the hills of Fundi, in a natural grotto. The rocks at its entrance suddenly fell in and crushed some of the attendants; thereupon panic seized the whole company and there was a general flight of the guests. Sejanus hung over the emperor, and with knee, face, and hand encountered the falling stones; and was found in this attitude by the soldiers who came to their rescue. After this he was greater than ever, and though his counsels were ruinous, he was listened to with confidence, as a man who had no care for himself. He pretended to act as a judge towards the children of Germanicus, after having suborned persons to assume the part of prosecutors and to inveigh specially against Nero, next in succession to the throne, who, though he had proper youthful modesty, often forgot present expediency, while freedmen and clients, eager to get power, incited him to display vigour and self-confidence. "This," they said, "was what the Roman people wished, what the armies desired, and Sejanus would not dare to oppose it, though now he insulted alike the tame spirit of the old emperor and the timidity of the young prince."
-
-### 15 TACITUS: Annals, BK VI, 95d-96a
-
+15 TACITUS: Annals, BK VI, 95d-96a
 37. Vitellius, as soon as Artabanus had fled and his people were inclined to have a new king, urged Tiridates to seize the advantage thus offered, and then led the main strength of the legions and the allies to the banks of the Euphrates. While they were sacrificing, the one, after Roman custom, offering a swine, a ram and a bull; the other, a horse which he had duly prepared as a propitiation to the river-god, they were informed by the neighbouring inhabitants that the Euphrates, without any violent rains, was of itself rising to an immense height, and that the white foam was curling into circles like a diadem, an omen of a prosperous passage. Some explained it with more subtlety, of a successful commencement to the enterprise, which, however, would not be lasting, on the ground, that though a confident trust might be placed in prognostics given in the earth or in the heavens, the fluctuating character of rivers exhibited omens which vanished the same moment.
 A bridge of boats having been constructed and the army having crossed, the first to enter the camp was Ornospades, with several thousand cavalry. Formerly an exile, he had rendered conspicuous aid to Tiberius in the completion of the Dalmatic war, and had for this been rewarded with Roman citizenship. Subsequently, he had again sought the friendship of his king, by whom he had been raised to high honour, and appointed governor of the plains, which, being surrounded by the waters of those famous rivers, the Euphrates and Tigris, have received the name of Mesopotamia. Soon afterwards, Sinnaces reinforced the army, and Abdageses, the mainstay of the party, came with the royal treasure and what belonged to the crown. Vitellius thought it enough to have displayed the arms of Rome, and he then bade Tiridates remember his grandfather Phraates, and his foster-father Caesar, and all that was glorious in both of them, while the nobles were to show obedience to their king, and respect for us, each maintaining his honour and his loyalty. This done, he returned with the legions to Syria.
-
-### 15 TACITUS: Annals, BK XI, 105c
-
+15 TACITUS: Annals, BK XI, 105c
 21. Of the birth of Curtius Rufus, whom some affirm to have been the son of a gladiator, I would not publish a falsehood, while I shrink from telling the truth. On reaching manhood he attached himself to a quaestor to whom Africa had been allotted, and was walking alone at midday in some unfrequented arcade in the town of Adrumetum, when he saw a female figure of more than human stature, and heard a voice, "Thou, Rufus, art the man who will one day come into this province as proconsul." Raised high in hope by such a presage, he returned to Rome, where, through the lavish expenditure of his friends and his own vigorous ability, he obtained the quaestorship, and, subsequently, in competition with well-born candidates, the praetorship, by the vote of the emperor Tiberius, who threw a veil over the discredit of his origin, saying, "Curtius Rufus seems to me to be his own ancestor." Afterwards, throughout a long old age of surly sycophancy to those above him, of arrogance to those beneath him, and of moroseness among his equals, he gained the high office of the consulship, triumphal distinctions, and, at last, the province of Africa. There he died, and so fulfilled the presage of his destiny.
 22. At Rome meanwhile, without any motive then known or subsequently ascertained, Cneius Nonius, a Roman knight, was found wearing a sword amid a crowd who were paying their respects to the emperor. The man confessed his own guilt when he was being torn in pieces by torture, but gave up no accomplices, perhaps having none to hide.
-
-### 15 TACITUS: Annals, BK XII, 112d-113a
-
+15 TACITUS: Annals, BK XII, 112d-113a
 13. As they approached the plains, wearied with the snows and mountains, they were joined by the forces of Carenes, and having crossed the river Tigris they traversed the country of the Adiabeni, whose king Izates had avowedly embraced the alliance of Meherdates, though secretly and in better faith he inclined to Gotarzes. In their march they captured the city of Ninos, the most ancient capital of Assyria, and a fortress, historically famous, as the spot where in the last battle between Darius and Alexander the power of Persia fell. Gotarzes meantime was offering vows to the local divinities on a mountain called Sambulos, with special worship of Hercules, who at a stated time bids the priests in a dream equip horses for the chase and place them near his temple. When the horses have been laden with quivers full of arrows, they scour the forest and at length return at night with empty quivers, panting violently. Again the god in a vision of the night reveals to them the track along which he roamed through the woods, and everywhere slaughtered beasts are found.
 14. Gotarzes, his army not being yet in sufficient force, made the river Corma a line of defence, and though he was challenged to an engagement by taunting messages, he contrived delays, shifted his positions and sent emissaries to corrupt the enemy and bribe them to throw off their allegiance. Izates of the Adiabeni and then Acbarus of the Arabs deserted with their troops, with their countrymen's characteristic fickleness, confirming previous experience, that barbarians prefer to seek a king from Rome than to keep him. Meherdates, stript of his powerful auxiliaries and suspecting treachery in the rest, resolved, as his last resource, to risk everything and try the issue of a battle. Nor did Gotarzes, who was emboldened by the enemy's diminished strength, refuse the challenge. They fought with terrible courage and doubtful result, till Carenes, who having beaten down all resistance had advanced too far, was surprised by a fresh detachment in his rear. Then Meherdates in despair yielded to promises from Parrhaces, one of his father's adherents, and was by his treachery delivered in chains to the conqueror. Gotarzes taunted him with being no kinsman of his or of the Arsacids, but a foreigner and a Roman, and having cut off his ears, bade him live, a memorial of his own clemency, and a disgrace to us. After this Gotarzes fell ill and died, and Vonones, who then ruled the Medes, was summoned to the throne. He was memorable neither for his good nor bad fortune; he completed a short and inglorious reign, and then the empire of Parthia passed to his son Vologeses.
-
-### 15 TACITUS: Annals, BK XII, 119b
-
+15 TACITUS: Annals, BK XII, 119b
 43. Several prodigies occurred in that year. Birds of evil omen perched on the Capitol; houses were thrown down by frequent shocks of earthquake, and as the panic spread, all the weak were trodden down in the hurry and confusion of the crowd. Scanty crops too, and consequent famine were regarded as a token of calamity. Nor were there merely whispered complaints; while Claudius was administering justice, the populace crowded round him with a boisterous clamour and drove him to a corner of the forum, where they violently pressed on him till he broke through the furious mob with a body of soldiers. It was ascertained that Rome had provisions for no more than fifteen days, and it was through the signal bounty of heaven and the mildness of the winter that its desperate plight was relieved. And yet in past days Italy used to send supplies for the legions into distant provinces, and even now it is not a barren soil which causes distress. But we prefer to cultivate Africa and Egypt, and trust the life of the Roman people to ships and all their risks.
-
-### 15 TACITUS: Annals, BK XII, 124b
-
+15 TACITUS: Annals, BK XII, 124b
 64. In the year of the consulship of Marcus Asinius and Manius Acilius it was seen to be portended by a succession of prodigies that there were to be political changes for the worse. The soldiers' standards and tents were set in a blaze by lightning. A swarm of bees settled on the summit of the Capitol; births of monsters, half man, half beast, and of a pig with a hawk's talons, were reported. It was accounted a portent that every order of magistrates had had its number reduced, a quaestor, an aedile, a tribune, a praetor and consul having died within a few months. But Agrippina's terror was the most conspicuous. Alarmed by some words dropped by Claudius when half intoxicated, that it was his destiny to have to endure his wives' infamy and at last punish it, she determined to act without a moment's delay. First she destroyed Lepida from motives of feminine jealousy. Lepida indeed as the daughter of the younger Antonia, as the grandniece of Augustus, the cousin of Agrippina, and sister of her husband Cneius, thought herself of equally high rank. In beauty, youth, and wealth they differed but slightly. Both were shameless, infamous, and intractable, and were rivals in vice as much as in the advantages they had derived from fortune. It was indeed a desperate contest whether the aunt or the mother should have most power over Nero. Lepida tried to win the young prince's heart by flattery and lavish liberality, while Agrippina on the other hand, who could give her son empire but could not endure that he should be emperor, was fierce and full of menace.
-
-### 15 TACITUS: Annals, BK XIV, 149b-c
-
+15 TACITUS: Annals, BK XIV, 149b-c
 32. Meanwhile, without any evident cause, the statue of Victory at Camulodunum fell prostrate and turned its back to the enemy, as though it fled before them. Women excited to frenzy prophesied impending destruction; ravings in a strange tongue, it was said, were heard in their Senate-house ; their theatre resounded with wailings, and in the estuary of the Tamesa had been seen the appearance of an overthrown town; even the ocean had worn the aspect of blood, and, when the tide ebbed, there had been left the likenesses of human forms, marvels interpreted by the Britons, as hopeful, by the veterans, as alarming. But as Suetonius was far away, they implored aid from the procurator, Gatus Decianus. All he did was to send two hundred men, and no more, without regular arms, and there was in the place but a small military force. Trusting to the protection of the temple, hindered too by secret accomplices in the revolt, who embarrassed their plans, they had constructed neither fosse nor rampart; nor had they removed their old men and women, leaving their youth alone to face the foe. Surprised, as it were, in the midst of peace, they were surrounded by an immense host of the barbarians. All else was plundered or fired in the onslaught; the temple where the soldiers had assembled, was stormed after a two days' siege. The victorious enemy met Petilius Cerialis, commander of the ninth legion, as he was coming to the rescue, routed his troops, and destroyed all his infantry. Cerialis escaped with some cavalry into the camp, and was saved by its fortifications. Alarmed by this disaster and by the fury of the province which he had goaded into war by his rapacity, the procurator Catus crossed over into Gaul.
 33. Suetonius, however, with wonderful resolution, marched amidst a hostile population to Londinium, which, though undistinguished by the name of a colony, was much frequented by a number of merchants and trading vessels. Uncertain whether he should choose it as a seat of war, as he looked round on his scanty force of soldiers, and remembered with what a serious warning the rashness of Petilius had been punished, he resolved to save the province at the cost of a single town. Nor did the tears and weeping of the people, as they implored his aid, deter him from giving the signal of departure and receiving into his army all who would go with him. Those who were chained to the spot by the weakness of their sex, or the infirmity of age, or the attractions of the place, were cut off by the enemy. Like ruin fell on the town of Verulamium, for the barbarians, who delighted in plunder and were indifferent to all else, passed by the fortresses with military garrisons, and attacked whatever offered most wealth to the spoiler, and was unsafe for defence. About seventy thousand citizensand allies, it appeared, fell in the places which I have mentioned. For it was not on making prisoners and selling them, or on any of the barter of war, that the enemy was bent, but on slaughter, on the gibbet, the fire and the cross, like men soon about to pay the penalty, and meanwhile snatching at instant vengeance.
-
-### 15 TACITUS: Annals, BK XV, 168d-169a
-
+15 TACITUS: Annals, BK XV, 168d-169a
 47. At the close of the year people talked much about prodigies, presaging impending evils. Never were lightning flashes more frequent, and a comet too appeared, for which Nero always made propitiation with noble blood. Human and other births with two heads were exposed to public view, or were discovered in those sacrifices in which it is usual to immolate victims in a pregnant condition. And in the district of Placentia, close to the road, a calf was born with its head attached to its leg. Then followed an explanation of the diviners, that another head was preparing for the world, which however would be neither mighty nor hidden, as its growth had been checked in the womb, and it had been born by the wayside.
 48. Silius Nerva and Atticus Vestinus then entered on the consulship, and now a conspiracy was planned, and at once became formidable, for which senators, knights, soldiers, even women, had given their names with eager rivalry, out of hatred of Nero as well as a liking for Caius Piso. A descendant of the Calpurnian house, and embracing in his connections through his father's noble rank many illustrious families, Piso had a splendid reputation with the people from his virtue or semblance of virtue. His eloquence he exercised in the defence of fellow-citizens, his generosity towards friends, while even for strangers he had a courteous address and demeanour. He had, too, the fortuitous advantages of tall stature and a handsome face. But solidity of character and moderation in pleasure were wholly alien to him. He indulged in laxity, in display, and occasionally in excess. This suited the taste of that numerous class who, when the attractions of vice are so powerful, do not wish for strictness or special severity on the throne.
-
-### 15 TACITUS: Histories, BK I, 206a
-
+15 TACITUS: Histories, BK I, 206a
 63. The territory of the Treveri they entered with all the security naturally felt among allies. But at Divodurum, a town of the Mediomatrici, though they had been received with the most courteous hospitality, a sudden panic mastered them. In a moment they took up arms to massacre an innocent people, not for the sake of plunder, or fired by the lust of spoil, but in a wild frenzy arising from causes so vague that it was very difficult to apply a remedy. Soothed at length by the entreaties of their general, they refrained from utterly destroying the town; yet as many as four thousand human beings were slaughtered. Such an alarm was spread through Gaul, that as the army advanced, whole states, headed by their magistrates and with prayers on their lips, came forth to meet it, while the women and children lay prostrate along the roads, and all else that might appease an enemy's fury was offered, though war there was none, to secure the boon of peace.
 15 TACITUS: Histories, BK I, 212d- 213a
 86. Prodigies which were now noised abroad from various sources increased men's terror. It was said that in the porch of the Capitol the reins of the chariot, on which stood the goddess of Victory, had dropped from her hand, that from the chapel of Juno there had rushed forth a form greater than the form of man, that the statue of the Divine Julius, which stands on the island in the Tiber, had turned from the West to the East on a calm and tranquil day, that an ox had spoken aloud in Etruria, that strange births of animals had taken place, besides many other things, such as in barbarous ages are observed even during seasons of peace, but are now heard of only in times of terror. But an alarm greater than all, because it connected immediate loss with fears for the future, arose from a sudden inundation of the Tiber. The river became vastly swollen, broke down the wooden bridge, was checked by the heap of ruins across the current, and overflowed not only the low and level districts of the capital, but also much that had been thought safe from such casualties. Many were swept away in the streets, many more were cut off in their shops and chambers. The want of employment and the scarcity of provisions caused a famine among the populace. The poorer class of houses had their foundations sapped by the stagnant waters, and fell when the river returned to its channel. When men's minds were no longer occupied by their fears, the fact, that while Otho was preparing for his campaign, the Campus Martius and the Via Flaminia, his route to the war, were obstructed by causes either fortuitous or natural, was regarded as a prodigy and an omen of impending disasters.
 87. Otho, after publicly purifying the city and weighing various plans for the campaign, determined to march upon Gallia Narbonensis,as the passes of the Penine and Cottian Alps and all the other approaches to Gaul were held by the armies of Vitellius.His fleet was strong and loyal to his cause, for he had enrolled in the ranks of the legion the survivors of the slaughter at the Milvian bridge, whom the stern policy of Galba had retained in custody, while to the rest he had held out hopes of a more honourable service for the future. To the fleet he had added some city cohorts, and many of the Praetorians, the stay and strength of his army, who might at once advise and watch the generals. The command of the expedition was entrusted to Antonius Novellus and Suedius Clemens, centurions of the first rank, and ^Emilius Pacensis, to whom Otho had restored the rank of tribune, taken from him by Galba. Oscus, a freedman, retained the charge of the fleet, and went to watch the fidelity of men more honourable than himself. Suetonius Paullinus, Marius Celsus, and Annius Gallus, were appointed to command the infantry and cavalry. The Emperor, however, placed most confidence in Licinius Proculus, prefect of the Praetorian Guard; an active officer at home, without experience in war, he founded perpetual accusations on the high influence of Paullinus, on the energy of Celsus, on the mature judgment of Gallus, in fact, on each man's special excellence, a thing most easy to do; and thus the unscrupulous and the cunning were preferred before the modest and the good.
-
-### 15 TACITUS: Histories, BK II, 228a-b
-
+15 TACITUS: Histories, BK II, 228a-b
 50. Thus Otho ended his life in the 37th year of his age. He came from the municipal town of Ferentinum. His father was of consular, his grandfather of praetorian rank. His family on the mother's side was of less distinction, but yet respectable. What his boyhood and his youth had been, we have already shewn. By two daring acts, one most atrocious, the other singularly noble, he earned in the eyes of posterity about an equal share of infamy and of glory. I should think it unbecoming the dignity of the task which I have undertaken, to collect fabulous marvels, and to amuse with fiction the tastes of my readers; at the same time I would not venture to impugn the credit of common report and tradition. The natives of these parts relate that on the day when the battle was being fought at Bedriacum, a bird of unfamiliar appearance settled in a much frequented grove near Regium Lepidum, and was not frightened or driven away by the concourse of people, or by the multitude of birds that flocked round it, until Otho killed himself; then it vanished. When they came to compute the time, it was found that the commencement and the end of this strange occurrence tallied with the last scenes of Otho's life.
 51. At the funeral the mutinous spirit of the soldiers was kindled afresh by their sorrow and regret, and there was no one to check them. They turned to Verginius, and in threatening language, at one time besought him to accept the Imperial dignity, at another, to act as envoy to Caecina and Valens. Verginius secretly departed by a back way from his house, and thus managed to elude them when they burst in. Rubrius Gallus was charged with the petition of the cohorts which had been quartered at Brixellum. An amnesty was immediately granted to them, while at the same time the forces which had been commanded by Flavius Sabinus signified through him their submission to the conqueror.
 52. Hostilities had ceased everywhere, but a considerable number of the Senate, who had accompanied Otho from Rome, and had been afterwards left at Mutina, encountered the utmost peril. News of the defeat was brought to this place. The soldiers, however, rejected it as a false report; and judging the Senate to be hostile to Otho, watched their language, and put an unfavourable construction on their looks and manner. Proceeding at last to abuse and insults, they sought a pretext for beginning a massacre, while a different anxiety also weighed upon the Senators, who, knowing that the party of Vitellius was in the ascendant, feared that they might seem to have been tardy in welcoming the conqueror. Thus they met in great alarm and distracted by a twofold apprehension; no one was ready with any advice of his own, but looked for safety in sharing any mistake with many others. The anxieties of the terrified assembly were aggravated when the Senate of Mutina made them an offer of arms and money, and, with an ill-timed compliment, styled them "Conscript Fathers."
-
-### 15 TACITUS: Histories, BK II, 235a-c
-
+15 TACITUS: Histories, BK II, 235a-c
 78. After this speech from Mucianus, the other officers crowded round Vespasian with fresh confidence, encouraging him, and reminding him of the responses of prophets and the movements of the heavenly bodies. Nor was Vespasian proof against this superstition, for afterwards, when master of the world, he openly retained one Seleucus, an astrologer, to direct his counsels, and to foretell the future. Old omens now recurred to his thoughts. A cypress tree of remarkable height on his estate had suddenly fallen, and rising again the following day on the very same spot, had flourished with majestic beauty and even broader shade. This, as the Haruspices agreed, was an omen of brilliant success, and the highest distinction seemed prophesied to Vespasian in early youth. At first, however, the honours of a triumph, his consulate, and the glory of his victories in Judaea, appeared to have justified the truth of the omen. When he had won these distinctions, he began to believe that it portended the Imperial power. Between Judaea and Syria is Mount Carmel; this is the name both of the mountain and the Deity. They have no image of the god nor any temple; the tradition of antiquity recognizes only an altar and its sacred association. While Vespasian was there offering sacrifice and pondering his secret hopes, Basilides the priest, after repeated inspections of the entrails, said to him, "Whatever be your purposes, Vespasian, whether you think of building a house, of enlarging your estate, or augmenting the number of your slaves, there is given you a vast habitation, boundless territory, a multitude of men." These obscure intimations popular rumour had at once caught up, and now began to interpret. Nothing was more talked about by the common people. In Vespasian's presence the topic was more frequently discussed, because to the aspirant himself men have more to say.
 79. With purposes no longer doubtful they parted, Mucianus for Antioch, Vespasian for Caesarea. These cities are the capitals of Syria and Judaea respectively. The initiative in transferring the Empire to Vespasian was taken at Alexandria under the prompt direction of Tiberius Alexander, who on the 1st of July made the legions swear allegiance to him. That day was ever after celebrated as the first of his reign, though the army of Judaea on July 3rd took the oath to Vespasian in person with such eager alacrity that they would not wait for the return of his son Titus, who was then on his way back from Syria, acting as the medium between Mucianus and his father for the communication of their plans. All this was done by the impulsive action of the soldiers without the preliminary of a formal harangue or any concentration of the legions.
-
-### 15 TACITUS: Histories, BK III, 256d
-
+15 TACITUS: Histories, BK III, 256d
 56. While he was haranguing his troops (marvellous to relate) such a multitude of ill-omened birds flew over him, as to obscure with a dark cloud the light of day. There occurred another terrible presage. A bull escaped from the altar, scattered the preparations for sacrifice, and was finally slain far from the spot where the victims are usually struck down. But the most portentous spectacle of all was Vitellius himself, ignorant of military matters and without forethought in his plans, even asking others about the order of march, about the business of reconnoitring, and the discretion to be used in pushing on or protracting the campaign, betraying in his countenance and gait his alarm at every fresh piece of intelligence, and finally drinking to intoxication. At last, weary of the camp, and having received tidings of the defection of the fleet at Misenum, he returned to Rome, trembling at every new disaster, but reckless of the final result. For though it was open to him to have crossed the Apennines with an army in unimpaired vigour, and to have attacked in the field an enemy suffering from cold and scant supplies, yet, by dividing his forces, he abandoned to destruction or captivity troops of the keenest courage and faithful to the last, against the judgment of the most experienced among the centurions, who, had they been consulted, would have told him the truth. They were all kept at a distance by the intimate friends of Vitellius; for the Emperor's ears were so formed, that all profitable counsels were offensive to him, and that he would hear nothing but what would please and ruin.
-
-### 15 TACITUS: Histories, BK IV, 293a-294a
-
+15 TACITUS: Histories, BK IV, 293a-294a
 82. Vespasian thus came to conceive a deeper desire to visit the sanctuary of Serapis, that he might consult the God about the interests of his throne. He gave orders that all persons should be excluded from the temple. He had entered, and was absorbed in worship, when he saw behind him one of the chief men of Egypt, named Basilides, whom he knew at the time to be detained by sickness at a considerable distance, as much as several days' journey, from Alexandria. He enquired of the priests, whether Basilides had on this day entered the temple. He enquired of others whom he met, whether he had been seen in the city. At length, sending some horsemen, he ascertained that at that very instant the man had been eighty miles distant. He then concluded that it was a divine apparition, and discovered an oracular force in the name of Basilides.
 83. The origin of this God Serapis has not hitherto been made generally known by our writers. The Egyptian priests give this account. While Ptolemy, the first Macedonian king who consolidated the power of Egypt, was setting up in the newly-built city of Alexandria fortifications, temples, and rites of worship, there appeared to him in his sleep a youth of singular beauty and more than human stature, who counselled the monarch to send his most trusty friends to Pontus, and fetch his effigy from that country. This, he said, would bring prosperity to the realm, and great and illustrious would be the city which gave it a reception. At the same moment he saw the youth ascend to heaven in a blaze of fire. Roused by so significant and strange an appearance, Ptolemy disclosed the vision of the night to the Egyptian priests, whose business it is to understand such matters. As they knew but little of Pontus or of foreign countries, he enquired of Timotheus, an Athenian, one of the family of the Eumolpids, whom he had invited from Eleusis to preside over the sacred rites, what this worship was, and who was the deity. Timotheus, questioning persons who had found their way to Pontus, learnt that there was there a city Sinope, and near it a temple, which, according to an old tradition of the neighbourhood, was sacred to the infernal Jupiter, for there also stood close at hand a female figure, to which many gave the name of Proserpine. Ptolemy, however, with the true disposition of a despot, though prone to alarm, was, when the feeling of security returned, more intent en pleasures than on religious matters; and he began by degrees to neglect the affair, and to turn his thoughts to other concerns, till at length the same apparition, but now more terrible and peremptory, denounced ruin against the king and his realm, unless his bidding were performed. Ptolemy then gave directions that an embassy should be despatched with presents to king Scydrothemis, who at that time ruled the people of Sinope, and instructed them, when they were on the point of sailing, to consult the Pythian Apollo. Their voyage was prosperous, and the response of the oracle was clear. The God bade them go and carry back with them the image of his father, but leave that of his sister behind.
 84. On their arrival at Sinope, they delivered to Scydrothemis the presents from their king, with his request and message. He wavered in purpose, dreading at one moment the anger of the God, terrified at another by the threats and opposition of the people. Often he was wrought upon by the gifts and promises of the ambassadors. And so three years passed away, while Ptolemy did not cease to urge his zealous solicitations. He continued to increase the dignity of his embassies, the number of his ships, and the weight of his gold. A terrible vision then appeared to Scydrothemis, warning him to thwart no longer the purposes of the God. As he yet hesitated, various disasters, pestilence, and the unmistakable anger of heaven, which grew heavier from day to day, continued to harass him. He summoned an assembly, and explained to them the bidding of the God, the visions of Ptolemy and himself, and the miseries that were gathering about them. The people turned away angrily from their king, were jealous of Egypt, and, fearing for themselves, thronged around the temple. The story becomes at this point more marvellous, and relates that the God of his own will conveyed himself on board the fleet, which had been brought close to shore, and, wonderful to say, vast as was the extent of sea that they traversed, they arrived at Alexandria on the third day. A temple, proportioned to the grandeur of the city, was erected in a place called Rhacotis, where there had stood a chapel consecrated in old times to Serapis and Isis. Such is the most popular account of the origin and introduction of the God Serapis. I am aware indeed that there are some who say that he was brought from Seleucia, a city of Syria, in the reign of Ptolemy III., while others assert that it was the act of the same king, but that the place from which he was brought was Memphis, once a famous city and the strength of ancient Egypt. The God himself, because he heals the sick, many identified with AEsculapius; others with Osiris, the deity of the highest antiquity among these nations; not a few with Jupiter, as being supreme ruler of all things; but most people with Pluto, arguing from the emblems which may be seen on his statues, or from conjectures of their own.
@@ -11735,9 +11065,7 @@ It is a great and very rare thing for a man, after he has contemplated the whole
 Chap. 8. Of miracles which were wrought that the world might believe in Christ, and which have not ceased since the world believed
 Why, they say, are those miracles, which you affirm were wrought formerly, wrought no longer? I might, indeed, reply that miracles were necessary before the world believed, in order that it might believe. And whoever nowadays demands to see prodigies that he may believe, is himself a great prodigy, because he does not believe, though the whole world does. But they make these objections for the sole purpose of insinuating that even those former miracles were never wrought. How, then, is it that everywhere Christ is celebrated with such firm belief in His resurrection and ascension? How is it that in enlightened times, in which every impossibility is rejected, the world has, without any miracles, believed things marvellously incredible? Or will they say that these things were credible, and therefore were credited? Why then do they themselves not believe? Our argument, therefore, is a summary one—either incredible things which were not witnessed have caused the world to believe other incredible things which both occurred and were witnessed, or this matter was so credible that it needed no miracles in proof of it and therefore convicts these unbelievers of unpardonable scepticism. This I might say for the sake of refuting these most frivolous objectors. But we cannot deny that many miracles were wrought to confirm that one grand and health-giving miracle of Christ's ascension to heaven with the flesh in which He rose. For these most trustworthy books of ours contain in one narrative both the miracles that were wrought and the creed which they were wrought to confirm. The miracles were published that they might produce faith, and the faith which they produced brought them into greater prominence. For they are read in congregations that they may be believed, and yet they would not be so read unless they were believed. For even now miracles are wrought in the name of Christ, whether by His sacraments or by the prayers or relics of His saints ; but they are not so brilliant and conspicuous as to cause them to be published with such glory as accompanied the former miracles. For the canon of the sacred writings, which behoved to be closed,¹ causes those to be everywhere recited, and to sink into the memory of all the congregations; but these modern miracles are scarcely known even to the whole population in the midst of which they are wrought, and at the best are confined to one spot. For frequently they are known only to a very few persons, while all the rest are ignorant of them, especially if the state is a large one; and when they are reported to other persons in other localities, there is no sufficient authority to give them prompt and unwavering credence, although they are reported to the faithful by the faithful.
 The miracle which was wrought at Milan when I was there, and by which a blind man was restored to sight, could come to the knowledge of many; for not only is the city a large one, but also the Emperor was there at the time, and the occurrence was witnessed by an immense concourse of people that had gathered to the bodies of the martyrs Protasius and Gervasius, which had long lain concealed and un-
-
-### ¹Another reading has diffamatum, "published."
-
+¹Another reading has diffamatum, "published."
 known, but were now made known to the bishop Ambrose in a dream, and discovered by him. By virtue of these remains the darkness of that blind man was scattered, and he saw the light of day.²
 But who but a very small number are aware of the cure which was wrought upon Innocentius, ex-advocate of the deputy prefecture, a cure wrought at Carthage, in my presence and under my own eyes? For when I and my brother Alypius,³ who were not yet clergymen,⁴ though already servants of God, came from abroad, this man received us, and made us live with him, for he and all his household were devotedly pious. He was being treated by medical men for fistulae, of which he had a large number intricately seated in the rectum. He had already undergone an operation, and the surgeons were using every means at their command for his relief. In that operation he had suffered long-continued and acute pain; yet, among the many folds of the gut, one had escaped the operators so entirely, that, though they ought to have laid it open with the knife, they never touched it. And thus, though all those that had been opened were cured, this one remained as it was, and frustrated all their labour. The patient, having his suspicions awakened by the delay thus occasioned, and fearing greatly a second operation, which another medical man—one of his own domestics—had told him he must undergo, though this man had not even been allowed to witness the first operation, and had been banished from the house, and with difficulty allowed to come back to his enraged master's presence—the patient, I say, broke out to the surgeons, saying, "Are you going to cut me again? Are you, after all, to fulfil the prediction of that man whom you would not allow even to be present?" The surgeons laughed at the un-skilful doctor, and soothed their patient's fears with fair words and promises. So several days passed, and yet nothing they tried did him good. Still they persisted in promising that they would cure that fistula by drugs, without the knife. They called in also another old practitioner of great repute in that department, Ammonius (for he was still alive at that time); and he, after examining the part, promised the same result as themselves from their care and skill. On this great authority, the patient became confident, and, as if already well, vented his good spirits in facetious remarks at the expense of his domestic physician, who had predicted a second opera-
 ²See also Confessions, bk. ix. 16.
@@ -11815,9 +11143,7 @@ I answer that, The word miracle is derived from admiration, which arises when an
 Reply Obj. 1. Creation, and the justification of the unrighteous, though done by God alone, are not, properly speaking, miracles, because they are not of a nature to proceed from any other cause. So they do not occur outside the order of nature, since they do not belong to that order.
 Reply Obj. 2. A difficult thing is called a miracle not on account of the excellence of the thing in which it is done, but because it surpasses the power of nature; likewise a thing is called unusual not because it does not often happen, but because it is outside the usual natural course of things. Furthermore, a thing is said to be above the power of nature not only by reason of the substance of the thing done, but also on account of the manner and order in which it is done. Again, a miracle is said to go beyond the hope of nature, not beyond the hope of grace, which hope comes from faith, by which we believe in the future resurrection.
 Reply Obj. 3. The knowledge of the Apostles, although not manifest in itself, yet was made manifest in its effect, from which it was shown to be wonderful.
-
-### ²PL 42, 481. 3
-
+²PL 42, 481. 3
 ³1, 2 (982ᵇ16).
 19 AQUINAS: Summa Theologica, PART I, Q 106, A 3, ANS and REP 2 547c-548b
 Article 3. Whether an Inferior Angel Can Enlighten a Superior Angel?
@@ -11889,25 +11215,17 @@ Thy swevenes eek and al swich fantasye
 Dryf out, and lat hem faren to mischaunce;
 For they procede of thy malencolye,
 That doth thee fele in sleep al this penaunce.
-
-### A straw for alle swevenes signifiaunce!
-
+A straw for alle swevenes signifiaunce!
 God helpe me so, I counte hem not a bene,
 Ther woot no man aright what dremes mene.
 
 ### 53
 
 For prestes of the temple tellen this,
-
-### That dremes been the revelaciouns
-
+That dremes been the revelaciouns
 Of goddes, and as wel they telle, y-wis.
-
-### That they ben infernals illusiouns;
-
-
-### And leches seyn, that of complexiouns
-
+That they ben infernals illusiouns;
+And leches seyn, that of complexiouns
 Proceden they, or fast, or glotonye.
 Who woot in sooth thus what they signifye?
 
@@ -11915,9 +11233,7 @@ Who woot in sooth thus what they signifye?
 
 Eek othere seyn that thorugh impressiouns,
 As if a wight hath faste a thing in minde.
-
-### That ther-of cometh swiche avisiouns;
-
+That ther-of cometh swiche avisiouns;
 And othere seyn, as they in bokes finde.
 That, after tymes of the yeer by kinde,
 Men dreme, and that th'effect goth by the mone;
@@ -11950,9 +11266,7 @@ For no one knows what dreaming really means.
 "Priests in the temples sometimes choose to say
 That dreams come from the Gods as revelations;
 But other times they speak another way,
-
-### And call them hellish false hallucinations!
-
+And call them hellish false hallucinations!
 And doctors say they come from complications,
 Or fast or surfeit, or any other lie,
 For who knows truly what they signify?
@@ -12013,9 +11327,7 @@ And al this thing to Pandarus he tolde.
 "O my Criseyde, alias! what subtiltee,
 What newe lust, what beautee, what science,
 What wratthe of juste cause have ye
-
-### to me?
-
+to me?
 What gilt of me, what fel experience
 Hath fro me raft, alias! thyn advertence?
 O trust, O feyth, O depe aseurance,
@@ -12035,9 +11347,7 @@ Asleep and lying in the bright sunbeams,
 
 And by this boar, whom in her arms she held,
 Lay Cressida, kissing the fearsome beast.
-
-### And suddenly this vision strange expelled
-
+And suddenly this vision strange expelled
 All sleep, and from his dreaming thus released,
 Troilus knew all hope for him had ceased.
 "O Pandar," cried he, "now I know the worst!
@@ -12047,9 +11357,7 @@ I am a man abandoned and accursed!
 
 "My lady Cressida hath me betrayed,
 In whom was all my trust and my delight;
-
-### Her love she hath elsewhere conveyed!
-
+Her love she hath elsewhere conveyed!
 The blessed Gods above through their great might
 Have in my dreams revealed it to my sight!
 Thus in my dreams I did my love behold—"
@@ -12060,9 +11368,7 @@ And all the tale to Pandar he then told.
 "O Cressida, what baseless treachery,
 What lust of heart, what beauty or what wit—,
 What wrath with just cause have you felt
-
-### towards me ?
-
+towards me ?
 What guilt in me, what thoughts or deeds unfit
 Have caused thy heart away from me to flit ?
 O trust! O faith! O hopes that life inspire!
@@ -12121,9 +11427,7 @@ The truth and freeing so your mind of doubt.
 ### 186
 
 "That way you'll know just how things stand,
-
-### for better
-
+for better
 Or worse; for if untrue she means to be,
 She will not send an answer to your letter;
 And if she writes, then you can quickly see
@@ -12169,9 +11473,7 @@ Hir fader, which that old is and eek hoor,
 Ayein the sonne lyth, on poynt to dye,
 And she for sorwe ginneth wepe and crye,
 And kisseth him, ther he lyth on the grounde;
-
-### Thus ahuldestow thy dreem a-right expounde."
-
+Thus ahuldestow thy dreem a-right expounde."
 
 ### 185
 
@@ -12190,9 +11492,7 @@ seyn,
 That if so is that she untrewe be,
 I can not trowe that she wol wryte ayeyn.
 And if she wryte, thou shalt ful sone see,
-
-### As whether she hath any libertee
-
+As whether she hath any libertee
 To come ayein, or elles in som clause,
 If she be let, she wol assigne a cause.
 22 CHAUCER: Troilus and Cressida, BK V, STANZA 207-219 147a-149a
@@ -12222,9 +11522,7 @@ Cassandre him gan right thus his dreem expounde.
 She gan first smyle, and seyde, "O brother dere.
 If thou a sooth of this desyrest knowe,
 Thou most a fewe of olde stories here,
-
-### To purpos, how that fortune over-throwe
-
+To purpos, how that fortune over-throwe
 Hath lordes olde; through which, with-inne a
 throwe,
 Thou wel this boor shalt knowe, and of what kinde
@@ -12254,9 +11552,7 @@ This boor he slow, and hir the heed he sente;
 
 Of which, as olde bokes tellen us,
 Ther roos a contek and a greet envye;
-
-### And of this lord descended Tydeus
-
+And of this lord descended Tydeus
 By ligne, or elles olde bokes lye;
 But how this Meleagre gan to dye
 Thorugh his moder, wol I yow not telle,
@@ -12278,9 +11574,7 @@ She tolde eek how Hemonides asterte,
 Whan Tydeus slough fifty knightes stoute.
 She tolde eek al the prophesyes by herte,
 And how that sevene kinges, with hir route,
-
-### Bisegeden the citee al aboute;
-
+Bisegeden the citee al aboute;
 And of the holy serpent, and the welle,
 And of the furies, al she gan him telle.
 
@@ -12289,13 +11583,9 @@ And of the furies, al she gan him telle.
 Of Archimoris buryinge and the pleyes,
 And how Amphiorax fil through the grounde,
 How Tydeus was slayn, lord of Argeyes,
-
-### And how Ypomedoun in litel stounde
-
+And how Ypomedoun in litel stounde
 Was dreynt, and deed Parthonope of wounde;
-
-### And also how Cappaneus the proude
-
+And also how Cappaneus the proude
 With thonder-dint was slayn, that cryde loude.
 
 ### 216
@@ -12311,9 +11601,7 @@ To Diomede, and thus she spak and tolde.
 ### 217
 
 "This ilke boor bitokneth Diomede,
-
-### Tydeus sone, that doun descended is
-
+Tydeus sone, that doun descended is
 Fro Meleagre, that made the boor to blede.
 And thy lady, wher-so she be, y-wis,
 This Diomede hir herte hath, and she his.
@@ -12324,9 +11612,7 @@ This Diomede is inne, and thou art oute."
 
 "Thou seyst nat soth," quod he, "thou sorceresse,
 With al thy false goost of prophesye!
-
-### Thou wenest been a greet devyneresse;
-
+Thou wenest been a greet devyneresse;
 Now seestow not this fool of fantasye
 Peyneth hir on ladyes for to lye?
 Awey," quod he, "ther Joves yeve thee sorwe!
@@ -12369,9 +11655,7 @@ She said, "if you the truth will really know,
 Then you must first a few old stories hear,
 Which tell how fortune once did overthrow
 Some lords of old, and thereby I shall
-
-### show
-
+show
 And tell you whence this boar, and of what kind,
 As in the books the story you may find.
 
@@ -12411,9 +11695,7 @@ How Tydeus made warfare Sibyl told,
 At Thebes, that ancient city and so strong,
 Maintaining that to Polynices bold,
 The Theban city did by right belong,
-
-### And that Eteocles, his brother, wrong
-
+And that Eteocles, his brother, wrong
 Had done, in holding Thebes by strength—
 All this she told to him and at great length.
 
@@ -12500,34 +11782,24 @@ In slepe, and by my dreme it is now sene.
 
 ## 23 HOBBES: Leviathan, PART I, 51b-52a; 80b-d; 81d-82b; PART II, 160b; PART III, 165d-167a; 177a-c; 183b-187a; 188a-191a
 
-
-### 23 HOBBES: Leviathan, PART I, 51b-52a
-
+23 HOBBES: Leviathan, PART I, 51b-52a
 The most difficult discerning of a man's dream from his waking thoughts is, then, when by some accident we observe not that we have slept: which is easy to happen to a man full of fearful thoughts; and whose conscience is much troubled; and that sleepeth without the circumstances of going to bed, or putting off His clothes, as one that noddeth in a chair. For he that taketh pains, and industriously lays himself to sleep, in case any uncouth and exorbitant fancy come unto him, cannot easily think it other than a dream. We read of Marcus Brutus (one that had his life given him by Julius Caesar, and was also his favorite, and notwithstanding murdered him), how at Philippi, the night before he gave battle to Augustus Caesar, he saw a fearful apparition, which is commonly related by historians as a vision, but, considering the circumstances, one may easily judge to have been but a short dream. For sitting in his tent, pensive and troubled with the horror of his rash act, it was not hard for him, slumbering in the cold, to dream of that which most affrighted him; which fear, as by degrees it made him wake, so also it must needs make the apparition by degrees to vanish: and having no assurance that he slept, he could have no cause to think it a dream, or anything but a vision. And this is no very rare accident: for even they that be perfectly awake, if they be timorous and superstitious, possessed with fearful tales, and alone in the dark, are subject to the like fancies, and believe they see spirits and dead men's ghosts walking in churchyards; whereas it is either their fancy only, or else the knavery of such persons as make use of such superstitious fear to pass disguised in the night to places they would not be known to haunt.
 From this ignorance of how to distinguish dreams, and other strong fancies, from vision and sense, did arise the greatest part of the religion of the Gentiles in time past, that worshipped satyrs, fauns, nymphs, and the like; and nowadays the opinion that rude people have of fairies, ghosts, and goblins, and of the power of witches. For, as for witches, I think not that their witchcraft is any real power, but yet that they are justly punished for the false belief they have that they can do such mischief, joined with their purpose to do it if they can, their trade being nearer to a new religion than to a craft or science. And for fairies, and walking ghosts, the opinion of them has, I think, been on purpose either taught, or not confuted, to keep in credit the use of exorcism, of crosses, of holy water, and other such inventions of ghostly men. Nevertheless, there is no doubt but God can make unnatural apparitions: but that He does it so often as men need to fear such things more than they fear the stay, or change, of the course of Nature, which he also can stay, and change, is no point of Christian faith. But evil men, under pretext that God can do anything, are so bold as to say anything when it serves their turn, though they think it untrue; it is the part of a wise man to believe them no further than right reason makes that which they say appear credible. If this superstitious fear of spirits were taken away, and with it prognostics from dreams, false prophecies, and many other things depending thereon, by which crafty ambitious persons abuse the simple people, men would be much more fitted than they are for civil obedience.
 And this ought to be the work of the schools, but they rather nourish such doctrine. For (not knowing what imagination, or the senses are) what they receive, they teach: some saying that imaginations rise of themselves, and have no cause; others that they rise most commonly from the will; and that good thoughts are blown (inspired) into a man by God, and evil thoughts, by the Devil; or that good thoughts are poured (infused) into a man by God, and evil ones by the Devil. Some say the senses receive the species of things, and deliver them to the common sense; and the common sense delivers them over to the fancy, and the fancy to the memory, and the memory to the judgement, like handing of things from one to another, with many words making nothing understood.
-
-### 23 HOBBES: Leviathan, PART I, 80b-d
-
+23 HOBBES: Leviathan, PART I, 80b-d
 Then, for the way by which they think these invisible agents wrought their effects; that is to say, what immediate causes they used in bringing things to pass, men that know not what it is that we call causing (that is, almost all men) have no other rule to guess by but by observing and remembering what they have seen to precede the like effect at some other time, or times before, without seeing between the antecedent and subsequent event any dependence or connexion at all: and therefore from the like things past, they expect the like things to come; and hope for good or evil luck, superstitiously, from things that have no part at all in the causing of it: as the Athenians did for their war at Lepanto demand another Phormio; the Pompeian faction for their war in Africa, another Scipio; and others have done in diverse other occasions since. In like manner they attribute their fortune to a stander by, to a lucky or unlucky place, to words spoken, especially if the name of God be amongst them, as charming, and conjuring (the liturgy of witches); insomuch as to believe they have power to turn a stone into bread, bread into a man, or anything into anything.
 Thirdly, for the worship which naturally men exhibit to powers invisible, it can be no other but such expressions of their reverence as they would use towards men; gifts, petitions, thanks, submission of body, considerate addresses, sober behaviour, premeditated words, swearing (that is, assuring one another of their promises), by invoking them. Beyond that, reason suggesteth nothing, but leaves them either to rest there, or for further ceremonies to rely on those they believe to be wiser than themselves.
 Lastly, concerning how these invisible powers declare to men the things which shall hereafter come to pass, especially concerning their good or evil fortune in general, or good or ill success in any particular undertaking, men are naturally at a stand; save that using to conjecture of the time to come by the time past, they are very apt, not only to take casual things, after one or two encounters, for prognostics of the like encounter ever after, but also to believe the like prognostics from other men of whom they have once conceived a good opinion.
 And in these four things, opinion of ghosts, ignorance of second causes, devotion towards what men fear, and taking of things casual for prognostics, consisteth the natural seed of religion; which, by reason of the different fancies, judgements, and passions of several men, hath grown up into ceremonies so different that those which are used by one man are for the most part ridiculous to another.
 For these seeds have received culture from two sorts of men. One sort have been they that have nourished and ordered them, according to their own invention. The other have done it by God's commandment and direction. But both sorts have done it with a purpose to make those men that relied on them the more apt to obedience, laws, peace, charity, and civil society. So that the religion of the former sort is a part of human politics; and teacheth part of the duty which earthly kings require of their subjects. And the religion of the latter sort is divine politics; and containeth precepts to those that have yielded themselves subjects in the kingdom of God. Of the former sort were all the founders of Commonwealths, and the lawgivers of the Gentiles: of the latter sort were Abraham, Moses, and our blessed Saviour, by whom have been derived unto us the laws of the kingdom of God.
-
-### 23 HOBBES: Leviathan, PART I, 81d-82b
-
+23 HOBBES: Leviathan, PART I, 81d-82b
 Lastly, to the prognostics of time to come, which are naturally but conjectures upon the experience of time past, and supernaturally, divine revelation, the same authors of the religion of the Gentiles, partly upon pretended experience, partly upon pretended revelation, have added innumerable other superstitious ways of divination, and made men believe they should find their fortunes, sometimes in the ambiguous or senseless answers of the priests at Delphi, Delos, Ammon, and other famous oracles; which answers were made ambiguous by design, to own the event both ways; or absurd, by the in-toxicating vapour of the place, which is very frequent in sulphurous caverns: sometimes in the leaves of the Sibyls, of whose prophecies, like those perhaps of Nostradamus (for the fragments now extant seem to be the invention of later times), there were some books in reputation in the time of the Roman republic: sometimes in the insignificant speeches of madmen, supposed to be possessed with a divine spirit, which possession they called enthusiasm; and these kinds of foretelling events were accounted theomancy, or prophecy: sometimes in the aspect of the stars at their nativity, which was called horoscopy, and esteemed a part of judiciary astrology: sometimes in their own hopes and fears, called thumomancy, or: presage: sometimes in the prediction of witches that pretended conference with the dead, which is called necromancy, conjuring, and witchcraft, and is but juggling and confederate knavery: sometimes in the casual flight or feeding of birds, called augury: sometimes in the entrails of a sacrificed beast, which was haruspicy: sometimes in dreams: sometimes in croaking of ravens, or chattering of birds: sometimes in the lineaments of the face, which was called metoposcopy; or by palmistry in the lines of the hand, in casual words called omina: sometimes in monsters or unusual accidents; as eclipses, comets, rare meteors, earthquakes, inundations, uncouth births, and the like, which they called portenta, and ostenta, because they thought them to portend or foreshow some great calamity to come: sometimes in mere lottery, as cross and pile; counting holes in a sieve; dipping of verses in Homer and Virgil; and innumerable other such vain conceits. So easy are men to be drawn to believe anything from such men as have gotten credit with them; and can with gentleness, and dexterity, take hold of their fear and ignorance.
 And therefore the first founders and legislators of Commonwealths amongst the Gentiles, whose ends were only to keep the people in obedience and peace, have in all places taken care: first, to imprint in their minds a belief that those precepts which they gave concerning religion might not be thought to proceed from their own device, but from the dictates of some god or other spirit; or else that they themselves were of a higher nature than mere mortals, that their laws might the more easily be received; so Numa Pompilius pretended to receive the ceremonies he instituted amongst the Romans from the nymph Egeria;and the first king and founder of the kingdom of Peru pretended himself and his wife to be the children of the sun; and Mahomet, to set up his new religion, pretended to have conferences with the Holy Ghost in form of a dove. Secondly, they have had a care to make it believed that the same things were displeasing to the gods which were forbidden by the laws. Thirdly, to prescribe ceremonies, supplications, sacrifices, and festivals by which they were to believe the anger of the gods might be appeased; and that ill success in war, great contagions of sickness, earthquakes, and each man's private misery came from the anger of the gods; and their anger from the neglect of their worship, or the forgetting or mistaking some point of the ceremonies required. And though amongst the ancient Romans men were not forbidden to deny that which in the poets is written of the pains and pleasures after this life, which divers of great authority and gravity in that state have in their harangues openly derided, yet that belief was always more cherished, than the contrary.
 And by these, and such other institutions, they obtained in order to their end, which was the peace of the Commonwealth, that the common people in their misfortunes, laying the fault on neglect, or error in their ceremonies, or on their own disobedience to the laws, were the less apt to mutiny against their governors. And being entertained with the pomp and pastime of festivals and public games made in honour of the gods, needed nothing else but bread to keep them from discontent, murmuring, and commotion against the state. And therefore the Romans, that had conquered the greatest part of the then known world, made no scruple of tolerating any religion whatsoever in the city of Rome itself, unless it had something in it that could not consist with their civil government; nor do we read that any religion was there forbidden but that of the Jews, who (being the peculiar kingdom of God) thought it unlawful to acknowledge subjection to any mortal king or state whatsoever. And thus you see how the religion of the Gentiles was a part of their policy.
-
-### 23 HOBBES: Leviathan, PART II, 160b
-
+23 HOBBES: Leviathan, PART II, 160b
 To rule by words requires that such words be manifestly made known; for else they are no laws: for to the nature of laws belongeth a sufficient and clear promulgation, such as may take away the excuse of ignorance; which in the laws of men is but of one only kind, and that is, proclamation or promulgation by the voice of man. But God declareth His laws three ways; by the dictates of natural reason, by revelation, and by the voice of some man to whom, by the operation of miracles, he procureth credit with the rest. From hence there ariseth a triple word of God, rational, sensible, and prophetic; to which correspondeth a triple hearing: right reason, sense supernatural, and faith. As for sense supernatural, which consisteth in revelation or inspiration, there have not been any universal laws so given, because God speaketh not in that manner but to particular persons, and to diverse men diverse things.
 From the difference between the other two kinds of God's word, rational and prophetic, there may be attributed to God a twofold kingdom, natural and prophetic: natural, wherein He governeth as many of mankind as acknowledge His providence, by the natural dictates of right reason; and prophetic, wherein having chosen out one peculiar nation, the Jews, for His subjects. He governed them, and none but them, not only by natural reason, but by positive laws, which He gave them by the mouths of His holy prophets. Of the natural kingdom of God I intend to speak in this chapter.
-
-### 23 HOBBES: Leviathan, PART III, 165d-167a
-
+23 HOBBES: Leviathan, PART III, 165d-167a
 For to say that God hath spoken to him in the Holy Scripture is not to say God hath spoken to him immediately, but by mediation of the prophets, or of the Apostles, or of the Church, in such manner as He speaks to all other Christian men. To say He hath spoken to him in a dream is no more than to say he dreamed that God spake to him; which is not of force to win belief from any man that knows dreams are for the most part natural, and may proceed from former thoughts; and such dreams as that, from self-conceit, and fooHsh arrogance, and false opinion of a man's own goodliness, or other virtue, by which he thinks he hath merited the favour of extraordinary revelation. To say he hath seen a vision, or heard a voice, is to say that he dreamed between sleepingand waking: for in such manner a man doth many times naturally take his dream for a vision, as not having well observed his own slumbering. To say he speaks by supernatural inspiration is to say he finds an ardent desire to speak, or some strong opinion of himself, for which he can allege no natural and sufficient reason. So that though God Almighty can speak to a man by dreams, visions, voice, and inspiration, yet He obliges no man to believe He hath so done to him that pretends it; who, being a man, may err and, which is more, may lie.
 How then can he to whom God hath never revealed His will immediately (saving by the way of natural reason) know when he is to obey or not to obey His word, delivered by him that says he is a prophet? Of four hundred prophets, of whom the King of Israel asked counsel concerning the war he made against Ramoth Gilead, only Micaiah was a true one.¹ The prophet that was sent to prophesy against the altar set up by Jeroboam,² though a true prophet, and that by two miracles done in his presence appears to be a prophet sent from God, was yet deceived by another old prophet that persuaded him, as from the mouth of God, to eat and drink with him. If one prophet deceive another, what certainty is there of knowing the will of God by other way than that of reason? To which I answer out of the Holy Scripture that there be two marks by which together, not asunder, a true prophet is to be known. One is the doing of miracles; the other is the not teaching any other religion than that which is already established. Asunder, I say, neither of these is sufficient. "If a prophet rise amongst you, or a dreamer of dreams, and shall pretend the doing of a miracle, and the miracle come to pass; if he say, Let us follow strange gods, which thou hast not known, thou shalt not hearken to him, etc. But that prophet and dreamer of dreams shall be put to death, because he hath spoken to you to revolt from the Lord your God.”³ In which words two things are to be observed; first, that God will not have miracles alone serve for arguments to approve the
 ¹I Kings, 22.
@@ -12539,15 +11811,11 @@ And as miracles, without preaching that doctrine which God hath established; so 
 ⁵Galatians, I. 8.
 spoken, but the prophet has spoken it out of the pride of his own heart, fear him not." But a man may here again ask: When the prophet hath foretold a thing, how shall we know whether it will come to pass or not? For he may foretell it as a thing to arrive after a certain long time, longer than the time of man's life; or indefinitely, that it will come to pass one time or other: in which case this mark of a prophet is unuseful; and therefore the miracles that oblige us to believe a prophet ought to be confirmed by an immediate, or a not long deferred event. So that it is manifest that the teaching of the religion which God hath established, and the showing of a present miracle, joined together, were the only marks whereby the Scripture would have a true prophet, that is to say, immediate revelation, to be acknowledged; neither of them being singly sufficient to oblige any other man to regard what he saith.
 Seeing therefore miracles now cease, we have no sign left whereby to acknowledge the pretended revelations or inspirations of any private man; nor obligation to give ear to any doctrine, farther than it is conformable to the Holy Scriptures, which since the time of our Saviour supply the place and sufficiently recompense the want of all other prophecy; and from which, by wise and learned interpretation, and careful ratiocination, all rules and precepts necessary to the knowledge of our duty both to God and man, without enthusiasm, or supernatural inspiration, may easily be deduced. And this Scripture is it out of which I am to take the principles of my discourse concerning the rights of those that are the supreme governors on earth of Christian Commonwealths, and of the duty of Christian subjects towards their sovereigns. And to that end, I shall speak, in the next chapter, of the books, writers, scope and authority of the Bible.
-
-### 23 HOBBES: Leviathan, PART III, 177a-c
-
+23 HOBBES: Leviathan, PART III, 177a-c
 In the same manner, to take inspiration in the proper sense, or to say that good spirits entered into men to make them prophesy, or evil spirits into those that became phrenetic, lunatic, or epileptic, is not to take the word m the sense of the Scripture; for the Spirit there is taken for the power of God, working by causes to us unknown. As also the wind that is there said to fill the house wherein the Apostles were assembled on the day of Pentecost⁴ is not to be understood for the Holy Spirit, which is the Deity itself; but for an external sign of God's special working on their hearts to effect in them the internal graces and holy virtues
 ⁴Acts, 2. 2.
 He thought requisite for the performance of their apostleship.
-
-### 23 HOBBES: Leviathan, PART III, 183b-187a
-
+23 HOBBES: Leviathan, PART III, 183b-187a
 When by prophecy is meant prediction, or foretelling of future contingents, not only they were prophets who were God's spokesmen, and foretold those things to others which God had foretold to them; but also all those impostors that pretend by the help of familiar spirits, or by superstitious divination of events past, from false causes, to foretell the like events in time to come: of which (as I have declared already in the twelfth Chapter of this discourse) there be many kinds who gain in the opinion of the common sort of men a greater reputation of prophecy by one casual event that may be but wrested to their purpose, than can be lost again by never so many failings. Prophecy is not an art, nor, when it is taken for prediction, a constant vocation, but an extraordinary and temporary employment from God, most often of good men, but sometimes also of the wicked. The woman of Endor, who is said to have had a familiar spirit, and thereby to have raised a phantasm of Samuel, and foretold Saul his death, was not therefore a prophetess; for neither had she any science whereby she could raise such a phantasm, nor does it appear that God commanded the raising of it, but only guided that imposture to be a means of Saul's terror and discouragement, and by consequent, of the discomfiture by which he fell. And for incoherent speech, it was amongst the Gentiles taken for one sort of prophecy, because the prophets of their oracles, intoxicated with a spirit or vapor from the cave of the Pythian Oracle at Delphi, were for the time really mad, and spake like madmen; of whose loose words a sense might be made to fit any event, in such sort as all bodies are said to be made of materia prima. In the Scripture I find it also so taken in these words, "And the evil spirit came upon Saul, and he prophesied in the midst of the house."⁹
 And although there be so many significations in Scripture of the word prophet; yet is that the most frequent in which it is taken for him to whom God speaketh immediately that which the prophet is to say from Him to some other man, or to the people. And hereupon a question may be asked, in what manner God speaketh to such a prophet. Can it, may some say, be properly said that God hath voice and language, when it cannot be properly said He hath a tongue or other organs as a man? The Prophet David argueth thus, "Shall He that made the eye, not see? or He that made the ear, not hear?"¹⁰ But this may be spoken, not, as usually, to signify God's nature, but to signify our intention to honour Him. For to see and hear are honourable attributes, and may be given to God to de-
 ⁹I Samuel, 18. 10.
@@ -12609,15 +11877,9 @@ fore such marks are set out to know a prophet by,¹ and to know a spirit by;² a
 ⁵Ibid., 23. 16.
 Seeing then there was in the time of the Old Testament such quarrels amongst the visionary prophets, one contesting with another, and asking, "When departed the spirit from me, to go to thee?" as between Micaiah and the rest of the four hundred; and such giving of the lie to one another, as in Jeremiah, 14. 14, and such controversies in the New Testament at this day amongst the spiritual prophets: every man then was, and now is, bound to make use of his natural reason to apply to all prophecy those rules which God hath given us to discern the true from the false. Of which rules, in the Old Testament, one was conformable doctrine to that which Moses the sovereign prophet had taught them; and the other, the miraculous power of foretelling what God would bring to pass, as I have already shown out of Deuteronomy, 13. i, etc. And in the New Testament there was but one only mark, and that was the preaching of this doctrine that Jesus is the Christ, that is, the King of the Jews, promised in the Old Testament. Whosoever denied that article, he was a false prophet, whatsoever miracles he might seem to work; and he that taught it was a true prophet. For St. John, speaking expressly of the means to examine spirits, whether they be of God or not, after he had told them that there would arise false prophets, saith thus, "Hereby know ye the Spirit of God. Every spirit that confesseth that Jesus Christ is come in the flesh, is of God";⁶ that is, is approved and allowed as a prophet of God: not that he is a godly man, or one of the elect for this that he confesseth, professeth, or preacheth Jesus to be the Christ, but for that he is a prophet avowed. For God sometimes speaketh by prophets whose persons He hath not accepted; as He did by Baalam, and as He foretold Saul of his death by the Witch of Endor. Again in the next verse, "Every spirit that confesseth not that Jesus Christ is come in the flesh, is not of Christ. And this is the spirit of Antichrist." So that the rule is perfect on both sides: that he is a true prophet which preacheth the Messiah already come, in the person of Jesus; and he a false one that denieth him come, and looketh for him in some future impostor that shall take upon him that honour falsely, whom the Apostle there properly calleth Antichrist. Every man therefore ought to consider who is the sovereign prophet; that is to say, who it is that is God's vicegerent on earth, and hath next under God the authority of governing Christian men; and to observe for a rule that doctrine which in the name of God he hath commanded to be taught, and thereby to examine and try out the truth of those doctrines which pretended prophets, with miracle or without, shall at any time advance: and if they find it contrary to that rule, to do as they did that came to Moses and complained that there were some that prophesied in the camp whose authority so to do they doubted of; and leave to the sovereign, as they did to Moses, to uphold or to forbid them, as he should see cause; and if he disavow them, then no more to obey their voice, or if he approve them, then to obey them as men to whom God hath given a part of the spirit of their sovereign. For when Christian men take not their Christian sovereign for God's prophet, they must either take their own dreams for the prophecy they mean to be governed by, and the tumour of their own hearts for the Spirit of God; or they must suffer themselves to be lead by some strange prince, or by some of their fellow subjects that can bewitch them by slander of the government into rebellion, without other miracle to confirm their calling than sometimes an extraordinary success and impunity; and by this means destroying all laws, both divine and human, reduce all order, government, and society to the first chaos of violence and civil war.
 ⁶I John, 4. 2, etc.
-
-### 23 HOBBES: Leviathan, PART III, 188a-191a
-
-
-### CHAPTER XXXVII
-
-
-### Of Miracles and their Use
-
+23 HOBBES: Leviathan, PART III, 188a-191a
+CHAPTER XXXVII
+Of Miracles and their Use
 By Miracles are signified the admirable works of God: and therefore they are also called wonders. And because they are for the most part done for a signification of His commandment in such occasions as, without them, men are apt to doubt (following their private natural reasoning) what He hath commanded, and what not, they are commonly, in Holy Scripture, called signs, in the same sense as they are called by the Latins, ostenta and portenta, from showing and foresignifying that which the Almighty is about to bring to pass.
 To understand therefore what is a miracle, we must first understand what works they are which men wonder at and call admirable. And there be but two things which make men wonder at any event: the one is if it be strange, that is to say, such as the like of it hath never or very rarely been produced; the other is if when it is produced, we cannot imagine it to have been done by natural means, but only by the immediate hand of God. But when we see some possible natural cause of it, how rarely soever the like has been done; or if the like have been often done, how impossible soever it be to imagine a natural means thereof, we no more wonder, nor esteem it for a miracle.
 Therefore, if a horse or cow should speak, it were a miracle, because both the thing is strange and the natural cause difficult to imagine; so also were it to see a strange deviation of nature in the production of some new shape of a living creature. But when a man, or other animal, engenders his like, though we know no more how this is done than the other; yet because it is usual, it is no miracle. In like manner, if a man be metamorphosed into a stone, or into a pillar, it is a miracle, because strange; but if a piece of wood be so changed, because we see it often it is no miracle: and yet we know no more by what operation of God the one is brought to pass than the other.
@@ -12647,17 +11909,13 @@ a mediocrity of reason would think supernatural: and the question is no more whe
 ## 26 SHAKESPEARE: Julius Caesar, ACT I, SC III [1-71] 572c-573b; ACT IV, SC III [275-289] 591c; ACT V, SC I [71-89] 592d
 
 26 SHAKESPEARE: Julius Caesar, ACT I, SC III [1-71] 572c-573b
-
-### Scene III. The same: a street
-
+Scene III. The same: a street
 Thunder and lightning. Enter, from opposite sides.,
 CASCA, with his sword drawn, and cicero.
 Cic. Good even, Casca: brought you Caesar home?
 Why are you breathless? and why stare you so?
 Casca. Are not you moved, when all the sway of ,
-
-### earth
-
+earth
 Shakes like a thing unfirm? O Cicero,
 I have seen tempests, v/hen the scolding winds
 Have rived the knotty oaks, and I have seen
@@ -12667,14 +11925,10 @@ But never till to-night, never till now.
 Did I go through a tempest dropping fire. 10
 Either there is a civil strife in heaven,
 Or else the world, too saucy with the gods,
-
-### Incenses them to send destruction. ^
-
+Incenses them to send destruction. ^
 Cic. Why, saw you anything more wonderful?
 Casca. A common slave—you know him well by
-
-### sight—
-
+sight—
 Held up his left hand, which did flame and burn
 Like twenty torches join'd, and yet his hand.
 Not sensible of fire, remain'd unscorch'd.
@@ -12687,9 +11941,7 @@ Transformed with their fear, who swore they saw
 Men all in fire walk up and down the streets.
 And yesterday the bird of night did sit
 Even at noon-day upon the market-place.
-
-### Hooting and shrieking. When these prodigies
-
+Hooting and shrieking. When these prodigies
 Do so conjointly meet, let not men say
 "These are their reasons; they are natural"; 30
 For, I believe, they are portentous things
@@ -12697,26 +11949,18 @@ Unto the climate that they point upon.
 Cic. Indeed, it is a strange-disposed time:
 But men mav^ construe things after their fashion,
 Clean from the purpose of the things themselves.
-
-### Comes Caesar to the Capitol to-morrow?
-
+Comes Caesar to the Capitol to-morrow?
 Casca. He doth; for he did bid Antonius
 Send word to vou he would be there to-morrow.
 Cic. Good night then, Casca: this disturbed sky
 Is not to walk in.
-
-### Casca. Farewell, Cicero. [Exit cicero. 40
-
+Casca. Farewell, Cicero. [Exit cicero. 40
 Enter cassius.
-
-### Cas. Who's there?
-
+Cas. Who's there?
 Casca. A Roman.
 Cas. Casca, by your voice.
 Casca. Your ear is good. Cassius, what night is
-
-### this!
-
+this!
 Cas. A very pleasing night to honest men.
 Casca. Who ever knew the heavens menace so?
 Cas. Those that have known the earth so full of
@@ -12729,16 +11973,12 @@ And when the cross blue lightning seem'd to open
 The breast of heaven, I did present myself 51
 Even in the aim and very flash of it.
 Casca. But wherefore did you so much tempt
-
-### the heavens?
-
+the heavens?
 It is the part of men to fear and tremble
 When the most mighty gods by tokens send
 Such dreadful heralds to astonish us.
 Cas. You are dull, Casca, and those sparks of
-
-### life
-
+life
 That should be in a Roman you do want.
 Or else you use not. You look pale and gaze
 And put on fear and cast yourself in wonder 60
@@ -12748,9 +11988,7 @@ Why all these fires, why all these gliding ghosts.
 Why birds and beasts from quality and kind,
 Why old men fool and children calculate.
 Why all these things change from their ordinance
-
-### Their natures and preformed faculties
-
+Their natures and preformed faculties
 To monstrous quality, why, you shall find
 That heaven hath infused them with these spirits
 To make them instruments of fear and warning 70
@@ -12765,17 +12003,13 @@ Art thou some god, some angel, or some devil.
 That makest my blood cold and my hair to stare?
 Speak to me what thou art. 281
 Ghost. Thy evil spirit, Brutus.
-
-### Bru. Why comest thou?
-
+Bru. Why comest thou?
 Ghost. To tell thee thou shalt see me at Philippi.
 Bru. Well; then I shall see thee again?
 Ghost. Ay, at Philippi.
 Bru. Why, I will see thee at Philippi, then.
 26 SHAKESPEARE: Julius Caesar, ACT V, SC I [71-89] 592d
-
-### Cas. Messala, 71
-
+Cas. Messala, 71
 This is my birthday; as this very day
 Was Cassius born. Give me thy hand, Messala:
 Be thou my witness that against my will,
@@ -12787,16 +12021,12 @@ And partly credit things that do presage.
 Coming from Sardis, on our former ensign 80
 Two mighty eagles fell, and there they perch'd,
 Gorging and feeding from our soldiers' hands
-
-### Who to Philippi here consorted us:
-
+Who to Philippi here consorted us:
 This morning are they fled away and gone;
 And in their steads do ravens, crows, and kites,
 Fly o'er our heads and downward look on us,
 As we were sickly prey: their shadows seem
-
-### A canopy most fatal, under which
-
+A canopy most fatal, under which
 Our army lies, ready to give up the ghost.
 Mes. Believe not so.
 
@@ -12808,44 +12038,30 @@ Mar. Thus twice before, and jump at this dead
 hour,
 With martial stalk hath he gone by our watch.
 Hor. In what particular thought to work I know
-
-### not;
-
+not;
 But in the gross and scope of my opinion,
 This bodes some strange eruption to our state.
 Mar. Good now, sit down, and tell me, he that
-
-### knows, 70
-
+knows, 70
 Why this same strict and most observant watch
 So nightly toils the subject of the land,
 And why such daily cast of brazen cannon,
 And foreign mart for implements of war;
 Why such impress of shipwrights, whose sore
-
-### task
-
+task
 Does not divide the Sunday from the week;
 What might be toward, that this sweaty haste
 Doth make the night joint-labourer with the day:
-
-### Who is't that can inform me?
-
-
-### Hor. That can I;
-
+Who is't that can inform me?
+Hor. That can I;
 At least, the whisper goes so. Our last king, 80
 Whose image even but now appear'd to us,
 Was, as you know, by Fortinbras of Norway,
 Thereto prick'd on by a most emulate pride,
 Dared to the combat; in which our valiant Ham
-
-### let—
-
+let—
 For so this side ofour known world esteem'd
-
-### him—
-
+him—
 Did slay this Fortinbras; who, by a seal'd compact,
 Well ratified by law and heraldry,
 Did forfeit, with his life, all those his lands
@@ -12863,9 +12079,7 @@ For food and diet, to some enterprise
 That hath a stomach in't; which is no other—
 As it doth well appear unto our state— 101
 But to recover of us, by strong hand
-
-### And terms compulsatory, those foresaid lands
-
+And terms compulsatory, those foresaid lands
 So by his father lost: and this, I take it,
 Is the main motive of our preparations,
 The source of this our watch and the chief head
@@ -12881,43 +12095,27 @@ Hor. A mote it is to trouble the mind's eye.
 In the most high and palmy state of Rome,
 A little ere the mightiest Julius fell,
 The graves stood tenantless and the sheeted
-
-### dead
-
+dead
 Did squeak and gibber in the Roman streets.
 As stars with trains of fire and dews of blood,
 Disasters in the sun; and the moist star
-
-### Upon whose influence Neptune's empire
-
-
-### stands
-
+Upon whose influence Neptune's empire
+stands
 Was sick almost to doomsday with eclipse. 120
 And even the like precurse of fierce events,
-
-### As harbingers preceding still the fates
-
+As harbingers preceding still the fates
 And prologue to the omen coming on,
-
-### Have heaven and earth together demonstrated
-
+Have heaven and earth together demonstrated
 Unto our climatures and countrymen.
 But soft, behold! lo, where it comes again!
 27 SHAKESPEARE: Macbeth, ACT II, SC IV [1-20] 294a-b
-
-### Scene IV. Outside Macbeth!s castle
-
+Scene IV. Outside Macbeth!s castle
 Enter ross and an old man.
 Old M. Threescore and ten I can remember
-
-### well;
-
+well;
 Within the volume of which time I have seen
 Hours dreadful and things strange; but this sore
-
-### night
-
+night
 Hath trifled former knowings.
 Ross. Ah, good father,
 Thou seest, the heavens, as troubled with man's
@@ -12926,59 +12124,37 @@ Threaten his bloody stage. By the clock, 'tis day,
 And yet dark night strangles the travelling lamp.
 Is'c night's predominance, or the day's shame,
 That darkness does the face of earth entomb,
-
-### When living light should kiss it?
-
-
-### Old M. 'Tis unnatural, 10
-
+When living light should kiss it?
+Old M. 'Tis unnatural, 10
 Even like the deed that's done. On Tuesday
 last,
 A falcon, towering in her pride of place,
 Was by a mousing owl hawk'd at and kill'd.
-
-### Ross. And Duncan's horses—a thing most
-
-
-### strange and certain—
-
+Ross. And Duncan's horses—a thing most
+strange and certain—
 Beauteous and swift, the minions of their race,
 Turn'd wild in nature, broke their stalls, flung
 out,
-
-### Contending 'gainst obedience, as they would
-
-
-### make
-
+Contending 'gainst obedience, as they would
+make
 War with mankind.
 Old M. 'Tis said they eat each other.
 Ross. They did so, to the amazement ofmine
-
-### eyes
-
+eyes
 That look'd upon't. Here comes the good Mac-
-
-### duff. 20
-
+duff. 20
 27 SHAKESPEARE: Cymbeline, ACT V, SC IV [91-122] 482a-b
 JUPITER descends in thunder and lightning, sitting upon an eagle; he throws a thunderbolt. The Ghostsfall on their knees.
 Jup. No more, you petty spirits of region low,
 Offend our hearing; hush! How dare you ghosts
 Accuse the thunderer, whose bolt, you know,
-
-### Sky-planted batters all rebelling coasts?
-
+Sky-planted batters all rebelling coasts?
 Poor shadows of Elysium, hence, and rest
 Upon your never-withering banks of flowers.
-
-### Be not with mortal accidents opprest;
-
+Be not with mortal accidents opprest;
 No care of yours it is; you know 'tis ours. 100
 Whom best I love I cross; to make my gift,
-
-### The more delay'd, delighted. Be content;
-
+The more delay'd, delighted. Be content;
 Your low-laid son our godhead will uplift.
 His comforts thrive, his trials well are spent.
 Our Jovial star reign'd at his birth, and in
@@ -12997,13 +12173,9 @@ Stoop'd, as to foot us. His ascension is
 More sweet than our blest fields. His royal bird
 Prunes the immortal wing and cloys his beak,
 As when his god is pleased.
-
-### All. Thanks, Jupiter!
-
+All. Thanks, Jupiter!
 Ski. The marble pavement closes, he is
-
-### enter'd 120
-
+enter'd 120
 His radiant roof. Away! and, to be blest,
 Let us with care perform his great behest.
 [The Ghosts vanish.
@@ -13016,24 +12188,16 @@ Let us with care perform his great behest.
 
 ## 30 BACON: Advancement of Learning, 8c; 19b; 41 b-c; 54c-d; 55b-d / New Atlantis, 202c-203c
 
-
-### 30 BACON: Advancement of Learning, 8c
-
+30 BACON: Advancement of Learning, 8c
 3. And for meanness of employment, that which is most traduced to contempt is that the government of youth is commonly allotted to them; which age, because it is the age of least authority, it is transferred to the disesteeming of those employments wherein youth is conversant, and which are conversant about youth. But how unjust this traducement is (if you will reduce things from popularity of opinion to measure of reason) may appear in that we see men are more curious what they put into a new vessel than into a vessel seasoned; and what mould they lay about a young plant than about a plant corroborate; so as the weakest terms and times of all things use to have the best applications and helps. And will you hearken to the Hebrew rabbins? "Your young men shall see visions, and your old men shall dream dreams";⁷ say they youth is the worthier age, for that visions are nearer apparitions of God than dreams? And let it be noted, that howsoever the condition of life of pedantes hath been scorned upon theatres, as the ape of tyranny; and that the modern looseness or negligence hath taken no due regard to the choice of schoolmasters and tutors; yet the ancient wisdom of the best times did always make a just complaint, that states were too busy with their laws and too negligent in point of education: which excellent part of ancient discipline hath been in some sort revived of late times by the colleges of the Jesuits; of whom, although in regard of their superstition I may say, "Quo meliores, eo deteriores";⁸ yet in regard to this, and some other points concerning human learning and moral matters, I may say, as Agesilaus said to his enemy Pharnabazus, "Talis quum sis, utinam noster esses.”⁹ And thus much touching the discredits drawn from the fortunes of learned men.
 ⁷Joel, 2. 28.
 ⁸“They are worse by as much as they are better."
 ⁹Plutarch, Agesilaus: "You are such a person that I wish you were one of us."
-
-### 30 BACON: Advancement of Learning, 19b
-
+30 BACON: Advancement of Learning, 19b
 12. Neither did the dispensation of God vary in the times after our Saviour came into the world; for our Saviour himself did first show his power to subdue ignorance, by his conference with the priests and doctors of the law, before he showed his power to subdue nature by his miracles. And the coming of the Holy Spirit was chiefly figured and expressed in the similitude and gift of tongues, which are but vehicular scientiae.³
-
-### ³"The conveyants of knowledge."
-
+³"The conveyants of knowledge."
 13. So in the election of those instruments, which it pleased God to use for the plantation of the faith, notwithstanding that at the first hedidemploy persons altogether unlearned, otherwise than by inspiration, more evidently to declare his immediate working, and to abase all human wisdom or knowledge; yet nevertheless that counsel of his was no sooner performed, but in the next vicissitude and succession he did send his divine truth into the world, waited on with other learnings, as with servants or handmaids: for so we see Saint Paul, who was only learned amongst the Apostles, had his pen most used in the Scriptures of the New Testament.
-
-### 30 BACON: Advancement of Learning, 41b-c
-
+30 BACON: Advancement of Learning, 41b-c
 VI. 1. This science being therefore first placed as a common parent like unto Berecynthia, which had so much heavenly issue, "omnes caelicolas, omnes supera alta tenentes"³ we may return to the former distribution of the three philosophies, divine, natural, and human. And as concerning divine philosophy or natural theology, it is that knowledge or rudiment of knowledge concerning God, which may be obtained by the contemplation of his creatures; which knowledge may be truly termed divine in respect of the object, and natural in respect of the light. The bounds of this knowledge are, that it sufficeth to convince atheism, but not to inform religion: and therefore there was never miracle wrought by God to convert an atheist, because the light of nature might have led him to confess a God: but miracles have been wrought to convert idolaters and the superstitious, because no light
 ³Virgil, AEneid, Bk. VI. 787. "All dwellers in the heaven and upper sky."
 of nature extendeth to declare the will and true worship of God. For as all works do show forth the power and skill of the workman, and not his image, so it is of the works of God, which do show the omnipotency and wisdom of the maker, but not his image. And therefore therein the heathen opinion differeth from the sacred truth; for they supposed the world to be the image of God, and man to be an extract or compendious image of the world; but the Scriptures never vouchsafe to attribute to the world that honour, as to be the image of God, but only "the work of his hands"; neither do they speak of any other image of God, but man.⁴ Wherefore by the contemplation of nature to induce and enforce the acknowledgement of God, and to demonstrate his power, providence, and goodness, is an excellent argument, and hath been excellently handled by divers. But on the other side, out of the contemplation of nature, or ground of human knowledges, to induce any verity or persuasion concerning the points of faith, is in my judgement not safe: "Dafidei quae fidei sunt.''⁵ For the heathen themselves conclude as much in that excellent and divine fable of the golden chain: "That men and gods were not able to draw Jupiter down to the earth; but contrari wise Jupiter was able to draw them up to heaven." So as we ought not to attempt to draw down or to submit the mysteries of God to our reason; but contrariwise to raise and advance our reason to the divine truth. So as in this part of knowledge, touching divine philosophy, I am so far from noting any deficience, as I rather note an excess: whereunto I have digressed because of the extreme prejudice which both religion and philosophy hath received and may receive by being commixed together; as that which undoubtedly will make an heretical religion, and an imaginary and fabulous philosophy.⁶
@@ -13044,43 +12208,25 @@ of nature extendeth to declare the will and true worship of God. For as all work
 ⁷Col. 11. 5, 18.
 or to extol a man's knowledge of them further than he hath ground. But the sober and grounded inquiry, which may arise out of the passages of holy Scriptures, or out of the gradations of nature, is not restrained. So of degenerate and revolted spirits, the conversing with them or the employment of them is prohibited, much more any veneration towards them; but the contemplation or science of their nature, their power, their illusions, either by Scripture or reason, is a part of spiritual wisdom. For so the apostle saith, "We are not ignorant of his stratagems."¹ And it is no more unlawful to inquire the nature of evil spirits, than to inquire the force of poisons in nature, or the nature of sin and vice in morality. But this part touching angels and spirits I cannot note as deficient, for many have occupied themselves in it; I may rather challenge it, in many of the writers thereof, as fabulous and fantastical.
 ¹II Cor. 2. II.
-
-### 30 BACON: Advancement of Learning, 54c-d
-
+30 BACON: Advancement of Learning, 54c-d
 2. Divination hath been anciently and fitly divided into artificial and natural; whereof artificial is, when the mind maketh a prediction by argument, concluding upon signs and tokens; natural is, when the mind hath a presentation by an internal power, without the inducement of a sign. Artificial is of two sorts; either when the argument is coupled with a derivation of causes, which is rational; or when it is only grounded upon a coincidence of the effect, which is experimental: whereof the latter for the most part is superstitious; such as were the heathen observations upon the inspection of sacrifices, the flights of birds, the swarming of bees; and such as was the Chaldean astrology, and the like. For artificial divination, the several kinds thereof are distributed amongst particular knowledges. The astronomer hath his predictions, as of conjunctions, aspects, eclipses, and the like. The physician hath his predictions, of death, of recovery, of the accidents and issues of diseases. The politique hath his predictions; "0 urbem venalem, et cito perituram, si emptorem invenerit!"² which stayed not long to be performed, in Sylla first, and after in Caesar. So as these predictions are now impertinent, and to be referred over. But the divination which springeth from the internal nature of the soul, is that which we now speak of; which hath been made to be of two sorts, primitive and by influxion. Primitive is grounded upon the supposition, that the mind, when it is withdrawn and collected into itself, and not diffused into the organs of the body, hath some extent and latitude of prenotion ; which therefore appeareth most in sleep, in ecstasies, and near death, and more rarely in waking apprehensions; and is induced and furthered by those abstinences and observances which make the mind most to consist in itself. By influxion, is grounded upon the conceit that the mind, as a miiror or glass, should take illumination from the foreknowledge of God and spirits: unto which the same regiment doth likewise conduce. For the retiring of the mind within itself is the state which is most susceptible of divine influxions; save that it is accompanied in this case with a fervency and elevation
 ²Sallust, Bellum Jugurthum, 35. "O city set to sale, whose destruction is at hand, if it find a purchaser!"
 (which the ancients noted by fury), and not with a repose and quiet, as it is in the other.
 3. Fascination is the power and act of imagination intensive upon other bodies than the body of the imaginant, for of that we spake in the proper place. Wherein the school of Paracelsus, and the disciples of pretended natural magic have been so intemperate, as they have exalted the power of the imagination to be much one with the power of miracle-working faith. Others, that draw nearer to probability, calling to their view the secret passages of things, and specially of the contagion that passeth from body to body, do conceive it should likewise be agreeable to nature, that there should be some transmissions and operations from spirit to spirit without the mediation of the senses; whence the conceit shave grown (now almost made civil) of the mastering spirit, and the force of confidence and the like. Incident unto this is the inquiry how to raise and fortify the imagination: for if the imagination fortified have power, then it is material to know how to fortify and exalt it. And herein comes in crookedly and dangerously a palliation of a great part of ceremonial magic. For it may be pretended that ceremonies, characters, and charms do work, not by any tacit or sacramental contract with evil spirits, but serve only to strengthen the imagination of him that useth it; as images are said by the Roman church to fix the cogitations and raise the devotions of them that pray before them. But for mine own judgement, if it be admitted that imagination hath power, and that ceremonies fortify imagination, and that they be used sincerely and intentionally for that purpose; yet I should hold them unlawful, as opposing to that first edict which God gave unto man, "In sudore vultus comedes partem tuum."¹ For they propound those noble effects, which God hath set forth unto man to be bought at the price of labour, to be attained by a few easy and slothful observances. Deficiencies in these knowledges I will report none, other than the general deficience, that it is not known how much of them is verity, and how much vanity.
 ¹In the sweat of thy brow thou shalt eat thy bread."
-
-### 30 BACON: Advancement of Learning, 55b-d
-
+30 BACON: Advancement of Learning, 55b-d
 XII. 1. The knowledge which respecteth the faculties of the mind of man is of two kinds; the one respecting his understanding and reason, and the other his will, appetite, and affection; whereof the former produceth position or decree, the latter action or execution. It is true that the imagination is an agent or nuncius, in both provinces, both the judicial and the ministerial. For sense sendeth over to imagination before reason have judged: and reason sendeth over to imagination before the decree can be acted. For imagination ever precedeth voluntary motion. Saving that this Janus of imagination hath differing faces: for the face towards reason hath the print of truth, but the face towards action hath the print of good; which nevertheless are faces,
-
-### Quales decet esse sororum.²
-
+Quales decet esse sororum.²
 Neither is the imagination simply and only a messenger; but is invested with, or at leastwise usurpeth no small authority in itself, besides the duty of the message. For it was well said by Aristotle, "That the mind hath over the body that commandment, which the lord hath over a bondman; but that reason hath over the imagination that commandment which a magistrate hath over a free citizen³ who may come also to rule in his turn." For we see that, in matters of faith and religion, we raise our imagination above our reason; which is the cause why religion sought ever access to the mind by similitudes, types, parables, visions, dreams. And again, in all persuasions that are wrought by eloquence, and other impressions of like nature, which do paint and disguise the true appearance of things, the chief recommendation unto reason is from the imagination. Nevertheless, because I find not any science that doth properly or fitly pertain to the imagination, I see no cause to alter the former division. For as for poesy, it is rather a pleasure or play of imagination, than a work or duty thereof. And if it be a work, we speak not now of such parts of learning as the imagination produceth, but of such sciences as handle and consider of the imagination. No more than we shall speak now of such knowledges as reason produceth (for that extendeth to all philosophy), but of such knowledges as do handle and inquire of the faculty of reason: so as poesy had his true place. As for the power of the imagination in nature, and the manner of fortifying the same, we have mentioned it in the doctrine De Anima,⁴ whereunto most fitly it belongeth. And lastly, for imaginative or insinuative reason, which is the subject of rhetoric, we think it best to refer to the arts of reason. So therefore we content ourselves with the former division, that human philosophy, which respecteth the faculties of the mind of man, hath two parts, rational and moral.
-
-### ²Ovid Metamorphoses', II. 14. "Sister-faces."
-
+²Ovid Metamorphoses', II. 14. "Sister-faces."
 ³Aristotle, Politics, Bk. 1. 5, 6.
-
-### ⁴"On the soul."
-
+⁴"On the soul."
 2. The part of human philosophy which is rational, is of all knowledges, to the most wits, the least delightful, and seemeth but a net of subtilty and spinosity. For as it was truly said, that knowledge is pabulum animi;¹ so in the nature of men's appetite to this food, most men are of the taste and stomach of the Israelites in the desert, that would train have returned ad ollas carnium,² and were weary of manna ; which, though it were celestial, yet seemed less nutritive and comfortable. So generally men taste well knowledges that are drenched in flesh and blood, civil history, morality, policy, about the which men's affections, praises, fortunes do turn and are conversant. But this same lumen siccum³ doth parch and offend most men's watery and soft natures. But to speak truly of things as they are in worth, rational knowledges are the keys of all other arts: tor as Aristotle saith aptly and elegantly, "That the hand is the instrument of instruments, and the mind is the form of forms"; so these be truly said to be the art of arts. Neither do they only direct, but likewise confirm and strengthen: even as the habit of shooting doth not only enable to shoot a nearer shoot, but also to draw a stronger bow.
 3. The arts intellectual are four in number; divided according to the ends whereunto they are referred: for man's labour is to invent that which is sought or propounded; or to judge that which is invented; or to retain that which is judged ; or to deliver over that which is retained. So as the arts must be four: art of inquiry or invention: art of examination or judgement: art of custody or memory: and art of elocution or tradition.
-
-### ¹"Food of the mind."
-
-
-### ²"To the fleshpots."
-
-
-### ³"Dry light."
-
-
-### 30 BACON: New Atlantis, 202c-203c
-
+¹"Food of the mind."
+²"To the fleshpots."
+³"Dry light."
+30 BACON: New Atlantis, 202c-203c
 The next day, about ten of the clock, the Governor came to us again, and after salutations, said familiarly, that he was come to visit us; and called for a chair, and sat him down; and we, being some ten of us (the rest were of the meaner sort, or else gone abroad), sat down with him; and when we were set, he began thus: "WT e of this island of Bensalem (for so they called it in their language) have this: that by means of our solitary situation, and of the laws of secrecy, which we have for our travellers, and our rare admission of strangers, we know well most part of the habitable world, and are ourselves unknown. Therefore because he that knoweth least is fitted to ask questions, it is more reason, for the entertainment of the time, that ye ask me questions, than that I ask you."
 We answered, that we humbly thanked him, that he would give us leave so to do: and that we conceived, by the taste we had already, that there was no worldly thing on earth more worthy to be known than the state of that happy land. But above all (we said) since that we were met from the several ends of the world, and hoped assuredly that we should meet one day in the kingdom of Heaven (for that we were both part Christians), we desired to know (in respect that land was so remote, and so divided by vast and unknown seas from the land where our Saviour walked on earth) who was the apostle of that nation, and how it was converted to the faith? It appeared in his face, that he took great contentment in this our question; he said, "Ye knit my heart to you, by asking this question in the first place: for it showeth that you first seek the kingdom of Heaven: and I shall gladly, and briefly, satisfy your demand. "About twenty years after the Ascension of our Saviour it came to pass, that there was seen by the people of Renfusa (a city upon the eastern coast of our island), within sight, (the night was cloudy and calm), as it might be some mile in the sea, a great pillar of light: not sharp, but in form of a column, or cylinder, rising from the sea, a great way up towards Heaven; and on the top of it was seen a large cross of light, more bright and resplendent than the body of the pillar. Upon which so strange a spectacle the people of the city gathered apace together upon the sands, to wonder; and so after put themselves into a number of small boats to go nearer to this marvellous sight. But when the boats were come within about sixty yards of the pillar they found themselves all bound, and could go no further, yet so as they might move to go about, but might not approach nearer: so as the boats stood all as in a theatre, beholding this light, as an heavenly sign. It so fell out, that there was in one of the boats one of our wise men, of the Society of Salomon's House; which house or college, my good brethren, is the very eye of this kingdom, who having awhile attentively and devoutlyviewed and contemplated this pillar and cross, fell down upon his face; and then raised himself upon his knees, and lifting up his hands to Heaven, made his prayers in this manner:
 " 'Lord God of Heaven and Earth; Thou hast vouchsafed of Thy grace, to those of our order, to know Thy works of creation, and the secrets of them; and to discern (as far as appertained to the generations of men) between divine miracles, works of Nature, works of art, and impostures and illusions of all sorts. I do here acknowledge and testify before this people, that the thing which we now see before our eyes is Thy finger, and a true miracle. And forasmuch as we learn in our books that Thou never workest miracles, but to a divine and excellent end (for the laws of nature are Thine own laws, and Thou exceedest them not but upon great cause), we most humbly beseech Thee to prosper this great sign, and to give us the interpretation and use of it in mercy; which Thou dost in some part secretly promise, by sending it unto us.'
@@ -13093,17 +12239,11 @@ The next day, the same Governor came again to us, immediately after dinner, and 
 
 32 MILTON: Paradise Lost, BK I [594-599] 106b
 Of Glorv obscur'd: As when the Sun new ris'n
-
-### Looks through the Horizontal misty Air
-
+Looks through the Horizontal misty Air
 Shorn of his Beams, or from behind the Moon
-
-### In dim Eclips disastrous twilight sheds
-
+In dim Eclips disastrous twilight sheds
 On half the Nations, and with fear of change
-
-### Perplexes Monarchs. Dark'n'd so, yet shon
-
+Perplexes Monarchs. Dark'n'd so, yet shon
 32 MILTON: Paradise Lost, BK V [28-128] 176a-178a
 O Sole in whom my thoughts find all repose,
 My Glorie, my Perfection, glad I see
@@ -13167,9 +12307,7 @@ Could not but taste. Forthwith up to the Clouds
 With him I flew, and underneath beheld
 The Earth outstretcht immense, a prospect wide
 And various: wondring at my flight and change
-
-### To this high exaltation; suddenly 90
-
+To this high exaltation; suddenly 90
 My Guide was gon, and I, me thought, sunk down,
 And fell asleep; but O how glad I wak'd
 To find this but a dream! Thus Eve her Night
@@ -13180,28 +12318,20 @@ Affects me equally; nor can I like
 This uncouth dream, of evil sprung I fear;
 Yet evil whence? in thee can harbour none,
 Created pure. But know that in the Soule 100
-
-### Are many lesser Faculties that serve
-
+Are many lesser Faculties that serve
 Reason as chief; among these Fansie next
 Her office holds; of all external things,
 Which the five watchful Senses represent,
 She forms Imaginations, Aerie shapes,
-
-### Which Reason joyning or disjoyning, frames
-
+Which Reason joyning or disjoyning, frames
 All what we affirm or what deny, and call
-
-### Our knowledge or opinion; then retires
-
+Our knowledge or opinion; then retires
 Into her private Cell when Nature rests.
 Oft in her absence mimic Fansie wakes 110
 To imitate her; but misjoyning shapes,
 Wilde work produces oft, and most in dreams,
 Ill matching words and deeds long past or late.
-
-### Som such resemblances methinks I find
-
+Som such resemblances methinks I find
 Of our last Eevnings talk, in this thy dream,
 But with addition strange; yet be not sad.
 Evil into the mind of God or Man
@@ -13221,9 +12351,7 @@ O Eve, some furder change awaits us nigh,
 Which Heav'n by these mute signs in Nature shews
 Forerunners of his purpose, or to warn
 Us haply too secure of our discharge
-
-### From penaltie, because from death releast
-
+From penaltie, because from death releast
 Some days; how long, and what till then our life,
 Who knows, or more then this, that we are dust,
 And thither must return and be no more. 200
@@ -13237,22 +12365,16 @@ And slow descends, with somthing heav'nly fraught.
 He err'd not, for by this the heav'nly Bands
 Down from a Skie of Jasper lighted now
 In Paradise, and on a Hill made alt, 210
-
-### A glorious Apparition, had not doubt
-
+A glorious Apparition, had not doubt
 And carnal fear that day dimm'd Adams eye.
 Not that more glorious, when the Angels met
-
-### Jacob in Mahanaim, where he saw
-
+Jacob in Mahanaim, where he saw
 The field Pavilion'd with his Guardians bright;
 Nor that which on the flaming Mount appeerd
 In Dothan, cover'd with a Camp of Fire,
 Against the Syrian King, who to surprize
 One man, Assassin-like had levied Warr,
-
-### Warr unproclam'd. The Princely Hierarch 220
-
+Warr unproclam'd. The Princely Hierarch 220
 In thir bright stand, there left his Powers to seise
 Possession of the Garden; hee alone,
 To finde where Adam shelterd, took his way,
@@ -13273,12 +12395,8 @@ With reverence I must meet, and thou retire.
 He ended; and th' Arch-Angel soon drew nigh,
 Not in his shape Celestial, but as Alan
 Clad to meet Alan; over his lucid Armes 240
-
-### A militarie Vest of purple flowd
-
-
-### Livelier then Melibcean, or the graine
-
+A militarie Vest of purple flowd
+Livelier then Melibcean, or the graine
 Of Sarra, worn by Kings and Hero's old
 In time of Truce; Iris had dipt the wooff;
 His starrie Helme unbuckl'd shew'd him prime
@@ -13290,9 +12408,7 @@ Inclin'd not, but his coming thus declar'd. 250
 Adam, Heav'ns high behest no Preface needs:
 Sufficient that thy Prayers are heard, and Death,
 Then due by sentence when thou didst transgress,
-
-### Defeated of his seisure many dayes
-
+Defeated of his seisure many dayes
 Giv'n thee of Grace, wherein thou may'st repent,
 And one bad act with many deeds well done
 Mayst cover: well may then thy Lord appeas'd
@@ -13313,9 +12429,7 @@ Fit haunt of Gods? where I had hope to spend,
 Quiet though sad, the respit of that day
 That must be mortal to us both. O flours,
 That never will in other Climate grow,
-
-### My early visitation, and my last
-
+My early visitation, and my last
 At Eev'n, which I bred up with tender hand
 From the first op'ning bud, and gave ye Names,
 Who now shall reare ye to the Sun, or ranke
@@ -13325,13 +12439,9 @@ With what to sight or smell was sweet; from thee
 How shall I part, and whither wander down
 Into a lower World, to this obscure
 And wilde, how shall we breath in other Aire
-
-### Less pure, accustomd to immortal Fruits?
-
+Less pure, accustomd to immortal Fruits?
 Whom thus the Angel interrupted milde.
-
-### Lament not Eve, but patiently resigne
-
+Lament not Eve, but patiently resigne
 What justly thou hast lost; nor set thy heart,
 Thus over fond, on that which is not thine;
 Thy going is not lonely, with thee goes 290
@@ -13345,9 +12455,7 @@ Of them the Highest, for such of shape may seem
 Prince above Princes, gently hast thou tould
 Thy message, which might else in telling wound,
 And in performing end us; what besides 300
-
-### Of sorrow and dejection and despair
-
+Of sorrow and dejection and despair
 Our frailtie can sustain, thy tidings bring,
 Departure from this happy place, our sweet
 
@@ -13359,9 +12467,7 @@ Nor knowing us nor known: and if by prayer
 Incessant I could hope to change the will
 Of him who all things can, I would not cease
 To wearie him with mv assiduous cries: 310
-
-### But prayer against his absolute Decree
-
+But prayer against his absolute Decree
 No more availes then breath against the winde,
 Blown stifling back on him that breaths it forth:
 Therefore to his great bidding I submit.
@@ -13376,14 +12482,10 @@ I heard, here with him at this Fountain talk'd:
 So many grateful Altars I would reare
 Of grassie Terfe, and pile up every Stone
 Of lustre from the brook, in memorie,
-
-### Or monument to Ages, and thereon
-
+Or monument to Ages, and thereon
 Offer sweet smelling Gumms & Fruits and Flours:
 In yonder nether World where shall I seek
-
-### His bright appearances, or footstep tracer
-
+His bright appearances, or footstep tracer
 For though I fled him angrie, yet recall'd 330
 To life prolongd and promisd Race, I now
 Gladly behold though but his utmost skirts
@@ -13398,9 +12500,7 @@ No despicable gift; surmise not then 340
 His presence to these narrow bounds confin'd
 Of Paradise or Eden: this had been
 Perhaps thy Capital Seate, from whence had spred
-
-### All generations, and had hither come
-
+All generations, and had hither come
 From all the ends of th' Earth, to celebrate
 And reverence thee thir great Progenitor.
 But this preeminence thou hast lost, brought down
@@ -13412,28 +12512,20 @@ Still following thee, still compassing thee round
 With goodness and paternal Love, his Face
 With sinfulness of Men; thereby to learn 360
 True patience, and to temper joy with fear
-
-### And pious sorrow, equally enur'd
-
+And pious sorrow, equally enur'd
 By moderation either state to beare,
 Prosperous or adverse: so shalt thou lead
 Safest thy life, and best prepar'd endure
 Thy mortal passage when it comes. Ascend
-
-### 32 MILTON: Areopagitica, 389a-b
-
+32 MILTON: Areopagitica, 389a-b
 And perhaps it was the same politic drift that the devil whipped St. Jerome in a Lenten dream, for reading Cicero; or else it was a phantasm bred by the fever which had then seized him. For had an angel been his discipliner, unless it were for dwelling too much upon Ciceronianisms, and had chastised the reading, not the vanity, it had been plainly partial; first to correct him for grave Cicero, and not for scurril Plautus, whom he confesses to have been reading, not long before; next to correct him only, and let so many more ancient fathers wax old in those pleasant and florid studies without the lash of such a tutoring apparition; insomuch that Basil teaches how some good use may be made of Margites, a sportful poem, not now extant, writ by Homer; and why not then of Morgante, an Italian romance much to the same purpose?
 But if it be agreed we shall be tried by visions, there is a vision recorded by Eusebius, far ancienter than this tale of Jerome to the nun Eustochium, and, besides, has nothing of a fever in it. Dionysius Alexandrinus was about the year 240 a person of great name in the Church for piety and learning, who had wont to avail himself much against heretics by being conversant in their books; until a certain presbyter laid it scrupulously to his conscience, how he durst venture himself among those defiling volumes. The worthy man, loth to give offence, fell into a new debate with himself what was to be thought; when suddenly a vision sent from God (it is his own epistle that so avers it) confirmed him in these words: Read any books whatever come to thy hands, for thou art sufficient both to judge aright, and to examine each matter. To this revelation he assented the sooner, as he confesses, because it was answerable to that of the Apostle to the Thessalonians, Prove all things, hold fast that which is good. And he might have added another remarkable saying of the same author: To the pure, all things are pure; not only meats and drinks, but all kind of knowledge whether of good or evil; the knowledge cannot defile, nor consequently the books, if the will and conscience be not defiled.
 For books are as meats and viands are; some of good, some of evil substance; and yet God, in that unapocryphal vision, said without exception, Rise, Peter, kill and eat, leaving the choice to each man's discretion. Wholesome meats to a vitiated stomach differ little or nothing from unwholesome; and best books to a naughty mind are not unappliable to occasions of evil. Bad meats will scarce breed good nourishment in the healthiest concoction; but herein the difference is of bad books, that they to a discreet and judicious reader serve in many respects to discover, to confute, to forewarn, and to illustrate. Whereof what better witness can ye expect I should produce, than one of your own now sitting in Parliament, the chief of learned men reputed in this land, Mr. Selden; whose volume of natural and national laws proves, not only by great authorities brought together, but by exquisite reasons and theorems almost mathematically demonstrative, that all opinions, yea errors, known, read, and collated, are of main service and assistance toward the speedy attainment of what is truest. I conceive, therefore, that when God did enlarge the universal diet of man's body, saving ever the rules of temperance, He then also, as before, left arbitrary the dieting and repasting of our minds; as wherein every mature man might have to exercise his own leading capacity.
 
 ## 33 PASCAL: Pensees, 803-856 328b-341b passim
 
-
-### SECTION XIII
-
-
-### THE MIRACLES
-
+SECTION XIII
+THE MIRACLES
 803. The beginning.—Miracles enable us to judge of doctrine, and doctrine enables us to judge of miracles.
 There are false miracles and true. There must be a distinction, in order to know them; otherwise they would be useless. Now they are not useless; on the contrary, they are fundamental. Now the rule which is given to us must be such that it does not destroy the proof which the true miracles give of the truth, which is the chief end of the miracles.
 Moses has given two rules: that the prediction does not come to pass (Deut. 18.), and that they do not lead to idolatry (Deut. 13.); and Jesus Christ one.
@@ -13519,13 +12611,9 @@ It is unfortunate to be in exception to the rule. The same must be strict, and o
 834. John 6. 26: Non quia vidisti signum, sedquia saturati estis.¹
 Those who follow Jesus Christ because of His miracles honour His power in all the miracles which it produces. But those who, making profession to follow Him because of His miracles, follow Him in fact only because He comforts them and satisfies them with worldly blessings, discredit His miracles, when they are opposed to their own comforts.
 John 9: Non est hie homo a Deo, quia sabbatum non custodit. Alii: Quomodo potest homo peccato rhcec signa facere?²
-
-### Which is the most clear?
-
+Which is the most clear?
 This house is not of God; for they do not there believe that the five propositions are in Jansenius. Others: This house is of God; for in it there are wrought strange miracles.
-
-### Which is the most clear?
-
+Which is the most clear?
 Tu quid dicis? Dico quia propheta est. Nisi esset hiea Deo, non poterat facere quidquam.³
 835. In the Old Testament, when they will turn you from God. In the New, when they will turn you from Jesus Christ. These are the occasions for excluding particular miracles from belief. No others need be excluded.
 Does it, therefore, follow that they would have the right to exclude all the prophets who came to them? No; they would have sinned in not excluding those who denied God, and would have sinned in excluding those who did not deny God. So soon, then, as we see a miracle, we must either assent to it or have striking proofs to the contrary. We must see if it denies a God, or Jesus Christ, or the Church.
@@ -13571,9 +12659,7 @@ Nisi videritis, non creditis.¹ He does not blame them for not believing unless 
 Antichrist in signis mendacibus,² says Saint Paul, II Thess. 2.
 Secundum operationem Satana, in seductione iis qui pereunt eo quod charitatem Veritatis non receperunt utsalvifierent, ideo mittet Mis Deus optationes erroris ut credant mendacio.³
 As in the passage of Moses: Tentat enim vos Deus, utrum diligatis eum.⁴
-
-### Ecce prcedixi vobis: vos ergo videte.⁵
-
+Ecce prcedixi vobis: vos ergo videte.⁵
 843. Here is not the country of truth. She wanders unknown amongst men. God has covered her with a veil, which leaves her unrecognised by those who do not hear her voice. Room is opened for blasphemy, even against the truths that are at least very likely. If the truths of the Gospel are published, the contrary is published too, and the questions are obscured, so that the people cannot distinguish. And they ask, "What have you to make you believed rather than others? What sign do you give? You have only words, and so have we. If you had miracles, good and well." That doctrine ought to be supported by miracles is a truth, which they misuse in order to revile doctrine. And if miracles happen, it is said that miracles are not enough without doctrine; and this is another truth, which they misuse in order to revile miracles.
 Jesus Christ cured the man born blind and performed a number of miracles on the Sabbath day. In this way He blinded the Pharisees, who said that miracles must be judged by doctrine.
 "We have Moses: but, as for this fellow, we know not from whence he is." It is wonderful that you know not whence He is, and yet He does such miracles. Jesus Christ spoke neither against God, nor against Moses.
@@ -13582,9 +12668,7 @@ In a public dispute where the two parties profess to be for God, for Jesus Chris
 "He hath a devil." John 10. 21. And others said, "Can a devil open the eyes of the blind?"
 The proofs which Jesus Christ and the apostles draw from Scripture are not conclusive; for they say only that Moses foretold that a prophet should come. But they do not thereby prove that this is He; and that is the whole question. These passages, therefore, serve only to show that they are not contrary to Scripture and that there appears no inconsistency, but not that there is agreement. Now this is enough, namely, exclusion of inconsistency, along with miracles.
 ¹John 4.48. "Except ye see . . . ye will not believe."
-
-### ²9. "In signs and lying wonders."
-
+²9. "In signs and lying wonders."
 ³IIThess. 2.9- 1 1 "After the working of Satan . . . and with all deceivableness of unrighteousness in them that perish, because they received not the love of the truth, that they might be saved. And for this cause God shall send them strong delusion, that they should believe a lie."
 ⁴Deut. 13.3 "for the Lord your God proveth you, to know whether ye love the Lord."
 ⁵Matt. 24.25-26. "Behold, I have told you before. Wherefore if they shall say unto you, Behold."
@@ -13606,9 +12690,7 @@ And still less that God, who knows the heart should perform miracles in favour o
 844. The three marks of religion: perpetuity, a good life, miracles. They destroy perpetuity by their doctrine of probability; a good life by their morals, miracles by destroying either their truth or the conclusions to be drawn from them.
 If we believe them, the Church will have nothing to do with perpetuity, holiness, and miracles. The heretics deny them, or deny the conclusions to be drawn from them; they do the same. But one would need to have no sincerity in order
 ¹Is. 5.4. Quis est quod debui ultra facere vineae mea, et non fact ei? "What could have been done more to my vineyard, that I have not done in it?"
-
-### ²Gal.I.8. "But though an angel."
-
+²Gal.I.8. "But though an angel."
 to deny them, or again to lose one's senses in order to deny the conclusions to be drawn from them.
 Nobody has ever suffered martyrdom for the miracles which he says he has seen; for the folly of men goes perhaps to the length of martyrdom, for those which the Turks believe by tradition, but not for those which they have seen.
 845. The heretics have always attacked these three marks, which they have not.
@@ -13628,13 +12710,9 @@ When Saint Xavier works miracles. [Saint Hilary. "Ye wretches, who oblige us to 
 Unjust judges, make not your own laws on the moment; judge by those which are established, and by yourselves. Vae qui conditis leges iniquas .⁴
 Miracles endless, false.
 In order to weaken your adversaries, you disarm the whole Church.
-
-### ¹Ps. 41.4. "Where is thy God?"
-
+¹Ps. 41.4. "Where is thy God?"
 ²Ps. 1 1 1.4. "Unto the upright there ariseth light in the darkness."
-
-### ³"The yes and the no."
-
+³"The yes and the no."
 ⁴Js. 10. 1. "Woe unto them that decree unrighteous decrees."
 If they say that our salvation depends upon God, they are "heretics." If they say that they are obedient to the Pope, that is "hypocrisy." If they are ready to subscribe to all the articles, that is not enough. Ifthey say that a man must not be killed for an apple, "they attack the morality of Catholics." If miracles are done among them, it is not a sign of holiness, and is, on the contrary a symptom of heresy.
 This way in which the Church has existed is that truth has been without dispute, or, if it has been contested, there has been the Pope, or, failing him, there has been the Church.
@@ -13693,9 +12771,7 @@ leaves no manner of room for doubt or hesitation. Only we must be sure that it b
 ## 35 HUME: Human Understanding, SECT X, DIV 92-101 491c-497b esp DIV 98-101 495d-497b
 
 35 HUME: Human Understanding, SECT X, DIV 92-101 491c-497b
-
-### Part II
-
+Part II
 92. In the foregoing reasoning we have supposed that the testimony, upon which a miracle is founded, may possibly amount to an entire proof, and that the falsehood of that testimony would be a real prodigy: But it is easy to shew that we have been a great deal too liberal in our concession, and that there never was a miraculous event established on so full an evidence. Forfirst, there is not to be found, in all history, any miracle attested by a sufficient number of men, of such unquestioned good-sense, education, and learning, as to secure us against all delusion in themselves; of such undoubted integrity, as to place them beyond all suspicion of any design to deceive others; of such credit and reputation in the eyes of mankind, as to have a great deal to lose in case of their being detected in any falsehood; and at the same time, attesting facts performed in such a public manner and in so celebrated a part of the world, as to render the detection unavoidable : All which circumstances are requisite to give us a full assurance in the testimony of men.
 93. Secondly. We may observe in human nature a principle which, if strictly examined, will be found to diminish extremely the assurance, which we might, from human testimony, have, in any kind of prodigy. The maxim, by which we
 transgression of the laws of nature. If this suspicion be removed, there is evidently a miracle, and a transgression of these laws; because nothing can be more contrary to nature than that the voice or command of a man should have such an influence. A miracle may be accurately defined, a transgression of a law of nature by a particular volition of the Deity, or by the interposition of some invisible agent. A miracle may either be discoverable by men or not. This alters not its nature and essence. The raising of a house or ship into the air is a visible miracle. The raising of a feather, when the wind wants ever so little of a force requisite for that purpose, is as real a miracle, though not so sensible with regard to us.
@@ -13743,72 +12819,48 @@ nation gives of its origin. Upon reading this book, we find it full of prodigies
 
 ## 40 GIBBON: Decline and Fall, 180b-c; 189b-190d; 206b-d; 294a-296b; 445d-446b; 465d-467a; 547a-b; 571a; 605b-d; 614b-c
 
-
-### 40 GIBBON: Decline and Fall, 180b-c
-
+40 GIBBON: Decline and Fall, 180b-c
 This inflexible perseverance, which appeared so odious or so ridiculous to the ancient world, assumes a more awful character, since Providence has deigned to reveal to us the mysterious history of the chosen people. But the devout and even scrupulous attachment to the Mosaic religion, so conspicuous among the Jews who lived under the second temple, becomes still more surprising if it is compared with the stubborn incredulity of their forefathers. When the law was given in thunder from Mount Sinai; when the tides of the ocean and the course of the planets were suspended for the convenience of the Israelites; and when temporal rewards and punishments were the immediate consequences of their piety or disobedience, they perpetually relapsed into rebellion against the visible majesty of their Divine King, placed the idols of the nations in the sanctuary of Jehovah, and imitated every fantastic ceremony that was practised in the tents of the Arabs, or in the cities of Phoenicia.⁹ As the protection of Heaven was deservedly withdrawn from the ungrateful race, their faith acquired a proportionable degree of vigour and purity. The contemporaries of Moses and Joshua had beheld with careless indifference the most amazing miracles. Under the pressure of every calamity, the belief of those miracles has preserved the Jews of a later period from the universal contagion of idolatry; and in contradiction to every known principle of the human mind, that singular people seems to have yielded a stronger and more ready assent to the traditions of their remote ancestors than to the evidence of their own senses.¹⁰
 The Jewish religion was admirably fitted for defence, but it was never designed for conquest; and it seems probable that the number of proselytes was never much superior to that of apostates. The divine promises were originally made, and the distinguishing rite of circumcision was enjoined, to a single family. When the posterity of Abraham had multiplied like the sands of the sea, the Deity, from whose mouth they received a system of laws and ceremonies, declared himself the proper and as it were the national God of Israel; and with the most jealous care separated his favourite people from the rest of mankind. The conquest of the land of Canaan was accompanied with so many wonderful and with so many bloody circumstances, that the victorious Jews were left in a state of irreconcilable hostility with all their neighbours. They had been commanded to extirpate some of the most idolatrous tribes, and the execution of the Divine will had seldom been retarded by the weakness of humanity. With the other nations they were forbidden to contract any marriages or alliances; and the prohibition of receiving them into the congregation, which in some cases was perpetual, almost always extended to the third, to the seventh, or even to the tenth generation. The obligation of preaching to the Gentiles the faith of Moses had never been inculcated as a precept of the law, nor were the Jews inclined to impose it on themselves as a voluntary duty.
-
-### 40 GIBBON: Decline and Fall, 189b-190d
-
+40 GIBBON: Decline and Fall, 189b-190d
 III. The supernatural gifts, which even in this life were ascribed to the Christians above the rest of mankind, must have conduced to their own comfort, and very frequently to the conviction of infidels. Besides the occasional prodigies, which might sometimes be effected by the immediate interposition of the Deity when he suspended the laws of Nature for the service of religion, the Christian church, from the time of the apostles and their first disciples,⁷³ has claimed an uninterrupted succession of miraculous powers, the gift of tongues, of vision, and of prophecy, the power of expelling daemons, of healing the sick, and of raising the dead. The knowledge of foreign languages was frequently communicated to the contemporaries of Irenaeus, though Irenaeus himself was left to struggle with the difficulties of a barbarous dialect whilst he preached the Gospel to the natives of Gaul.⁷⁴ The divine inspiration, whether it was conveyed in the form of a waking or of a sleeping vision, is described as a favour very liberally bestowed on all ranks of the faithful, on women as on elders, on boys as well as upon bishops. When their devout minds were sufficiently prepared by a course of prayer, of fasting, and of vigils, to receive the extraordinary impulse, they were transported out of their senses, and delivered in ecstasy that was inspired, being mere organs of the Holy Spirit, just as a pipe or flute is of him who blows into it.⁷⁵ We may add that the design of these visions was, for the most part, either to disclose the future history, or to guide the present administration, of the church. The expulsion of the daemons from the bodies of those unhappy persons whom they had been permitted to torment was considered as a signal though ordinary triumph of religion, and is repeatedly alleged by the ancient apologists as the most convincing evidence of the truth of Christianity. The awful ceremony was usually performed in a public manner, and in the presence of a great number of spectators; the patient was relieved by the power or skill of the exorcist, and the vanquished daemon was heard to confess that he was one of the fabled gods of antiquity, who had impiously usurped the adoration of mankind.⁷⁶ But the miraculous cure of diseases of the most inveterate or even preternatural kind can no longer occasion any surprise, when we recollect that in the days of Irenaeus, about the end of the second century, the resurrection of the dead was very far from being esteemed an uncommon event; that the miracle was frequently performed on necessary occasions, by great fasting and the joint supplication of the church of the place, and that the persons thus restored to their prayers had lived afterwards among them many years.⁷⁷ At such a period, when faith could boast of so many wonderful victories over death, it seems difficult to account for the scepticism of those philosophers who still rejected and derided the doctrine of the resurrection. A noble Grecian had rested on this important ground the whole controversy, and promised Theophilus, bishop of Antioch, that, if he could be gratified with the sight of a single person who had been actually raised from the dead, he would immediately embrace the Christian religion. It is somewhat remarkable that the prelate of the first eastern church, however anxious for the conversion of his friend, thought proper to decline this fair and reasonable challenge.⁷⁸
 The miracles of the primitive church, after obtaining the sanction of ages, have been lately attacked in a very free and ingenious inquiry;⁷⁹ which, though it has met with the most favourable reception from the public, appears to have excited a general scandal among the divines of our own as well as of the other Protestant churches of Europe.⁸⁰ Our different sentiments on this subject will be much less influenced by any particular arguments than by our habits of study and reflection, and, above all, by the degree of the evidence which we have accustomed ourselves to require for the proof of a miraculous event. The duty of an historian does not call upon him to interpose his private judgment in this nice and important controversy; but he ought not to dissemble the difficulty of adopting such a theory as may reconcile the interest of religion with that of reason, of making a proper application of that theory, and of defining with precision the limits of that happy period, exempt from error and from deceit, to which we might be disposed to extend the gift of supernatural powers. From the first of the fathers to the last of the popes, a succession of bishops, of saints, of martyrs, and of miracles, is continued without interruption; and the progress of superstition was so gradual and almost imperceptible, that we know not in what particular link we should break the chain of tradition. Every age bears testimony to the wonderful events by which it was distinguished, and its testimony appears no less weighty and respectable than that of the preceding generation, till we are insensibly led on to accuse our own inconsistency if, in the eighth or in the twelfth century, we deny to the venerable Bede, or to the holy Bernard, the same degree of confidence which, in the second century, we had so liberally granted to Justin or to Irenaeus.⁸¹ If the truth of any of those miracles is appreciated by their apparent use and propriety, every age had unbelievers to convince, heretics to confute, and idolatrous nations to convert; and sufficient motives might always be produced to justify the interposition of Heaven. And yet, since every friend to revelation is persuaded of the reality, and every reasonable man is convinced of the cessation, of miraculous powers, it is evident that there must have been some period in which they were either suddenly or gradually withdrawn from the Christian church. Whatever era is chosen for that purpose, the death of the apostles, the conversion of the Roman empire, or the extinction of the Arian heresy,⁸² the insensibility of the Christians who lived at that time will equally afford a just matter of surprise. They still supported their pretensions after they had lost their power. Credulity performed the office of faith; fanaticism was permitted to assume the language of inspiration, and the effects of accident or contrivance were ascribed to supernatural causes. The recent experience of genuine miracles should have instructed the Christian world in the ways of Providence, and habituated their eye (if we may use a very inadequate expression) to the style of the Divine artist. Should the most skilful painter of modern Italy presume to decorate his feeble imitations with the name of Raphael or of Correggio, the insolent fraud would be soon discovered and indignantly rejected.
 Whatever opinion may be entertained of the miracles of the primitive church since the time of the apostles, this unresisting softness of temper, so conspicuous among the believers of the second and third centuries, proved of some accidental benefit to the cause of truth and religion. In modern times, a latent and even involuntary scepticism adheres to the most pious dispositions. Their admission of supernatural truths is much less an active consent than a cold and passive acquiescence. Accustomed long since to observe and to respect the invariable order of Nature, our reason, or at least our imagination, is not sufficiently prepared to sustain the visible action of the Deity. But in the first ages of Christianity the situation of mankind was extremely different. The most curious, or the most credulous, among the Pagans were often persuaded to enter into a society which asserted an actual claim of miraculous powers. The primitive Christians perpetually trod on mystic ground, and their minds were exercised by the habits of believing the most extraordinary events. They felt, or they fancied, that on every side they were incessantly assaulted by daemons, comforted by visions, instructed by prophecy, and surprisingly delivered from danger, sickness, and from death itself, by the supplications of the church. The real or imaginary prodigies, of which they so frequently conceived themselves to be the objects, the instruments, or the spectators, very happily disposed them to adopt with the same ease, but with far greater justice, the authentic wonders of the evangelic history; and thus miracles that exceeded not the measure of their own experience inspired them with the most lively assurance of mysteries which were acknowledged to surpass the limits of their understanding. It is this deep impression of supernatural truths which has been so much celebrated under the name of faith; a state of mind described as the surest pledge of the Divine favour and of future felicity, and recommended as the first or perhaps the only merit of a Christian. According to the more rigid doctors, the moral virtues, which may be equally practised by infidels, are destitute of any value or efficacy in the work of our justification.
-
-### 40 GIBBON: Decline and Fall, 206b-d
-
+40 GIBBON: Decline and Fall, 206b-d
 But how shall we excuse the supine inattention of the Pagan and philosophic world to those evidences which were presented by the hand of Omnipotence, not to their reason, but to their senses? During the age of Christ, of his apostles, and of their first disciples, the doctrine which they preached was confirmed by innumerable prodigies. The lame walked, the blind saw, the sick were healed, the dead were raised, daemons were expelled, and the laws of Nature were frequently suspended for the benefit of the church. But the sages of Greece and Rome turned aside from the awful spectacle, and, pursuing the ordinary occupations of life and study, appeared unconscious of any alterations in the moral or physical government of the world. Under the reign of Tiberius, the whole earth.¹⁹⁴ or at least a celebrated province of the Roman empire,¹⁹⁵ was involved in a preternatural darkness of three hours. Even this miraculous event, which ought to have excited the wonder, the curiosity, and the devotion of mankind, passed without notice in an age of science and history.¹⁹⁶ It happened during the lifetime of Seneca and the elder Pliny, who must have experienced the immediate effects, or received the earliest intelligence, of the prodigy. Each of these philosophers, in a laborious work, has recorded all the great phenomena of Nature, earthquakes, meteors, comets, and eclipses, which his indefatigable curiosity could collect.¹⁹⁷ Both the one and the other have omitted to mention the greatest phenomenon to which the mortal eye has been witness since the creation of the globe. A distinct chapter of Pliny¹⁹⁸ is designed for eclipses of an extraordinary nature and unusual duration; but he contents himself with describing the singular defect of light which followed the murder of Caesar, when, during the greatest part of a year, the orb of the sun appeared pale and without splendour. This season of obscurity, which cannot surely be compared with the preternatural darkness of the Passion, had been already celebrated by most of the poets¹⁹⁹ and historians of that memorable age.²⁰⁰
-
-### 40 GIBBON: Decline and Fall, 294a-296b
-
+40 GIBBON: Decline and Fall, 294a-296b
 The enthusiasm which inspired the troops, and perhaps the emperor himself, had sharpened their swords while it satisfied their conscience. They marched to battle with the full assurance that the same God who had formerly opened a passage to the Israelites through the waters of Jordan, and had thrown down the walls of Jericho at the sound of the trumpets of Joshua, would display his visible majesty and power in the victory of Constantine. The evidence of ecclesiastical history is prepared to affirm that their expectations were justified by the conspicuous miracle to which the conversion of the first Christian emperor has been almost unanimously ascribed. The real or imaginary cause of so important an event deserves and demands the attention of posterity; and I shall endeavour to form a just estimate of the famous vision of Constantine, by a distinct consideration of the standard, the dream, and the celestial sign; by separating the historical, the natural, and the marvellous parts of this extraordinary story, which, in the composition of a specious argument, have been artfully confounded in one splendid and brittle mass.
 I. An instrument of the tortures which were inflicted only on slaves and strangers became an object of horror in the eyes of a Roman citizen; and the ideas of guilt, of pain, and of ignominy, were closely united with the idea of the cross.²⁹ The piety, rather than the humanity, of Constantine soon abolished in his dominions the punishment which the Saviour of mankind had condescended to suffer;³⁰ but the emperor had already learned to despise the prejudices of his education and of his people, before he could erect in the midst of Rome his own statue, bearing a cross in its right hand, with an inscription which referred the victory of his arms, and the deliverance of Rome, to the virtue of that salutary sign, the true symbol of force and courage.³¹ The same symbol sanctified the arms of the soldiers of Constantine; the cross glittered on their helmet, was engraved on their shields, was interwoven into their banners; and the consecrated emblems which adorned the person of the emperor himself were distinguished only by richer materials and more exquisite workmanship.³² But the principal standard which displayed the triumph of the cross was styled the Labarum,³³ an obscure, though celebrated, name, which has been vainly derived from almost all the languages of the world. It is described 34 as a long pike intersected by a transversal beam. The silken veil which hung down from the beam was curiously inwrought with the images of the reigning monarch and his children. The summit of the pike supported a crown of gold, which enclosed the mysterious monogram, at once expressive of the figure of the cross and the initial letters of the name of Christ.³⁵ The safety of the labarum was intrusted to fifty guards of approved valour and fidelity ; their station was marked by honours and emoluments; and some fortunate accidents soon introduced an opinion that as long as the guards of the labarum were engaged in the execution of their office they were secure and invulnerable amidst the darts of the enemy. In the second civil war Licinius felt and dreaded the power of this consecrated banner, the sight of which in the distress of battle animated the soldiers of Constantine with an invincible enthusiasm, and scattered terror and dismay through the ranks of the adverse legions.³⁶ The Christian emperors, who respected the example of Constantine, displayed in all their military expeditions the standard of the cross; but when the degenerate successors of Theodosius had ceased to appear in person at the head of their armies, the labarum was deposited as a venerable but useless relic in the palace of Constantinople.³⁷ Its honours are still preserved on the medals of the Flavian family. Their grateful devotion has placed the monogram of Christ in the midst of the ensigns of Rome. The solemn epithets of safety of the republic, glory of the army, restoration of public happiness, are equally applied to the religious and military trophies; and there is still extant a medal of the emperor Constantius, where the standard of the labarum is accompanied with these memorable words, By this sign thou shalt conquer.³⁸
 II. In all occasions of danger or distress it was the practice of the primitive Christians to fortify their minds and bodies by the sign of the cross, which they used in all their ecclesiastical rites, in all the daily occurrences of life, as an infallible preservative against every species of spiritual or temporal evil. 39 The authority of the church might alone have had sufficient weight to justify the devotion of Constantine, who, in the same prudent and gradual progress, acknowledged the truth and assumed the symbol of Christianity. But the testimony of a contemporary writer, who in a formal treatise has avenged the cause of religion, bestows on the piety of the emperor a more awful and sublime character. He affirms, with the most perfect confidence, that, in the night which preceded the last battle against Maxentius, Constantine was admonished in a dream to inscribe the shields of his soldiers with the celestial sign of God, the sacred monogram of the name of Christ; that he executed the commands of Heaven, and that his valour and obedience were rewarded by the decisive victory of the Milvian Bridge. Some considerations might perhaps incline a sceptical mind to suspect the judgment or the veracity of the rhetorician, whose pen, either from zeal or interest, was devoted to the cause of the prevailing faction.⁴⁰ He appears to have published his Deaths of the Persecutors at Nicomedia about three years after the Roman victory; but the interval of a thousand miles, and a thousand days, will allow an ample latitude for the invention of declaimers, the credulity of party, and the tacit approbation of the emperor himself; who might listen without indignation to a marvellous tale which exalted his fame and promoted his designs. In favour of Licinius, who still dissembled his animosity to the Christians, the same author has provided a similar vision, of a form of prayer, which was communicated by an angel, and repeated by the whole army before they engaged the legions of the tyrant Maximin.⁴¹ The frequent repetition of miracles serves to provoke, where it does not subdue, the reason of mankind; but if the dream of Constantine is separately considered, it may be naturally explained either by the policy or the enthusiasm of the emperor. Whilst his anxiety for the approaching day, which must decide the fate of the empire, was suspended by a short and interrupted slumber, the venerable form of Christ, and the well-known symbol of his religion, might forcibly offer themselves to the active fancy of a prince who reverenced the name, and had perhaps secretly implored the power, of the God of the Christians. As readily might a consummate statesman indulge himself in the use of one of those military stratagems, one of those pious frauds, which Philip and Sertorius had employed with such art and effect.⁴² The praeternatural origin of dreams was universally admitted by the nations of antiquity, and a considerable part of the Gallic army was already prepared to place their confidence in the salutary sign of the Christian religion. The secret vision of Constantine could be disproved only by the event; and the intrepid hero who had passed the Alps and the Apennine might view with careless despair the consequences of a defeat under the walls of Rome. The senate and people, exulting in their own deliverance from an odious tyrant, acknowledged that the victory of Constantine surpassed the powers of man, without daring to insinuate that it had been obtained by the protection of the gods. The triumphal arch, which was erected about three years after the event, proclaims, in ambiguous language, that, by the greatness of his own mind, and by an instinct or impulse of the Divinity, he had saved and avenged the Roman republic.⁴³ The Pagan orator, who had seized an earlier opportunity of celebrating the virtues of the conqueror, supposes that he alone enjoyed a secret and intimate commerce with the Supreme Being,who delegated the care of mortals to his subordinate deities; and thus assigns a very plausible reason why the subjects of Constantine should not presume to embrace the new religion of their sovereign.⁴⁴
 III. The philosopher, who with calm suspicion examines the dreams and omens, the miracles and prodigies, of profane or even of ecclesiastical history, will probably conclude that, if the eyes of the spectators have sometimes been deceived by fraud, the understanding of the readers has much more frequently been insulted by fiction. Every event, or appearance, or accident, which seems to deviate from the ordinary course of nature, has been rashly ascribed to the immediate action of the Deity; and the astonished fancy of the multitude has sometimes given shape and colour, language and motion, to the fleeting but uncommon meteors of the air.⁴⁵ Nazarius and Eusebius are the two most celebrated orators who, in studied panegyrics, have laboured to exalt the glory of Constantine. Nine years after the Roman victory Nazarius⁴⁶ describes an army of divine warriors, who seemed to fall from the sky; he marks their beauty, their spirit, their gigantic forms, the stream of light which beamed from their celestial armour, their patience in suffering themselves to be heard, as well as seen, by mortals; and their declaration that they were sent, that they flew, to the assistance of the great Constantine. For the truth of this prodigy the Pagan orator appeals to the whole Gallic nation, in whose presence he was then speaking; and seems to hope that the ancient apparitions⁴⁷ would now obtain credit from this recent and public event. The Christian fable of Eusebius, which, in the space of twenty-six years, might arise from the original dream, is cast in a much more correct and elegant mould. In one of the marches of Constantine he is reported to have seen with his own eyes the luminous trophy of the cross, placed above the meridian sun, and inscribed with the following words: By this conquer. This amazing object in the sky astonished the whole army, as well as the emperor himself, who was yet undetermined in the choice of a religion: but his astonishment was converted into faith by the vision of the ensuing night. Christ appeared before his eyes; and displaying the same celestial sign of the cross, he directed Constantine to frame a similar standard, and to march, with an assurance of victory, against Maxentius and all his enemies.⁴⁸ The learned bishop of Caesarea appears to be sensible that the recent discovery of this marvellous anecdote would excite some surprise and distrust among the most pious of his readers. Yet, instead of ascertaining the precise circumstances of time and place, which always serve to detect falsehood or establish truth;⁴⁹ instead of collecting and recording the evidence of so many living witnesses, who must have been spectators of this stupendous miracle,⁵⁰ Eusebius contents himself with alleging a very singular testimony, that of the deceased Constantine, who, many years after the event, in the freedom of conversation, had related to him this extraordinary incident of his own life, and had attested the truth of it by a solemn oath. The prudence and gratitude of the learned prelate forbade him to suspect the veracity of his victorious master; but he plainly intimates that, in a fact of such a nature, he should have refused his assent to any meaner authority. This motive of credibility could not survive the power of the Flavian family; and the celestial sign, which the Infidels might afterwards deride,⁵¹ was disregarded by the Christians of the age which immediately followed the conversion of Constantine.⁵² But the Catholic church, both of the East and of the West, has adopted a prodigy which favours, or seems to favour, the popular worship of the cross. The vision of Constantine maintained an honourable place in the legend of superstition till the bold and sagacious spirit of criticism presumed to depreciate the triumph, and to arraign the truth, of the first Christian emperor.⁵³
-
-### 40 GIBBON: Decline and Fall, 445d-446b
-
+40 GIBBON: Decline and Fall, 445d-446b
 The laws of the empire, some of which were inscribed with the name of Valentinian, still condemned the Arian heresy, and seemed to excuse the resistance of the catholics. By the influence of Justina, an edict of toleration was promulgated in all the provinces which were subject to the court of Milan ; the free exercise of their religion was granted to those who professed the faith of Rimini ; and the emperor declared that all persons who should infringe this sacred and salutary constitution should be capitally punished, as the enemies of the public peace.⁶⁵ The character and language of the archbishop of Milan may justify the suspicion that his conduct soon afforded a reasonable ground, or at least a specious pretence, to the Arian ministers, who watched the opportunity of surprising him in some act of disobedience to a law which he strangely represents as a law of blood and tyranny. A sentence of easy and honourable banishment was pronounced, which enjoined Ambrose to depart from Milan without delay, whilst it permitted him to choose the place of his exile and the number of his companions. But the authority of the saints, who have preached and practised the maxims of passive loyalty, appeared to Ambrose of less moment than the extreme and pressing danger of the church. He boldly refused to obey; and his refusal was supported by the unanimous consent of his faithful people.⁶⁶ They guarded by turns the person of their archbishop; the gates of the cathedral and the episcopal palace were strongly secured ; and the Imperial troops, who had formed the blockade, were unwilling to risk the attack of that impregnable fortress. The numerous poor, who had been relieved by the liberality of Ambrose, embraced the fair occasion of signalising their zeal and gratitude ; and as the patience of the multitude might have been exhausted by the length and uniformity of nocturnal vigils, he prudently introduced into the church of Milan the useful institution of a loud and regular psalmody. While he maintained this arduous contest, he was instructed, by a dream, to open the earth in a place where the remains of two martyrs, Gervasius and Protasius,⁶⁷ had been deposited above three hundred years. Immediately under the pavement of the church two perfect skeletons were found,⁶⁸ with the heads separated from their bodies, and a plentiful effusion of blood. The holy relics were presented, in solemn pomp, to the veneration of the people; and every circumstance of this fortunate discovery was admirably adapted to promote the designs of Ambrose. The bones of the martyrs, their blood, their garments, were supposed to contain a healing power; and the preternatural influence was communicated to the most distant objects, without losing any part of its original virtue. The extraordinary cure of a blind man,⁶⁹ and the reluctant confessions of several dasmoniacs, appeared to justify the faith and sanctity of Ambrose; and the truth of those miracles is attested by Ambrose himself, by his secretary Paulinus, and by his proselyte, the celebrated Augustin, who, at that time, professed the art of rhetoric in Milan. The reason of the present age may possibly approve the incredulity of Justina and her Arian court, who derided the theatrical representations which were exhibited by the contrivance, and at the expense, of the archbishop.⁷⁰ Their effect, however, on the minds of the people, was rapid and irresistible; and the feeble sovereign of Italy found himself unable to contend with the favourite of Heaven. The powers likewise of the earth interposed in the defence of Ambrose: the disinterested advice of Theodosius was the genuine result of piety and friendship; and the mask of religious zeal concealed the hostile and ambitious designs of the tyrant of Gaul.⁷¹
 The reign of Maximus might have ended in peace and prosperity, could he have contented himself with the possession of three ample countries, which now constitute the three most flourishing kingdoms of modern Europe. But the aspiring usurper, whose sordid ambition was not dignified by the love of glory and of arms, considered his actual forces as the instruments only of his future greatness, and his success was the immediate cause of his destruction. The wealth which he extorted 72 from the oppressed provinces of Gaul, Spain, and Britain, was employed in levying and maintaining a formidable army of barbarians, collected, for the most part, from the fiercest nations of Germany. The conquest of Italy was the object of his hopes and preparations; and he secretly meditated the ruin of an innocent youth, whose government was abhorred and despised by his catholic subjects. But as Maximus wished to occupy, without resistance, the passes of the Alps, he received, with perfidious smiles, Domninus of Syria, the ambassador of Valentinian, and pressed him to accept the aid of a considerable body of troops for the service of a Pannonian war. The penetration of Ambrose had discovered the snares of an enemy under the professions of friendship;⁷³ but the Syrian Domninus was corrupted or deceived by the liberal favour of the court of Treves ; and the council of Milan obstinately rejected the suspicion of danger with a blind confidence, which was the effect not of courage, but of fear. The march of the auxiliaries was guided by the ambassador; and they were admitted, without distrust, into the fortresses of the Alps. But the crafty tyrant followed, with hasty and silent footsteps, in the rear; and as he diligently intercepted all intelligence of his motions, the gleam of armour and the dust excited by the troops of cavalry first announced the hostile approach of a stranger to the gates of Milan. In this extremity, Justina and her son might accuse their own imprudence and the perfidious arts of Maximus ; but they wanted time, and force, and resolution to stand against the Gauls and Germans, either in the field or within the walls of a large and disaffected city. Flight was their only hope ; Aquileia their only refuge : and, as Maximus now displayed his genuine character, the brother of Gratian might expect the same fate from the hands of the same assassin. Maximus entered Milan in triumph; and if the wise archbishop refused a dangerous and criminal connection with the usurper, he might indirectly contribute to the success of his arms by inculcating from the pulpit the duty of resignation rather than that of resistance.⁷⁴ The unfortunate Justina reached Aquileia in safety; but she distrusted the strength of the fortifications; she dreaded the event of a siege; and she resolved to implore the protection of the great Theodosius, whose power and virtue were celebrated in all the countries of the West. A vessel was secretly provided to transport the Imperial family; they embarked with precipitation in one of the obscure harbours of Venetia, or Istria; traversed the whole extent of the Hadriatic and Ionian seas; turned the extreme promontory of Peloponnesus; and, after a long but successful navigation, reposed themselves in the port of Thessalonica. All the subjects of Valentinian deserted the cause of a prince who, by his abdication, had absolved them from the duty of allegiance; and if the little city of ^mona, on the verge of Italy, had not presumed to stop the career of his inglorious victory, Maximus would have obtained without a struggle the sole possession of the Western empire.
 Instead of inviting his royal guests to the palace of Constantinople, Theodosius had some unknown reasons to fix their residence at Thessalonica; but these reasons did not proceed from contempt or indifference, as he speedily made a visit to that city, accompanied by the greatest part of his court and senate. After the first tender expressions of friendship and sympathy, the pious emperor of the East gently admonished Justina that the guilt of heresy was sometimes punished in this world as well as in the next; and that the public profession of the Nicene faith would be the most efficacious step to promote the restoration of her son, by the satisfaction which it must occasion both on earth and in heaven. The momentous question of peace or war was referred by Theodosius to the deliberation of his council; and the arguments which might be alleged on the side of honour and justice had acquired, since the death of Gratian, a considerable degree of additional weight. The persecution of the Imperial family, to which Theodosius himself had been indebted for his fortune, was now aggravated by recent and repeated injuries. Neither oaths nor treaties could restrain the boundless ambition of Maximus; and the delay of vigorous and decisive measures, instead of prolonging the blessings of peace, would expose the Eastern empire to the danger of an hostile invasion. The barbarians who had passed the Danube had lately assumed the character of soldiers and subjects, but their native fierceness was yet untamed; and the operations of a war, which would exercise their valour and diminish their numbers, might tend to relieve the provinces from an intolerable oppression. Notwithstanding these specious and solid reasons, which were approved by a majority of the council, Theodosius still hesitated whether he should draw the sword in a contest which could no longer admit any terms of reconciliation; and his magnanimous character was not disgraced by the apprehensions which he felt for the safety of his infant sons, and the welfare of his exhausted people. In this moment of anxious doubt, while the fate of the Roman world depended on the resolution of a single man, the charms of the princess Galla most powerfully pleaded the cause of her brother Valentinian.⁷⁵ The heart of Theodosius was softened by the tears of beauty; his affections were insensibly engaged by the graces of youth and innocence; the art of Justina managed and directed the impulse of passion; and the celebration of the royal nuptials was the assurance and signal of the civil war. The unfeeling critics, who consider every amorous weakness as an indelible stain on the memory of a great and orthodox emperor, are inclined on this occasion to dispute the suspicious evidence of the historian Zosimus. For my own part, I shall frankly confess that I am willing to find, or even to seek, in the revolutions of the world some traces of the mild and tender sentiments of domestic life; and amidst the crowd of fierce and ambitious conquerors, I can distinguish, with peculiar complacency, a gentle hero who may be supposed to receive his armour from the hands of love. The alliance of the Persian king was secured by the faith of treaties ; the martial barbarians were persuaded to follow the standard or to respect the frontiers of an active and liberal monarch; and the dominions of Theodosius, from the Euphrates to the Hadriatic, resounded with the preparations of war both by land and sea. The skilful disposition of the forces of the East seemed to multiply their numbers, and distracted the attention of Maximus. He had reason to fear that a chosen body of troops, under the command of the intrepid Arbogastes, would direct their march along the banks of the Danube, and boldly penetrate through the Rhaetian provinces into the centre of Gaul. A powerful fleet was equipped in the harbours of Greece and Epirus, with an apparent design that, as soon as the passage had been opened by a naval victory, Valentinian and his mother should land in Italy, proceed without delay to Rome, and occupy the majestic seat of religion and empire. In the meanwhile Theodosius himself advanced, at the head of a brave and disciplined army, to encounter his unworthy rival, who, after the siege of £mona, had fixed his camp in the neighbourhood of Siscia, a city of Pannonia, strongly fortified by the broad and rapid stream of the Save.
-
-### 40 GIBBON: Decline and Fall, 465d-467a
-
+40 GIBBON: Decline and Fall, 465d-467a
 II. But the progress of superstition would have been much less rapid and victorious if the faith of the people had not been assisted by the seasonable aid of visions and miracles to ascertain the authenticity and virtue of the most suspicious relics. In the reign of the younger Theo dosius, Lucian,⁷⁷ a presbyter of Jerusalem, and the ecclesiastical minister of the village of Caphargamala, about twenty miles from the city, related a very singular dream, which, to remove his doubts, had been repeated on three successive Saturdays. A venerable figure stood before him, in the silence of the night, with a long beard, a white robe, and a gold rod ; announced himself by the name of Gamaliel ; and revealed to the astonished presbyter, that his own corpse, with the bodies of his son Abibas, his friend Nicodemus, and the illustrious Stephen, the first martyr of the Christian faith, were secretly buried in the adjacent field. He added, with some impatience, that it was time to release himself and his companions from their obscure prison; that their appearance would be salutary to a distressed world ; and that they had made choice of Lucian to inform the bishop of Jerusalem of their situation and their wishes. The doubts and difficulties which still retarded this important discovery were successively removed by new visions; and the ground was opened by the bishop, in the presence of an innumerable multitude. The coffins of Gamaliel, of his son, and of his friend, were found in regular order; but when the fourth coffin, which contained the remains of Stephen, was shown to the light, the earth trembled, and an odour such as that of Paradise was smelt, which instantly cured the various diseases of seventy-three of the assistants. The companions of Stephen were left in their peaceful residence of Caphargamala; but the relics of the first martyr were transported, in solemn procession, to a church constructed in their honour on Mount Sion; and the minute particles of those relics, a drop of blood,⁷⁸ or the scrapings of a bone, were acknowledged, in almost every province of the Roman world, to possess a divine and miraculous virtue. The grave and learned Augustin,⁷⁹ whose understanding scarcely admits the excuse of credulity, has attested the innumerable prodigies which were performed in Africa by the relics of St. Stephen; and this marvellous narrative is inserted in the elaborate work of the City of God, which the bishop of Hippo designed as a solid and immortal proof of the truth of Christianity. Augustin solemnly declares that he has selected those miracles only which were publicly certified by the persons who were either the objects, or the spectators, of the power of the martyr. Many prodigies were omitted or forgotten ; and Hippo had been less favourably treated than the other cities of the province. And yet the bishop enumerates above seventy miracles, of which three were resurrections from the dead, in the space of two years, and within the limits of his own diocese.⁸⁰ If we enlarge our view to all the diocese, and all the saints, of the Christian world, it will not be easy to calculate the fables, and the errors, which issued from this inexhaustible source. But we may surely be allowed to observe that a miracle, in that age of superstition and credulity, lost its name and its merit, since it could scarcely be considered as a deviation from the ordinary and established laws of nature.
 III. The innumerable miracles, of which the tombs of the martyrs were the perpetual theatre, revealed to the pious believer the actual state and constitution of the invisible world; and his religious speculations appeared to be founded on the firm basis of fact and experience. Whatever might be the condition of vulgar souls in the long interval between the dissolution and the resurrection of their bodies, it was evident that the superior spirits of the saints and martyrs did not consume that portion of their existence in silent and inglorious sleep.⁸¹ It was evident (without presuming to determine the place of their habitation, or the nature of their felicity) that they enjoyed the lively and active consciousness of their happiness, their virtue, and their powers; and that they had already secured the possession of their eternal reward. The enlargement of their intellectual faculties surpassed the measure of the human imagination; since it was proved by experience that they were capable of hearing and understanding the various petitions of their numerous votaries, who, in the same moment of time, but in the most distant parts of the world, invoked the name and assistance of Stephen or of Martin.⁸² The confidence of their petitioners was founded on the persuasion that the saints, who reigned with Christ, cast an eye of pity upon earth; that they were warmly interested in the prosperity of the Catholic church; and that the individuals who imitated the example of their faith and piety were the peculiar and favourite objects of their most tender regard. Sometimes, indeed, their friendship might be influenced by considerations of a less exalted kind: they viewed with partial affection the places which had been consecrated by their birth, their residence, their death, their burial, or the possession of their relics. The meaner passions of pride, avarice, and revenge, may be deemed unworthy of a celestial breast ; yet the saints themselves condescended to testify their grateful approbation of the liberality of their votaries ; and the sharpest bolts of punishment were hurled against those impious wretches who violated their magnificent shrines, or disbelieved their supernatural power.⁸³ Atrocious, indeed, must have been the guilt, and strange would have been the scepticism, of those men, if they had obstinately resisted the proofs of a divine agency, which the elements, the whole range of the animal creation, and even the subtle and invisible operations of the human mind, were compelled to obey.⁸⁴ The immediate, and almost instantaneous, effects, that were supposed to follow the prayer, or the offence, satisfied the Christians of the ample measure of favour and authority which the saints enjoyed in the presence of the Supreme God ; and it seemed almost superfluous to inquire whether they were continually obliged to intercede before the throne of grace, or whether they might not be permitted to exercise, according to the dictates of their benevolence and justice, the delegated powers of their subordinate ministry. The imagination, which had been raised by a painful effort to the contemplation and worship of the Universal Cause, eagerly embraced such inferior objects of adoration as were more proportioned to its gross conceptions and imperfect faculties. The sublime and simple theology of the primitive Christians was gradually corrupted: and the monarchy of heaven, already clouded by metaphysical subtleties, was degraded by the introduction of a popular mythology which tended to restore the reign of polytheism.⁸⁵
 IV. As the objects of religion were gradually reduced to the standard of the imagination, the rites and ceremonies were introduced that seemed most powerfully to affect the senses of the vulgar. If, in the beginning of the fifth century, 86 Tertullian, or Lactantius,⁸⁷ had been suddenly raised from the dead, to assist at the festival of some popular saint or martyr,⁸⁸ they would have gazed with astonishment and indignation on the profane spectacle which had succeeded to the pure and spiritual worship of a Christian congregation. As soon as the doors of the church were thrown open, they must have been offended by the smoke of incense, the perfume of flowers, and the glare of lamps and tapers, which diffused, at noon-day, a gaudy, superfluous, and, in their opinion, a sacrilegious light. If they approached the balustrade of the altar, they made their way through the prostrate crowd, consisting, for the most part, of strangers and pilgrims, who resorted to the city on the vigil of the feast ; and who already felt the strong intoxication of fanaticism, and, perhaps, of wine. Their devout kisses were imprinted on the walls and pavement of the sacred edifice ; and their fervent prayers were directed, whatever might be the language of their church, to the bones, the blood, or the ashes of the saint, which were usually concealed, by a linen or silken veil, from the eyes of the vulgar. The Christians frequented the tombs of the martyrs, in the hope of obtaining, from their powerful intercession, every sort of spiritual, but more especially of temporal, blessings. They implored the preservation of their health, or the cure of their infirmities; the fruitfulness of their barren wives, or the safety and happiness of their children. Whenever they undertook any distant or dangerous journey, they requested that the holy martyrs would be their guides and protectors on the road; and if they returned without having experienced any misfortune, they again hastened to the tombs of the martyrs, to celebrate, with grateful thanksgivings, their obligations to the memory and relics of those heavenly patrons. The walls were hung round with symbols of the favours which they had received; eyes, and hands, and feet, of gold and silver: and edifying pictures, which could not long escape the abuse of indiscreet or idolatrous devotion, represented the image, the attributes, and the miracles of the tutelar saint. The same uniform original spirit of superstition might suggest, in the most distant ages and countries, the same methods of deceiving the credulity, and of affecting the senses of mankind:⁸⁹ but it must ingenuously be confessed that the ministers of the catholic church imitated the profane model which they were impatient to destroy. The most respectable bishops had persuaded themselves that the ignorant rustics would more cheerfully renounce the superstitions of Paganism, if they found some resemblance, some compensation, in the bosom of Christianity. The religion of Constantine achieved, in less than a century, the final conquest of the Roman empire: but the victors themselves were insensibly subdued by the arts of their vanquished rivals.⁹⁰
-
-### 40 GIBBON: Decline and Fall, 547a-b
-
+40 GIBBON: Decline and Fall, 547a-b
 If a line of separation were drawn between the civilised and the savage climates of the globe; between the inhabitants of cities, who cultivated the earth, and the hunters and shepherds, who dwelt in tents, Attila might aspire to the title of supreme and sole monarch of the barbarians.¹³ He alone, among the conquerors of ancient and modern times, united the two mighty kingdoms of Germany and Scythia; and those vague appellations, when they are applied to his reign, may be understood with an ample latitude. Thuringia, which stretched beyond its actual limits as far as the Danube, was in the number of his provinces ; he interposed, with the weight of a powerful neighbour, in the domestic affairs of the Franks; and one of his lieutenants chastised, and almost exterminated, the Burgundians of the Rhine. He subdued the islands of the ocean, the kingdoms of Scandinavia, encompassed and divided by the waters of the Baltic; and the Huns might derive a tribute of furs from that northern region, which has been protected from all other conquerors by the severity of the climate and the courage of the natives. Towards the East, it is difficult to circumscribe the dominion of Attila over the Scythian deserts; yet we may be assured that he reigned on the banks of the Volga; that the king of the Huns was dreaded, not only as a warrior, but as a magician;¹⁴ that he insulted and vanquished the khan of the formidable Geougen; and that he sent ambassadors to negotiate an equal alliance with the empire of China. In the proud review of the nations who acknowledged the sovereignty of Attila, and who never entertained, during his lifetime, the thought of a revolt, the Gepidae and the Ostrogoths were distinguished by their numbers, their bravery, and the personal merit of their chiefs. The renowned Ardaric, king of the Gepidae, was the faithful and sagacious counsellor of the monarch, who esteemed his intrepid genius, whilst he loved the mild and discreet virtues of the noble Walamir, king of the Ostrogoths. The crowd of vulgar kings, the leaders of so many martial tribes, who served under the standard of Attila, were ranged in the submissive order of guards and domestics round the person of their master. They watched his nod; they trembled at his frown ; and at the first signal of his will, they executed, without murmur or hesitation, his stern and absolute commands. In time of peace, the dependent princes, with their national troops, attended the royal camp in regular succession ; but when Attila collected his military force he was able to bring into the field an army of five, or, according to another account, of seven hundred thousand barbarians.¹⁵
 The ambassadors of the Huns might awaken the attention of Theodosius, by reminding him that they were his neighbours both in Europe and Asia; since they touched the Danube on one hand, and reached with the other as far as the Tanais. In the reign of his father Arcadius, a band of adventurous Huns had ravaged the provinces of the East, from whence they brought away rich spoils and innumerable captives. They advanced, by a secret path, along the shores of the Caspian Sea; traversed the snowy mountains of Armenia; passed the Tigris, the Euphrates, and the Halys; recruited their weary cavalry with the generous breed of Cappadocian horses; occupied the hilly country of Cilicia; and disturbed the festal songs and dances of the citizens of Antioch.¹⁶ Egypt trembled at their approach; and the monks and pilgrims of the Holy Land prepared to escape their fury by a speedy embarkation. The memory of this invasion was still recent in the minds of the Orientals. The subjects of Attila might execute, with superior forces, the design which these adventurers had so boldly attempted; and it soon became the subject ofanxious conjecture whether the tempest would fall on the dominions of Rome or of Persia. Some of the great vassals of the king of the Huns, who were themselves in the rank of powerful princes, had been sent to ratify an alliance and society of arms with the emperor, or rather with the general, of the West. They related, during their residence at Rome, the circumstances of an expedition which they had lately made into the East. After passing a desert and a morass supposed by the Romans to be the lake Maeotis, they penetrated through the mountains, and arrived, at the end of fifteen days' march, on the confines of Media, where they advanced as far as the unknown cities of Basic and Cursic.¹⁷ They encountered the Persian army in the plains of Media ; and the air, according to their own expression, was darkened by a cloud of arrows. But the Huns were obliged to retire before the numbers of the enemy. Their laborious retreat was affected by a different road; they lost the greatest part of their booty; and at length returned to the royal camp, with some knowledge of the country, and an impatient desire of revenge. In the free conversation of the Imperial ambassadors, who discussed, at the court of Attila, the character and designs of their formidable enemy, the ministers of Constantinople expressed their hope that his strength might be diverted and employed in a long and doubtful contest with the princes of the house of Sassan. The more sagacious Italians admonished their Eastern brethren of the folly and danger of such a hope ; and convinced them, that the Medes and Persians were incapable of resisting the arms of the Huns; and that the easy and important acquisition would exalt the pride, as well as power, of the conqueror. Instead of contenting himself with a moderate contribution and a military title, which equalled him only to the generals of Theodosius, Attila would proceed to impose a disgraceful and intolerable yoke on the necks of the prostrate and captive Romans, who would then be encompassed on all sides by the empire of the Huns.¹⁸
-
-### 40 GIBBON: Decline and Fall, 571a
-
+40 GIBBON: Decline and Fall, 571a
 As early as the time of Cicero and Varro it was the opinion of the Roman augurs that the twelve vultures which Romulus had seen, represented the twelve centuries assigned for the fatal period of his city.⁷⁵ This prophecy, disregarded perhaps in the season of health and prosperity, inspired the people with gloomy apprehensions when the twelfth century, clouded with disgrace and misfortune, was almost elapsed;⁷⁶ and even posterity must acknowledge with some surprise that the arbitrary interpretation of an accidental or fabulous circumstance has been seriously verified in the downfall of the Western empire. But its fall was announced by a clearer omen than the flight of vultures: the Roman government appeared every day less formidable to its enemies, more odious and oppressive to its subjects.⁷⁷ The taxes were multiplied with the public distress; economy was neglected in proportion as it became necessary; and the injustice of the rich shifted the unequal burden from themselves to the people, whom they defrauded of the indulgences that might sometimes have alleviated their misery. The severe inquisition, which confiscated their goods and tortured their persons, compelled the subjects of Valentinian to prefer the more simple tyranny of the barbarians, to fly to the woods and mountains, or to embrace the vile and abject condition of mercenary servants. They abjured and abhorred the name of Roman citizens, which had formerly excited the ambition of mankind. The Armorican provinces of Gaul and the greatest part of Spain were thrown into a state of disorderly independence by the confederations of the Bagaudae, and the Imperial ministers pursued with proscriptive laws and ineffectual arms the rebels whom they had made.⁷⁸ If all the barbarian conquerors had been annihilated in the same hour, their total destruction would not have restored the empire of the West: and if Rome still survived, she survived the loss of freedom, of virtue, and of honour.
-
-### 40 GIBBON: Decline and Fall, 605b-d
-
+40 GIBBON: Decline and Fall, 605b-d
 The example of fraud must excite suspicion: and the specious miracles by which the African catholics have defended the truth and justice of their cause may be ascribed, with more reason, to their own industry than to the visible protection of Heaven. Yet the historian who views this religious conflict with an impartial eye may condescend to mention one preternatural event, which will edify the devout and surprise the incredulous. Tipasa,¹²¹ a maritime colony of Mauritania, sixteen miles to the east of Cassarea, had been distinguished in every age by the orthodox zeal of its inhabitants. They had braved the fury of the Donatists;¹²² they resisted or eluded the tyranny of the Arians. The town was deserted on the approach of an heretical bishop: most of the inhabitants who could procure ships passed over to the coast of Spain ; and the unhappy remnant, refusing all communion with the usurper, still presumed to hold their pious, but illegal, assemblies. Their disobedience exasperated the cruelty of Hunneric. A military count was despatched from Carthage to Tipasa: he collected the catholics in the Forum, and, in the presence of the whole province, deprived the guilty of their right hands and their tongues. But the holy confessors continued to speak without tongues; and this miracle is attested by Victor, an African bishop, who published an history of the persecution within two years after the event.¹²³ "If any one," says Victor, "should doubt of the truth, let him repair to Constantinople, and listen to the clear and perfect language of Restitutus, the subdeacon, one of these glorious sufferers, who is now lodged in the palace of the emperor Zeno, and is respected by the devout empress." At Constantinople we are astonished to find a cool, a learned, and unexceptionable witness, without interest, and without passion, AEneas of Gaza, a Platonic philosopher, has accurately described his own observations on these African sufferers. "I saw them myself: I heard them speak: I diligently inquired by what means such an articulate voice could be formed without any organ of speech : I used my eyes to examine the report of my ears: I opened their mouth, and saw that the whole tongue had been completely torn away by the roots; an operation which the physicians generally suppose to be mortal."¹²⁴ The testimony of AEneas of Gaza might be confirmed by the superfluous evidence of the emperor Justinian, in a perpetual edict; of Count Marcellinus, in his Chronicle of the times ; and of pope Gregory the First, who had resided at Constantinople as the minister of the Roman pontiff.¹²⁵ They all lived within the compass of a century; and they all appeal to their personal knowledge or the public notoriety for the truth of a miracle which was repeated in several instances, displayed on the greatest theatre of the world, and submitted during a series of years to the calm examination of the senses. This supernatural gift of the African confessors, who spoke without tongues, will command the assent of those, and of those only, who already believe that their language was pure and orthodox. But the stubborn mind of an infidel is guarded by secret, incurable suspicion; and the Arian, or Socinian, who has seriously rejected the doctrine of the Trinity, will not be shaken by the most plausible evidence of an Athanasian miracle.
 The Vandals and the Ostrogoths persevered in the profession of Arianism till the final ruin of the kingdoms which they had founded in Africa and Italy. The barbarians of Gaul submitted to the orthodox dominion of the Franks; and Spain was restored to the catholic church by the voluntary conversion of the Visigoths.
 This salutary revolution¹²⁶ was hastened by the example of a royal martyr, whom our calmer reason may style an ungrateful rebel. Leovigild, the Gothic monarch of Spain, deserved the respect of his enemies and the love of his subjects: the catholics enjoyed a free toleration, and his Arian synods attempted, without much success, to reconcile their scruples by abolishing the unpopular rite of a second baptism. His eldest son Hermenegild, who was invested by his father with the royal diadem and the fair principality of Baetica, contracted an honourable and orthodox alliance with a Merovingian princess, the daughter of Sigebert, king of Austrasia, and of the famous Brunechild. The beauteous Ingundis, who was no more than thirteen years of age, was received, beloved, and persecuted in the Arian court of Toledo; and her religious constancy was alternately assaulted with blandishments and violence by Goisvintha, the Gothic queen, who abused the double claim of maternal authority.¹²⁷ Incensed by her resistance, Goisvintha seized the catholic princess by her long hair, inhumanly dashed her against the ground, kicked her till she was covered with blood, and at last gave orders that she should be stripped and thrown into a basin or fishpond.¹²⁸ Love and honour might excite Hermenegild to resent this injurious treatment of his bride; and he was gradually persuaded that Ingundis suffered for the cause of divine truth. Her tender complaints, and the weighty arguments of Leander, archbishop of Seville, accomplished his conversion; and the heir of the Gothic monarchy was initiated in the Nicene faith by the solemn rites of confirmation.¹²⁹ The rash youth, inflamed by zeal, and perhaps by ambition, was tempted to violate the duties of a son and a subject; and the catholics of Spain, although they could not complain of persecution, applauded his pious rebellion against an heretical father. The civil war was protracted by the long and obstinate sieges of Merida, Cordova, and Seville, which had strenuously espoused the party of Hermenegild. He invited the orthodox barbarians, the Suevi, and the Franks, to the destruction of his native land : he solicited the dangerous aid of the Romans, who possessed Africa and a part of the Spanish coast; and his holy ambassador, the archbishop Leander, effectually negotiated in person with the Byzantine court. But the hopes of the catholics were crushed by the active diligence of a monarch who commanded the troops and treasures of Spain; and the guilty Hermenegild, after his vain attempts to resist or to escape, was compelled to surrender himself into the hands of an incensed father. Leovigild was still mindful of that sacred character; and the rebel, despoiled of the regal ornaments, was still permitted, in a decent exile, to profess the catholic religion. His repeated and unsuccessful treasons at length provoked the indignation of the Gothic king, and the sentence of death, which he pronounced with apparent reluctance, was privately executed in the tower of Seville. The inflexible constancy with which he refused to accept the Arian communion, as the price of his safety, may excuse the honours that have been paid to the memory of St. Hermenegild. His wife and infant son were detained by the Romans in ignominious captivity; and this domestic misfortune tarnished the glories of Leovigild, and embittered the last moments of his life.
-
-### 40 GIBBON: Decline and Fall, 614b-c
-
+40 GIBBON: Decline and Fall, 614b-c
 The accidental or artificial prodigies which adorned the expedition of Clovis were accepted, by a superstitious age, as the manifest declaration of the Divine favour. He marched from aris; and as he proceeded with decent reverence through the holy diocese of Tours, his anxiety tempted him to consult the shrine of St. Martin, the sanctuary, and the oracle of Gaul. His messengers were instructed to remark the words of the Psalm which should happen to be chanted at the precise moment when they entered the church. Those words most fortunately expressed the valour and victory of the champions of Heaven, and the application was easily transferred to the new Joshua, the new Gideon, who went forth to battle against the enemies of the Lord.⁵¹ Orleans secured to the Franks a bridge on the Loire; but, at the distance of forty miles from Poitiers, their progress was intercepted by an extraordinary swell of the river Vigenna or Vienne; and the opposite banks were covered by the encampment of the Visigoths. Delay must be always dangerous to barbarians, who consume the country through which they march; and had Clovis possessed leisure and materials, it might have been impracticable to construct a bridge, or to force a passage, in the face of a superior enemy. But the affectionate peasants, who were impatient to welcome their deliverer, could easily betray some unknown or unguarded ford : the merit of the discovery was enhanced by the useful interposition of fraud or fiction; and a white hart, of singular size and beauty, appeared to guide and animate the march of the catholic army. The counsels of the Visigoths were irresolute and distracted. A crowd of impatient warriors, presumptuous in their strength, and disdaining to fly before the robbers of Germany, excited Alaric to assert in arms the name and blood of the conqueror of Rome. The advice of the graver chieftains pressed him to elude the first ardour of the Franks; and to expect, in the southern provinces of Gaul, the veteran and victorious Ostrogoths, whom the king of Italy had already sent to his assistance. The decisive moments were wasted in idle deliberation; the Goths too hastily abandoned, perhaps, an advantageous post; and the opportunity of a secure retreat was lost by their slow and disorderly motions. After Clovis had passed the ford, as it is still named, of the Hart, he advanced with bold and hasty steps to prevent the escape of the enemy. His nocturnal march was directed by a flaming meteor suspended in the air above the cathedral of Poitiers; and this signal, which might be previously concerted with the orthodox successor of St. Hilary, was compared to the column of fire that guided the Israelites in the desert. At the third hour of the day, about ten miles beyond Poitiers, Clovis overtook, and instantly attacked, the Gothic army, whose defeat was already prepared by terror and confusion. Yet they rallied in their extreme distress, and the martial youths, who had clamorously demanded the battle, refused to survive the ignominy of flight. The two kings encountered each other in single combat. Alaric fell by the hand of his rival ; and the victorious Frank was saved, by the goodness of his cuirass and the vigour of his horse, from the spears of two desperate Goths, who furiously rode against him to revenge the death of their sovereign. The vague expression of a mountain of the slain serves to indicate a cruel, though indefinite, slaughter; but Gregory has carefully observed that his valiant countryman Apollinaris, the son of Sidonius, lost his life at the head of the nobles of Auvergne. Perhaps these suspected catholics had been maliciously exposed to the blind assault of the enemy; and perhaps the influence of religion was superseded by personal attachment or military honour.⁵²
 Such is the empire of Fortune (if we may still disguise our ignorance under that popular name), that it is almost equally difficult to foresee the events of war, or to explain their various consequences. A bloody and complete victory has sometimes yielded no more than the possession of the field ; and the loss of ten thousand men has sometimes been sufficient to destroy, in a single day, the work of ages. The decisive battle of Poitiers was followed by the conquest of Aquitain. Alaric had left behind him an infant son, a bastard competitor, factious nobles, and a disloyal people; and the remaining forces of the Goths were oppressed by the general consternation, or opposed to each other in civil discord. The victorious king of the Franks proceeded without delay to the siege of Angouleme. At the sound of his trumpets the walls of the city imitated the example of Jericho, and instantly fell to the ground; a splendid miracle, which may be reduced to the supposition that some clerical engineers had secretly undermined the foundations of the rampart.⁵³ At Bordeaux, which had submitted without resistance, Clovis established his winter quarters; and his prudent economy transported from Toulouse the royal treasures, which were deposited in the capital of the monarchy. The conqueror penetrated as far as the confines of Spain;⁵⁴ restored the honours of the catholic church; fixed in Aquitain a colony of Franks;⁵⁵ and delegated to his lieutenants the easy task of subduing or extirpating the nation of the Visigoths. But the Visigoths were protected by the wise and powerful monarch of Italy. While the balance was still equal, Theodoric had perhaps delayed the march of the Ostrogoths; but their strenuous efforts successfully resisted the ambition of Clovis; and the army of the Franks, and their Burgundian allies, was compelled to raise the siege of Aries, with the loss, as it is said, of thirty thousand men. These vicissitudes inclined the fierce spirit of Clovis to acquiesce in an advantageous treaty of peace. The Visigoths were suffered to retain the possession of Septimania, a narrow tract of sea-coast, from the Rhone to the Pyrenees; but the ample province of Aquitain, from those mountains to the Loire, was indissolubly united to the kingdom of France.⁵⁶
 
 ## 41 GIBBON: Decline and Fall, 232a-c; 398b-399b
 
-
-### 41 GIBBON: Decline and Fall, 232a-c
-
+41 GIBBON: Decline and Fall, 232a-c
 The mission of the ancient prophets, of Moses and of Jesus, had been confirmed by many splendid prodigies; and Mohammed was repeatedly urged, by the inhabitants of Mecca and Medina, to produce a similar evidence of his divine legation; to call down from heaven the angel or the volume of his revelation, to create a garden in the desert, or to kindle a conflagration in the unbelieving city. As often as he is pressed by the demands of the Koreish, he involves himself in the obscure boast of vision and prophecy, appeals to the internal proofs of his doctrine, and shields himself behind the providence of God, who refuses those signs and wonders that would depreciate the merit of faith and aggravate the guilt of infidelity. But the modest or angry tone of his apologies betrays his weakness and vexation; and these passages of scandal established beyond suspicion the integrity of the Koran.⁹⁷ The votaries of Mohammed are more assured than himself of his miraculous gifts; and their confidence and credulity increase as they are farther removed from the time and place of his spiritual exploits. They believe or affirm that trees went forth to meet him; that he was saluted by stones; that water gushed from his fingers; that he fed the hungry, cured the sick, and raised the dead ; that a beam groaned to him ; that a camel complained to him; that a shoulder of mutton informed him of its being poisoned; and that both animate and inanimate nature were equally subject to the apostle of God.⁹⁸ His dream of a nocturnal journey is seriously described as a real and corporeal transaction. A mysterious animal, the Borak, conveyed him from the temple of Mecca to that of Jerusalem: with his companion Gabriel he successively ascended the seven heavens, and received and repaid the salutations of the patriarchs, the prophets, and the angels, in their respective mansions. Beyond the seventh heaven Mohammed alone was permitted to proceed; he passed the veil of unity, approached within two bow-shots of the throne, and felt a cold that pierced him to the heart, when his shoulder was touched by the hand of God. After this familiar though important conversation, he again descended to Jerusalem, remounted the Borak, returned to Mecca, and performed in the tenth part of a night the journey of many thousand years.⁹⁹ According to another legend, the apostle confounded in a national assembly the malicious challenge of the Koreish. His resistless word split asunder the orb of the moon: the obedient planet stooped from her station in the sky, accomplished the seven revolutions round the Caaba, saluted Mohammed in the Arabian tongue, and, suddenly contracting her dimensions, entered at the collar, and issued forth through the sleeve, of his shirt.¹⁰⁰ The vulgar are amused with these marvellous tales; but the gravest of the Musulman doctors imitate the modesty of their master, and indulge a latitude of faith or interpretation.¹⁰¹ They might speciously allege, that in preaching the religion it was needless to violate the harmony of nature; that a creed unclouded with mystery may be excused from miracles; and that the sword of Mohammed was not less potent than the rod of Moses.
 The polytheist is oppressed and distracted by the variety of superstition: a thousand rites of Egyptian origin were interwoven with the essence of the Mosaic law; and the spirit of the Gospel had evaporated in the pageantry of the church. The prophet of Mecca was tempted by prejudice, or policy, or patriotism, to sanctify the rites of the Arabians, and the custom of visiting the holy stone of the Caaba. But the precepts of Mohammed himself inculcate a more simple and rational piety: prayer, fasting, and alms are the religious duties of a Musulman ; and he is encouraged to hope that prayer will carry him half way to God, fasting will bring him to the door of his palace, and alms will gain him admittance.¹⁰² 1. According to the tradition of the nocturnal journey, the apostle, in his personal conference with the Deity, was commanded to impose on his disciples the daily obligation of fifty prayers. By the advice of Moses, he applied for an alleviation of this intolerable burden; the number was gradually reduced to five; without any dispensation of business or pleasure, or time or place : the devotion of the faithful is repeated at daybreak, at noon, in the afternoon, in the evening, and at the first watch of the night; and in the present decay of religious fervour, our travellers are edified by the profound humility and attention of the Turks and Persians. Cleanliness is the key of prayer: the frequent lustration of the hands, the face, and the body, which was practised of old by the Arabs, is solemnly enjoined by the Koran; and a permission is formally granted to supply with sand the scarcity of water. The words and attitudes of supplication, as it is performed either sitting, or standing, or prostrate on the ground, are prescribed by custom or authority; but the prayer is poured forth in short and fervent ejaculations; the measure of zeal is not exhausted by a tedious liturgy; and each Musulman for his own person is invested with the character of a priest. Among the theists, who reject the use of images, it has been found necessary to restrain the wanderings of the fancy, by directing the eye and the thought towards a kebla or visible point of the horizon. The prophet was at first inclined to gratify the Jews by the choice of Jerusalem; but he soon returned to a more natural partiality; and five times every day the eyes of the nations at Astracan, at Fez, at Delhi, are devoutly turned to the holy temple of Mecca. Yet every spot for the service of God is equally pure: the Mohammedans indifferently pray in their chamber 01 in the street. As a distinction from the Jews and Christians, the Friday in each week is set apart for the useful institution of public worship: the people is assembled in the mosch; and the imam, some respectable elder, ascends the pulpit, to begin the prayer and pronounce the sermon. But the Mohammedan religion is destitute of priesthood or sacrifice; and the independent spirit of fanaticism looks down with contempt on the ministers and the slaves of superstition. II. The voluntary¹⁰³ penance of the ascetics, the torment and glory of their lives, was odious to a prophet who censured in his companions a rash vow of abstaining from flesh, and women, and sleep; and firmly declared that he would suffer no monks in his religion.¹⁰⁴ Yet he instituted, in each year, a fast of thirty days; and strenuously recommended the observance as a discipline which purifies the soul and subdues the body, as a salutary exercise of obedience to the will of God and his apostle. During the month of Ramadan, from the rising to the setting of the sun, the Musulman abstains from eating, and drinking, and women, and baths, and perfumes; from all nourishment that can restore his strength, from all pleasure that can gratify his senses. In the revolution of the lunar year, the Ramadan coincides, by turns, with the winter cold and the summer heat; and the patient martyr, without assuaging his thirst with a drop of water, must expect the close of a tedious and sultry day. The interdiction of wine, peculiar to some orders of priests or hermits, is converted by Mohammed alone into a positive and general law;¹⁰⁵ and a considerable portion of the globe has abjured, at his command, the use of that salutary, though dangerous, liquor. These painful restraints are, doubtless, infringed by the libertine, and eluded by the hypocrite; but the legislator, by whom they are enacted, cannot surely be accused of alluring his proselytes by the indulgence of their sensual appetites. III. The charity of the Mohammedans descends to the animal creation; and the Koran repeatedly inculcates, not as a merit, but as a strict and indispensable duty, the relief of the indigent and unfortunate. Mohammed, perhaps, is the only lawgiver who has defined the precise measure of charity: the standard may vary with the degree and nature of property, as it consists either in money, in corn or cattle, in fruits or merchandise: but the Musulman does not accomplish the law, unless he bestows a tenth of his revenue ; and if his conscience accuses him of fraud or extortion, the tenth, under the idea of restitution, is enlarged to a fijth.¹⁰⁶ Benevolence is the foundation of justice, since we are forbid to injure those whom we are bound to assist. A prophet may reveal the secrets of heaven and of futurity; but in his moral precepts he can only repeat the lessons of our own hearts.
 The two articles of belief, and the four practical duties, of Islam, are guarded by rewards and punishments ; and the faith of the Musulman is devoutly fixed on the event of the judgment and the last day. The prophet has not presumed to determine the moment of that awful catastrophe, though he darkly announces the signs, both in heaven and earth, which will precede the universal dissolution, when life shall be destroyed, and the order of creation shall be confounded in the primitive chaos. At the blast of the trumpet new worlds will start into being; angels, genii, and men will arise from the dead, and the human soul will again be united to the body. The doctrine of the resurrection was first entertained by the Egyptians;¹⁰⁷ and their mummies were embalmed, their pyramids were constructed, to preserve the ancient mansion of the soul during a period of three thousand years. But the attempt is partial and unavailing; and it is with a more philosophic spirit that Mohammed relies on the omnipotence of the Creator, whose word can re-animate the breathless clay, and collect the innumerable atoms that no longer retain their form or substance.¹⁰⁸ The intermediate state of the soul it is hard to decide; and those who most firmly believe her immaterial nature, are at a loss to understand how she can think or act without the agency of the organs of sense.
-
-### 41 GIBBON: Decline and Fall, 398b-399b
-
+41 GIBBON: Decline and Fall, 398b-399b
 For their salvation and victory they were indebted to the same fanaticism which had led them to the brink of ruin. In such a cause, and in such an army, visions, prophecies, and miracles were frequent and familiar. In the distress of Antioch, they were repeated with unusual energy and success: St. Ambrose had assured a pious ecclesiastic that two years of trial must precede the season of deliverance and grace; the deserters were stopped by the presence and reproaches of Christ himself; the dead had promised to arise and combat with their brethren; the Virgin had obtained the pardon of their sins; and their confidence was revived by a visible sign, the seasonable and splendid discovery of the holy lance. The policy of their chiefs has on this occasion been admired, and might surely be excused; but a pious fraud is seldom produced by the cool conspiracy of many persons; and a voluntary impostor might depend on the support of the wise and the credulity of the people. Of the diocese of Marseilles, there was a priest of low cunning and loose manners, and his name was Peter Bartholemy. He presented himself at the door of the council-chamber, to disclose an apparition of St. Andrew, which had been thrice reiterated in his sleep, with a dreadful menace if he presumed to suppress the commands of heaven. "At Antioch," said the apostle, "in the church of my brother St. Peter, near the high altar, is concealed the steel head of the lance that pierced the side of our Redeemer. In three days, that instrument of eternal, and now of temporal, salvation, will be manifested to his disciples. Search, and ye shall find: bear it aloft in battle; and that mystic weapon shall penetrate the souls of the miscreants." The pope's legate, the bishop of Puy, affected to listen with coldness and distrust; but the revelation was eagerly accepted by Count Raymond, whom his faithful subject, in the name of the apostle, had chosen for the guardian of the holy lance. The experiment was resolved; and on the third day, after a due preparation of prayer and fasting, the priest of Marseilles introduced twelve trusty spectators, among whom were the count and his chaplain; and the church doors were barred against the impetuous multitude. The ground was opened in the appointed place; but the workmen, who relieved each other, dug to the depth of twelve feet without discovering the object of their search. In the evening, when Count Raymond had withdrawn to his post, and the weary assistants began to murmur, Bartholemy, in his shirt, and without his shoes, boldly descended into the pit; the darkness of the hour and of the place enabled him to secrete and deposit the head of a Saracen lance ; and the first sound, the first gleam, of the steel was saluted with a devout rapture. The holy lance was drawn from its recess, wrapped in a veil of silk and gold, and exposed to the veneration of the crusaders; their anxious suspense burst forth in a general shout of joy and hope, and the desponding troops were again inflamed with the enthusiasm of valour. Whatever had been the arts, and whatever might be the sentiments of the chiefs, they skilfully improved this fortunate revolution by every aid that discipline and devotion could afford. The soldiers were dismissed to their quarters with an injunction to fortify their minds and bodies for the approaching conflict, freely to bestow their last pittance on themselves and their horses, and to expect with the dawn of day the signal of victory. On the festival of St. Peter and St. Paul the gates of Antioch were thrown open: a martial psalm, "Let the Lord arise, and let his enemies be scattered!" was chanted by a procession of priests and monks; the battle array was marshalled in twelve divisions, in honour of the twelve apostles; and the holy lance, in the absence of Raymond, was intrusted to the hands of his chaplain. The influence of this relic or trophy was felt by the servants, and perhaps by the enemies, of Christ;⁹⁸ and its potent energy was heightened by an accident, a stratagem, or a rumour, of a miraculous complexion. Three knights, in white garments and resplendent arms, either issued, or seemed to issue, from the hills: the voice of Adhemar, the pope's legate, proclaimed them as the martyrs St. George, St. Theodore, and St. Maurice: the tumult of battle allowed no time for doubt or scrutiny; and the welcome apparition dazzled the eyes or the imagination of a fanatic army. In the season of danger and triumph the revelation of Bartholemy of Marseilles was unanimously asserted ; but as soon as the temporary service was accomplished, the personal dignity and liberal alms which the count of Toulouse derived from the custody of the holy lance provoked the envy, and awakened the reason, of his rivals. A Norman clerk presumed to sift, with a philosophic spirit, the truth of the legend, the circumstances of the discovery, and the character of the prophet; and the pious Bohemond ascribed their deliverance to the merits and intercession of Christ alone. For a while the Provincials defended their national palladium with clamours and arms; and new visions condemned to death and hell the profane sceptics who presumed to scrutinise the truth and merit of the discovery. The prevalence of incredulity compelled the author to submit his life and veracity to the judgment of God. A pile of dry faggots, four feet high and fourteen long, was erected in the midst of the camp; the flames burnt fiercely to the elevation of thirty cubits; and a narrow path of twelve inches was left for the perilous trial. The unfortunate priest of Marseilles traversed the fire with dexterity and speed ; but his thighs and belly were scorched by the intense heat; he expired the next day; and the logic of believing minds will pay some regard to his dying protestations of innocence and truth. Some efforts were made by the Provincials to substitute a cross, a ring, or a tabernacle, in the place of the holy lance, which soon vanished in contempt and oblivion.¹⁰⁰ Yet the revelation of Antioch is gravely asserted by succeeding historians: and such is the progress of credulity, that miracles, most doubtful on the spot and at the moment, will be received with implicit faith at a convenient distance of time and space.
 The prudence or fortune of the Franks had delayed their invasion till the decline of the Turkish empire.¹⁰¹ Under the manly government of the three first sultans, the kingdoms of Asia were united in peace and justice; and the innumerable armies which they led in person were equal in courage, and superior in discipline, to the barbarians of the West. But at the time of the crusade, the inheritance of Malek Shah was disputed by his four sons; their private ambition was insensible of the public danger; and, in the vicissitudes of their fortune, the royal vassals were ignorant, or regardless, of the true object of their allegiance. The twentyeight emirs who marched with the standard of Kerboga were his rivals or enemies: their hasty levies were drawn from the towns and tents of Mesopotamia and Syria; and the Turkish veterans were employed or consumed in the civil wars beyond the Tigris. The caliph of Egypt embraced this opportunity of weakness and discord to recover his ancient possessions; and his sultan Aphdal besieged Jerusalem and Tyre, expelled the children of Ortok, and restored in Palestine the civil and ecclesiastical authority of the Fatimites.¹⁰² They heard with astonishment of the vast armies of Christians that had passed from Europe to Asia, and rejoiced in the sieges and battles which broke the power of the Turks, the adversaries of their sect and monarchy. But the same Christians were the enemies of the prophet; and from the overthrow of Nice and Antioch, the motive of their enterprise, which was gradually understood, would urge them forwards to the banks of the Jordan, or perhaps of the Nile. An intercourse of epistles and embassies, which rose and fell with the events of war, was maintained between the throne of Cairo and the camp of the Latins; and their adverse pride was the result of ignorance and enthusiasm. The ministers of Egypt declared in a haughty, or insinuated in a milder, tone, that their sovereign, the true and lawful commander of the faithful, had rescued Jerusalem from the Turkish yoke; and that the pilgrims, if they would divide their numbers, and lay aside their arms, should find a safe and hospitable reception at the sepulchre of Jesus. In the belief of their lost condition, the caliph Mostali despised their arms and imprisoned their deputies: the conquest and victory of Antioch prompted him to solicit those formidable champions with gifts of horses and silk robes, of vases, and purses of gold and silver; and in his estimate of their merit or power the first place was assigned to Bohemond, and the second to Godfrey. In either fortune, the answer of the crusaders was firm and uniform: they disdained to inquire into the private claims or possessions of the followers of Mohammed: whatsoever was his name or nation, the usurper of Jerusalem was their enemy; and instead of prescribing the mode and terms of their pilgrimage, it was only by a timely surrender of the city and province, their sacred right, that he could deserve their alliance, or deprecate their impending and irresistible attack.¹⁰³
 Yet this attack, when they were within the view and reach of their glorious prize, was suspended above ten months after the defeat of Kerboga. The zeal and courage of the crusaders were chilled in the moment of victory; and instead of marching to improve the consternation, they hastily dispersed to enjoy the luxury, of Syria. The causes of this strange delay may be found in the want of strength and subordination. In the painful and various service of Antioch the cavalry was annihilated; many thousands of every rank had been lost by famine, sickness, and desertion: the same abuse of plenty had been productive of a third famine; and the alternative of intemperance and distress had generated a pestilence which swept away above fifty thousand of the pilgrims. Few were able to command, and none were willing to obey : the domestic feuds, which had been stifled by common fear, were again renewed in acts, or at least in sentiments, of hostility; the fortune of Baldwin and Bohemond excited the envy of their companions; the bravest knights were enlisted for the defence of their new principalities; and Count Raymond exhausted his troops and treasures in an idle expedition into the heart of Syria. The winter was consumed in discord and disorder; a sense of honour and religion was rekindled in the spring; and the private soldiers, less susceptible of ambition and jealousy, awakened with angry clamours the indolence of their chiefs. In the month of May the relics of this mighty host proceeded from Antioch to Laodicea: about forty thousand Latins, of whom no more than fifteen hundred horse and twenty thousand foot were capable of immediate service. Their easy march was continued between Mount Libanus and the sea-shore: their wants were liberally supplied by the coasting traders of Genoa and Pisa; and they drew large contributions from the. emirs of Tripoli, Tyre, Sidon, Acre, and Caesarea, who granted a free passage and promised to follow the example of Jerusalem. From Caesarea they advanced into the midland country: their clerks recognised the sacred geography of Lydda, Ramla, Emmaus, and Bethlehem, and as soon as they descried the holy city, the crusaders forgot their toils and claimed their reward.¹⁰⁴
@@ -13828,12 +12880,8 @@ I feel a youthful life, its holy bliss.
 Through nerve and vein run on, new-glowing.
 Was it a god who wrote these signs that still
 My inner tumult and that fill 435
-
-### My wretched heart with ecstasy?
-
-
-### Unveiling with mysterious potency
-
+My wretched heart with ecstasy?
+Unveiling with mysterious potency
 The powers of Nature round about me here?
 Am I a god? All grows so clear to me!
 In these pure lineaments I see 440
@@ -13844,24 +12892,16 @@ Thy sense is closed, thy heart is dead!
 
 ### Up, Student! bathe without dismay 445
 
-
-### Thy earthly breast in morning-red!"
-
+Thy earthly breast in morning-red!"
 He contemplates the sign.
 Into the whole how all things blend,
-
-### Each in the other working, living!
-
+Each in the other working, living!
 How heavenly powers ascend, descend,
 Each unto each the golden vessels giving!¹ 450
 On pinions fragrant blessings bringing,
 From Heaven through Earth all onward winging,
-
-### Through all the All harmonious ringing!
-
-
-### What pageantry! Yet, ah, mere pageantry!
-
+Through all the All harmonious ringing!
+What pageantry! Yet, ah, mere pageantry!
 Where shall I, endless Nature, seize on thee? 455
 Thy breasts are—where? Ye, of all life the spring,
 To whom both Earth and Heaven cling,
@@ -13877,88 +12917,50 @@ I feel the courage, forth into the world to dare;
 The woe of earth, the bliss of earth to bear; 465
 With storms to battle, brave the lightning's glare;
 And in the shipwreck's crash not to despair!
-
-### Clouds gather over me—
-
-
-### The moon conceals her light—
-
-
-### The lamp fades out! 470
-
-
-### Mists rise—red beams dart forth
-
-
-### Around my head—there floats
-
-
-### A horror downward from the vault
-
-
-### And seizes me!
-
+Clouds gather over me—
+The moon conceals her light—
+The lamp fades out! 470
+Mists rise—red beams dart forth
+Around my head—there floats
+A horror downward from the vault
+And seizes me!
 Spirit invoked! near me, I feel, thou art! 475
-
-### Unveil thyself!
-
-
-### Ha! how it rends my heart!
-
-
-### To unknown feeling
-
-
-### All my senses burst forth, reeling!
-
+Unveil thyself!
+Ha! how it rends my heart!
+To unknown feeling
+All my senses burst forth, reeling!
 ¹Cf. Genesis, 28. 12.
 I feel my heart is thine and to the uttermost! 480
 Thou must! Thou must! though my life be the cost!
 He clutches the book and utters the sign of the spirit in a tone of
 mystery. A ruddy flame flashes up; the spirit appears in the
 flame.
-
-### Spirit. Who calls to me?
-
-
-### Faust [turning away]. Appalling apparition!
-
+Spirit. Who calls to me?
+Faust [turning away]. Appalling apparition!
 Spirit. By potent spell hast drawn me here,
 Hast long been tugging at my sphere,
-
-### And now—
-
+And now—
 Faust. Oh woe! I can not bear thy vision! 485
 Spirit. With panting breath thou hast implored this sight,
 Wouldst hear my voice, my face wouldst see;
-
-### Thy mighty spirit-plea inclineth me!
-
-
-### Here am I!—what a pitiable fright
-
+Thy mighty spirit-plea inclineth me!
+Here am I!—what a pitiable fright
 Grips thee, thou Superman! Where is the soul elated? 490
 Where is the breast that in its self a world created
 And bore and fostered it? And that with joyous trembling
-
-### Expanded as if spirits, us, resembling?
-
+Expanded as if spirits, us, resembling?
 Where art thou, Faust, whose voice rang out to me,
 Who toward me pressed with all thy energy? 495
 Is it thou who, by my breath surrounded,
 In all the deeps of being art confounded?
-
-### A frightened, fleeing, writhing worm?
-
+A frightened, fleeing, writhing worm?
 Faust. Am I, O form of flame, to yield to thee in fear?
 'Tis I, I'm Faust, I am thy peer! 500
 Spirit. In the tides of life, in action's storm,
 Up and down I wave,
 To and fro weave free,
 Birth and the grave,
-
-### An infinite sea, 505
-
+An infinite sea, 505
 A varied weaving,
 A radiant living,
 Thus at Time's humming loom it's my hand that prepares
@@ -13966,20 +12968,14 @@ The robe ever-living the Deity wears.
 Faust. Thou who dost round the wide world wend, 510
 Thou busy spirit, how near I feel to thee!
 Spirit. Thou art like the spirit thou canst comprehend,
-
-### Not me!
-
+Not me!
 Vanishes.
-
-### Faust [collapsing]. Not thee!
-
+Faust [collapsing]. Not thee!
 
 ## 51 TOLSTOY: War and Peace, BK IX, 377b-379a; BK XII, 561 b-562a
 
 51 TOLSTOY: War and Peace, BK IX, 377b-379a
-
-### CHAPTER XIX
-
+CHAPTER XIX
 From the day when Pierre, after leaving the Rostovs' with Natasha's grateful look fresh in his mind, had gazed at the comet that seemed to be fixed in the sky and felt that something new was appearing on his own horizon—from that day the problem of the vanity and uselessness of all earthly things, that had incessantly tormented him, no longer presented itself. That terrible question "Why?" "Wherefore?" which had come to him amid every occupation, was now replaced, not by another question or by a reply to the former question, but by her image. When he listened to, or himself took part in, trivial conversations, when he read or heard of human baseness or folly, he was not horrified as formerly, and did not ask himself why men struggled so about these things when all is so transient and incomprehensible—but he remembered her as he had last seen her, and all his doubts vanished—not because she had answered the questions that had haunted him, but because his conception of her transferred him instantly to another, a brighter, realm of spiritual activity in which no one could be justified or guilty—a realm of beauty and love which it was worth living for. Whatever worldly baseness presented itself to him, he said to himself:
 "Well, supposing N. N. has swindled the country and the Tsar, and the country and the Tsar confer honors upon him, what does that matter? She smiled at me yesterday and asked me to come again, and I love her, and no one will ever know it." And his soul felt calm and peaceful.
 Pierre still went into society, drank as much and led the same idle and dissipated life, because besides the hours he spent at the Rostovs' there were other hours he had to spend somehow, and the habits and acquaintances he had made in Moscow formed a current that bore him along irresistibly. But latterly, when more and more disquieting reports came from the seat of war and Natasha's health began to improve and she no longer aroused in him the former feeling of careful pity, an ever-increasing restlessness, which he could not explain, took possession of him. He felt that the condition he was in could not continue long, that a catastrophe was coming which would change his whole life, and he impatiently sought everywhere for signs of that approaching catastrophe. One of his brother Masons had revealed to Pierre the following prophecy concerning Napoleon, drawn from the Revelation of St. John.
@@ -13992,15 +12988,11 @@ a b e d e f g h i k
 12 3 4 5 6 7 8 9 10
 l m n o p q r s
 20 30 40 50 60 70 80 90
-
-### t u V w x y
-
+t u V w x y
 
 ### 100 110 120 130 140 150
 
-
-### z
-
+z
 
 ### 160
 
@@ -14058,15 +13050,9 @@ Alyosha had listened in silence; towards the end he was greatly moved and seemed
 
 ## 54 FREUD: Interpretation of Dreams, 138a-c / General Introduction, 477b-c
 
-
-### 54 FREUD: Interpretation of Dreams, 138a-c
-
-
-### (Can’t compile, very blur)
-
-
-### 54 FREUD: General Introduction, 477b-c
-
+54 FREUD: Interpretation of Dreams, 138a-c
+(Can’t compile, very blur)
+54 FREUD: General Introduction, 477b-c
 The forgetting of names seems, however, to be especially facilitated psycho-physiologically, and therefore does occur on occasions where the intervention of an unpleasantness-motive cannot be established. When anyone has a tendency to forget names, it can be confirmed by analytic investigation that names escape, not merely because he does not like them or be cause they remind him of something disagree able, but also because the particular name belongs to some other chain of associations of a more intimate nature. The name is anchored there, as it were, and is refused to the other associations activated at the moment. If you recall the devices of memory systems you will realize with some surprise that the same associations which are there artificially introduced, in order to save names from being forgotten, are also responsible for their being forgotten. The most conspicuous example of this is afforded by proper names of persons, which naturally possess quite different values for different people. For instance, take a first name, such as Theodore. For some of you it will have no particular significance; for others it will be the name of father, brother, friend, or your own name. Analytic experience will show you that the former among you will be in no danger of forgetting that some stranger bears this name; whereas the latter will be continually inclined to grudge to strangers a name which to them seems reserved for an intimate relationship. Now let us assume that this inhibition due to associations may coincide with the operation of the "pain"-principle, -and in addition with an indirect mechanism; you will then be able to form a commensurate idea of the complexity, in causation, of such temporary forgetting of names. An adequate analysis that does justice to the facts will, however, completely disclose all these complications.
 The forgetting of impressions and experiences shows the working of the tendency to ward off from memory that which is unpleasant much more clearly and invariably than the forgetting of names. It does not of course belong in its entirety to the category of errors, but only in so far as it appears to us remarkable and unjustified, judged by the standard of general experience; as, for instance, where recent or important impressions are forgotten, or where one memory is forgotten out of another wise well-remembered sequence. How and why we have the capacity of forgetting in general, particularly how we are able to forget experiences which have certainly left the deepest impression on us, such as the events of our childhood, is quite a different problem, in which the defence against painful associations plays a certain part but is far from explaining everything. That unwelcome impressions are easily forgotten is an indubitable fact Various psychologists have remarked it; and the great Darwin was so well aware of it that he made| a golden rule for himself of writing down with particular care observations which seemed unfavourable to his theory, having become convinced that just these would be inclined to slip out of recollection.
 Those who hear for the first time of this principle of defence against unpleasant memory by forgetfulness seldom fail to raise the objection that, on the contrary, in their experience it is just that which is painful which it is hard to forget, since it always comes back to' mind to torture the person against his will-as, for example, the recollection of grievances or humiliations. This fact is quite correct, but the objection is not sound. It is important to begin early to reckon with the fact that the mind is an arena, a sort of tumbling-ground, for the struggles of antagonistic impulses; or, to express it in non-dynamic terms, that the mind is made up of contradictions and pairs of opposites. Evidence of one particular tendency does not in the least preclude its opposite; there is room for both of them. The material questions are: How do these opposites stand to one another and what effects proceed from one of them and what from the other?
