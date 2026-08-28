@@ -910,86 +910,86 @@ boats to go nearer to this marvellous sight. But when the boats were come within
 
 ## 32 MILTON: Paradise Lost, BK VIII [114-130] 234b-235a; BK IX [780-794] 264b; [990-1004] 269a; BK XI [181-207]303a-b
 
-32 MILTON: Paradise Lost, BK VIII [114-130] 234b-235a
-By Numbers that have name. But this I urge,
-Admitting Motion in the Heav'ns, to shew
-Invalid that which thee to doubt it mov'd;
-Not that I so affirm, though so it seem
-To thee who hast thy dwelling here on Earth.
-God to remove his wayes from human sense,
-Plac'd Heav'n from Earth so farr, that earthly sight, 120
-If it presume, might erre in things too high,
-And no advantage gaine. What if the Sun
-Be Center to the World, and other Starrs
-By his attractive vertue and thir own
-Incited, dance about him various rounds?
-Thir wandring course now high, now low, then hid,
-Progressive, retrograde, or standing still,
-In six thou seest, and what if sev'nth to these
-The Planet Earth, so stedfast though she seem,
+32 MILTON: Paradise Lost, BK VIII [114-130] 234b-235a\
+By Numbers that have name. But this I urge,\
+Admitting Motion in the Heav'ns, to shew\
+Invalid that which thee to doubt it mov'd;\
+Not that I so affirm, though so it seem\
+To thee who hast thy dwelling here on Earth.\
+God to remove his wayes from human sense,\
+Plac'd Heav'n from Earth so farr, that earthly sight, 120\
+If it presume, might erre in things too high,\
+And no advantage gaine. What if the Sun\
+Be Center to the World, and other Starrs\
+By his attractive vertue and thir own\
+Incited, dance about him various rounds?\
+Thir wandring course now high, now low, then hid,\
+Progressive, retrograde, or standing still,\
+In six thou seest, and what if sev'nth to these\
+The Planet Earth, so stedfast though she seem,\
 Insensibly three different Motions move? 130
 
-32 MILTON: Paradise Lost, BK IX [780-794] 264b
-So saying, her rash hand in evil hour 780
-Forth reaching to the Fruit, she pluck'd, she eat:
-Earth felt the wound, and Nature from her seat
-Sighing through all her Works gave signs of woe,
-That all was lost. Back to the Thicket slunk
-The guiltie Serpent, and well might, for Eve
-Intent now wholly on her taste, naught else
-Regarded, such delight till then, as seemd,
-In Fruit she never tasted, whether true
-Or fansied so, through expectation high
-Of knowledg, nor was God-head from her thought. 790
-Greedily she ingorg'd without restraint,
-And knew not eating Death: Satiate at length,
-And hight'nd as with Wine, jocond and boon,
+32 MILTON: Paradise Lost, BK IX [780-794] 264b\
+So saying, her rash hand in evil hour 780\
+Forth reaching to the Fruit, she pluck'd, she eat:\
+Earth felt the wound, and Nature from her seat\
+Sighing through all her Works gave signs of woe,\
+That all was lost. Back to the Thicket slunk\
+The guiltie Serpent, and well might, for Eve\
+Intent now wholly on her taste, naught else\
+Regarded, such delight till then, as seemd,\
+In Fruit she never tasted, whether true\
+Or fansied so, through expectation high\
+Of knowledg, nor was God-head from her thought. 790\
+Greedily she ingorg'd without restraint,\
+And knew not eating Death: Satiate at length,\
+And hight'nd as with Wine, jocond and boon,\
 Thus to her self she pleasingly began.
 
-32 MILTON: Paradise Lost, BK IX [990-1004] 269a
-So saying, she embrac'd him, and for joy 990
-Tenderly wept, much won that he his Love
-Had so enobl'd, as of choice to incurr
-Divine displeasure for her sake, or Death.
-In recompence (for such compliance bad
-Such recompence best merits) from the bough
-She gave him of that fair enticing Fruit
-With liberal hand: he scrupl'd not to eat
-Against his better knowledge, not deceav'd,
-But fondly overcome with Femal charm.
-Earth trembl'd from her entrails, as again 1000
-In pangs, and Nature gave a second groan,
-Skie lowr'd, and muttering Thunder, som sad drops
-Wept at compleating of the mortal Sin
+32 MILTON: Paradise Lost, BK IX [990-1004] 269a\
+So saying, she embrac'd him, and for joy 990\
+Tenderly wept, much won that he his Love\
+Had so enobl'd, as of choice to incurr\
+Divine displeasure for her sake, or Death.\
+In recompence (for such compliance bad\
+Such recompence best merits) from the bough\
+She gave him of that fair enticing Fruit\
+With liberal hand: he scrupl'd not to eat\
+Against his better knowledge, not deceav'd,\
+But fondly overcome with Femal charm.\
+Earth trembl'd from her entrails, as again 1000\
+In pangs, and Nature gave a second groan,\
+Skie lowr'd, and muttering Thunder, som sad drops\
+Wept at compleating of the mortal Sin\
 Original; while Adam took no thought,
 
-32 MILTON: Paradise Lost, BK XI [181-207]303a-b
-So spake, so wish'd much humbl'd Eve, but Fate
-Subscrib'd not; Nature first gave Signs, imprest
-On Bird, Beast, Aire, Aire suddenly eclips'd
-After short blush of Morn; nigh in her sight
-The Bird of Jove, stoopt from his aerie tour,
-Two Birds of gayest plume before him drove:
-Down from a Hill the Beast that reigns in Woods,
-First Hunter then, pursu'd a gentle brace,
-Goodliest of all the Forrest, Hart and Hinde;
-Direct to th' Eastern Gate was bent thir flight. 190
-Adam observ'd, and with his Eye the chase
-Pursuing, not unmov'd to Eve thus spake.
-O Eve, some furder change awaits us nigh,
-Which Heav'n by these mute signs in Nature shews
-Forerunners of his purpose, or to warn
-Us haply too secure of our discharge
-From penaltie, because from death releast
-Some days; how long, and what till then our life,
-Who knows, or more then this, that we are dust,
-And thither must return and be no more. 200
-Why else this double object in our sight
-Of flight pursu'd in th' Air and ore the ground
-One way the self-same hour? why in the East
-Darkness ere Dayes mid-course, and Morning light
-More orient in yon Western Cloud that draws
-O're the blew Firmament a radiant white,
+32 MILTON: Paradise Lost, BK XI [181-207]303a-b\
+So spake, so wish'd much humbl'd Eve, but Fate\
+Subscrib'd not; Nature first gave Signs, imprest\
+On Bird, Beast, Aire, Aire suddenly eclips'd\
+After short blush of Morn; nigh in her sight\
+The Bird of Jove, stoopt from his aerie tour,\
+Two Birds of gayest plume before him drove:\
+Down from a Hill the Beast that reigns in Woods,\
+First Hunter then, pursu'd a gentle brace,\
+Goodliest of all the Forrest, Hart and Hinde;\
+Direct to th' Eastern Gate was bent thir flight. 190\
+Adam observ'd, and with his Eye the chase\
+Pursuing, not unmov'd to Eve thus spake.\
+O Eve, some furder change awaits us nigh,\
+Which Heav'n by these mute signs in Nature shews\
+Forerunners of his purpose, or to warn\
+Us haply too secure of our discharge\
+From penaltie, because from death releast\
+Some days; how long, and what till then our life,\
+Who knows, or more then this, that we are dust,\
+And thither must return and be no more. 200\
+Why else this double object in our sight\
+Of flight pursu'd in th' Air and ore the ground\
+One way the self-same hour? why in the East\
+Darkness ere Dayes mid-course, and Morning light\
+More orient in yon Western Cloud that draws\
+O're the blew Firmament a radiant white,\
 And slow descends, with somthing heav'nly fraught.
 
 ## 33 PASCAL: Pensees, 643-646 290b-291b; 652-657 292a-293a; 670 295a-b; 675 296b-297a; 693-736 301b-317b
