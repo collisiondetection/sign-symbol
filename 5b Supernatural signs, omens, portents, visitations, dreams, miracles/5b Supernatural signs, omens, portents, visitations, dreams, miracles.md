@@ -18693,750 +18693,750 @@ NOW the other gods and the armed warriors on the plain slept soundly, but Jove w
 
 ## 5 AESCHYLUS: Persians [176-230]17a-c / Seven Against Thebes [24-29] 27b / Prometheus Bound [484-499] 45a; [645-668] 46d-47a / Agamemnon [104-159] 53a-d / Choephoroe [514-552] 75a-c
 
-5 AESCHYLUS: Persians [176-230]17a-c
-Ch. Be sure of this, Queen of this land of ours,
-There never was nor ever can be need
-To ask us twice for help by word or deed,
-So far as ripe experience empowers
-Leal hearts to proffer guidance: in our breast
-There is no thought save how to serve thee best.
-At. I am much conversant with dreams at night
-Since with his army my dear son is gone
-To ravage and lay waste Ionia,
-But nothing yet so startlingly distinct
-As yesternight, as you shall forthwith hear.
-For there appeared to me in bright apparel
-Two women; one with Persian robes adorned,
-The other in the Dorian garb; and each
-Taller in stature than are women now,
-Faultlessly fair, both sisters of one house.
-The first in Hellas dwelt, by sortilege
-Assigned; the other lived in Barbary.
-And so it was, that in my dream methought
-There was some kind of quarrel 'twixt the twain,
-Which, when my dear son was apprised of it,
-He would compose and make them live as friends.
-And so he harnessed them to a chariot
-Lashing their necks to the yoke. And the tall form
-Clad in our raiment answered to the rein;
-But the other struggled; tore the tackle up
-And without bit or bridle breaking loose
-Snapped the strong yoke asunder. My son fell;
-And suddenly his father stood beside him,
-Even Darius, sorry for his fall.
-This is the vision I beheld last night.
-But when I rose and in fair-flowing stream
-Had washed my hands, so cleansed for sacrifice
-I stood before an altar, purposing
-To make my offering of the elements
-To the Divine Forfenders, whose indeed
-The office is. And, lo, an eagle fled
-To Phoebus' burning brazier! Good my friends,
-When I saw that I was struck dumb with fear.
-And presently a falcon flew at him,
-Beat him about the body with its wings,
-And with its claws his proud crest-feathers plucked.
-And strange—and passing strange—the eagle
-quailed
-Nor dared at all retaliate. What I saw
-Filled me with dread and will affright your ears.
-Well do ye know that if our son succeed
-He will become the wonder of the world;
-And even if he fail, there is no law
-Can call him to account; but unimpaired,
-Life granted him, his throne is o'er this land.
-Ch. Mother, we would not by aught we might say
-Alarm unduly or raise hopes too high.
-Better approach the gods, better go pray,
-If shapes of ugly seeming haunt thine eye.
-Beseech them to deliver thee from ill,
-And for thyself, thy children and the State
-And all thou lovest good things to fulfil.
-This done, with drink-offerings propitiate
-Earth and the dead; and then entreat thy spouse,
-Darius, whom thou say'st that yesternight
-Thou did'st behold, for thee and for thy house
-Up from the underworld into the light
-To send good luck, and adverse things blindfold
-Muffle in nether darkness. Not untaught
-By my prophetic soul have I made bold
+5 AESCHYLUS: Persians [176-230]17a-c\
+Ch. Be sure of this, Queen of this land of ours,\
+There never was nor ever can be need\
+To ask us twice for help by word or deed,\
+So far as ripe experience empowers\
+Leal hearts to proffer guidance: in our breast\
+There is no thought save how to serve thee best.\
+At. I am much conversant with dreams at night\
+Since with his army my dear son is gone\
+To ravage and lay waste Ionia,\
+But nothing yet so startlingly distinct\
+As yesternight, as you shall forthwith hear.\
+For there appeared to me in bright apparel\
+Two women; one with Persian robes adorned,\
+The other in the Dorian garb; and each\
+Taller in stature than are women now,\
+Faultlessly fair, both sisters of one house.\
+The first in Hellas dwelt, by sortilege\
+Assigned; the other lived in Barbary.\
+And so it was, that in my dream methought\
+There was some kind of quarrel 'twixt the twain,\
+Which, when my dear son was apprised of it,\
+He would compose and make them live as friends.\
+And so he harnessed them to a chariot\
+Lashing their necks to the yoke. And the tall form\
+Clad in our raiment answered to the rein;\
+But the other struggled; tore the tackle up\
+And without bit or bridle breaking loose\
+Snapped the strong yoke asunder. My son fell;\
+And suddenly his father stood beside him,\
+Even Darius, sorry for his fall.\
+This is the vision I beheld last night.\
+But when I rose and in fair-flowing stream\
+Had washed my hands, so cleansed for sacrifice\
+I stood before an altar, purposing\
+To make my offering of the elements\
+To the Divine Forfenders, whose indeed\
+The office is. And, lo, an eagle fled\
+To Phoebus' burning brazier! Good my friends,\
+When I saw that I was struck dumb with fear.\
+And presently a falcon flew at him,\
+Beat him about the body with its wings,\
+And with its claws his proud crest-feathers plucked.\
+And strange—and passing strange—the eagle\
+quailed\
+Nor dared at all retaliate. What I saw\
+Filled me with dread and will affright your ears.\
+Well do ye know that if our son succeed\
+He will become the wonder of the world;\
+And even if he fail, there is no law\
+Can call him to account; but unimpaired,\
+Life granted him, his throne is o'er this land.\
+Ch. Mother, we would not by aught we might say\
+Alarm unduly or raise hopes too high.\
+Better approach the gods, better go pray,\
+If shapes of ugly seeming haunt thine eye.\
+Beseech them to deliver thee from ill,\
+And for thyself, thy children and the State\
+And all thou lovest good things to fulfil.\
+This done, with drink-offerings propitiate\
+Earth and the dead; and then entreat thy spouse,\
+Darius, whom thou say'st that yesternight\
+Thou did'st behold, for thee and for thy house\
+Up from the underworld into the light\
+To send good luck, and adverse things blindfold\
+Muffle in nether darkness. Not untaught\
+By my prophetic soul have I made bold\
 To speak, convinced so best may good be sought.
 
-5 AESCHYLUS: Seven Against Thebes [24-29] 27b
-The kindly soil, to us large welcome gave;
-The careful nurture of our nonage bare,
-And bred us to be denizens-at-arms
-And trusty targeteers in this her need.
-And, to this day, in God's just equipoise,
-To us-ward shifts the moving balance-hand;
+5 AESCHYLUS: Seven Against Thebes [24-29] 27b\
+The kindly soil, to us large welcome gave;\
+The careful nurture of our nonage bare,\
+And bred us to be denizens-at-arms\
+And trusty targeteers in this her need.\
+And, to this day, in God's just equipoise,\
+To us-ward shifts the moving balance-hand;\
 For, long time shut within these bastioned walls,
 
-5 AESCHYLUS: Prometheus Bound [484-499] 45a;
-I staked the winding path of divination
-And was the first distinguisher of dreams,
-The true from false; and voices ominous
-Of meaning dark interpreted; and tokens
-Seen when men take the road ; and augury
-By flight of all the greater crook-clawed birds
-With nice discrimination I defined;
-These by their nature fair and favourable,
-Those, flattered with fair name. And of each sort
-The habits I described; their mutual feuds
-And friendships and the assemblages they hold.
-And of the plumpness of the inward parts
-What colour is acceptable to the Gods,
-The well-streaked liver-lobe and gall-bladder.
-Also by roasting limbs well wrapped in fat
+5 AESCHYLUS: Prometheus Bound [484-499] 45a;\
+I staked the winding path of divination\
+And was the first distinguisher of dreams,\
+The true from false; and voices ominous\
+Of meaning dark interpreted; and tokens\
+Seen when men take the road ; and augury\
+By flight of all the greater crook-clawed birds\
+With nice discrimination I defined;\
+These by their nature fair and favourable,\
+Those, flattered with fair name. And of each sort\
+The habits I described; their mutual feuds\
+And friendships and the assemblages they hold.\
+And of the plumpness of the inward parts\
+What colour is acceptable to the Gods,\
+The well-streaked liver-lobe and gall-bladder.\
+Also by roasting limbs well wrapped in fat\
 And the long chine, I led men on the road
 
-5 AESCHYLUS: Prometheus Bound [645-668] 46d-47a
-How fitly to refuse; and at your wish
-All ye desire to know I will in plain,
-Round terms set forth. And yet the telling of it
-Harrows my soul; this winter's tale of wrong,
-Of angry Gods and brute deformity,
-And how and why on me these horrors swooped.
-Always there were dreams visiting by night
-The woman's chambers where I slept; and they
-With flattering words admonished and cajoled me,
-Saying, "O lucky one, so long a maid?
-And what a match for thee if thou would'st wed!
-Why, pretty, here is Zeus as hot as hot
-—
-Love-sick— to have thee! Such a bolt as thou
-Hast shot clean through his heart! And he won't
-rest
-Till Cypris help him win thee! Lift not then,
-My daughter, a proud foot to spurn the bed
-Of Zeus: but get thee gone to meadow deep
-By Lerna's marsh, where are thy father's flocks
-And cattle-folds, that on the eye of Zeus
-May fall the balm that shall assuage desire."
-Such dreams oppressed me, troubling all my nights,
-Woe's me! till I plucked courage up to tell
-My father of these fears that walked in darkness.
-And many times to Pytho and Dodona
-He sent his sacred missioners, to inquire
-How, or by deed or word, he might conform
-To the high will and pleasure of the Gods.
-And they returned with slippery oracles,
-Nought plain, but all to baffle and perplex—
-And then at last to Inachus there raught
-A saying that flashed clear; the drift, that I
-Must be put out from home and country, forced
-To be a wanderer at the ends of the earth,
-A thing devote and dedicate; and if
+5 AESCHYLUS: Prometheus Bound [645-668] 46d-47a\
+How fitly to refuse; and at your wish\
+All ye desire to know I will in plain,\
+Round terms set forth. And yet the telling of it\
+Harrows my soul; this winter's tale of wrong,\
+Of angry Gods and brute deformity,\
+And how and why on me these horrors swooped.\
+Always there were dreams visiting by night\
+The woman's chambers where I slept; and they\
+With flattering words admonished and cajoled me,\
+Saying, "O lucky one, so long a maid?\
+And what a match for thee if thou would'st wed!\
+Why, pretty, here is Zeus as hot as hot\
+—\
+Love-sick— to have thee! Such a bolt as thou\
+Hast shot clean through his heart! And he won't\
+rest\
+Till Cypris help him win thee! Lift not then,\
+My daughter, a proud foot to spurn the bed\
+Of Zeus: but get thee gone to meadow deep\
+By Lerna's marsh, where are thy father's flocks\
+And cattle-folds, that on the eye of Zeus\
+May fall the balm that shall assuage desire."\
+Such dreams oppressed me, troubling all my nights,\
+Woe's me! till I plucked courage up to tell\
+My father of these fears that walked in darkness.\
+And many times to Pytho and Dodona\
+He sent his sacred missioners, to inquire\
+How, or by deed or word, he might conform\
+To the high will and pleasure of the Gods.\
+And they returned with slippery oracles,\
+Nought plain, but all to baffle and perplex—\
+And then at last to Inachus there raught\
+A saying that flashed clear; the drift, that I\
+Must be put out from home and country, forced\
+To be a wanderer at the ends of the earth,\
+A thing devote and dedicate; and if\
 I would not, there should fall a thunderbolt
 
-5 AESCHYLUS: Agamemnon [104-159] 53a-d
-Now am I minstrel and master
-Of music to chant the Lay
-Of the Token, the Mighty Wonder,
-That met them on their way,
-These two kings ripe in manhood.
-I am old, but in me bloweth strong
-The wind of God, the rapture
-That girds me with valiance for song.
-Tell then, my tongue, of the omen
-That sped 'gainst the Teucrian land
-The Achaeans' twit-hroned chieftains,
-With spear and vengeful hand.
-Lords of the Youth of Hellas,
-Right well did they agree,
-And the king of the birds these sea-kings
-Bade launch and put to sea.
-Lo, a black eagle sheen; and, lo,
-With him an eagle pied,
-By the King's tents, in royal show
-Lit on the spear-hand side.
-A hare their meat, all quick with young,
-Ta'en, her last doublings o'er.
-Be Sorrow, Sorrow's burden sung.
-But crown Joy conqueror!
-Thereat the wise war-prophet
-Right well applied his art;
-Knowing the sons of Atreus
-Were men of diverse heart,
-In the pair that devoured the trembler
-He read by his deep lore
-A symbol of the royal twain
-That led the host to war.
-And thus he spake: "Long leaguer,
-But Priam's city shall fall
-At last, her cattle and commons
-Butchered without her wall;
-Come there from Heaven no wrath-cloud's lower
-To dull with dark alloy
-The mighty bit that's forged with power,
-The host that bridles Troy.
-For wrung with ruth is Artemis,
-White flower of maidenhood,
-Wroth with her Father's winged hounds,
-That shed the trembler's blood,
-Poor doe, that limped with wombed young:
-That meat she doth abhor.
-Be Sorrow, Sorrow's burden sung,
-But crown Joy conqueror!
-Fair One, as thy love can bless
-Little whelps as weak as dew
-Of the ravening lioness;
-And at breast all beastlings small
-Shield through forests virginal;
-Winged weird that fair doth show,
-And yet darkly worketh woe,
-To some happy end ensue!
-And, O Healer, hear my prayer,
-Lest in wrath the Goddess rouse
-Baffling winds that will not change,
-All the Danaan fleet laid by;
-Speeding that unlawful, strange,
-Unfestal feast, that rite accursed,
-Of a quarrel inly nursed,
-To a true man perilous,
-The abhorred artificer.
-For, behold, within the house
-Coiled and fanged Conspiracy
-Turns to strike with forked tongue,
-Mindful of her murdered young."
-So thundered the voice of Calchas,
-From birds with doom in their wings,
-Encountered by the marching host,
-Telling the Fate of Kings.
-Tuned to the prophet's bodeful tongue,
-Let your song sink and soar.
-Be Sorrow, Sorrow's burden sung,
+5 AESCHYLUS: Agamemnon [104-159] 53a-d\
+Now am I minstrel and master\
+Of music to chant the Lay\
+Of the Token, the Mighty Wonder,\
+That met them on their way,\
+These two kings ripe in manhood.\
+I am old, but in me bloweth strong\
+The wind of God, the rapture\
+That girds me with valiance for song.\
+Tell then, my tongue, of the omen\
+That sped 'gainst the Teucrian land\
+The Achaeans' twit-hroned chieftains,\
+With spear and vengeful hand.\
+Lords of the Youth of Hellas,\
+Right well did they agree,\
+And the king of the birds these sea-kings\
+Bade launch and put to sea.\
+Lo, a black eagle sheen; and, lo,\
+With him an eagle pied,\
+By the King's tents, in royal show\
+Lit on the spear-hand side.\
+A hare their meat, all quick with young,\
+Ta'en, her last doublings o'er.\
+Be Sorrow, Sorrow's burden sung.\
+But crown Joy conqueror!\
+Thereat the wise war-prophet\
+Right well applied his art;\
+Knowing the sons of Atreus\
+Were men of diverse heart,\
+In the pair that devoured the trembler\
+He read by his deep lore\
+A symbol of the royal twain\
+That led the host to war.\
+And thus he spake: "Long leaguer,\
+But Priam's city shall fall\
+At last, her cattle and commons\
+Butchered without her wall;\
+Come there from Heaven no wrath-cloud's lower\
+To dull with dark alloy\
+The mighty bit that's forged with power,\
+The host that bridles Troy.\
+For wrung with ruth is Artemis,\
+White flower of maidenhood,\
+Wroth with her Father's winged hounds,\
+That shed the trembler's blood,\
+Poor doe, that limped with wombed young:\
+That meat she doth abhor.\
+Be Sorrow, Sorrow's burden sung,\
+But crown Joy conqueror!\
+Fair One, as thy love can bless\
+Little whelps as weak as dew\
+Of the ravening lioness;\
+And at breast all beastlings small\
+Shield through forests virginal;\
+Winged weird that fair doth show,\
+And yet darkly worketh woe,\
+To some happy end ensue!\
+And, O Healer, hear my prayer,\
+Lest in wrath the Goddess rouse\
+Baffling winds that will not change,\
+All the Danaan fleet laid by;\
+Speeding that unlawful, strange,\
+Unfestal feast, that rite accursed,\
+Of a quarrel inly nursed,\
+To a true man perilous,\
+The abhorred artificer.\
+For, behold, within the house\
+Coiled and fanged Conspiracy\
+Turns to strike with forked tongue,\
+Mindful of her murdered young."\
+So thundered the voice of Calchas,\
+From birds with doom in their wings,\
+Encountered by the marching host,\
+Telling the Fate of Kings.\
+Tuned to the prophet's bodeful tongue,\
+Let your song sink and soar.\
+Be Sorrow, Sorrow's burden sung,\
 But crown Joy conqueror!
 
-5 AESCHYLUS: Choephoroe [514-552] 75a-c
-Or. So shall it be; 'tis nothing from my course
-To ask the meaning of these cups, and why
-Her after-scruple tends a cureless sorrow.
-Is Death a simpleton that she dares make
-Such poor amends? What shall I think of these
-Sorry bestowals for her huge offence?
-Why, if a man should lavish all he has
-For one least drop of blood, 'twere labour lost.
-I prithee, if thou can'st, enlighten me.
-Ch. Son, I was there; she was so shook with
-dreams
-And terrors of the night, her wicked heart
-So scared, she tremblingly despatched these cups.
-Or. Told she her dream ?
-Ch. Shedid;"Methought"
-she cried
-"I was delivered of a viper!"
-Or. Well,
-Finish thy story.
-Ch. Then, as 'twere a child,
-She hushed and wrapped it up in cradle-clothes.
-Or. And what meat craved the dragon-worm
-new hatched ?
-Ch. She gave it her own breast, ay, in her dream.
-Or. Did she so? Then I warrant her paps are sore.
-Ch. It milked her, and sucked out the curded
-blood.
-Or. There was a meaning in this vision.
-Ch. She cried in her sleep and started broad
-awake.
-And all the palace-lamps, that hung blind-eyed
-In darkness, blazed up for the mistress' sake.
-And, presently, she sends these loving-cups;
-She thinks them surgery for distempered thoughts.
-Or. O parent earth, sepulchre of my father,
-Answer my prayer and make this dream come true!
-In my interpretation all coheres.
-For, look you, if the asp came whence I came,
-If it was wound in swaddling clothes, and gaped
-With mumbling mouth about the breast that
-nursed me,
-And mingled mother-milk with curded blood,
-By this, and by her shriek that saw the dream,
-Then, as she gave suck to a devilish thing,
-She dies in her blood ; and I am dragon-fanged
-To kill her as the dream would have me do.
-Ch. Oh, good ; your reading of it contents me well;
-And Heaven fulfil it; but give us first some clew:
+5 AESCHYLUS: Choephoroe [514-552] 75a-c\
+Or. So shall it be; 'tis nothing from my course\
+To ask the meaning of these cups, and why\
+Her after-scruple tends a cureless sorrow.\
+Is Death a simpleton that she dares make\
+Such poor amends? What shall I think of these\
+Sorry bestowals for her huge offence?\
+Why, if a man should lavish all he has\
+For one least drop of blood, 'twere labour lost.\
+I prithee, if thou can'st, enlighten me.\
+Ch. Son, I was there; she was so shook with\
+dreams\
+And terrors of the night, her wicked heart\
+So scared, she tremblingly despatched these cups.\
+Or. Told she her dream ?\
+Ch. Shedid;"Methought"\
+she cried\
+"I was delivered of a viper!"\
+Or. Well,\
+Finish thy story.\
+Ch. Then, as 'twere a child,\
+She hushed and wrapped it up in cradle-clothes.\
+Or. And what meat craved the dragon-worm\
+new hatched ?\
+Ch. She gave it her own breast, ay, in her dream.\
+Or. Did she so? Then I warrant her paps are sore.\
+Ch. It milked her, and sucked out the curded\
+blood.\
+Or. There was a meaning in this vision.\
+Ch. She cried in her sleep and started broad\
+awake.\
+And all the palace-lamps, that hung blind-eyed\
+In darkness, blazed up for the mistress' sake.\
+And, presently, she sends these loving-cups;\
+She thinks them surgery for distempered thoughts.\
+Or. O parent earth, sepulchre of my father,\
+Answer my prayer and make this dream come true!\
+In my interpretation all coheres.\
+For, look you, if the asp came whence I came,\
+If it was wound in swaddling clothes, and gaped\
+With mumbling mouth about the breast that\
+nursed me,\
+And mingled mother-milk with curded blood,\
+By this, and by her shriek that saw the dream,\
+Then, as she gave suck to a devilish thing,\
+She dies in her blood ; and I am dragon-fanged\
+To kill her as the dream would have me do.\
+Ch. Oh, good ; your reading of it contents me well;\
+And Heaven fulfil it; but give us first some clew:\
 Which shall be actors here and who look on.
 
 ## 5 SOPHOCLES: Oedipus the King [976-986]108b / Oedipus at Colonus [1447-1666] 127b-129b / Antigone [988-1097] 139c-140c / Electra [404-515]159b-160a
 
-5 SOPHOCLES: Oedipus the King [976-986]108b
-Io. Nay, did I not so foretell to thee long since ?
-Oed. Thou didst: but I was misled by my fear.
-Io. Now no more lay aught of those things to
-heart.
-Oed. But surelv I must needs fear mv mother's
-bed?
-Io. Nay, what should mortal fear, for whom the
-decrees of fortune are supreme, and who hath clear
-foresight of nothing? 'Tis best to live at random, as
-one may. But fear not thou touching wedlock with
-thy mother. Many men ere now have so fared in
-dreams also: but he to whom these things are as
-nought bears his life most easily.
-Oed. All these bold words of thine would have been
-well, were not my mother living; but as it is, since
-she lives, I must needs fear— though thou sayest well.
-Io. Howbeit thy father's death is a great sign to
+5 SOPHOCLES: Oedipus the King [976-986]108b\
+Io. Nay, did I not so foretell to thee long since ?\
+Oed. Thou didst: but I was misled by my fear.\
+Io. Now no more lay aught of those things to\
+heart.\
+Oed. But surelv I must needs fear mv mother's\
+bed?\
+Io. Nay, what should mortal fear, for whom the\
+decrees of fortune are supreme, and who hath clear\
+foresight of nothing? 'Tis best to live at random, as\
+one may. But fear not thou touching wedlock with\
+thy mother. Many men ere now have so fared in\
+dreams also: but he to whom these things are as\
+nought bears his life most easily.\
+Oed. All these bold words of thine would have been\
+well, were not my mother living; but as it is, since\
+she lives, I must needs fear— though thou sayest well.\
+Io. Howbeit thy father's death is a great sign to\
 cheer us.
 
-5 SOPHOCLES: Oedipus at Colonus [1447-1666] 127b-129b
-Ch. Behold, new ills have newly come, in our hearing,
-from the sightless stranger—ills fraught with
-a heavy doom; unless, perchance, Fate is finding its
-goal. For 'tis not mine to say that a decree of Heaven
-is ever vain: watchful, aye watchful of those decrees
-is Time, overthrowing some fortunes, and on the
-morrow lifting others, again, to honour. Hark that
-sound in the sky! Zeus defend us!
-(Thunder is heard.)
-Oed. My children, my children! If there be any
-man to send, would that some one would fetch hither
-the peerless Theseus!
-An. And what, father, is the aim of thy summons ?
-Oed. This winged thunder of Zeus will lead me
-anon to Hades: nay, send, and tarry not.
-(A second peal is heard?)
-Ch. Hark! With louder noise it crashes down, unutterable,
-hurled by Zeus! The hair of my head
-stands up for fear, my soul is sore dismayed; for
-again the lightning flashes in the sky. Oh, to what
-event will it give birth? I am afraid, for never in
-vain doth it rush forth, or without grave issue. O
-thou dread sky! O Zeus!
-Oed. Daughters, his destined end hath come upon
-your sire; he can turn his face from it no more.
-An. How knowest thou ? What sign hath told thee
-this?
-Oed. I know it well. But let some one go, I pray
-you, with all speed, and bring hither the lord of this
-realm.
-(Another peal?)
-Ch. Ha! Listen! Once again that piercing thundervoice
-is around us! Be merciful, O thou god, be
-merciful, if thou art bringing aught of gloom for the
-land our mother! Gracious may I find thee, nor, because
-I have looked on a man accurst, have some
-meed, not of blessing for my portion! O Zeus our
-lord, to thee I cry!
-Oed. Is the man near ? Will he find me still alive,
-children, and master of my mind ?
-An. And what is the pledge which thou wouldst
-have fixed in thy mind ?
-Oed. In return for his benefits, I would duly give
-him the requital promised when I received them.
-Ch. What ho, my son, hither, come hither! Or if
-in the glade's inmost recess, for the honour of the
-sea-god Poseidon, thou art hallowing his altar with
-sacrifice—come thence! Worthy art thou in the
-stranger's sight, worthy are thy city and thy folk,
-that he should render a just recompense for benefits.
-Haste, come quickly, O king!
-Enter theseus, on the spectators' right.
-Th. Wherefore once more rings forth a summons
-from you all—from my people as clearly as from
-our guest? Can a thunderbolt from Zeus be the
-cause, or rushing hail in its fierce onset ? All forebodings
-may find place, when the god sends such a
-storm.
-Oed. King, welcome is thy presence; and 'tis some
-god that hath made for thee the good fortune of
-this coming.
-Th. And what new thing hath now befallen, son
-of Laius ?
-Oed. My life hangs in the scale : and I fain would
-die guiltless of bad faith to thee and to this city, in
-respect of my pledges.
-Th. And what sign of thy fate holds thee in suspense?
-Oed. The gods, their own heralds, bring me the
-tidings, with no failure in the signs appointed of old.
-Th. What sayest thou are the signs of these things,
-old man ?
-Oed. The thunder, peal on peal, the lightning,
-flash on flash, hurled from the unconquered hand.
-Th. Thou winnest my belief, for in much I find
-thee a prophet whose voice is not false; then speak
-what must be done.
-Oed. Son of Aegeus, I will unfold that which shall
-be a treasure for this thy city, such as age can never
-mar. Anon, unaided, and with no hand to guide me,
-I will show the way to the place where I must die.
-But that place reveal thou never unto mortal mantell
-not where it is hidden, nor in what region it
-lies; that so it may ever make for thee a defence,
-better than many shields, better than the succouring
-spear of neighbours.
-But, for mysteries which speech may not profane,
-thou shalt mark them for thyself, when thou comest
-to that place alone: since neither to any of this people
-can I utter them, nor to mine own children, dear
-though they are. No, guard them thou alone; and
-when thou art coming to the end of life, disclose
-them to thy heir alone; let him teach his heir; and
-so thenceforth.
-And thus shalt thou hold this city unscathed from
-the side of the Dragon's brood; full many States
-lightly enter on offence, e'en though their neighbour
-lives aright. For the gods are slow, though
-they are sure, in visitation, when men scorn godliness,
-and turn to frenzy. Not such be thy fate, son
-of Aegeus. Nay, thou knowest such things, without
-my precepts.
-But to that place—for the divine summons urges
-me—let us now set forth, and hesitate no more. (As
-if suddenly inspired, he moves with slow butfirm steps
-towards the left of the scene, beckoning the others onward.)
-My children, follow me—thus—for I now
-have in strange wise been made your guide, as ye
-were your sire's. On—touch me not—nay, suffer
-me unaided to find out that sacred tomb where 'tis
-my portion to be buried in this land.
-This way—hither, this way!—for this way doth
-Guiding Hermes lead me, and the goddess of the dead!
-O light—no light to me—mine once thou wast, I
-ween, but now my body feels thee for the last time!
-For now go I to hide the close of my life with Hades.
-Truest of friends! blessed be thou, and this land,
-and thy lieges; and, when your days are blest, think
-on me the dead, for your welfare evermore.
-He passes from the stage on the spectators' left,
-followed by his daughters, theseus, and
-attendants.
-Ch. If with prayer I may adore the Unseen Goddess,
-and thee, lord of the children of night, O hear
-me, Aidoneus, Atdoneus! Not in pain, not by a doom
-that wakes sore lament, may the stranger pass to the
-fields of the dead below, the all-enshrouding, and to
-the Stygian house. Many were the sorrows that came
-to him without cause; but in requital a just god will
-lift him up.
-Goddesses Infernal! And thou, dread form of the
-unconquered hound, thou who hast thy lair in those
-gates of many guests, thou untameable Watcher of
-Hell, gnarling from the cavern's jaws, as rumour
-from the beginning tells of thee!
-Hear me, O Death, son of Earth and Tartarus!
-May that Watcher leave a clear path for the stranger
-on his way to the nether fields of the dead! To thee
-I call, giver of the eternal sleep.
-Enter a messenger, from the left.
-Messenger. Countrymen, my tidings might most
-shortly be summed thus: Oedipus is gone. But the
-story of the hap may not be told in brief words, as
-the deeds yonder were not briefly done.
-Ch. He is gone, hapless one ?
-Me. Be sure that he hath passed from life.
-Ch. Ah, how ? by a god-sent doom, and painless ?
-Me. There thou touchest on what is indeed worthy
-of wonder. How he moved hence, thou thyself must
-know, since thou wast here—with no friend to show
-the way, but guide himself unto us all.
-Now, when he had come to the sheer Threshold,
-bound by brazen steps to earth'sdeep roots, he paused
-in one of many branching paths, near the basin in
-the rock, where the inviolate covenant of Theseus
-and Peirithous hath its memorial. He stood midway
-between that basin and the Thorician stone—the
-hollow pear-tree and the marble tomb; then sate
-him down, and loosed his sordid raiment.
-And then he called his daughters, and bade them
-fetch water from some fount, that he should wash,
-and make a drink-offering. And they went to the hill
-which was in view, Demeter's hill who guards the
-tender plants, and in short space brought that which
-their father had enjoined; then they ministered to
-him with washing, and dressed him, as use ordains.
-But when he had content of doing all, and no
-part of his desire was now unheeded, then was thunder
-from the Zeus of the Shades: and the maidens
-shuddered as they heard; they fell at their father's
-knees, and wept, nor ceased from beating the breast,
-and wailing very sore.
-And when he heard their sudden bitter cry, he put
-his arms around them, and said: "My children, this
-day ends your father's life. For now all hath perished
-that was mine, and no more shall ye bear the
-burden of tending me, no light one, well I know,
-my children; yet one little word makes all those
-toils as nought; love had ye from me, as from none
-beside; and now ye shall have me with you no more,
-through all your days to come."
-On such wise, close-clinging to each other, sire
-and daughters sobbed and wept. But when they had
-made an end of wailing, and the sound went up no
-more, there was a stillness; and suddenly a voice of
-one who cried aloud to him, so that the hair of all
-stood up on their heads for sudden fear, and they
-were afraid. For the god called him with many callings
-and manifold: "Oedipus, Oedipus, why delay we
-to go? Thou tarriest too long."
-But when he perceived that he was called of the
-god, he craved that the king Theseus should draw
-near; and when he came near, said: "O my friend,
-give, I pray thee, the solemn pledge of thy right
-hand to my children, and ye, daughters, to him;
-and promise thou never to forsake them of thy free
-will, but to do all things for their good, as thy friendship
-and the time may prompt." And he, like a man
-of noble spirit, without making lament, sware to
-keep that promise to his friend.
-But when Theseus had so promised, straightway
-Oedipus felt for his children with blind hands, and
-said: "O my children, ye must be nobly brave of
-heart, and depart from this place, nor ask to behold
-unlawful sights, or to hear such speech as may not
-be heard. Nay, go with all haste; only let Theseus
-be present, as is his right, a witness of those things
-which are to be."
-So spake he, and we all heard; and with streaming
-tears and with lamentation we followed the
-maidens away. But when we had gone apart, after
-no long time we looked back, and Oedipus we sawnowhere
-any more, but the king alone, holding his
-hand before his face to screen his eyes, as if some
-dread sight had been seen, and such as none might
-endure to behold. And then, after a short space, we
-saw him salute the earth and the home of the gods
-above, both at once, in one prayer.
-But by what doom Oedipus perished, no man can
-tell, save Theseus alone. No fiery thunderbolt of the
-god removed him in that hour, nor any rising of
-storm from the sea; but either a messenger from the
-gods, or the world of the dead, the nether adamant,
-riven for him in love, without pain; for the passing
-of the man was not with lamentation, or in sickness
-and suffering, but, above mortal's, wonderful. And
-if to any I seem to speak folly, I would not woo their
-belief, who count me foolish.
-Ch. And where are the maidens, and their escort ?
-Me. Not far hence; for the sounds of mourning
+5 SOPHOCLES: Oedipus at Colonus [1447-1666] 127b-129b\
+Ch. Behold, new ills have newly come, in our hearing,\
+from the sightless stranger—ills fraught with\
+a heavy doom; unless, perchance, Fate is finding its\
+goal. For 'tis not mine to say that a decree of Heaven\
+is ever vain: watchful, aye watchful of those decrees\
+is Time, overthrowing some fortunes, and on the\
+morrow lifting others, again, to honour. Hark that\
+sound in the sky! Zeus defend us!\
+(Thunder is heard.)\
+Oed. My children, my children! If there be any\
+man to send, would that some one would fetch hither\
+the peerless Theseus!\
+An. And what, father, is the aim of thy summons ?\
+Oed. This winged thunder of Zeus will lead me\
+anon to Hades: nay, send, and tarry not.\
+(A second peal is heard?)\
+Ch. Hark! With louder noise it crashes down, unutterable,\
+hurled by Zeus! The hair of my head\
+stands up for fear, my soul is sore dismayed; for\
+again the lightning flashes in the sky. Oh, to what\
+event will it give birth? I am afraid, for never in\
+vain doth it rush forth, or without grave issue. O\
+thou dread sky! O Zeus!\
+Oed. Daughters, his destined end hath come upon\
+your sire; he can turn his face from it no more.\
+An. How knowest thou ? What sign hath told thee\
+this?\
+Oed. I know it well. But let some one go, I pray\
+you, with all speed, and bring hither the lord of this\
+realm.\
+(Another peal?)\
+Ch. Ha! Listen! Once again that piercing thundervoice\
+is around us! Be merciful, O thou god, be\
+merciful, if thou art bringing aught of gloom for the\
+land our mother! Gracious may I find thee, nor, because\
+I have looked on a man accurst, have some\
+meed, not of blessing for my portion! O Zeus our\
+lord, to thee I cry!\
+Oed. Is the man near ? Will he find me still alive,\
+children, and master of my mind ?\
+An. And what is the pledge which thou wouldst\
+have fixed in thy mind ?\
+Oed. In return for his benefits, I would duly give\
+him the requital promised when I received them.\
+Ch. What ho, my son, hither, come hither! Or if\
+in the glade's inmost recess, for the honour of the\
+sea-god Poseidon, thou art hallowing his altar with\
+sacrifice—come thence! Worthy art thou in the\
+stranger's sight, worthy are thy city and thy folk,\
+that he should render a just recompense for benefits.\
+Haste, come quickly, O king!\
+Enter theseus, on the spectators' right.\
+Th. Wherefore once more rings forth a summons\
+from you all—from my people as clearly as from\
+our guest? Can a thunderbolt from Zeus be the\
+cause, or rushing hail in its fierce onset ? All forebodings\
+may find place, when the god sends such a\
+storm.\
+Oed. King, welcome is thy presence; and 'tis some\
+god that hath made for thee the good fortune of\
+this coming.\
+Th. And what new thing hath now befallen, son\
+of Laius ?\
+Oed. My life hangs in the scale : and I fain would\
+die guiltless of bad faith to thee and to this city, in\
+respect of my pledges.\
+Th. And what sign of thy fate holds thee in suspense?\
+Oed. The gods, their own heralds, bring me the\
+tidings, with no failure in the signs appointed of old.\
+Th. What sayest thou are the signs of these things,\
+old man ?\
+Oed. The thunder, peal on peal, the lightning,\
+flash on flash, hurled from the unconquered hand.\
+Th. Thou winnest my belief, for in much I find\
+thee a prophet whose voice is not false; then speak\
+what must be done.\
+Oed. Son of Aegeus, I will unfold that which shall\
+be a treasure for this thy city, such as age can never\
+mar. Anon, unaided, and with no hand to guide me,\
+I will show the way to the place where I must die.\
+But that place reveal thou never unto mortal mantell\
+not where it is hidden, nor in what region it\
+lies; that so it may ever make for thee a defence,\
+better than many shields, better than the succouring\
+spear of neighbours.\
+But, for mysteries which speech may not profane,\
+thou shalt mark them for thyself, when thou comest\
+to that place alone: since neither to any of this people\
+can I utter them, nor to mine own children, dear\
+though they are. No, guard them thou alone; and\
+when thou art coming to the end of life, disclose\
+them to thy heir alone; let him teach his heir; and\
+so thenceforth.\
+And thus shalt thou hold this city unscathed from\
+the side of the Dragon's brood; full many States\
+lightly enter on offence, e'en though their neighbour\
+lives aright. For the gods are slow, though\
+they are sure, in visitation, when men scorn godliness,\
+and turn to frenzy. Not such be thy fate, son\
+of Aegeus. Nay, thou knowest such things, without\
+my precepts.\
+But to that place—for the divine summons urges\
+me—let us now set forth, and hesitate no more. (As\
+if suddenly inspired, he moves with slow butfirm steps\
+towards the left of the scene, beckoning the others onward.)\
+My children, follow me—thus—for I now\
+have in strange wise been made your guide, as ye\
+were your sire's. On—touch me not—nay, suffer\
+me unaided to find out that sacred tomb where 'tis\
+my portion to be buried in this land.\
+This way—hither, this way!—for this way doth\
+Guiding Hermes lead me, and the goddess of the dead!\
+O light—no light to me—mine once thou wast, I\
+ween, but now my body feels thee for the last time!\
+For now go I to hide the close of my life with Hades.\
+Truest of friends! blessed be thou, and this land,\
+and thy lieges; and, when your days are blest, think\
+on me the dead, for your welfare evermore.\
+He passes from the stage on the spectators' left,\
+followed by his daughters, theseus, and\
+attendants.\
+Ch. If with prayer I may adore the Unseen Goddess,\
+and thee, lord of the children of night, O hear\
+me, Aidoneus, Atdoneus! Not in pain, not by a doom\
+that wakes sore lament, may the stranger pass to the\
+fields of the dead below, the all-enshrouding, and to\
+the Stygian house. Many were the sorrows that came\
+to him without cause; but in requital a just god will\
+lift him up.\
+Goddesses Infernal! And thou, dread form of the\
+unconquered hound, thou who hast thy lair in those\
+gates of many guests, thou untameable Watcher of\
+Hell, gnarling from the cavern's jaws, as rumour\
+from the beginning tells of thee!\
+Hear me, O Death, son of Earth and Tartarus!\
+May that Watcher leave a clear path for the stranger\
+on his way to the nether fields of the dead! To thee\
+I call, giver of the eternal sleep.\
+Enter a messenger, from the left.\
+Messenger. Countrymen, my tidings might most\
+shortly be summed thus: Oedipus is gone. But the\
+story of the hap may not be told in brief words, as\
+the deeds yonder were not briefly done.\
+Ch. He is gone, hapless one ?\
+Me. Be sure that he hath passed from life.\
+Ch. Ah, how ? by a god-sent doom, and painless ?\
+Me. There thou touchest on what is indeed worthy\
+of wonder. How he moved hence, thou thyself must\
+know, since thou wast here—with no friend to show\
+the way, but guide himself unto us all.\
+Now, when he had come to the sheer Threshold,\
+bound by brazen steps to earth'sdeep roots, he paused\
+in one of many branching paths, near the basin in\
+the rock, where the inviolate covenant of Theseus\
+and Peirithous hath its memorial. He stood midway\
+between that basin and the Thorician stone—the\
+hollow pear-tree and the marble tomb; then sate\
+him down, and loosed his sordid raiment.\
+And then he called his daughters, and bade them\
+fetch water from some fount, that he should wash,\
+and make a drink-offering. And they went to the hill\
+which was in view, Demeter's hill who guards the\
+tender plants, and in short space brought that which\
+their father had enjoined; then they ministered to\
+him with washing, and dressed him, as use ordains.\
+But when he had content of doing all, and no\
+part of his desire was now unheeded, then was thunder\
+from the Zeus of the Shades: and the maidens\
+shuddered as they heard; they fell at their father's\
+knees, and wept, nor ceased from beating the breast,\
+and wailing very sore.\
+And when he heard their sudden bitter cry, he put\
+his arms around them, and said: "My children, this\
+day ends your father's life. For now all hath perished\
+that was mine, and no more shall ye bear the\
+burden of tending me, no light one, well I know,\
+my children; yet one little word makes all those\
+toils as nought; love had ye from me, as from none\
+beside; and now ye shall have me with you no more,\
+through all your days to come."\
+On such wise, close-clinging to each other, sire\
+and daughters sobbed and wept. But when they had\
+made an end of wailing, and the sound went up no\
+more, there was a stillness; and suddenly a voice of\
+one who cried aloud to him, so that the hair of all\
+stood up on their heads for sudden fear, and they\
+were afraid. For the god called him with many callings\
+and manifold: "Oedipus, Oedipus, why delay we\
+to go? Thou tarriest too long."\
+But when he perceived that he was called of the\
+god, he craved that the king Theseus should draw\
+near; and when he came near, said: "O my friend,\
+give, I pray thee, the solemn pledge of thy right\
+hand to my children, and ye, daughters, to him;\
+and promise thou never to forsake them of thy free\
+will, but to do all things for their good, as thy friendship\
+and the time may prompt." And he, like a man\
+of noble spirit, without making lament, sware to\
+keep that promise to his friend.\
+But when Theseus had so promised, straightway\
+Oedipus felt for his children with blind hands, and\
+said: "O my children, ye must be nobly brave of\
+heart, and depart from this place, nor ask to behold\
+unlawful sights, or to hear such speech as may not\
+be heard. Nay, go with all haste; only let Theseus\
+be present, as is his right, a witness of those things\
+which are to be."\
+So spake he, and we all heard; and with streaming\
+tears and with lamentation we followed the\
+maidens away. But when we had gone apart, after\
+no long time we looked back, and Oedipus we sawnowhere\
+any more, but the king alone, holding his\
+hand before his face to screen his eyes, as if some\
+dread sight had been seen, and such as none might\
+endure to behold. And then, after a short space, we\
+saw him salute the earth and the home of the gods\
+above, both at once, in one prayer.\
+But by what doom Oedipus perished, no man can\
+tell, save Theseus alone. No fiery thunderbolt of the\
+god removed him in that hour, nor any rising of\
+storm from the sea; but either a messenger from the\
+gods, or the world of the dead, the nether adamant,\
+riven for him in love, without pain; for the passing\
+of the man was not with lamentation, or in sickness\
+and suffering, but, above mortal's, wonderful. And\
+if to any I seem to speak folly, I would not woo their\
+belief, who count me foolish.\
+Ch. And where are the maidens, and their escort ?\
+Me. Not far hence; for the sounds of mourning\
 tell plainly that they approach.
 
-5 SOPHOCLES: Antigone [988-1097] 139c-140c
-Enter teiresias, led by a Boy, on the spectators' right.
-Teiresias. Princes of Thebes, we have come with
-linked steps, both served by the eyes of one; for
-thus, by a guide's help, the blind must walk.
-Cr. And what, aged Teiresias, are thy tidings ?
-Te. I will tell thee; and do thou hearken to the
-seer.
-Cr. Indeed, it has not been my wont to slight thy
-counsel.
-Te. Therefore didst thou steer our city's course
-aright.
-Cr. I have felt, and can attest, thy benefits.
-Te. Mark that now, once more, thou standest on
-fate's fine edge.
-Cr. What means this? How I shudder at thy message!
-Te. Thou wilt learn, when thou hearest the warnings
-of mine art. As I took my place on mine old seat
-of augury, where all birds have been wont to gather
-within my ken, I heard a strange voice among them;
-they were screaming with dire, feverish rage, that
-drowned their language in a jargon; and I knew that
-they were rending each other with their talons, murderously;
-the whirr of wings told no doubtful tale.
-Forthwith, in fear, I essayed burnt-sacrifice on a
-duly kindled altar: but from my offerings the Firegod
-showed no flame; a dank moisture, oozing from
-the thigh-flesh, trickled forth upon the embers, and
-smoked, and sputtered; the gall was scattered to the
-air; and the streaming thighs lay bared of the fat
-that had been wrapped round them.
-Such was the failure of the rites by which I vainly
-asked a sign, as from this boy I learned; for he is my
-guide, as I am guide to others. And 'tis thy counsel
-that hath brought this sickness on our State. For
-the altars of our city and of our hearths have been
-tainted, one and all, by birds and dogs, with carrion
-from the hapless corpse, the son of Oedipus: and
-therefore the gods no more accept prayer and sacrifice
-at our hands, or the flame of meat-offering; nor
-doth any bird give a clear sign by its shrill cry, for
-they have tasted the fatness of a slain man's blood.
-Think, then, on these things, my son. All men are
-liable to err; but when an error hath been made,
-that man is no longer witless or unblest who heals
-the ill into which he hath fallen, and remains not
-stubborn.
-Self-will, we know, incurs the charge of folly. Nay,
-allow the claim of the dead ; stab not the fallen ; what
-prowess is it to slay the slain anew ? I have sought
-thy good, and for thy good I speak: and never is it
-sweeter to learn from a good counsellor than when
-he counsels for thine own gain.
-Cr. Old man, ye all shoot your shafts at me, as
-archers at the butts; ye must needs practise on me
-with seer-craft also; aye, the seer-tribe hath long
-trafficked in me, and made me their merchandise.
-Gain your gains, drive your trade, if ye list, in the
-silver-gold of Sardis and the gold of India; but ye
-shall not hide that man in the grave— no, though
-the eagles of Zeus should bear the carrion morsels to
-their Master's throne— no, not for dread of that defilement
-will I suffer his burial: for well I know that
-no mortal can defile the gods. But, aged Teiresias,
-the wisest fall with a shameful fall, when they clothe
-shameful thoughts in fair words, for lucre's sake.
-Te. Alas! Doth any man know, doth any consider…
-Cr. Whereof? What general truth dost thou announce?
-Te. How precious, above all wealth, is good counsel.
-Cr. As folly, I think, is the worst mischief.
-Te. Yet thou art tainted with that distemper.
-Cr. I would not answer the seer with a taunt.
-Te. But thou dost, in saying that I prophesy falsely.
-Cr. Well, the prophet- tribe was ever fond ofmoney.
-Te. And the race bred of tyrants loves base gain.
-Cr. Knowest thou that thy speech is spoken of
-thy king?
-Te. I know it; for through me thou hast saved
-Thebes.
-Cr. Thou art a wise seer; but thou lovest evil deeds.
-Te. Thou wilt rouse me to utter the dread secret
-in my soul.
-Cr. Out with it! Only speak it not for gain.
-Te. Indeed, methinks, I shall not—as touching
-thee.
-Cr. Know that thou shalt not trade on my resolve.
-Te. Then know thou—aye, know it well—that
-thou shalt not live through many more courses of
-the sun's swift chariot, ere one begotten of thine
-own loins shall have been given by thee, a corpse for
-corpses; because thou hast thrust children of the
-sunlight to the shades, and ruthlessly lodged a living
-soul in the grave; but keepest in this world one who
-belongs to the gods infernal, a corpse unburied, unhonoured,
-all unhallowed. In such thou hast no part,
-nor have the gods above, but this is a violence done
-to them by thee. Therefore the avenging destroyers
-lie in wait for thee, the Furies of Hades and of the
-gods, that thou mayest be taken in these same ills.
-And mark well if I speak these things as a hireling.
-A time not long to be delayed shall awaken the wailing
-of men and of women in thy house. And a tumult
-of hatred against thee stirs all the cities whose
-mangled sons had the burial-rite from dogs, or from
-wild beasts, or from some winged bird that bore a
-polluting breath to each city that contains the hearths
-of the dead.
-Such arrows for thy heart—since thou provokest
-me—have I launched at thee, archer-like, in my
-anger, sure arrows, of which thou shalt not escape
-the smart. Boy, lead me home, that he may spend
-his rage on younger men, and learn to keep a tongue
-more temperate, and to bear within his breast a better
-mind than now he bears. Exit teiresias.
-Ch. The man hath gone, O king, with dread prophecies.
-And, since the hair on this head, once dark,
-hath been white, I know that he hath never been a
-false prophet to our city.
-Cr. I, too, know it well, and am troubled in soul.
-'Tis dire to yield; but, by resistance, to smite my
-pride with ruin— this, too, is a dire choice.
-Ch. Son of Menoeceus, it behoves thee to take
-wise counsel.
-Cr. What should I do, then? Speak, and I will
+5 SOPHOCLES: Antigone [988-1097] 139c-140c\
+Enter teiresias, led by a Boy, on the spectators' right.\
+Teiresias. Princes of Thebes, we have come with\
+linked steps, both served by the eyes of one; for\
+thus, by a guide's help, the blind must walk.\
+Cr. And what, aged Teiresias, are thy tidings ?\
+Te. I will tell thee; and do thou hearken to the\
+seer.\
+Cr. Indeed, it has not been my wont to slight thy\
+counsel.\
+Te. Therefore didst thou steer our city's course\
+aright.\
+Cr. I have felt, and can attest, thy benefits.\
+Te. Mark that now, once more, thou standest on\
+fate's fine edge.\
+Cr. What means this? How I shudder at thy message!\
+Te. Thou wilt learn, when thou hearest the warnings\
+of mine art. As I took my place on mine old seat\
+of augury, where all birds have been wont to gather\
+within my ken, I heard a strange voice among them;\
+they were screaming with dire, feverish rage, that\
+drowned their language in a jargon; and I knew that\
+they were rending each other with their talons, murderously;\
+the whirr of wings told no doubtful tale.\
+Forthwith, in fear, I essayed burnt-sacrifice on a\
+duly kindled altar: but from my offerings the Firegod\
+showed no flame; a dank moisture, oozing from\
+the thigh-flesh, trickled forth upon the embers, and\
+smoked, and sputtered; the gall was scattered to the\
+air; and the streaming thighs lay bared of the fat\
+that had been wrapped round them.\
+Such was the failure of the rites by which I vainly\
+asked a sign, as from this boy I learned; for he is my\
+guide, as I am guide to others. And 'tis thy counsel\
+that hath brought this sickness on our State. For\
+the altars of our city and of our hearths have been\
+tainted, one and all, by birds and dogs, with carrion\
+from the hapless corpse, the son of Oedipus: and\
+therefore the gods no more accept prayer and sacrifice\
+at our hands, or the flame of meat-offering; nor\
+doth any bird give a clear sign by its shrill cry, for\
+they have tasted the fatness of a slain man's blood.\
+Think, then, on these things, my son. All men are\
+liable to err; but when an error hath been made,\
+that man is no longer witless or unblest who heals\
+the ill into which he hath fallen, and remains not\
+stubborn.\
+Self-will, we know, incurs the charge of folly. Nay,\
+allow the claim of the dead ; stab not the fallen ; what\
+prowess is it to slay the slain anew ? I have sought\
+thy good, and for thy good I speak: and never is it\
+sweeter to learn from a good counsellor than when\
+he counsels for thine own gain.\
+Cr. Old man, ye all shoot your shafts at me, as\
+archers at the butts; ye must needs practise on me\
+with seer-craft also; aye, the seer-tribe hath long\
+trafficked in me, and made me their merchandise.\
+Gain your gains, drive your trade, if ye list, in the\
+silver-gold of Sardis and the gold of India; but ye\
+shall not hide that man in the grave— no, though\
+the eagles of Zeus should bear the carrion morsels to\
+their Master's throne— no, not for dread of that defilement\
+will I suffer his burial: for well I know that\
+no mortal can defile the gods. But, aged Teiresias,\
+the wisest fall with a shameful fall, when they clothe\
+shameful thoughts in fair words, for lucre's sake.\
+Te. Alas! Doth any man know, doth any consider…\
+Cr. Whereof? What general truth dost thou announce?\
+Te. How precious, above all wealth, is good counsel.\
+Cr. As folly, I think, is the worst mischief.\
+Te. Yet thou art tainted with that distemper.\
+Cr. I would not answer the seer with a taunt.\
+Te. But thou dost, in saying that I prophesy falsely.\
+Cr. Well, the prophet- tribe was ever fond ofmoney.\
+Te. And the race bred of tyrants loves base gain.\
+Cr. Knowest thou that thy speech is spoken of\
+thy king?\
+Te. I know it; for through me thou hast saved\
+Thebes.\
+Cr. Thou art a wise seer; but thou lovest evil deeds.\
+Te. Thou wilt rouse me to utter the dread secret\
+in my soul.\
+Cr. Out with it! Only speak it not for gain.\
+Te. Indeed, methinks, I shall not—as touching\
+thee.\
+Cr. Know that thou shalt not trade on my resolve.\
+Te. Then know thou—aye, know it well—that\
+thou shalt not live through many more courses of\
+the sun's swift chariot, ere one begotten of thine\
+own loins shall have been given by thee, a corpse for\
+corpses; because thou hast thrust children of the\
+sunlight to the shades, and ruthlessly lodged a living\
+soul in the grave; but keepest in this world one who\
+belongs to the gods infernal, a corpse unburied, unhonoured,\
+all unhallowed. In such thou hast no part,\
+nor have the gods above, but this is a violence done\
+to them by thee. Therefore the avenging destroyers\
+lie in wait for thee, the Furies of Hades and of the\
+gods, that thou mayest be taken in these same ills.\
+And mark well if I speak these things as a hireling.\
+A time not long to be delayed shall awaken the wailing\
+of men and of women in thy house. And a tumult\
+of hatred against thee stirs all the cities whose\
+mangled sons had the burial-rite from dogs, or from\
+wild beasts, or from some winged bird that bore a\
+polluting breath to each city that contains the hearths\
+of the dead.\
+Such arrows for thy heart—since thou provokest\
+me—have I launched at thee, archer-like, in my\
+anger, sure arrows, of which thou shalt not escape\
+the smart. Boy, lead me home, that he may spend\
+his rage on younger men, and learn to keep a tongue\
+more temperate, and to bear within his breast a better\
+mind than now he bears. Exit teiresias.\
+Ch. The man hath gone, O king, with dread prophecies.\
+And, since the hair on this head, once dark,\
+hath been white, I know that he hath never been a\
+false prophet to our city.\
+Cr. I, too, know it well, and am troubled in soul.\
+'Tis dire to yield; but, by resistance, to smite my\
+pride with ruin— this, too, is a dire choice.\
+Ch. Son of Menoeceus, it behoves thee to take\
+wise counsel.\
+Cr. What should I do, then? Speak, and I will\
 obey.
 
-5 SOPHOCLES: Electra [404-515]159b-160a
-Chr. Then I will go forth upon mine errand.
-El. And whither goest thou? To whom bearest
-thou these offerings ?
-Chr. Our mother sends me with funeral libations
-for our sire.
-El. How sayest thou ? For her deadliest foe ?
-Chr. Slain by her own hand—so thou wouldest say.
-El. What friend hath persuaded her? Whose wish
-was this ?
-Chr. The cause, I think, was some dread vision of
-the night.
-El. Gods of our house! be ye with me—now at
-bst!
-Chr. Dost thou find any encouragement in this
-terror ?
-El. If thou wouldst tell me the vision, then I could
-answer.
-Chr. Nay, I can tell but little of the story.
-El. Tell what thou canst; a little word hath often
-marred, or made, men's fortunes.
-Chr. 'Tis said that she beheld our sire, restored to
-the sunlight, at her side once more; then he took the
-sceptre—once his own, but now borne by Aegisthus
-—and planted it at the hearth; and thence a fruitful
-bough sprang upward, wherewith the whole land of
-Mycenae was overshadowed. Such was the tale that
-I heard told by one who was present when she declared
-her dream to the Sun-god. More than this I
-know not, save that she sent me by reason of that
-fear. So by the gods of our house I beseech thee,
-hearken to me, and be not ruined by folly! For if
-thou repel me now, thou wilt come back to seek me
-in thy trouble.
-El. Nay, dear sister, let none of these things in
-thy hands touch the tomb; for neither custom nor
-piety allows thee to dedicate gifts or bring libations
-to our sire from a hateful wife. No—to the winds
-with them! or bury them deep in the earth, where
-none of them shall ever come near his place of rest;
-but, when she dies, let her find these treasures laid
-up for her below.
-And were she not the most hardened of all women,
-she would never have sought to pour these offerings
-of enmity on the grave of him whom she slew. Think
-now if it is likely that the dead in the tomb should
-take these honours kindly at her hand, who ruthlessly
-slew him, like a foeman, and mangled him,
-and, for ablution, wiped off the blood-stains on his
-head? Canst thou believe that these things which
-thou bringest will absolve her of the murder?
-It is not possible. No, cast these things aside; give
-him rather a lock cut from thine own tresses, and on
-my part, hapless that I am—scant gifts these, but my
-best—this hair, not glossy with unguents, and this
-girdle, decked with no rich ornament. Then fall
-down and pray that he himself may come in kindness
-from the world below, to aid us against our foes;
-and that the young Orestes may live to set his foot
-upon his foes in victorious might, that henceforth
-we may crown our father's tomb with wealthier
-hands than those which grace it now.
-I think, indeed, I think that he also had some
-part in sending her these appalling dreams; still,
-sister, do this service, to help thyself, and me, and
-him, that most beloved of all men, who rests in the
-realm of Hades, thy sire and mine.
-Ch. The maiden counsels piously ; and thou, friend,
-wilt do her bidding, if thou art wise.
-Chr. I will. When a duty is clear, reason forbids
-that two voices should contend, and claims the hastening
-of the deed. Only, when I attempt this task,
-aid me with your silence, I entreat you, my friends;
-for, should my mother hear of it, methinks I shall
-yet have cause to rue my venture. Exit.
-Ch. If I am not an erring seer and one who fails in
-wisdom, Justice, that hath sent the presage, will
-come, triumphant in her righteous strength, will
-come ere long, my child, to avenge. There is cour-
-age in my heart, through those new tidings of the
-dream that breathes comfort. Not forgetful is thy
-sire, the lord of Hellas; not forgetful is the two-
-edged axe of bronze that struck the blow of old,
-and slew him with foul cruelty.
-The Erinys of untiring feet, who is lurking in her
-dread ambush, will come, as with the march and
-with the might of a great host. For wicked ones
-have been fired with passion that hurried them to a
-forbidden bed, to accursed bridals, to a marriage
-stained with guilt of blood. Therefore am I sure
-that the portent will not fail to bring woe upon the
-partners in crime. Verily mortals cannot read the
-future in fearful dreams or oracles, if this vision of
-the night find not due fulfilment.
-O chariot-race of Pelops long ago, source of many
-a sorrow, what weary troubles hast thou brought
-upon this land! For since Myrtilus sank to rest beneath
-the waves, when a fatal and cruel hand hurled
-him to destruction out of the golden car, this house
+5 SOPHOCLES: Electra [404-515]159b-160a\
+Chr. Then I will go forth upon mine errand.\
+El. And whither goest thou? To whom bearest\
+thou these offerings ?\
+Chr. Our mother sends me with funeral libations\
+for our sire.\
+El. How sayest thou ? For her deadliest foe ?\
+Chr. Slain by her own hand—so thou wouldest say.\
+El. What friend hath persuaded her? Whose wish\
+was this ?\
+Chr. The cause, I think, was some dread vision of\
+the night.\
+El. Gods of our house! be ye with me—now at\
+bst!\
+Chr. Dost thou find any encouragement in this\
+terror ?\
+El. If thou wouldst tell me the vision, then I could\
+answer.\
+Chr. Nay, I can tell but little of the story.\
+El. Tell what thou canst; a little word hath often\
+marred, or made, men's fortunes.\
+Chr. 'Tis said that she beheld our sire, restored to\
+the sunlight, at her side once more; then he took the\
+sceptre—once his own, but now borne by Aegisthus\
+—and planted it at the hearth; and thence a fruitful\
+bough sprang upward, wherewith the whole land of\
+Mycenae was overshadowed. Such was the tale that\
+I heard told by one who was present when she declared\
+her dream to the Sun-god. More than this I\
+know not, save that she sent me by reason of that\
+fear. So by the gods of our house I beseech thee,\
+hearken to me, and be not ruined by folly! For if\
+thou repel me now, thou wilt come back to seek me\
+in thy trouble.\
+El. Nay, dear sister, let none of these things in\
+thy hands touch the tomb; for neither custom nor\
+piety allows thee to dedicate gifts or bring libations\
+to our sire from a hateful wife. No—to the winds\
+with them! or bury them deep in the earth, where\
+none of them shall ever come near his place of rest;\
+but, when she dies, let her find these treasures laid\
+up for her below.\
+And were she not the most hardened of all women,\
+she would never have sought to pour these offerings\
+of enmity on the grave of him whom she slew. Think\
+now if it is likely that the dead in the tomb should\
+take these honours kindly at her hand, who ruthlessly\
+slew him, like a foeman, and mangled him,\
+and, for ablution, wiped off the blood-stains on his\
+head? Canst thou believe that these things which\
+thou bringest will absolve her of the murder?\
+It is not possible. No, cast these things aside; give\
+him rather a lock cut from thine own tresses, and on\
+my part, hapless that I am—scant gifts these, but my\
+best—this hair, not glossy with unguents, and this\
+girdle, decked with no rich ornament. Then fall\
+down and pray that he himself may come in kindness\
+from the world below, to aid us against our foes;\
+and that the young Orestes may live to set his foot\
+upon his foes in victorious might, that henceforth\
+we may crown our father's tomb with wealthier\
+hands than those which grace it now.\
+I think, indeed, I think that he also had some\
+part in sending her these appalling dreams; still,\
+sister, do this service, to help thyself, and me, and\
+him, that most beloved of all men, who rests in the\
+realm of Hades, thy sire and mine.\
+Ch. The maiden counsels piously ; and thou, friend,\
+wilt do her bidding, if thou art wise.\
+Chr. I will. When a duty is clear, reason forbids\
+that two voices should contend, and claims the hastening\
+of the deed. Only, when I attempt this task,\
+aid me with your silence, I entreat you, my friends;\
+for, should my mother hear of it, methinks I shall\
+yet have cause to rue my venture. Exit.\
+Ch. If I am not an erring seer and one who fails in\
+wisdom, Justice, that hath sent the presage, will\
+come, triumphant in her righteous strength, will\
+come ere long, my child, to avenge. There is cour-\
+age in my heart, through those new tidings of the\
+dream that breathes comfort. Not forgetful is thy\
+sire, the lord of Hellas; not forgetful is the two-\
+edged axe of bronze that struck the blow of old,\
+and slew him with foul cruelty.\
+The Erinys of untiring feet, who is lurking in her\
+dread ambush, will come, as with the march and\
+with the might of a great host. For wicked ones\
+have been fired with passion that hurried them to a\
+forbidden bed, to accursed bridals, to a marriage\
+stained with guilt of blood. Therefore am I sure\
+that the portent will not fail to bring woe upon the\
+partners in crime. Verily mortals cannot read the\
+future in fearful dreams or oracles, if this vision of\
+the night find not due fulfilment.\
+O chariot-race of Pelops long ago, source of many\
+a sorrow, what weary troubles hast thou brought\
+upon this land! For since Myrtilus sank to rest beneath\
+the waves, when a fatal and cruel hand hurled\
+him to destruction out of the golden car, this house\
 was never yet free from misery and violence.
 
 ## 5 EURIPIDES: Iphigenia Among the Tauri [42-60] 411c-d; [1234-1283] 422b-c
@@ -19448,12 +19448,12 @@ Enter ORESTES and PYLADES.
 Orestes. (Entering cautiously) Take care and see whether there is any one in the road.
 Pylades. I am doing so, keeping a careful look-out in every direction.
 Or. Thinkest thou, Pylades, this is the abode of the goddess towards which we steered our sea-borne barque from Argos?
-Py. I think it is, Orestes; and thou must share my opinion.
-Or. And is that the altar, o'er which the blood of Hellenes trickles?
-Py. Its edges at any rate are discoloured with blood-stains.
-Or. Dost see a string of spoils just beneath the coping ?
-Py. Aye, trophies of strangers who have been murdered.
-Or. Well, we must cast our eyes all round and keep a good look-out.
+Py. I think it is, Orestes; and thou must share my opinion.\
+Or. And is that the altar, o'er which the blood of Hellenes trickles?\
+Py. Its edges at any rate are discoloured with blood-stains.\
+Or. Dost see a string of spoils just beneath the coping ?\
+Py. Aye, trophies of strangers who have been murdered.\
+Or. Well, we must cast our eyes all round and keep a good look-out.\
 Ah, Phoebus! why have thy oracles brought me
 
 5 EURIPIDES: Iphigenia Among the Tauri [1234-1283] 422b-c
@@ -19462,35 +19462,35 @@ But when Apollo's coming had dispossessed Earth's daughter, Themis, of the holy 
 
 ## 5 ARISTOPHANES: Birds [708-722] 551d-552a
 
-And the chiefest of blessings ye mortals enjoy,
-by the help of the Birds ye obtain them.
-'Tis from us that the signs of the Seasons in turn,
-Spring, Winter, and Autumn are known.
-When to Libya the crane flies clanging again,
-it is time for the seed to be sown,
-And the skipper may hang up his rudder awhile,
-and sleep after all his exertions,
-And Orestes may weave him a wrap to be warm
-when he's out on his thievish excursions.
-Then cometh the kite, with its hovering flight,
-of the advent of Spring to tell,
-And the Spring sheep-shearing begins; and next,
-your woollen attire you sell,
-And buy you a lighter and daintier garb,
-when you note the return of the swallow.
-Thus your Ammon, Dodona, and Delphi are we;
-we are also your Phoebus Apollo.
-For whatever you do, if a trade you pursue,
-or goods in the market are buying,
-Or the wedding attend of a neighbour and friend,
-first you look to the Birds and their flying.
-And whene'er you of omen or augury speak,
-'tis a bird you are always repeating;
-A Rumour's a bird, and a sneeze is a bird,
-and so is a word or a meeting,
-A servant's a bird, and an ass is a bird.
-It must therefore assuredly follow
-That the Birds are to you (I protest it is true)
+And the chiefest of blessings ye mortals enjoy,\
+by the help of the Birds ye obtain them.\
+'Tis from us that the signs of the Seasons in turn,\
+Spring, Winter, and Autumn are known.\
+When to Libya the crane flies clanging again,\
+it is time for the seed to be sown,\
+And the skipper may hang up his rudder awhile,\
+and sleep after all his exertions,\
+And Orestes may weave him a wrap to be warm\
+when he's out on his thievish excursions.\
+Then cometh the kite, with its hovering flight,\
+of the advent of Spring to tell,\
+And the Spring sheep-shearing begins; and next,\
+your woollen attire you sell,\
+And buy you a lighter and daintier garb,\
+when you note the return of the swallow.\
+Thus your Ammon, Dodona, and Delphi are we;\
+we are also your Phoebus Apollo.\
+For whatever you do, if a trade you pursue,\
+or goods in the market are buying,\
+Or the wedding attend of a neighbour and friend,\
+first you look to the Birds and their flying.\
+And whene'er you of omen or augury speak,\
+'tis a bird you are always repeating;\
+A Rumour's a bird, and a sneeze is a bird,\
+and so is a word or a meeting,\
+A servant's a bird, and an ass is a bird.\
+It must therefore assuredly follow\
+That the Birds are to you (I protest it is true)\
 your prophetic divining Apollo.
 (5. Symbolism in theology and religion. 5b. Supernatural signs: omens, portents, visitations, dreams, miracles.)
 
@@ -19838,498 +19838,498 @@ For the sake of this divination I go to this diviner and to the philosopher, not
 
 12 EPICTETUS: Discourses, BK III, CH I, 177a-b
 Do not so, I entreat you by the Gods, young man: but when you have once heard these words, go away and say to yourself, "Epictetus has not said this to me; for how could he? But some propitious God through him: for it would never have come into his thoughts to say this, since he is not accustomed to talk thus with any person. Come then let us obey God, that we may not be subject to his anger." You say, "No." But, if a crow by his croaking signifies anything to you, it is not the crow which signifies, but God through the crow; and if he signifies anything through a human voice, will he not cause the man to say this to you, that you may know the power of the divinity, that he signifies to some in this way, and to others in that way, and concerning the greatest things and the chief he signifies through the noblest messenger? What else is it which the poet says:
-For we ourselves have warned him, and have sent
-Hermes the careful watcher, Argus' slayer,
+For we ourselves have warned him, and have sent\
+Hermes the careful watcher, Argus' slayer,\
 The husband not to \ill nor wed the wife.¹
 Was Hermes going to descend from heaven to say this to him? And now the Gods say this to you and send the messenger, the slayer of Argus, to warn you not to pervert that which is well arranged, nor to busy yourself about it, but to allow a man to be a man, and a woman to be a woman, a beautiful man to be as a beautiful man, and an ugly man as an ugly man, for you are not flesh and hair, but you are will; and if your will is beautiful, then you will be beautiful. But up to the present time I dare not tell you that you are ugly, for I think that you are readier to hear anything than this. But see what Socrates says to the most beautiful and blooming of men Alcibiades:"Try, then, to be beautiful." What does he say to him? "Dress your hair and pluck the hairs from your legs." Nothing of that kind. But "Adorn your will, take away bad opinions." "How with the body?" Leave it as it is by nature. Another has looked after these things: intrust them to him. "What then, must a man be uncleaned?" Certainly not; but what you are and are made by nature, cleanse this. A man should be cleanly as a man, a woman as a woman, a child as a child. You say no: but let us also pluck out the lion's mane, that he may not be uncleaned, and the cock's comb for he also ought to be cleaned. Granted, but as a cock, and the lion as a lion, and the hunting dog as a hunting dog.
 ¹Homer, Odyssey, i. 37.
 
 ## 13 VIRGIL: Aeneid, BK I [387-401] 113b-114a; BK II [162-233] 128b-130b; [679-704] 143b- 144a; BK III [90-101] 149b-150a; [135-191] 150b-152b; [388-393] 157b-158a; [523-547] 161b-162a; BK VI [190-211] 216a-b; BK VII [59-80] 237b-238a; BK VIII [26-89] 259b- 261b; [520-540] 273a-b;BK XII [244-265] 360b-361a
 
-13 VIRGIL: Aeneid, BK I [387-401] 113b-114a
-Thou art, not all unloved, methinks, of heaven
-Draw'st thou the breath of life, who thus hast reached
-Our Tyrian city: but go forward still,
-And hence to the queen's palace win thy way;
-For news I bring thee of thy friends' return,
-Thy fleet in harbour, by the shifting gales
-To shelter driven; or idly and for naught
-My parents schooled me in prophetic lore.
-See yonder swans twice six in jubilant line.
-Which from the skiey region with his swoop
-Jove's bird was routing o'er the plains of heaven:
-Now in long train they seem some lighting-ground
-To choose, or, chosen. scan it from above:
-As these, returned, with hurtling pinions play,
-Wheel in one flock through heaven, and utter songs,
-So, of thy ships and friends aboard them, some
-Are safe in port, and some with swelling sails
-Now make the harbour: only do thou still
+13 VIRGIL: Aeneid, BK I [387-401] 113b-114a\
+Thou art, not all unloved, methinks, of heaven\
+Draw'st thou the breath of life, who thus hast reached\
+Our Tyrian city: but go forward still,\
+And hence to the queen's palace win thy way;\
+For news I bring thee of thy friends' return,\
+Thy fleet in harbour, by the shifting gales\
+To shelter driven; or idly and for naught\
+My parents schooled me in prophetic lore.\
+See yonder swans twice six in jubilant line.\
+Which from the skiey region with his swoop\
+Jove's bird was routing o'er the plains of heaven:\
+Now in long train they seem some lighting-ground\
+To choose, or, chosen. scan it from above:\
+As these, returned, with hurtling pinions play,\
+Wheel in one flock through heaven, and utter songs,\
+So, of thy ships and friends aboard them, some\
+Are safe in port, and some with swelling sails\
+Now make the harbour: only do thou still\
 Go forward, follow where the pathway leads." 401
 
-13 VIRGIL: Aeneid, BK II [162-233] 128b-130b
-" 'All hope and courage for the war's emprise
-On Pallas' help the Danaans ever stayed:
-But from what time, with Tydeus' impious son,
-Ulysses, crime-contriver, dared to rend
-Doom-fraught Palladium from its hallowed shrine.
-And slew the watchmen of her castled height.
-And snatched the sacred image, and feared not
-With hands blood-reeking to contaminate
-Her godhead's maiden fillets, from henceforth
-The Danaans' hope in ebb slid ever back.
-Crushed was their strength, the goddess' heart
-estranged. 170
-Nor doubtful the dread signs Tritonia gave;
-Scarce was her semblance lodged within the camp,
-When from the upturned eyes shot quivering flames,
-A salt sweat coursed along the limbs, and thrice—
-Wondrous to tell—of her own self she sprang
-From earth shield-laden, and with spear that shook.
-Calchas at once with prophet-voice bids brave
-Ocean in flight, for that no Argive arms
-Could uptear Pergamus, except they seek
-At Argos for new omens, and bring back
-That will of heaven, which erst they bare away
-O'er ocean with them in their curved keels. 179
-And now that homeward-wafted they have sought
-Mycenae, 'tis to get them arms, and gods
-For their way-fellows, and, the sea recrossed,
-They will be here unlocked for. In such wise
-Doth Calchas sort the omens. Warned by him
-They reared this image in Palladium's place.
-For outraged godhead, their dark crime to quit.
-But to this monstrous height of woven planks
-Calchas bade lift it and upbuild to heaven,
-Lest through your gates it be received, or drawn
-Within the ramparts, and so shield your folk
-Beneath their ancient worship. For if hand
-Of yours had wronged Minerva's offering,
-Mighty destruction then—which augury
-May heaven first turn upon himself !—would fall
-On Priam's empire and the Phrygians; but
-If by your hands your city it should scale,
-Asia herself should in a mighty war
-Assail the walls of Pelops.and such doom
-Remain in store for our posterity.' 194
-"By such decoys of Sinon's art forsworn
-The tale gat credence, and by craft were caught
-And forced tears, whom neither Tydeus'son,
-No, nor Achilles of Larissa, nor
-Ten years had conquered, nor a thousand keels.
-"A mightier portent and more fearful far,
-Poor souls! here bursts upon them, and confounds
-Their blinded senses. For Laocoon,
-The priest of Neptune, as by lot assigned,
-Was sacrificing at the wonted shrine
-A mighty bull, when, lo! from Tenedos,
-Over the tranquil ocean serpents twain—
-I shudder to recount it—with huge coils
-Cumbering the deep, ply shoreward side by side; 203
-Reared on the surge their breasts and blood-red
-manes
-O'ertop the billows; the remaining bulk
-Skims ocean aft in labyrinthine folds:
-Hark! how the brine seethes audibly! and now,
-Their glowing eyes with blood suffused and fire,
-The shore-fields they were gaining, and their chaps
-Hissed, as with flickering tongues they licked them; we
-Pale at the sight fly scattered; they with line
-Unwavering at Laocoon aim, and first
-His two sons' slender bodies either snake
-Embraces and enfolds, and gnawing feeds
-Upon the hapless limbs; then him they seize
-Up-hurrying armed to aid them, and bind fast
-With mighty spires, and now—their scaly length
-Twice wreathed about his waist, twice round his
-neck—
-With heads o'ertop him and high-towering throats. 219
-He, while to rend their knots he strives amain.
-His fillets with black venom drenched and gore.
-Uplifts to heaven heart-piercing shrieks; as when,
-'Scaped from the altar, bellows a maimed bull,
-That from his neck shakes off the erring axe.
-But to the temple's height that dragon pair
-Gliding escape, and seek the citadel
-Of fell Tritonia,to find covert close
-Under the goddess' feet and orbed shield.
-Then through the trembling hearts of all there crept
-Strange fear; and 'rightly hath Laocoon
-Paid for his crime,' they cry, 'with point of spear
-Wounding the hallowed wood, what time he hurled
-His guilty lance against the flank.' Then all
-Shout that the image to her shrine be drawn,
+13 VIRGIL: Aeneid, BK II [162-233] 128b-130b\
+" 'All hope and courage for the war's emprise\
+On Pallas' help the Danaans ever stayed:\
+But from what time, with Tydeus' impious son,\
+Ulysses, crime-contriver, dared to rend\
+Doom-fraught Palladium from its hallowed shrine.\
+And slew the watchmen of her castled height.\
+And snatched the sacred image, and feared not\
+With hands blood-reeking to contaminate\
+Her godhead's maiden fillets, from henceforth\
+The Danaans' hope in ebb slid ever back.\
+Crushed was their strength, the goddess' heart\
+estranged. 170\
+Nor doubtful the dread signs Tritonia gave;\
+Scarce was her semblance lodged within the camp,\
+When from the upturned eyes shot quivering flames,\
+A salt sweat coursed along the limbs, and thrice—\
+Wondrous to tell—of her own self she sprang\
+From earth shield-laden, and with spear that shook.\
+Calchas at once with prophet-voice bids brave\
+Ocean in flight, for that no Argive arms\
+Could uptear Pergamus, except they seek\
+At Argos for new omens, and bring back\
+That will of heaven, which erst they bare away\
+O'er ocean with them in their curved keels. 179\
+And now that homeward-wafted they have sought\
+Mycenae, 'tis to get them arms, and gods\
+For their way-fellows, and, the sea recrossed,\
+They will be here unlocked for. In such wise\
+Doth Calchas sort the omens. Warned by him\
+They reared this image in Palladium's place.\
+For outraged godhead, their dark crime to quit.\
+But to this monstrous height of woven planks\
+Calchas bade lift it and upbuild to heaven,\
+Lest through your gates it be received, or drawn\
+Within the ramparts, and so shield your folk\
+Beneath their ancient worship. For if hand\
+Of yours had wronged Minerva's offering,\
+Mighty destruction then—which augury\
+May heaven first turn upon himself !—would fall\
+On Priam's empire and the Phrygians; but\
+If by your hands your city it should scale,\
+Asia herself should in a mighty war\
+Assail the walls of Pelops.and such doom\
+Remain in store for our posterity.' 194\
+"By such decoys of Sinon's art forsworn\
+The tale gat credence, and by craft were caught\
+And forced tears, whom neither Tydeus'son,\
+No, nor Achilles of Larissa, nor\
+Ten years had conquered, nor a thousand keels.\
+"A mightier portent and more fearful far,\
+Poor souls! here bursts upon them, and confounds\
+Their blinded senses. For Laocoon,\
+The priest of Neptune, as by lot assigned,\
+Was sacrificing at the wonted shrine\
+A mighty bull, when, lo! from Tenedos,\
+Over the tranquil ocean serpents twain—\
+I shudder to recount it—with huge coils\
+Cumbering the deep, ply shoreward side by side; 203\
+Reared on the surge their breasts and blood-red\
+manes\
+O'ertop the billows; the remaining bulk\
+Skims ocean aft in labyrinthine folds:\
+Hark! how the brine seethes audibly! and now,\
+Their glowing eyes with blood suffused and fire,\
+The shore-fields they were gaining, and their chaps\
+Hissed, as with flickering tongues they licked them; we\
+Pale at the sight fly scattered; they with line\
+Unwavering at Laocoon aim, and first\
+His two sons' slender bodies either snake\
+Embraces and enfolds, and gnawing feeds\
+Upon the hapless limbs; then him they seize\
+Up-hurrying armed to aid them, and bind fast\
+With mighty spires, and now—their scaly length\
+Twice wreathed about his waist, twice round his\
+neck—\
+With heads o'ertop him and high-towering throats. 219\
+He, while to rend their knots he strives amain.\
+His fillets with black venom drenched and gore.\
+Uplifts to heaven heart-piercing shrieks; as when,\
+'Scaped from the altar, bellows a maimed bull,\
+That from his neck shakes off the erring axe.\
+But to the temple's height that dragon pair\
+Gliding escape, and seek the citadel\
+Of fell Tritonia,to find covert close\
+Under the goddess' feet and orbed shield.\
+Then through the trembling hearts of all there crept\
+Strange fear; and 'rightly hath Laocoon\
+Paid for his crime,' they cry, 'with point of spear\
+Wounding the hallowed wood, what time he hurled\
+His guilty lance against the flank.' Then all\
+Shout that the image to her shrine be drawn,\
 And supplication to the goddess made. 233
 
-13 VIRGIL: Aeneid, BK II [679-704] 143b-144a
-Thy sire, and young lulus, and myself.
-Once called thy wife.' So loudly pleading she
-Filled all the house with moans, when lo! there falls
-A sudden portent marvellous to tell!
-For, as betwixt their gaze and their embrace
-His sorrowing parents held him, on the crown
-See! of lulus' head a tongue of fire
-Light-hovering shone, and, harmless to the touch
-Licked his soft locks, and round his temples fed. 684
-We in a flutter of alarm shake out
-The blazing hair, and with spring water strive
-To quench the sacred flame; but joyfully
-My sire Anchises with a starward gaze
-Lifted his voice and upturned hands to heaven.
-'Almighty Jupiter, if any prayer
-Can bend thee, look upon us—only this;
-And, if our goodness earn it. Sire, henceforth
-Grant us thine aid, and ratify this sign.'
-Scarce had the old man spoken, when there pealed
-A sudden crash of thunder on the left;
-And, gliding through the darkness from on high.
-Shot with a torch-like trail of rushing light
-A star; we mark it o'er the roof-top glide,
-A fiery path displaying, and at length
-Bury its brightness beneath Ida's wood:
-Then lo! a long-drawn iurrow-line of light!
-And o'er the region hangs a sulphurous smoke. 698
-Conquered at last my sire uplifts his head,
-Invokes the gods, adores the sacred star.
-'Up, up! no tarriance more! I follow, and where
-Ye lead, am with you. Gods that guard our land.
-Preserve my house, preserve my grandchild: yours
-This omen, in your holy keeping Troy.
-Son, I submit, content with thee to go.'
+13 VIRGIL: Aeneid, BK II [679-704] 143b-144a\
+Thy sire, and young lulus, and myself.\
+Once called thy wife.' So loudly pleading she\
+Filled all the house with moans, when lo! there falls\
+A sudden portent marvellous to tell!\
+For, as betwixt their gaze and their embrace\
+His sorrowing parents held him, on the crown\
+See! of lulus' head a tongue of fire\
+Light-hovering shone, and, harmless to the touch\
+Licked his soft locks, and round his temples fed. 684\
+We in a flutter of alarm shake out\
+The blazing hair, and with spring water strive\
+To quench the sacred flame; but joyfully\
+My sire Anchises with a starward gaze\
+Lifted his voice and upturned hands to heaven.\
+'Almighty Jupiter, if any prayer\
+Can bend thee, look upon us—only this;\
+And, if our goodness earn it. Sire, henceforth\
+Grant us thine aid, and ratify this sign.'\
+Scarce had the old man spoken, when there pealed\
+A sudden crash of thunder on the left;\
+And, gliding through the darkness from on high.\
+Shot with a torch-like trail of rushing light\
+A star; we mark it o'er the roof-top glide,\
+A fiery path displaying, and at length\
+Bury its brightness beneath Ida's wood:\
+Then lo! a long-drawn iurrow-line of light!\
+And o'er the region hangs a sulphurous smoke. 698\
+Conquered at last my sire uplifts his head,\
+Invokes the gods, adores the sacred star.\
+'Up, up! no tarriance more! I follow, and where\
+Ye lead, am with you. Gods that guard our land.\
+Preserve my house, preserve my grandchild: yours\
+This omen, in your holy keeping Troy.\
+Son, I submit, content with thee to go.'\
 "He said; and through the streets more loudly now
 
-13 VIRGIL: Aeneid, BK III [90-101] 149b-150a
-"Scarce had I spoke when suddenly meseemed
-All things 'gan tremble, doors and sacred bay;
-And the whole mountain moves; the shrine flies ope.
-The cauldron rumbles. Prone to earth we fall.
-While to our ears is borne a voice: 'O sons
-Of Dardanus long-suffering, that same land.
-Which bare you first from your ancestral stem.
-Shall to her fertile bosom welcome back:
-Seek out your ancient mother; there shall reign
-The house of Aeneas o'er the world's wide shores,
-And her sons' sons, and all their seed to be.' 98
-So Phoebus: and a mighty joy arose
-Confused, tumultuous; with one voice they cry,
-'What is this city whither Phoebus now
-Summons the wanderers, bids them to return?'
+13 VIRGIL: Aeneid, BK III [90-101] 149b-150a\
+"Scarce had I spoke when suddenly meseemed\
+All things 'gan tremble, doors and sacred bay;\
+And the whole mountain moves; the shrine flies ope.\
+The cauldron rumbles. Prone to earth we fall.\
+While to our ears is borne a voice: 'O sons\
+Of Dardanus long-suffering, that same land.\
+Which bare you first from your ancestral stem.\
+Shall to her fertile bosom welcome back:\
+Seek out your ancient mother; there shall reign\
+The house of Aeneas o'er the world's wide shores,\
+And her sons' sons, and all their seed to be.' 98\
+So Phoebus: and a mighty joy arose\
+Confused, tumultuous; with one voice they cry,\
+'What is this city whither Phoebus now\
+Summons the wanderers, bids them to return?'\
 Then, pondering records of the men of old,
 
-13 VIRGIL: Aeneid, BK III [135-191] 150b-152b
-Scarce were the ships hauled dry ashore, the youth
-Busied with marriage and new fields to till—
-I laws and homes assigning—when there fell
-Upon men's limbs from heaven's infected arch
-A sudden wasting, and on trees and crops
-Piteous contagion—a year fraught with death.
-They left their pleasant lives, or dragged about
-Sick bodies; Sirius too baked bare the fields;
-Grass withered; the sick crop denied her food. 142
-Back to Ortygia's oracle my sire
-Bids us retraverse Ocean, and implore
-The grace of Phoebus; to our weary plight
-What end vouchsafes he, whence would have us seek
-Aid for our trouble, whither steer our course?
-" 'Twas night: sleep held all creatures upon earth,
-When lol the sacred emblems of the gods,
-The Phrygian Penates, out of Troy
-Borne with me from amidst the blazing town
-Seemed, as I lay in slumber, to stand forth
-Before mine eyes, clear in a flood of light.
-Where streamed the full moon through the casementshaft,
-Then thus to address me, and with these words allay
-My trouble: That which from Apollo's lips.
-Once wafted to Ortygia,thou shouldst learn,
-Lolhere he utters, unsolicited
-Sending us to thy very threshold. We,
-Who from Dardania's burning have thyself
-And thine arms followed, in the fleet thou led'st
-Crossing the swollen deep—even we no less
-Will lift to heaven thy sons that shall be born,
-Grant empire to thy city. But do thou
-Found mighty ramparts for the mighty, nor
-Shirk the long toil of flight. Shift hence thy home:
-Not these the shores portended, nor in Crete
-Doth Delian Apollo bid thee dwell. 162
-There is a spot, by Greeks Hesperia named,
-A land of old, mighty in arms, in soil
-Prolific, which the Oenotrian heroes tilled.
-Now by a later race called Italy,
-If rumour lie not, from their leader's name.
-There is our sure home; hence sprang Dardanus,
-And sire lasius, founder of our race.
-Arise, be glad, and to thy father old
-Bear this no doubtful mandate, that he seek
-Corythus and Ausonia's land; the fields
-Of Dicte Jove denies thee!' Sore amazed
-By such a vision and the voice of gods—
-Nor was that slumber: face to face I seemed
-Their mien, their wreathed locks to recognize,
-And their divine regard, while a chill sweat
-Over my whole frame ran—from bed I leap,
-And raising voice and upturned hands to heaven.
-Pour unpolluted offerings on the hearth.
-That homage paid, exulting I make known
-All to Anchises, point by point revealed. 179
-The twofold line, the double stock, himself
-Fooled by a new confusion of old lands,
-He owns, then cries aloud, 'Son, long the sport
-Of Ilium's fate, Cassandra erst alone
-Chanted this hap to me: I now recall
-She thus foretold our destiny, and oft
-Invoked Hesperia,oft the Italian realm.
-But that the Teucrians to Hesperia's shore
-Should come indeed, who could have thought it?
-whom
-Then would Cassandra's prophecies have swayed?
-Yield we to Phoebus' warning, and pursue
-The wiser course.' He spake, and all with joy
-His word obey; this second home we quit.
-Leaving some few behind, and with sails set
+13 VIRGIL: Aeneid, BK III [135-191] 150b-152b\
+Scarce were the ships hauled dry ashore, the youth\
+Busied with marriage and new fields to till—\
+I laws and homes assigning—when there fell\
+Upon men's limbs from heaven's infected arch\
+A sudden wasting, and on trees and crops\
+Piteous contagion—a year fraught with death.\
+They left their pleasant lives, or dragged about\
+Sick bodies; Sirius too baked bare the fields;\
+Grass withered; the sick crop denied her food. 142\
+Back to Ortygia's oracle my sire\
+Bids us retraverse Ocean, and implore\
+The grace of Phoebus; to our weary plight\
+What end vouchsafes he, whence would have us seek\
+Aid for our trouble, whither steer our course?\
+" 'Twas night: sleep held all creatures upon earth,\
+When lol the sacred emblems of the gods,\
+The Phrygian Penates, out of Troy\
+Borne with me from amidst the blazing town\
+Seemed, as I lay in slumber, to stand forth\
+Before mine eyes, clear in a flood of light.\
+Where streamed the full moon through the casementshaft,\
+Then thus to address me, and with these words allay\
+My trouble: That which from Apollo's lips.\
+Once wafted to Ortygia,thou shouldst learn,\
+Lolhere he utters, unsolicited\
+Sending us to thy very threshold. We,\
+Who from Dardania's burning have thyself\
+And thine arms followed, in the fleet thou led'st\
+Crossing the swollen deep—even we no less\
+Will lift to heaven thy sons that shall be born,\
+Grant empire to thy city. But do thou\
+Found mighty ramparts for the mighty, nor\
+Shirk the long toil of flight. Shift hence thy home:\
+Not these the shores portended, nor in Crete\
+Doth Delian Apollo bid thee dwell. 162\
+There is a spot, by Greeks Hesperia named,\
+A land of old, mighty in arms, in soil\
+Prolific, which the Oenotrian heroes tilled.\
+Now by a later race called Italy,\
+If rumour lie not, from their leader's name.\
+There is our sure home; hence sprang Dardanus,\
+And sire lasius, founder of our race.\
+Arise, be glad, and to thy father old\
+Bear this no doubtful mandate, that he seek\
+Corythus and Ausonia's land; the fields\
+Of Dicte Jove denies thee!' Sore amazed\
+By such a vision and the voice of gods—\
+Nor was that slumber: face to face I seemed\
+Their mien, their wreathed locks to recognize,\
+And their divine regard, while a chill sweat\
+Over my whole frame ran—from bed I leap,\
+And raising voice and upturned hands to heaven.\
+Pour unpolluted offerings on the hearth.\
+That homage paid, exulting I make known\
+All to Anchises, point by point revealed. 179\
+The twofold line, the double stock, himself\
+Fooled by a new confusion of old lands,\
+He owns, then cries aloud, 'Son, long the sport\
+Of Ilium's fate, Cassandra erst alone\
+Chanted this hap to me: I now recall\
+She thus foretold our destiny, and oft\
+Invoked Hesperia,oft the Italian realm.\
+But that the Teucrians to Hesperia's shore\
+Should come indeed, who could have thought it?\
+whom\
+Then would Cassandra's prophecies have swayed?\
+Yield we to Phoebus' warning, and pursue\
+The wiser course.' He spake, and all with joy\
+His word obey; this second home we quit.\
+Leaving some few behind, and with sails set\
 Scour the waste ocean in our hollow barks. 191
 
-13 VIRGIL: Aeneid, BK III [388-393] 157b-158a
-Upon safe shore thy city.And tokens I
-Will give thee; do thou keep them stored in mind.
-When by the wave of a sequestered stream
-Thine anxious eye lights on a monstrous sow,
-Under the holm-oaks on the margin laid.
-With thirty head of swine new-littered, white,
-Stretched out along the ground, white too the young
-About her udders, know that there shall be
+13 VIRGIL: Aeneid, BK III [388-393] 157b-158a\
+Upon safe shore thy city.And tokens I\
+Will give thee; do thou keep them stored in mind.\
+When by the wave of a sequestered stream\
+Thine anxious eye lights on a monstrous sow,\
+Under the holm-oaks on the margin laid.\
+With thirty head of swine new-littered, white,\
+Stretched out along the ground, white too the young\
+About her udders, know that there shall be\
 Thy city's site, there a sure rest from toil. 393
 
-13 VIRGIL: Aeneid, BK III [523-547] 161b-162a
-When in the distance we descry dim hills.
-And Italy's low coast-line. 'Italy!'
-First cries Achates; Italy our crews
-Hail with a shout of triumph. Then my sire
-Anchises wreathed a mighty bowl with flowers.
-And filled with wine, and called upon the gods.
-Standing upon the lofty stern. 'Ye gods.
-Lords both of land and ocean with their storms,
-Waft us a fair course, and breathe favouring gales.' 529
-The wished-for breezes freshen, and the port
-Widens with narrowing distance, and clear seen
-The temple of Minerva tops the height.
-My comrades furl the sails, and shoreward steer.
-The harbour there by eastern, waves is bent
-Bow-wise; with salt spray foam the barrier cliffs;
-The port itself lies hidden; the towered rocks
-Lower their arms, on either side a wall;
-The temple from the shore retires. Four steeds
-Here on the grass, first omen, I beheld,
-Grazing the.plain at large, and white as snow. 538
-Then Prince Anchises: 'War it is thou bringest,
-O stranger-country! Steeds are armed for war.
-And war these herds portend us. Yet at times
-The same beasts use to bow them to the car,
-And, yoked together, bear the friendly rein;
-Yea, there is hope of peace too. 'Then we pray
-To sacred Pallas, queen of clanging arms,
-Who first with joy received us, and with heads
-Before the altar veiled in Phrygian robe,
-As Helenus had so straitly charged us, pay
+13 VIRGIL: Aeneid, BK III [523-547] 161b-162a\
+When in the distance we descry dim hills.\
+And Italy's low coast-line. 'Italy!'\
+First cries Achates; Italy our crews\
+Hail with a shout of triumph. Then my sire\
+Anchises wreathed a mighty bowl with flowers.\
+And filled with wine, and called upon the gods.\
+Standing upon the lofty stern. 'Ye gods.\
+Lords both of land and ocean with their storms,\
+Waft us a fair course, and breathe favouring gales.' 529\
+The wished-for breezes freshen, and the port\
+Widens with narrowing distance, and clear seen\
+The temple of Minerva tops the height.\
+My comrades furl the sails, and shoreward steer.\
+The harbour there by eastern, waves is bent\
+Bow-wise; with salt spray foam the barrier cliffs;\
+The port itself lies hidden; the towered rocks\
+Lower their arms, on either side a wall;\
+The temple from the shore retires. Four steeds\
+Here on the grass, first omen, I beheld,\
+Grazing the.plain at large, and white as snow. 538\
+Then Prince Anchises: 'War it is thou bringest,\
+O stranger-country! Steeds are armed for war.\
+And war these herds portend us. Yet at times\
+The same beasts use to bow them to the car,\
+And, yoked together, bear the friendly rein;\
+Yea, there is hope of peace too. 'Then we pray\
+To sacred Pallas, queen of clanging arms,\
+Who first with joy received us, and with heads\
+Before the altar veiled in Phrygian robe,\
+As Helenus had so straitly charged us, pay\
 To Argive Juno the full rites prescribed. 547
 
-13 VIRGIL: Aeneid, BK VI [190-211] 216a-b
-Of thee, alas! Misenus." Scarce had he
-Uttered the word, when, as it happed, twin doves
-Under his very eyes from heaven came flying.
-And light on the green sod. The mighty chief,
-His mother's birds discerning, prays with joy:
-"Oh! be my guides, if any path there be.
-And steer your airy course into the grove,
-Where the rich bough o'ershades the fertile ground.
-And our perplexity forsake not thou,
-O goddess-mother." So saying, he stops to mark
-What signs they bring, their course bend whither
-ward. 198
-They, feeding, still fly forward just so far
-As the pursuer's eye might bear in sight.
-Then, having gained Avernus' poisonous jaws.
-Swiftly they mount, and, gliding through clear air.
-Perch both, and settle upon the wished-for tree.
-Flashed through whose boughs the gold's contrasting
-gleam.
-As mistletoe, when winter chills the woods,
-Bursts into new leaf, sown on alien tree.
-And, saffron-berried, clips the tapering trunk,
-Such was the seeming of that leafy gold
-On the dark ilex; so in the light breeze
-Rustled the foil. Aeneas instantly
-Seizes and rives it from its lingering hold
-With hungry clutch, and bears it'neath the roof
+13 VIRGIL: Aeneid, BK VI [190-211] 216a-b\
+Of thee, alas! Misenus." Scarce had he\
+Uttered the word, when, as it happed, twin doves\
+Under his very eyes from heaven came flying.\
+And light on the green sod. The mighty chief,\
+His mother's birds discerning, prays with joy:\
+"Oh! be my guides, if any path there be.\
+And steer your airy course into the grove,\
+Where the rich bough o'ershades the fertile ground.\
+And our perplexity forsake not thou,\
+O goddess-mother." So saying, he stops to mark\
+What signs they bring, their course bend whither\
+ward. 198\
+They, feeding, still fly forward just so far\
+As the pursuer's eye might bear in sight.\
+Then, having gained Avernus' poisonous jaws.\
+Swiftly they mount, and, gliding through clear air.\
+Perch both, and settle upon the wished-for tree.\
+Flashed through whose boughs the gold's contrasting\
+gleam.\
+As mistletoe, when winter chills the woods,\
+Bursts into new leaf, sown on alien tree.\
+And, saffron-berried, clips the tapering trunk,\
+Such was the seeming of that leafy gold\
+On the dark ilex; so in the light breeze\
+Rustled the foil. Aeneas instantly\
+Seizes and rives it from its lingering hold\
+With hungry clutch, and bears it'neath the roof\
 Of the prophetic Sibyl. 211
 
-13 VIRGIL: Aeneid, BK VII [59-80] 237b-238a
-There was a laurel in the secluded depth
-Midmost the palace-court, of sacred leaf.
-And cherished many a year with awe, which King
-Latinus, finding, as he laid, folk say.
-The citadel's foundation, had himself
-To Phoebus dedicated, and from thence
-Gave to his settlers their Laurentian name.
-Upon its topmost point a cloud of bees.
-Wondrous to tell, with mighty buzzing borne
-Across the clear air, settled, foot with foot
-Linked fast together, and from the leafy bough
-Hung there, a sudden swarm. Forthwith the seer:
-"A foreiqjn hero I descry," quoth he,
-"Hither approaching, and a host that seek
-The selfsame quarter by the selfsame way.
-And lord it in the topmost citadel." 70
-Moreover, while the ahar with pure torch
-She kindles, and beside her father stands,
-The maid Lavinia in her flowing locks,
-O horror! seemed to catch the flame, and all
-Her head-gear to let burn with crackling fire-
-Ablaze her queenly tresses, and ablaze
-The jewelled splendour of her coronal-
-Till, wrapped in a dun glare of smoky light.
-She spread the fire-god all the palace through.
-Fearful in sooth and wondrous to behold
-That sight was rumoured: for herself, they sang,
-Should be renowned in fortune and in fame;
+13 VIRGIL: Aeneid, BK VII [59-80] 237b-238a\
+There was a laurel in the secluded depth\
+Midmost the palace-court, of sacred leaf.\
+And cherished many a year with awe, which King\
+Latinus, finding, as he laid, folk say.\
+The citadel's foundation, had himself\
+To Phoebus dedicated, and from thence\
+Gave to his settlers their Laurentian name.\
+Upon its topmost point a cloud of bees.\
+Wondrous to tell, with mighty buzzing borne\
+Across the clear air, settled, foot with foot\
+Linked fast together, and from the leafy bough\
+Hung there, a sudden swarm. Forthwith the seer:\
+"A foreiqjn hero I descry," quoth he,\
+"Hither approaching, and a host that seek\
+The selfsame quarter by the selfsame way.\
+And lord it in the topmost citadel." 70\
+Moreover, while the ahar with pure torch\
+She kindles, and beside her father stands,\
+The maid Lavinia in her flowing locks,\
+O horror! seemed to catch the flame, and all\
+Her head-gear to let burn with crackling fire-\
+Ablaze her queenly tresses, and ablaze\
+The jewelled splendour of her coronal-\
+Till, wrapped in a dun glare of smoky light.\
+She spread the fire-god all the palace through.\
+Fearful in sooth and wondrous to behold\
+That sight was rumoured: for herself, they sang,\
+Should be renowned in fortune and in fame;\
 But to her folk it boded mighty war. 80
 
-13 VIRGIL: Aeneid, BK VIII [26-89] 259b-261b
-'Twas night, and weary creatures, the world o'er,
-Both bird and cattle-kind, deep slumber held;
-When Prince Aeneas on the bank beneath
-Heaven's chilly vault, and by the dolorous war
-Heart-troubled, stretched him, and let sleep at last
-Steal o'er his limbs. To him appeared the god
-Of that fair spot, he of the pleasant stream,
-Old Tiber, rising 'mid his poplar-leaves;
-Veiled in a grey-green mantle of fine lawn,
-With shadowy reeds about his locks, he thus
-In words addressed him, and his grief allayed: 35
-"O heaven-descended, thou who bring'st us back
-Troy's city from the foeman,and preserv'st
-Her towers for ever, on Laurentum's soil
-And Latium's fields long-looked for, here for thee
-Waits a sure dwelling—draw not back—and sure
-Penates: nor be scared by threats of war:
-All the gods' swelling anger has died out;
-And now, lest these things to thine eyes appear
-A dream's vain figment, thou shalt find anon,
-Under the holm-oaks on the margin laid,
-A mighty sow, with thirty head of swine
-New-littered, white, stretched out along the ground.
-White young about her udders; sign whereby
-Ascanius in thrice ten returning years
-Shall Alba found, of glorious name: I chant
-No doubtful doom. Now, mark, the present need
-How to dispatch and triumph o'er, in brief
-Will I discover. Arcadians on this coast,
-A race derived from Pallas, in the train
-Of King Evander following, have a site
-Chosen, and built a city on the hills.
-From their sire Pallas Pallanteum called. 54
-These with the Latins wage perpetual war;
-These welcome to thy tents, and knit with bonds
-Of friendship. I myself betwixt the banks
-And straight up stream will lead thee, that thou may'st
-The adverse current conquer, oar-impelled.
-Up, goddess-born! and with first set of star
-Do homage meet to Juno, and disarm
-With suppliant vows her wrath, her threats; to me
-Thou shalt pay conqueror's tribute. Lo! 'tis I,
-Whom grazing here the banks with brimming flood.
-And cleaving the rich cornland thou behold'st,
-Blue Tiber, river best-beloved of heaven. 64
-Here doth my watery mansion outlet find,
-Life-source of lofty cities." Having said.
-Into his deep pool plunged the river-god,
-Seeking the bottom. Night and slumber left
-Aeneas: he rises, and the Orient beam
-Marks of the sun in heaven, then from the flood
-Takes duly in the hollow of his hands
-Water, and holds it. and pours forth to heaven
-Such words as these: "O Nymphs, Laurentian
-Nymphs,
-Whence rivers have their being, and thou too,
-O Father Tiber, with thy hallowed flood,
-Take to your care Aeneas and at length
-From perils fend him. Whencesoe'er be fed
-The pool that holds thee, pitier of our woes,
-Where'er thou hast thy glorious outgoing,
-Ever with offering, evermore with gifts.
-By me shaft thou be graced, the horned flood,
-Lord of Hesperian waters. Only grant
-Thy presence, and with nearer token seal
-The heavenly utterance." Thus he spake, and chose
-From out his fleet twin biremes, fits their decks
-With oarsmen, and equips with arms the crew. 80
-But lo! a sudden portent strange to see!
-White, of one colour with her milk-white young,
-Along the wood, on the green bank lay stretched
-A sow, conspicuous; which to thee, to thee,
-O mightiest Juno, good Aeneas slays
-In sacrifice, and at the altar sets,
-\Vith all her offspring. Through that livelong night
-Tiber his swelling stream assuaged, and so.
-With refluent effort halting, hushed his tide.
-That, like still pool or quiet mere, he spread
-A watery plain, whereon the oar might lack
-All labour. So with favouring shout they speed
+13 VIRGIL: Aeneid, BK VIII [26-89] 259b-261b\
+'Twas night, and weary creatures, the world o'er,\
+Both bird and cattle-kind, deep slumber held;\
+When Prince Aeneas on the bank beneath\
+Heaven's chilly vault, and by the dolorous war\
+Heart-troubled, stretched him, and let sleep at last\
+Steal o'er his limbs. To him appeared the god\
+Of that fair spot, he of the pleasant stream,\
+Old Tiber, rising 'mid his poplar-leaves;\
+Veiled in a grey-green mantle of fine lawn,\
+With shadowy reeds about his locks, he thus\
+In words addressed him, and his grief allayed: 35\
+"O heaven-descended, thou who bring'st us back\
+Troy's city from the foeman,and preserv'st\
+Her towers for ever, on Laurentum's soil\
+And Latium's fields long-looked for, here for thee\
+Waits a sure dwelling—draw not back—and sure\
+Penates: nor be scared by threats of war:\
+All the gods' swelling anger has died out;\
+And now, lest these things to thine eyes appear\
+A dream's vain figment, thou shalt find anon,\
+Under the holm-oaks on the margin laid,\
+A mighty sow, with thirty head of swine\
+New-littered, white, stretched out along the ground.\
+White young about her udders; sign whereby\
+Ascanius in thrice ten returning years\
+Shall Alba found, of glorious name: I chant\
+No doubtful doom. Now, mark, the present need\
+How to dispatch and triumph o'er, in brief\
+Will I discover. Arcadians on this coast,\
+A race derived from Pallas, in the train\
+Of King Evander following, have a site\
+Chosen, and built a city on the hills.\
+From their sire Pallas Pallanteum called. 54\
+These with the Latins wage perpetual war;\
+These welcome to thy tents, and knit with bonds\
+Of friendship. I myself betwixt the banks\
+And straight up stream will lead thee, that thou may'st\
+The adverse current conquer, oar-impelled.\
+Up, goddess-born! and with first set of star\
+Do homage meet to Juno, and disarm\
+With suppliant vows her wrath, her threats; to me\
+Thou shalt pay conqueror's tribute. Lo! 'tis I,\
+Whom grazing here the banks with brimming flood.\
+And cleaving the rich cornland thou behold'st,\
+Blue Tiber, river best-beloved of heaven. 64\
+Here doth my watery mansion outlet find,\
+Life-source of lofty cities." Having said.\
+Into his deep pool plunged the river-god,\
+Seeking the bottom. Night and slumber left\
+Aeneas: he rises, and the Orient beam\
+Marks of the sun in heaven, then from the flood\
+Takes duly in the hollow of his hands\
+Water, and holds it. and pours forth to heaven\
+Such words as these: "O Nymphs, Laurentian\
+Nymphs,\
+Whence rivers have their being, and thou too,\
+O Father Tiber, with thy hallowed flood,\
+Take to your care Aeneas and at length\
+From perils fend him. Whencesoe'er be fed\
+The pool that holds thee, pitier of our woes,\
+Where'er thou hast thy glorious outgoing,\
+Ever with offering, evermore with gifts.\
+By me shaft thou be graced, the horned flood,\
+Lord of Hesperian waters. Only grant\
+Thy presence, and with nearer token seal\
+The heavenly utterance." Thus he spake, and chose\
+From out his fleet twin biremes, fits their decks\
+With oarsmen, and equips with arms the crew. 80\
+But lo! a sudden portent strange to see!\
+White, of one colour with her milk-white young,\
+Along the wood, on the green bank lay stretched\
+A sow, conspicuous; which to thee, to thee,\
+O mightiest Juno, good Aeneas slays\
+In sacrifice, and at the altar sets,\
+\Vith all her offspring. Through that livelong night\
+Tiber his swelling stream assuaged, and so.\
+With refluent effort halting, hushed his tide.\
+That, like still pool or quiet mere, he spread\
+A watery plain, whereon the oar might lack\
+All labour. So with favouring shout they speed\
 Upon the voyage begun: the tarred pine slides
 
-13 VIRGIL: Aeneid, BK VIII [520-540] 273a-b
-Scarce had he said: Aeneas, Anchises' son,
-And true Achates, with eyes earthward bent.
-On many a peril mournfully 'gan muse.
-When lo! the Cytherean from clear skies
-Gave signal: for, unlooked for, out of heaven
-Came quivering flash and thunder-peal, and all
-Seemed sudden to reel round them, and anon
-A Tyrrhene trumpet-clang through heaven to blare.
-Upward they glance; again and yet again
-Crashed the vast din; then, canopied in cloud
-Amid a stormless region of clear air,
-Lo! the red gleam and thunderous shock of arms. 529
-Others stood heart-amazed, but in that sound
-Troy's hero knew his heavenly mother's pledge.
-Then, "Seek not,0 my host, seek not," he cried,
-"What fate the portent bodes; 'tis I am called
-From heaven. This sign the goddess who me bare
-Foretold, should war assail us, she would send.
-And wafted through the air from Vulcan bring
-Armour to aid me. What vast carnage now
-Hangs o'er the doomed Laurentines! What a price,
-O Turnus.shalt thou pay me! 'Neath thy tide
-How many shields, helms, bodies of the brave
-Wilt roll,0 father Tiber! Let them call
+13 VIRGIL: Aeneid, BK VIII [520-540] 273a-b\
+Scarce had he said: Aeneas, Anchises' son,\
+And true Achates, with eyes earthward bent.\
+On many a peril mournfully 'gan muse.\
+When lo! the Cytherean from clear skies\
+Gave signal: for, unlooked for, out of heaven\
+Came quivering flash and thunder-peal, and all\
+Seemed sudden to reel round them, and anon\
+A Tyrrhene trumpet-clang through heaven to blare.\
+Upward they glance; again and yet again\
+Crashed the vast din; then, canopied in cloud\
+Amid a stormless region of clear air,\
+Lo! the red gleam and thunderous shock of arms. 529\
+Others stood heart-amazed, but in that sound\
+Troy's hero knew his heavenly mother's pledge.\
+Then, "Seek not,0 my host, seek not," he cried,\
+"What fate the portent bodes; 'tis I am called\
+From heaven. This sign the goddess who me bare\
+Foretold, should war assail us, she would send.\
+And wafted through the air from Vulcan bring\
+Armour to aid me. What vast carnage now\
+Hangs o'er the doomed Laurentines! What a price,\
+O Turnus.shalt thou pay me! 'Neath thy tide\
+How many shields, helms, bodies of the brave\
+Wilt roll,0 father Tiber! Let them call\
 Their armies out, and snap the cords of peace!" 540
 
-13 VIRGIL: Aeneid, BK XII [244-265] 360b-361a
-Juturna adds, and shows a sign in heaven.
-Than which no cause, more potent to confound.
-Fooled omen-wise the hearts of Italy. 246
-For as in ruddy sky Jove's tawny bird
-Flew chasing water-fowl, a clamorous rout
-In wing-borne column, suddenly he swooped
-Down on the stream, and seized a lordly swan
-Ruthless in taloned gripe. Italia's folk
-Gave eager heed, as all the birds at once
-Wheeled screaming, wondrous to behold! and hid
-The heaven with wings, and in a serried cloud
-Urge through the air their foe, till, overborne
-By the sheer weight of onset, he gave o'er.
-Into the flood let fall his loosened prey.
-And vanished amid cloudy depths of heaven. 256
-The Rutules hail the omen with a shout.
-And free their hands for battle; and first out-spoke
-Augur Tolumnius: 'This, ay this it was.
-So oft my prayers desired: I greet the call,
-And own the gods herein; follow my lead.
-Even mine, and seize the sword, ye miserable.
-Whom yon rapacious stranger frights with war,
-Like silly birds, and rudely ravages
-Your borders. He will turn, trim sail, and fly
-Far o'er the deep. With one heart close your ranks.
+13 VIRGIL: Aeneid, BK XII [244-265] 360b-361a\
+Juturna adds, and shows a sign in heaven.\
+Than which no cause, more potent to confound.\
+Fooled omen-wise the hearts of Italy. 246\
+For as in ruddy sky Jove's tawny bird\
+Flew chasing water-fowl, a clamorous rout\
+In wing-borne column, suddenly he swooped\
+Down on the stream, and seized a lordly swan\
+Ruthless in taloned gripe. Italia's folk\
+Gave eager heed, as all the birds at once\
+Wheeled screaming, wondrous to behold! and hid\
+The heaven with wings, and in a serried cloud\
+Urge through the air their foe, till, overborne\
+By the sheer weight of onset, he gave o'er.\
+Into the flood let fall his loosened prey.\
+And vanished amid cloudy depths of heaven. 256\
+The Rutules hail the omen with a shout.\
+And free their hands for battle; and first out-spoke\
+Augur Tolumnius: 'This, ay this it was.\
+So oft my prayers desired: I greet the call,\
+And own the gods herein; follow my lead.\
+Even mine, and seize the sword, ye miserable.\
+Whom yon rapacious stranger frights with war,\
+Like silly birds, and rudely ravages\
+Your borders. He will turn, trim sail, and fly\
+Far o'er the deep. With one heart close your ranks.\
 And fight for rescue of your ravished king." 265
 
 ## 14 PLUTARCH: Numa Pompilius, 52b-c / Poplicola, 82a-b / Timoleon, 198c-d / Pelopidas, 239d-240c / Aristides, 268a-d / Sulla, 371d- 372c / Lucullus, 404d-405a; 405c / Agesilaus, 483a-b / Alexander, 568a-b / Demosthenes, 698b-699a / Dion, 781d-782a / Marcus Brutus, 818a-b; 822b
@@ -20401,14 +20401,14 @@ But this fear was soon removed by a wonderful thing that happened not long after
 
 14 PLUTARCH: Demosthenes, 698b-699a
 But there was, it would seem, some divinely ordered fortune, commissioned, in the revolution of things, to put a period at this time to the liberty of Greece, which opposed and thwarted all their actions, and by many signs foretold what should happen. Such were the sad predictions uttered by the Pythian priestess, and this old oracle cited out of the Sibyl's verses:—
-The battle on Thermodon that shall be
-Safe at a distance I desire to see,
-Far, like an eagle, watching in the air,
-Conquered shall weep, and conqueror perish
+The battle on Thermodon that shall be\
+Safe at a distance I desire to see,\
+Far, like an eagle, watching in the air,\
+Conquered shall weep, and conqueror perish\
 there.
 This Thermodon, they say, is a little rivulet here in our country in Chaeronea, running into the Cephisus. But we know of none that is so called at the present time; and can only conjecture that the streamlet which is now called Haemon, and runs by the temple of Hercules, where the Grecians were encamped, might perhaps in those days be called Thermodon, and after the fight, being filled with blood and dead bodies, upon this occasion, as we guess, might change its old name for that which it now bears. Yet Duris says that this Thermodon was no river, but that some of the soldiers, as they were pitching their tents and digging trenches about them, found a small stone statue, which, by the inscription, appeared to be the figure of Thermodon, carrying a wounded Amazon in his arms; and that there was another oracle current about it, as follows:—
-The battle on Thermodon that shall be,
-Fail not, black raven, to attend and see;
+The battle on Thermodon that shall be,\
+Fail not, black raven, to attend and see;\
 The flesh of men shall there abound for thee.
 In fine, it is not easy to determine what is the truth. But of Demosthenes it is said that he had such great confidence in the Grecian forces, and was so excited by the sight of the courage and resolution of so many brave men ready to engage the enemy, that he would by no means endure they should give any heed to oracles, or hearken to prophecies, but gave out that he suspected even the prophetess herself, as if she had been tampered with to speak in favour of Philip. The Thebans he put in mind of Epaminondas, the Athenians of Pericles, who always took their own measures and governed their actions by reason, looking upon things of this kind as mere pretexts for cowardice. Thus far, therefore, Demosthenes acquitted himself like a brave man. But in the fight he did nothing honourable, nor was his performance answerable to his speeches. For he fled, deserting his place disgracefully, and throwing away his arms, not ashamed, as Pytheas observed, to belie the inscription written on his shield, in letters of gold, "With good fortune."
 In the meantime, Philip, in the first moment of victory, was so transported with joy that he grew extravagant, and going out after he had drunk largely to visit the dead bodies, he chanted the first words of the decree that had been passed on the motion of Demosthenes—
@@ -20544,9 +20544,9 @@ weeping to Thee for me, more than mothers weep the bodily deaths of their childr
 
 Chap. 8. Of the miracles which God has condescended to adhibit, through the ministry of angels, to his promises for the confirmation of the faith of the godly
 I should seem tedious were I to recount all the ancient miracles, which were wrought in attestation of God's promises which He made to Abraham thousands of years ago. that in his seed all the nations of the earth should be blessed.² For who can but marvel that Abraham's barren wife should have given birth to a son at an age when not even a prolific woman could bear children; or. again, that when Abraham sacrificed, a flame from heaven should have run between the divided parts;³ or that the angels in human form, whom he had hospitably entertained and who had renewed God's promise of offspring, should also have predicted the destruction of Sodom by fire from heaven;⁴ and that his nephew Lot should have been rescued from Sodom by the angels as the fire was just descending, while his wife, who looked back as she went, and was immediately turned into salt, stood as a sacred beacon warning us that no one who is being saved should long for what he is leaving? How striking also were the wonders done by Moses to rescue God's people from the yoke of slavery in Egypt, when the magi of the Pharaoh, that is. the king of Egypt, who tyrannized, over this people, were suffered to do some wonderful things that they might be vanquished all the more signally! They did these things by the magical arts and incantations to which the evil spirits or demons are addicted; while Moses, having as much greater power as he had right on his side, and having the aid of angels, easily conquered them in the name of the Lord Who made heaven and earth. And. in fact, the magicians failed at the third plague; whereas Moses, dealing out the miracles delegated to
-¹Ex. 2 2. 20.
-²Gen. 18. 18.
-³Gen. 15. 17.
+¹Ex. 2 2. 20.\
+²Gen. 18. 18.\
+³Gen. 15. 17.\
 ⁴Gen. 18.
 him. brought ten plagues upon the land, so that the hard hearts of Pharaoh and the Egyptians yielded, and the people were let go. But, quickly repenting, and essaying to overtake the departing Hebrews, who had crossed the sea on dry ground, they were covered and overwhelmed in the returning waters. What shall I say of those frequent and stupendous exhibitions of divine power, while the people were conducted through the wilderness?—of the waters which could not be drunk, but lost their bitterness, and quenched the thirsty, when at God's command a piece of wood was cast into them? of the manna that descended from heaven to appease their hunger, and which begat worms and putrefied when any one collected more than the appointed quantity, and yet. though double was gathered on the day before the Sabbath (it not being lawful to gather it on that day), remained fresh? of the birds which filled the camp, and turned appetite into satiety when they longed for flesh, which it seemed impossible to supply to so vast a population? of the enemies who met them, and opposed their passage with arms, and were defeated without the loss of a single Hebrew, when Moses prayed with his hands extended in the form of a cross? of the seditious persons who arose among God's people, and separated themselves from the divinely-ordered community, and were swallowed up alive by the earth, a visible token of an invisible punishment? of the rock struck with the rod, and pouring out waters more than enough for all the host? of the deadly serpents' bites, sent in just punishment of sin. but healed by looking at the lifted brazen serpent, so that not only were the tormented people healed, but a symbol of the crucifixion of death set before them in this destruction of death by death? It was this serpent which was preserved in memory of this event, and was afterwards worshipped by the mistaken people as an idol, and was destroyed by the pious and God-fearing king Hezekiah, much to his credit.
 
@@ -20588,8 +20588,8 @@ The miracle which was wrought at Milan when I was there, and by which a blind ma
 ¹Another reading has diffamatum, "published."
 known, but were now made known to the bishop Ambrose in a dream, and discovered by him. By virtue of these remains the darkness of that blind man was scattered, and he saw the light of day.²
 But who but a very small number are aware of the cure which was wrought upon Innocentius, ex-advocate of the deputy prefecture, a cure wrought at Carthage, in my presence and under my own eyes? For when I and my brother Alypius,³ who were not yet clergymen,⁴ though already servants of God, came from abroad, this man received us, and made us live with him, for he and all his household were devotedly pious. He was being treated by medical men for fistulae, of which he had a large number intricately seated in the rectum. He had already undergone an operation, and the surgeons were using every means at their command for his relief. In that operation he had suffered long-continued and acute pain; yet, among the many folds of the gut, one had escaped the operators so entirely, that, though they ought to have laid it open with the knife, they never touched it. And thus, though all those that had been opened were cured, this one remained as it was, and frustrated all their labour. The patient, having his suspicions awakened by the delay thus occasioned, and fearing greatly a second operation, which another medical man—one of his own domestics—had told him he must undergo, though this man had not even been allowed to witness the first operation, and had been banished from the house, and with difficulty allowed to come back to his enraged master's presence—the patient, I say, broke out to the surgeons, saying, "Are you going to cut me again? Are you, after all, to fulfil the prediction of that man whom you would not allow even to be present?" The surgeons laughed at the un-skilful doctor, and soothed their patient's fears with fair words and promises. So several days passed, and yet nothing they tried did him good. Still they persisted in promising that they would cure that fistula by drugs, without the knife. They called in also another old practitioner of great repute in that department, Ammonius (for he was still alive at that time); and he, after examining the part, promised the same result as themselves from their care and skill. On this great authority, the patient became confident, and, as if already well, vented his good spirits in facetious remarks at the expense of his domestic physician, who had predicted a second opera-
-²See also Confessions, bk. ix. 16.
-³See Confessions, passim.
+²See also Confessions, bk. ix. 16.\
+³See Confessions, passim.\
 ⁴Cleros.
 tion. To make a long story short, after a number of days had thus uselessly elapsed, the surgeons, wearied and confused, had at last to confess that he could only be cured by the knife. Agitated with excessive fear, he was terrified, and grew pale with dread ; and when he collected himself and was able to speak, he ordered them to go away and never to return. Worn out with weeping, and driven by necessity, it occurred to him to call in an Alexandrian, who was at that time esteemed a wonderfully skilful operator, that he might perform the operation his rage would not suffer them to do. But when he had come, and examined with a professional eye the traces of their careful work, he acted the part of a good man, and persuaded his patient to allow those same hands the satisfaction of finishing his cure which had begun it with a skill that excited his admiration, adding that there was no doubt his only hope of a cure was by an operation, but that it was thoroughly inconsistent with his nature to win the credit of the cure by doing the little that remained to be done, and rob of their reward men whose consummate skill, care, and diligence he could not but admire when he saw the traces of their work. They were therefore again received to favour; and it was agreed that, in the presence of the Alexandrian, they should operate on the fistula, which, by the consent of all, could now only be cured by the knife. The operation was deferred till the following day. But when they had left, there arose in the house such a wailing, in sympathy with the excessive despondency of the master, that it seemed to us like the mourning at a funeral, and we could scarcely repress it. Holy men were in the habit of visiting him daily; Saturninus of blessed memory, at that time bishop of Uzali, and the presbyter Gelosus, and the deacons of the church of Carthage; and among these was the bishop Aurelius, who alone of them all survives—a man to be named by us with due reverence—and with him I have often spoken of this affair, as we conversed together about Ijhe wonderful works of God, and I have found that he distinctly remembers what I am now relating. When these persons visited him that evening according to their custom, he besought them, with pitiable tears, that they would do him the honour of being present next day at what he judged his funeral rather than his suffering. For such was the terror his former pains had produced, that he made no doubt he would die in the hands of the surgeons. They comforted him, and exhorted him to put his trust in God, and nerve his will like a man. Then we went to prayer; but while we, in the usual way, were kneeling and bending to the ground, he cast himself down, as if some one were hurling him violently to the earth, and began to pray ; but in what a manner, with what earnestness and emotion, with what a flood of tears, with what groans and sobs, that shook his whole body, and almost prevented him speaking, who can describe! Whether the others prayed, and had not their attention wholly diverted by this conduct, I do not know. For myself, I could not pray at all. This only I briefly said in my heart: "O Lord, what prayers of Thy people dost Thou hear if Thou hearest not these?" For it seemed to me that nothing could be added to this prayer, unless he expired in praying. We rose from our knees, and, receiving the blessing of the bishop, departed, the patient beseeching his visitors to be present next morning, they exhorting him to keep up his heart. The dreaded day dawned. The servants of God were present, as they had promised to be; the surgeons arrived; all that the circumstances required was ready; the frightful instruments are produced; all look on in wonder and suspense. While those who have most influence with the patient are cheering his fainting spirit, his limbs are arranged on the couch so as to suit the hand of the operator; the knots of the bandages are untied; the part is bared; the surgeon examines it, and, with knife in hand, eagerly looks for the sinus that is to be cut. He searches for it with his eyes; he feels for it with his finger ; he applies every kind of scrutiny: he finds a perfectly firm cicatrix! No words of mine can describe the joy, and praise, and thanksgiving to the merciful and almighty God which was poured from the lips of all, with tears of gladness. Let the scene be imagined rather than described!
 In the same city of Carthage lived Innocentia, a very devout woman of the highest rank in the state. She had cancer in one of her breasts, a disease which, as physicians say, is incurable. Ordinarily, therefore, they either amputate, and so separate from the body the member on which the disease has seized, or, that the patient's life may be prolonged a little, though death is inevitable even if somewhat delayed, they abandon all remedies, following, as they say, the advice of Hippocrates. This the lady we speak of had been advised to by a skilful physician, who was intimate with her family; and she betook herself to God alone by prayer. On the approach of Easter, she was instructed in a dream to wait for the first woman that came out from the baptistery after being baptized, and to ask her to make the sign of Christ upon her sore. She did so, and was immediately cured. The physician who had advised her to apply no remedy if she wished to live a little longer, when he had examined her after this, and found that she who. on his former examination, was afflicted with that disease was now perfectly cured, eagerly asked her what remedy she had used, anxious, as we may well believe, to discover the drug which should defeat the decision of Hippocrates. But when she told him what had happened, he is said to have replied, with religious politeness, though with a contemptuous tone, and an expression which made her fear he would utter some blasphemy against Christ, "I thought you would make some great discovery to me." She, shuddering at his indifference, quickly replied. "What great thing was it for Christ to heal a cancer, who raised one who had been four days dead?" When, therefore, I had heard this, I was extremely indignant that so great a miracle, wrought in that well-known city, and on a person who was certainly not obscure, should not be divulged, and I considered that she should be spoken to, if not reprimanded on this score. And when she replied to me that she had not kept silence on the subject, I asked the women with whom she was best acquainted whether they had ever heard of this before. They told me they knew nothing of it. "See," I said, "what your not keeping silence amounts to, since not even those who are so familiar with you know of it." And as I had only briefly heard the story, I made her tell how the whole thing happened, from beginning to end. while the other women listened in great astonishment, and glorified God.
@@ -20745,520 +20745,520 @@ Thus ruminating, and thus gazing upon them, sleep overcame me, sleep which oft b
 
 22 CHAUCER: Troilus and Cressida, BK V, STANZA 52-55 127a-b
 
-52
-Thy swevenes eek and al swich fantasye
-Dryf out, and lat hem faren to mischaunce;
-For they procede of thy malencolye,
-That doth thee fele in sleep al this penaunce.
-A straw for alle swevenes signifiaunce!
-God helpe me so, I counte hem not a bene,
+52\
+Thy swevenes eek and al swich fantasye\
+Dryf out, and lat hem faren to mischaunce;\
+For they procede of thy malencolye,\
+That doth thee fele in sleep al this penaunce.\
+A straw for alle swevenes signifiaunce!\
+God helpe me so, I counte hem not a bene,\
 Ther woot no man aright what dremes mene.
 
-53
-For prestes of the temple tellen this,
-That dremes been the revelaciouns
-Of goddes, and as wel they telle, y-wis.
-That they ben infernals illusiouns;
-And leches seyn, that of complexiouns
-Proceden they, or fast, or glotonye.
+53\
+For prestes of the temple tellen this,\
+That dremes been the revelaciouns\
+Of goddes, and as wel they telle, y-wis.\
+That they ben infernals illusiouns;\
+And leches seyn, that of complexiouns\
+Proceden they, or fast, or glotonye.\
 Who woot in sooth thus what they signifye?
 
-54
-Eek othere seyn that thorugh impressiouns,
-As if a wight hath faste a thing in minde.
-That ther-of cometh swiche avisiouns;
-And othere seyn, as they in bokes finde.
-That, after tymes of the yeer by kinde,
-Men dreme, and that th'effect goth by the mone;
+54\
+Eek othere seyn that thorugh impressiouns,\
+As if a wight hath faste a thing in minde.\
+That ther-of cometh swiche avisiouns;\
+And othere seyn, as they in bokes finde.\
+That, after tymes of the yeer by kinde,\
+Men dreme, and that th'effect goth by the mone;\
 But leve no dreem, for it is nought to done.
 
-55
-Wel worth of dremes ay thise olde wyves,
-And treweliche eek augurie of thise foules;
-For fere of which men wenen lese her lyves,
-As ravenes qualm, or shryking of thise oules.
-To trowen on it bothe fals and foul is.
-Alias, alias, so noble a creature
+55\
+Wel worth of dremes ay thise olde wyves,\
+And treweliche eek augurie of thise foules;\
+For fere of which men wenen lese her lyves,\
+As ravenes qualm, or shryking of thise oules.\
+To trowen on it bothe fals and foul is.\
+Alias, alias, so noble a creature\
 As is a man, shal drede swich ordure!
 
-52
-"And all your dreams and other such like folly,
-To deep oblivion let them be consigned;
-For they arise but from your melancholy,
-By which your health is being undermined.
-A straw for all the meaning you can find
-In dreams! They aren't worth a hill of beans,
+52\
+"And all your dreams and other such like folly,\
+To deep oblivion let them be consigned;\
+For they arise but from your melancholy,\
+By which your health is being undermined.\
+A straw for all the meaning you can find\
+In dreams! They aren't worth a hill of beans,\
 For no one knows what dreaming really means.
 
-53
-"Priests in the temples sometimes choose to say
-That dreams come from the Gods as revelations;
-But other times they speak another way,
-And call them hellish false hallucinations!
-And doctors say they come from complications,
-Or fast or surfeit, or any other lie,
+53\
+"Priests in the temples sometimes choose to say\
+That dreams come from the Gods as revelations;\
+But other times they speak another way,\
+And call them hellish false hallucinations!\
+And doctors say they come from complications,\
+Or fast or surfeit, or any other lie,\
 For who knows truly what they signify?
 
-54
-"And others say that through impressions deep,
-As when one has a purpose firm in mind,
-There come these visions in one's sleep;
-And others say that they in old books find,
-That every season hath its special kind
-Of dream, and all depends upon the moon;
+54\
+"And others say that through impressions deep,\
+As when one has a purpose firm in mind,\
+There come these visions in one's sleep;\
+And others say that they in old books find,\
+That every season hath its special kind\
+Of dream, and all depends upon the moon;\
 But all such folk are crazy as a loon!
 
-55
-"Dreams are the proper business of old wives,
-Who draw-their auguries from birds and fowls,
-For which men often fear to lose their lives,
-The raven's croak or mournful shriek of owls!
-O why put trust in bestial shrieks and howls!
-Alas, that noble man should be so brash
+55\
+"Dreams are the proper business of old wives,\
+Who draw-their auguries from birds and fowls,\
+For which men often fear to lose their lives,\
+The raven's croak or mournful shriek of owls!\
+O why put trust in bestial shrieks and howls!\
+Alas, that noble man should be so brash\
 To implicate his mind in such like trash!
 
 22 CHAUCER: Troilus and Cressida, BK V, STANZA 177-186 143b-144b
 
-177
-So on a day he leyde him doun to slepe,
-And so bifel that in his sleep him thoughte,
-That in a forest faste he welk to wepe
-For love of hir that him these peynes wroughte;
-And up and doun as he the forest soughte,
-He mette he saugh a boor with tuskes grete,
+177\
+So on a day he leyde him doun to slepe,\
+And so bifel that in his sleep him thoughte,\
+That in a forest faste he welk to wepe\
+For love of hir that him these peynes wroughte;\
+And up and doun as he the forest soughte,\
+He mette he saugh a boor with tuskes grete,\
 That sleep ayein the bright sonnes hete.
 
-178
-And by this boor, faste in his armes folde,
-Lay kissing ay his lady bright Criseyde:
-For sorwe of which, whan he it gan biholde,
-And for despyt, out of his slepe he breyde,
-And loude he cryde on Pandarus, and seyde,
-"O Pandarus, now knowe I crop and rote!
+178\
+And by this boor, faste in his armes folde,\
+Lay kissing ay his lady bright Criseyde:\
+For sorwe of which, whan he it gan biholde,\
+And for despyt, out of his slepe he breyde,\
+And loude he cryde on Pandarus, and seyde,\
+"O Pandarus, now knowe I crop and rote!\
 I nam but deed, ther nis non other bote!
 
-179
-My lady bright Criseyde hath me bitrayed,
-In whom I trusted most of any wight,
-She elles-where hath now hir herte apayed;
-The blisful goddes, through hir grete might,
-Han in my dreem y-shewed it ful right.
-Thus in my dreem Criseyde I have biholde"—
+179\
+My lady bright Criseyde hath me bitrayed,\
+In whom I trusted most of any wight,\
+She elles-where hath now hir herte apayed;\
+The blisful goddes, through hir grete might,\
+Han in my dreem y-shewed it ful right.\
+Thus in my dreem Criseyde I have biholde"—\
 And al this thing to Pandarus he tolde.
 
-180
-"O my Criseyde, alias! what subtiltee,
-What newe lust, what beautee, what science,
-What wratthe of juste cause have ye
-to me?
-What gilt of me, what fel experience
-Hath fro me raft, alias! thyn advertence?
-O trust, O feyth, O depe aseurance,
+180\
+"O my Criseyde, alias! what subtiltee,\
+What newe lust, what beautee, what science,\
+What wratthe of juste cause have ye\
+to me?\
+What gilt of me, what fel experience\
+Hath fro me raft, alias! thyn advertence?\
+O trust, O feyth, O depe aseurance,\
 Who hath me reft Criseyde, al my plesaunce?
 
-177
-It chanced one day he laid him down to sleep,
-And in his restless slumber, so he thought,
-Within a wood he went to walk and weep,
-For love of her who all this wrong had wrought,
-And down a path, his eyes a vision caught;
-A tusked boar appeared in his sad dreams,
+177\
+It chanced one day he laid him down to sleep,\
+And in his restless slumber, so he thought,\
+Within a wood he went to walk and weep,\
+For love of her who all this wrong had wrought,\
+And down a path, his eyes a vision caught;\
+A tusked boar appeared in his sad dreams,\
 Asleep and lying in the bright sunbeams,
 
-178
-And by this boar, whom in her arms she held,
-Lay Cressida, kissing the fearsome beast.
-And suddenly this vision strange expelled
-All sleep, and from his dreaming thus released,
-Troilus knew all hope for him had ceased.
-"O Pandar," cried he, "now I know the worst!
+178\
+And by this boar, whom in her arms she held,\
+Lay Cressida, kissing the fearsome beast.\
+And suddenly this vision strange expelled\
+All sleep, and from his dreaming thus released,\
+Troilus knew all hope for him had ceased.\
+"O Pandar," cried he, "now I know the worst!\
 I am a man abandoned and accursed!
 
-179
-"My lady Cressida hath me betrayed,
-In whom was all my trust and my delight;
-Her love she hath elsewhere conveyed!
-The blessed Gods above through their great might
-Have in my dreams revealed it to my sight!
-Thus in my dreams I did my love behold—"
+179\
+"My lady Cressida hath me betrayed,\
+In whom was all my trust and my delight;\
+Her love she hath elsewhere conveyed!\
+The blessed Gods above through their great might\
+Have in my dreams revealed it to my sight!\
+Thus in my dreams I did my love behold—"\
 And all the tale to Pandar he then told.
 
-180
-"O Cressida, what baseless treachery,
-What lust of heart, what beauty or what wit—,
-What wrath with just cause have you felt
-towards me ?
-What guilt in me, what thoughts or deeds unfit
-Have caused thy heart away from me to flit ?
-O trust! O faith! O hopes that life inspire!
+180\
+"O Cressida, what baseless treachery,\
+What lust of heart, what beauty or what wit—,\
+What wrath with just cause have you felt\
+towards me ?\
+What guilt in me, what thoughts or deeds unfit\
+Have caused thy heart away from me to flit ?\
+O trust! O faith! O hopes that life inspire!\
 O who hath robbed me of my heart's desire!
 
-181
-"Alas, why did I ever let you go?
-O, by what folly was I thus misled?
-What faith on oaths can I henceforth bestow!
-God knows I was convinced in heart and head,
-That every word was Gospel that you said.
-But treason oft doth show its hateful face
+181\
+"Alas, why did I ever let you go?\
+O, by what folly was I thus misled?\
+What faith on oaths can I henceforth bestow!\
+God knows I was convinced in heart and head,\
+That every word was Gospel that you said.\
+But treason oft doth show its hateful face\
 In those in whom the greatest trust we place.
 
-182
-"What shall I do? What now is left for me?
-There falls on me anew so sharp a pain,
-For which there can be found no remedy, <
-Better to kill myself with these hands twain
-Than in this life of misery remain!
-Death at the least a final peace will send,
+182\
+"What shall I do? What now is left for me?\
+There falls on me anew so sharp a pain,\
+For which there can be found no remedy, <\
+Better to kill myself with these hands twain\
+Than in this life of misery remain!\
+Death at the least a final peace will send,\
 But life is daily death that hath no end !"
 
-183
-Then Pandar answered him, "Alas the while
-That I was born! Have I not said ere this,
-That dreams all sorts of folk all times beguile ?
-And why ? They all interpret them amiss!
-To charge her false on dreams is cowardice,
-Because your dreams rise only from your fear,
+183\
+Then Pandar answered him, "Alas the while\
+That I was born! Have I not said ere this,\
+That dreams all sorts of folk all times beguile ?\
+And why ? They all interpret them amiss!\
+To charge her false on dreams is cowardice,\
+Because your dreams rise only from your fear,\
 And what they mean, you never can make clear.'
 
-184
-"This dream that you have had about a boar,
-It well may be that it doth signify
-Her father, old and of his head so hoar,
-Who near his death doth in the warm sun lie,
-While she for natural grief must weep and cry,
-And kiss him as he lies there on the ground—
+184\
+"This dream that you have had about a boar,\
+It well may be that it doth signify\
+Her father, old and of his head so hoar,\
+Who near his death doth in the warm sun lie,\
+While she for natural grief must weep and cry,\
+And kiss him as he lies there on the ground—\
 This is the way you should your dream expound."
 
-185
-"Perhaps," said Troilus. "I wish I knew
-For certain how to judge my dream aright."
-"I'll tell you then," said Pandar, "what to do!
-Since you know well enough how to endite,
-Bestir yourself and to your lady write.
-I know no better way of finding out
+185\
+"Perhaps," said Troilus. "I wish I knew\
+For certain how to judge my dream aright."\
+"I'll tell you then," said Pandar, "what to do!\
+Since you know well enough how to endite,\
+Bestir yourself and to your lady write.\
+I know no better way of finding out\
 The truth and freeing so your mind of doubt.
 
-186
-"That way you'll know just how things stand,
-for better
-Or worse; for if untrue she means to be,
-She will not send an answer to your letter;
-And if she writes, then you can quickly see
-If she to come again to Troy is free,
-And if she's let and hindered in some way,
+186\
+"That way you'll know just how things stand,\
+for better\
+Or worse; for if untrue she means to be,\
+She will not send an answer to your letter;\
+And if she writes, then you can quickly see\
+If she to come again to Troy is free,\
+And if she's let and hindered in some way,\
 She will explain it all as clear as day.
 
-181
-Alias! why lcet I you from hennes go,
-For which wel neigh out of my wit I breyde?
-Who shal now trowe on any othes mo?
-God wot I wende, O lady bright, Criseyde,
-That every word was gospel that ye seyde!
-But who may bet bigylen, if him liste,
+181\
+Alias! why lcet I you from hennes go,\
+For which wel neigh out of my wit I breyde?\
+Who shal now trowe on any othes mo?\
+God wot I wende, O lady bright, Criseyde,\
+That every word was gospel that ye seyde!\
+But who may bet bigylen, if him liste,\
 Than he on whom men weneth best to triste?
 
-182
-What shal I doon, my Pandarus, alias!
-I fele now so sharpe a newe peyne,
-Sin that ther is no remedie in this cas,
-That bet were it I with myn hondes tweyne
-My-selven slow, than alwey thus to pleyne.
-For through my deeth my wo sholde han an ende,
+182\
+What shal I doon, my Pandarus, alias!\
+I fele now so sharpe a newe peyne,\
+Sin that ther is no remedie in this cas,\
+That bet were it I with myn hondes tweyne\
+My-selven slow, than alwey thus to pleyne.\
+For through my deeth my wo sholde han an ende,\
 Ther every day with lyf my-self I shende."
 
-183
-Pandare answerde and seyde, "alias the whyle
-That I was born; have I not seyd er this,
-That dremes many a maner man bigyle?
-And why? for folk expounden hem a-mis.
-How darstow seyn that fals thy lady is,
-For any dreem, right for thyn owene drede?
+183\
+Pandare answerde and seyde, "alias the whyle\
+That I was born; have I not seyd er this,\
+That dremes many a maner man bigyle?\
+And why? for folk expounden hem a-mis.\
+How darstow seyn that fals thy lady is,\
+For any dreem, right for thyn owene drede?\
 Lat be this thought, thou canst no dremes rede.
 
-184
-Paraunter, ther thou dremest of this boor,
-It may so be that it may signifye
-Hir fader, which that old is and eek hoor,
-Ayein the sonne lyth, on poynt to dye,
-And she for sorwe ginneth wepe and crye,
-And kisseth him, ther he lyth on the grounde;
+184\
+Paraunter, ther thou dremest of this boor,\
+It may so be that it may signifye\
+Hir fader, which that old is and eek hoor,\
+Ayein the sonne lyth, on poynt to dye,\
+And she for sorwe ginneth wepe and crye,\
+And kisseth him, ther he lyth on the grounde;\
 Thus ahuldestow thy dreem a-right expounde."
 
-185
-"How mighte I thanne do?" quod Troilus,
-"To knowe of this, ye, were it never so lyte?"
-"Now seystow wysly," quod this Pandarus,
-"My reed is this, sin thou canst wel endyte,
-That hastely a lettre thou hir wryte,
-Thorugh which thou shalt wel bringen it aboute,
+185\
+"How mighte I thanne do?" quod Troilus,\
+"To knowe of this, ye, were it never so lyte?"\
+"Now seystow wysly," quod this Pandarus,\
+"My reed is this, sin thou canst wel endyte,\
+That hastely a lettre thou hir wryte,\
+Thorugh which thou shalt wel bringen it aboute,\
 To knowe a sooth of that thou art in doute.
 
-186
-And see now why; for this I dar wel
-seyn,
-That if so is that she untrewe be,
-I can not trowe that she wol wryte ayeyn.
-And if she wryte, thou shalt ful sone see,
-As whether she hath any libertee
-To come ayein, or elles in som clause,
+186\
+And see now why; for this I dar wel\
+seyn,\
+That if so is that she untrewe be,\
+I can not trowe that she wol wryte ayeyn.\
+And if she wryte, thou shalt ful sone see,\
+As whether she hath any libertee\
+To come ayein, or elles in som clause,\
 If she be let, she wol assigne a cause.
 
 22 CHAUCER: Troilus and Cressida, BK V, STANZA 207-219 147a-149a
 
-207
-This dreem, of which I told have eek biforn,
-May never come out of his remembraunce;
-He thoughte ay wel he hadde his lady lorn,
-And that Joves, of his purveyaunce,
-Him shewed hadde in sleep the signifiaunce
-Of hir untrouthe and his disaventure,
+207\
+This dreem, of which I told have eek biforn,\
+May never come out of his remembraunce;\
+He thoughte ay wel he hadde his lady lorn,\
+And that Joves, of his purveyaunce,\
+Him shewed hadde in sleep the signifiaunce\
+Of hir untrouthe and his disaventure,\
 And that the boor was shewed him in figure.
 
-208
-For which he for Sibille his suster sente,
-That called was Cassandre eek al aboute;
-And al his dreem he tolde hir er he stente,
-And hir bisoughte assoilen him the doute
-Of the stronge boor, with tuskes stoute;
-And fynally, with-inne a litel stounde,
+208\
+For which he for Sibille his suster sente,\
+That called was Cassandre eek al aboute;\
+And al his dreem he tolde hir er he stente,\
+And hir bisoughte assoilen him the doute\
+Of the stronge boor, with tuskes stoute;\
+And fynally, with-inne a litel stounde,\
 Cassandre him gan right thus his dreem expounde.
 
-209
-She gan first smyle, and seyde, "O brother dere.
-If thou a sooth of this desyrest knowe,
-Thou most a fewe of olde stories here,
-To purpos, how that fortune over-throwe
-Hath lordes olde; through which, with-inne a
-throwe,
-Thou wel this boor shalt knowe, and of what kinde
+209\
+She gan first smyle, and seyde, "O brother dere.\
+If thou a sooth of this desyrest knowe,\
+Thou most a fewe of olde stories here,\
+To purpos, how that fortune over-throwe\
+Hath lordes olde; through which, with-inne a\
+throwe,\
+Thou wel this boor shalt knowe, and of what kinde\
 He comen is, as men in bokes finde.
 
-210
-Diane, which that wrooth was and in ire
-For Grekes nolde doon hir sacrifyse,
-Ne encens up-on hir auter sette a-fyre,
-She, for that Grekes gonne hir so dispyse,
-Wrak hir in a wonder cruel wyse.
-For with a boor as greet as oxe in stalle
+210\
+Diane, which that wrooth was and in ire\
+For Grekes nolde doon hir sacrifyse,\
+Ne encens up-on hir auter sette a-fyre,\
+She, for that Grekes gonne hir so dispyse,\
+Wrak hir in a wonder cruel wyse.\
+For with a boor as greet as oxe in stalle\
 She made up frete hir corn and vynes alle.
 
-211
-To slee this boor was al the contree reysed,
-A-monges which ther com, this boor to see,
-A mayde, oon of this world the best y-preysed;
-And Mcleagre, lord of that contrec,
-He lovede so this fresshe mayden free
-That with his manhod, er he wolde stente,
+211\
+To slee this boor was al the contree reysed,\
+A-monges which ther com, this boor to see,\
+A mayde, oon of this world the best y-preysed;\
+And Mcleagre, lord of that contrec,\
+He lovede so this fresshe mayden free\
+That with his manhod, er he wolde stente,\
 This boor he slow, and hir the heed he sente;
 
-212
-Of which, as olde bokes tellen us,
-Ther roos a contek and a greet envye;
-And of this lord descended Tydeus
-By ligne, or elles olde bokes lye;
-But how this Meleagre gan to dye
-Thorugh his moder, wol I yow not telle,
+212\
+Of which, as olde bokes tellen us,\
+Ther roos a contek and a greet envye;\
+And of this lord descended Tydeus\
+By ligne, or elles olde bokes lye;\
+But how this Meleagre gan to dye\
+Thorugh his moder, wol I yow not telle,\
 For al to long it were for to dwelle."
 
-213
-She tolde eek how Tydeus, er she stente,
-Un-to the stronge citee of Thebes,
-To cleyme kingdom of the citee, wente,
-For his felawe, daun Polymites,
-Of which the brother, daun Ethyocles,
-Ful wrongfully of Thebes held the strengthe;
+213\
+She tolde eek how Tydeus, er she stente,\
+Un-to the stronge citee of Thebes,\
+To cleyme kingdom of the citee, wente,\
+For his felawe, daun Polymites,\
+Of which the brother, daun Ethyocles,\
+Ful wrongfully of Thebes held the strengthe;\
 This tolde she by proces, al by lengthe.
 
-214
-She tolde eek how Hemonides asterte,
-Whan Tydeus slough fifty knightes stoute.
-She tolde eek al the prophesyes by herte,
-And how that sevene kinges, with hir route,
-Bisegeden the citee al aboute;
-And of the holy serpent, and the welle,
+214\
+She tolde eek how Hemonides asterte,\
+Whan Tydeus slough fifty knightes stoute.\
+She tolde eek al the prophesyes by herte,\
+And how that sevene kinges, with hir route,\
+Bisegeden the citee al aboute;\
+And of the holy serpent, and the welle,\
 And of the furies, al she gan him telle.
 
-215
-Of Archimoris buryinge and the pleyes,
-And how Amphiorax fil through the grounde,
-How Tydeus was slayn, lord of Argeyes,
-And how Ypomedoun in litel stounde
-Was dreynt, and deed Parthonope of wounde;
-And also how Cappaneus the proude
+215\
+Of Archimoris buryinge and the pleyes,\
+And how Amphiorax fil through the grounde,\
+How Tydeus was slayn, lord of Argeyes,\
+And how Ypomedoun in litel stounde\
+Was dreynt, and deed Parthonope of wounde;\
+And also how Cappaneus the proude\
 With thonder-dint was slayn, that cryde loude.
 
-216
-She gan eek telle him how that either brother,
-Ethyocles and Polimyte also,
-At a scarmyche, eche of hem slough other,
-And of Argyves wepinge and hir wo;
-And how the town was brent she tolde eek tho.
-And so descendeth doun from gestes olde
+216\
+She gan eek telle him how that either brother,\
+Ethyocles and Polimyte also,\
+At a scarmyche, eche of hem slough other,\
+And of Argyves wepinge and hir wo;\
+And how the town was brent she tolde eek tho.\
+And so descendeth doun from gestes olde\
 To Diomede, and thus she spak and tolde.
 
-217
-"This ilke boor bitokneth Diomede,
-Tydeus sone, that doun descended is
-Fro Meleagre, that made the boor to blede.
-And thy lady, wher-so she be, y-wis,
-This Diomede hir herte hath, and she his.
-Weep if thou wolt, or leef; for, out of doute,
+217\
+"This ilke boor bitokneth Diomede,\
+Tydeus sone, that doun descended is\
+Fro Meleagre, that made the boor to blede.\
+And thy lady, wher-so she be, y-wis,\
+This Diomede hir herte hath, and she his.\
+Weep if thou wolt, or leef; for, out of doute,\
 This Diomede is inne, and thou art oute."
 
-218
-"Thou seyst nat soth," quod he, "thou sorceresse,
-With al thy false goost of prophesye!
-Thou wenest been a greet devyneresse;
-Now seestow not this fool of fantasye
-Peyneth hir on ladyes for to lye?
-Awey," quod he, "ther Joves yeve thee sorwe!
+218\
+"Thou seyst nat soth," quod he, "thou sorceresse,\
+With al thy false goost of prophesye!\
+Thou wenest been a greet devyneresse;\
+Now seestow not this fool of fantasye\
+Peyneth hir on ladyes for to lye?\
+Awey," quod he, "ther Joves yeve thee sorwe!\
 Thou shalt be fals, paraunter, yet to-morwe!
 
-219
-As wel thou mightest lyen on Alceste,
-That was of creatures, but men lye,
-That ever weren, kindest and the beste.
-For whanne hir housbonde was in jupartye
-To dye him-self, but-if she wolde dye,
-She chees for him to dye and go to helle,
+219\
+As wel thou mightest lyen on Alceste,\
+That was of creatures, but men lye,\
+That ever weren, kindest and the beste.\
+For whanne hir housbonde was in jupartye\
+To dye him-self, but-if she wolde dye,\
+She chees for him to dye and go to helle,\
 And starf anoon, as us the bokes telle."
 
-207
-This dream, of which I have already told,
-He never from his fancy could expel,
-Nor could he doubt his lady had grown cold,
-Nor yet that Jove had taken means to tell
-By dreams, when heavy sleep upon him fell,
-Of her untruth and his disastrous fate-
+207\
+This dream, of which I have already told,\
+He never from his fancy could expel,\
+Nor could he doubt his lady had grown cold,\
+Nor yet that Jove had taken means to tell\
+By dreams, when heavy sleep upon him fell,\
+Of her untruth and his disastrous fate-\
 All which the boar was meant to indicate.
 
-208
-Then for his sister Sibly straight he sent,
-Known also as Cassandra round about,
-And told his dream to her just at it went,
-And asked her to resolve his mind of doubt,
-Concerning this great boar with tusks so stout;
-And soon as she the meaning of it found,
+208\
+Then for his sister Sibly straight he sent,\
+Known also as Cassandra round about,\
+And told his dream to her just at it went,\
+And asked her to resolve his mind of doubt,\
+Concerning this great boar with tusks so stout;\
+And soon as she the meaning of it found,\
 She thus began his vision to expound.
 
-209
-Smiling a prophet's smile, "O brother dear,"
-She said, "if you the truth will really know,
-Then you must first a few old stories hear,
-Which tell how fortune once did overthrow
-Some lords of old, and thereby I shall
-show
-And tell you whence this boar, and of what kind,
+209\
+Smiling a prophet's smile, "O brother dear,"\
+She said, "if you the truth will really know,\
+Then you must first a few old stories hear,\
+Which tell how fortune once did overthrow\
+Some lords of old, and thereby I shall\
+show\
+And tell you whence this boar, and of what kind,\
 As in the books the story you may find.
 
-210
-"Diana, filled with anger and with ire,
-Because the Greeks withheld her sacrifice,
-Nor on her altar set incense afire,
-In vengeance made them pay a cruel price,
-And this, in long and short, was her device,
-She let a boar, as great as ox in stall,
+210\
+"Diana, filled with anger and with ire,\
+Because the Greeks withheld her sacrifice,\
+Nor on her altar set incense afire,\
+In vengeance made them pay a cruel price,\
+And this, in long and short, was her device,\
+She let a boar, as great as ox in stall,\
 Devour their growing corn and vines and all.
 
-211
-"To slay this boar the countryside was raised,
-And thereamong came one, the boar to see,
-A maiden whom all in that region praised;
-And Mcleager, lord of that country.
-So loved this maiden, fair and fresh and free,
-That into battle with this boar he went.
+211\
+"To slay this boar the countryside was raised,\
+And thereamong came one, the boar to see,\
+A maiden whom all in that region praised;\
+And Mcleager, lord of that country.\
+So loved this maiden, fair and fresh and free,\
+That into battle with this boar he went.\
 And killing it, its head unto her sent.
 
-212
-"From this, as ancient writers tell to us.
-There rose a contest and a warfare high.
-And from this lord descended Tydeus,
-By line direct, as no one can deny;
-But how this Meleager came to die
-Through his own mother, that I shall not tell,
+212\
+"From this, as ancient writers tell to us.\
+There rose a contest and a warfare high.\
+And from this lord descended Tydeus,\
+By line direct, as no one can deny;\
+But how this Meleager came to die\
+Through his own mother, that I shall not tell,\
 For on that tale it were too long to dwell."
 
-213
-How Tydeus made warfare Sibyl told,
-At Thebes, that ancient city and so strong,
-Maintaining that to Polynices bold,
-The Theban city did by right belong,
-And that Eteocles, his brother, wrong
-Had done, in holding Thebes by strength—
+213\
+How Tydeus made warfare Sibyl told,\
+At Thebes, that ancient city and so strong,\
+Maintaining that to Polynices bold,\
+The Theban city did by right belong,\
+And that Eteocles, his brother, wrong\
+Had done, in holding Thebes by strength—\
 All this she told to him and at great length.
 
-214
-She also told about Haemonides,
-When Tydeus slew fifty knights so stout,
-And told of all the wondrous prophecies,
-And how the seven kings for Thebes set out,
-And then besieged the city round about,
-And of the holy serpent and the well,
+214\
+She also told about Haemonides,\
+When Tydeus slew fifty knights so stout,\
+And told of all the wondrous prophecies,\
+And how the seven kings for Thebes set out,\
+And then besieged the city round about,\
+And of the holy serpent and the well,\
 And of the Furies, all this did she tell;
 
-215
-And Archemorus' death and funeral plays,
-And how Amphiorax fell through the ground,
-How Tydeus was slain and closed his days,
-And also how Ipomedon was drowned,
-And Parthenope final death wound found,
-And how Capaneus, the strong and proud,
+215\
+And Archemorus' death and funeral plays,\
+And how Amphiorax fell through the ground,\
+How Tydeus was slain and closed his days,\
+And also how Ipomedon was drowned,\
+And Parthenope final death wound found,\
+And how Capaneus, the strong and proud,\
 Was slain by stroke of thunder, sounding loud.
 
-216
-And then she told the tale how either brother,
-Eteocles and Polynices true,
-How each of them in skirmish killed the other,
-And how Argia wept and made ado;
-The burning of the town did she review,
-And so descended down from stories old
+216\
+And then she told the tale how either brother,\
+Eteocles and Polynices true,\
+How each of them in skirmish killed the other,\
+And how Argia wept and made ado;\
+The burning of the town did she review,\
+And so descended down from stories old\
 To Diomede, and of him thus she told.
 
-217
-"This boar you dreamed of stands for Diomede,
-Tydeus' son, of Meleager's line,
-Who killed the boar and won fame by that deed;
-Thy lady, if in fact she once was thine,
-With Diomede in love doth now combine;
-Be glad or sad, but there can be no doubt,
+217\
+"This boar you dreamed of stands for Diomede,\
+Tydeus' son, of Meleager's line,\
+Who killed the boar and won fame by that deed;\
+Thy lady, if in fact she once was thine,\
+With Diomede in love doth now combine;\
+Be glad or sad, but there can be no doubt,\
 This Diomede is in and you are out."
 
-218
-"That isn't true," he cried, "thou sorceress!
-False is the spirit of thy prophecy,
-And all the priestly cunning you profess!
-Your wickedness is plain and clear to see,
-To stain a lady's name with falsity!
-Away," he cried, "may Jove increase your sorrow,
+218\
+"That isn't true," he cried, "thou sorceress!\
+False is the spirit of thy prophecy,\
+And all the priestly cunning you profess!\
+Your wickedness is plain and clear to see,\
+To stain a lady's name with falsity!\
+Away," he cried, "may Jove increase your sorrow,\
 For you are false today and false tomorrow!
 
-219
-"As well defame the beautiful Alceste,
-Who was, unless all history doth lie,
-Of human kind the truest and the best,
-For when her husband was about to die,
-Unless his place she would herself supply.
-For him she chose to die and go to hell,
+219\
+"As well defame the beautiful Alceste,\
+Who was, unless all history doth lie,\
+Of human kind the truest and the best,\
+For when her husband was about to die,\
+Unless his place she would herself supply.\
+For him she chose to die and go to hell,\
 And in his stead, among the dead to dwell."
 
 22 CHAUCER: Troilus and Cressida, BK V, STANZA 245 152a
 
-245
-"Thou, Pandar, who didst often fret and chide,
-Because my dreams seemed credible to me,
-O, would that more on them I had relied,
-For now you see your niece's falsity!
-In sundry ways both joy and misery
-The Gods reveal in sleep for our behoof,
+245\
+"Thou, Pandar, who didst often fret and chide,\
+Because my dreams seemed credible to me,\
+O, would that more on them I had relied,\
+For now you see your niece's falsity!\
+In sundry ways both joy and misery\
+The Gods reveal in sleep for our behoof,\
 And here my dreams provide for this a proof.
 
-245
-O Pandare, that in dremes for to triste
-Me blamed hast, and wont art ofte upbreyde,
-Now maystow see thy-selve, if that thee liste,
-How trewe is now thy nece, bright Criseyde!
-In sondry formes, god it woot," he seyde,
-"The goddes shewen bothe joye and tene
+245\
+O Pandare, that in dremes for to triste\
+Me blamed hast, and wont art ofte upbreyde,\
+Now maystow see thy-selve, if that thee liste,\
+How trewe is now thy nece, bright Criseyde!\
+In sondry formes, god it woot," he seyde,\
+"The goddes shewen bothe joye and tene\
 In slepe, and by my dreme it is now sene.
 
 ## 23 HOBBES: Leviathan, PART I, 51b-52a; 80b-d; 81d-82b; PART II, 160b; PART III, 165d-167a; 177a-c; 183b-187a; 188a-191a
@@ -21287,8 +21287,8 @@ From the difference between the other two kinds of God's word, rational and prop
 23 HOBBES: Leviathan, PART III, 165d-167a
 For to say that God hath spoken to him in the Holy Scripture is not to say God hath spoken to him immediately, but by mediation of the prophets, or of the Apostles, or of the Church, in such manner as He speaks to all other Christian men. To say He hath spoken to him in a dream is no more than to say he dreamed that God spake to him; which is not of force to win belief from any man that knows dreams are for the most part natural, and may proceed from former thoughts; and such dreams as that, from self-conceit, and fooHsh arrogance, and false opinion of a man's own goodliness, or other virtue, by which he thinks he hath merited the favour of extraordinary revelation. To say he hath seen a vision, or heard a voice, is to say that he dreamed between sleepingand waking: for in such manner a man doth many times naturally take his dream for a vision, as not having well observed his own slumbering. To say he speaks by supernatural inspiration is to say he finds an ardent desire to speak, or some strong opinion of himself, for which he can allege no natural and sufficient reason. So that though God Almighty can speak to a man by dreams, visions, voice, and inspiration, yet He obliges no man to believe He hath so done to him that pretends it; who, being a man, may err and, which is more, may lie.
 How then can he to whom God hath never revealed His will immediately (saving by the way of natural reason) know when he is to obey or not to obey His word, delivered by him that says he is a prophet? Of four hundred prophets, of whom the King of Israel asked counsel concerning the war he made against Ramoth Gilead, only Micaiah was a true one.¹ The prophet that was sent to prophesy against the altar set up by Jeroboam,² though a true prophet, and that by two miracles done in his presence appears to be a prophet sent from God, was yet deceived by another old prophet that persuaded him, as from the mouth of God, to eat and drink with him. If one prophet deceive another, what certainty is there of knowing the will of God by other way than that of reason? To which I answer out of the Holy Scripture that there be two marks by which together, not asunder, a true prophet is to be known. One is the doing of miracles; the other is the not teaching any other religion than that which is already established. Asunder, I say, neither of these is sufficient. "If a prophet rise amongst you, or a dreamer of dreams, and shall pretend the doing of a miracle, and the miracle come to pass; if he say, Let us follow strange gods, which thou hast not known, thou shalt not hearken to him, etc. But that prophet and dreamer of dreams shall be put to death, because he hath spoken to you to revolt from the Lord your God.”³ In which words two things are to be observed; first, that God will not have miracles alone serve for arguments to approve the
-¹I Kings, 22.
-²Ibid., 13.
+¹I Kings, 22.\
+²Ibid., 13.\
 ³Deuteronomy, 13. 1-5.
 prophet's calling; but (as it is in the third verse) for an experiment of the constancy of our adherence to Himself. For the works of the Egyptian sorcerers, though not so great as those of Moses, yet were great miracles. Secondly, that how great soever the miracle be, yet if it tend to stir up revolt against the king or him that governeth by the king's authority, he that doth such miracle is not to be considered otherwise than as sent to make trial of their allegiance. For these words, revolt from the Lord your God, are in this place equivalent to revolt from your king. For they had made God their king by pact at the foot of Mount Sinai; who ruled them by Moses only; for he only spake with God, and from time to time declared God's commandments to the people. In like manner, after our Saviour Christ had made his Disciples acknowledge him for the Messiah (that is to say, for God's anointed, whom the nation of the Jews daily expected for their king, but refused when he came), he omitted not to advertise them of the danger of miracles. "There shall arise," saith he, "false Christs, and false prophets, and shall do great wonders and miracles, even to the seducing (if it were possible) of the very elect."⁴ By which it appears that false prophets may have the power of miracles; yet are we not to take their doctrine for God's word. St. Paul says further to the Galatians that "if himself or an angel from heaven preach another Gospel to them than he had preached, let him be accursed."⁵ That Gospel was that Christ was King; so that all preaching against the power of the king received, in consequence to these words, is by St. Paul accursed. For his speech is addressed to those who by his preaching had already received Jesus for the Christ, that is to say, for King of the Jews.
 And as miracles, without preaching that doctrine which God hath established; so preaching the true doctrine, without the doing of miracles, is an insufficient argument of immediate revelation. For if a man that teacheth not false doctrine should pretend to be a prophet without showing any miracle, he is never the more to be regarded for his pretence, as is evident by Deuteronomy, 18.21, 22: "If thou say in thy heart, How shall we know that the word" (of the prophet) "is not that which the Lord hath spoken? When the prophet shall have spoken in the name of the Lord, that which shall not come to pass, that is the word which the Lord hath not
@@ -21309,34 +21309,34 @@ And although there be so many significations in Scripture of the word prophet; y
 ¹⁰Psalms, 94. 9.
 clare, as far as our capacity can conceive His almighty power. But if it were to be taken in the strict and proper sense, one might argue from his making of all other parts of man's body that he had also the same use of them which we have; which would be many of them so uncomely as it would be the greatest contumely in the world to ascribe them to Him. Therefore we are to interpret God's speaking to men immediately for that way, whatsoever it be, by which God makes them understand His will: and the ways whereby He doth this are many, and to be sought only in the Holy Scripture; where though many times it be said that God spake to this and that person, without declaring in what manner, yet there be again many places that deliver also the signs by which they were to acknowledge His presence and commandment; and by these may be understood how He spake to many of the rest.
 In what manner God spake to Adam, and Eve, and Cain, and Noah is not expressed; nor how he spake to Abraham, till such time as he came out of his own country to Sichem in the land of Canaan, and then God is said to have appeared to him.¹ So there is one way whereby God made His presence manifest; that is, by an apparition, or vision. And again, the word of the Lord came to Abraham in a vision";² that is to say, somewhat, as a sign of God's presence, appeared as God's messenger to speak to him. Again, the Lord appeared to Abraham by an apparition of three angels;³ and to Abimelech in a dream;⁴ to Lot by an apparition of two angels;⁵ and to Hagar by the apparition of one angel;⁶ and to Abraham again by the apparition of a voice from heaven;⁷ and to Isaac in the night⁸ (that is, in his sleep, or by dream); and to Jacob in a dream;⁹ that is to say (as are the words of the text), "Jacob dreamed that he saw a ladder," etc. And in a vision of angels;¹⁰ and to Moses in the apparition of a flame of fire out of the midst of a bush;¹¹ and after the time of Moses, where the manner how God spake immediately to man in the Old Testa-
-¹Genesis, 12. 7.
-²Genesis, 15. 1.
-³Ibid., 18. 1.
-⁴Ibid., 20. 3.
-⁵Ibid., 19. 1.
-⁶Ibid., 21. 17.
-⁷Ibid., 22. 11.
-⁸Ibid., 26. 24.
-⁹Ibid., 28. 12.
-¹⁰Ibid., 32.1.
+¹Genesis, 12. 7.\
+²Genesis, 15. 1.\
+³Ibid., 18. 1.\
+⁴Ibid., 20. 3.\
+⁵Ibid., 19. 1.\
+⁶Ibid., 21. 17.\
+⁷Ibid., 22. 11.\
+⁸Ibid., 26. 24.\
+⁹Ibid., 28. 12.\
+¹⁰Ibid., 32.1.\
 ¹¹Exodus, 3. 2.
 ment is expressed. He spake always by a vision, or by a dream; as to Gideon, Samuel, Eliah, Elisha, Isaiah, Ezekiel, and the rest of the prophets; and often in the New Testament, as to Joseph, to St. Peter, to St. Paul, and to St. John the Evangelist in the Apocalypse.
 Only to Moses He spake in a more extraordinary manner in Mount Sinai, and in the Tabernacle; and to the high priest in the Tabernacle, and in the sanctum, sanctorum of the Temple. But Moses, and after him the high priests, were prophets of a more eminent place and degree in God's favour; and God Himself in express words declareth that to other prophets He spake in dreams and visions, but to His servant Moses in such manner as a manspeaketh to his friend. The words are these: "If there be a prophet among you, I the Lord will make Myself known to him in a vision, and will speak unto him in a dream. My servant Moses is not so, who is faithful in all my house; with him I will speak mouth to mouth, even apparently, not in dark speeches; and the similitude of the Lord shall he behold."¹² And, "The Lord spake to Moses face to face, as a man speaketh to his friend."¹³ And yet this speaking of God to Moses was by mediation of an angel, or angels, as appears expressly. Acts 7. 35 and 53, and Galatians, 3. 19, and was therefore a vision, though a more clear vision than was given to other prophets. And conformable hereunto, where God saith, "If there arise amongst you a prophet, or dreamer of dreams," ¹⁴ the latter word is but the interpretation of the former. And, "Your sons and your daughters shall prophesy; your old men shall dream dreams, and your young men shall see visions":¹⁵ where again, the word prophesy is expounded by dream and vision. And in the same manner it was that God spake to Solomon, promising him wisdom, riches, and honour; for the text saith, "And Solomon awoke, and behold it was a dream":¹⁶ so that generally the prophets extraordinary in the Old Testament took notice of the word of God no otherwise than from their dreams or visions; that is to say, from the imaginations which they had in their sleep or in an ecstasy: which imaginations in every true prophet were supernatural, but in false prophets were either natural or feigned.
-The same prophets were nevertheless said to
-¹²Numbers, 12. 6, 7, 8.
-¹³Exodus, 33. II.
-¹⁴Deuteronomy, 13. 1.
-¹⁵Joel, 2. 28.
+The same prophets were nevertheless said to\
+¹²Numbers, 12. 6, 7, 8.\
+¹³Exodus, 33. II.\
+¹⁴Deuteronomy, 13. 1.\
+¹⁵Joel, 2. 28.\
 ¹⁶I Kings, 3. 15.
 speak by the spirit; as where the prophet, speaking of the Jews, saith, "They made their hearts hard as adamant, lest they should hear the law, and the words which the Lord of Hosts hath sent in His Spirit by the former prophets." ¹ By which it is manifest that speaking by the spirit or inspiration was not a particular manner of God's speaking, different from vision, when they that were said to speak by the Spirit were extraordinary prophets, such as for every new message were to have a particular commission or, which is all one, a new dream or vision.
 Of prophets that were so by a perpetual calling in the Old Testament, some were supreme and some subordinate: supreme were first Moses, and after him the high priests, every one for his time, as long as the priesthood was royal; and after the people of the Jews had rejected God, that He should no more reign over them, those kings which submitted themselves to God's government were also his chief prophets; and the high priest's office became ministerial. And when God was to be consulted, they put on the holy vestments, and enquired of the Lord as the king commanded them, and were deprived of their office when the king thought fit. For King Saul commanded the burnt offering to be brought;² and he commands the priest to bring the Ark near him;³ and, again, to let it alone, because he saw an advantage upon his enemies.⁴ And in the same chapter Saul asketh counsel of God. In like manner King David, after his being anointed, though before he had possession of the kingdom, is said to "enquire of the Lord" whether he should fight against the Philistines at Keilah;⁵ and David commandeth the priest to bring him the ephod, to enquire whether he should stay in Keilah or not.⁶ And King Solomon took the priesthood from Abiathar,⁷ and gave it to Zadok.⁸ Therefore Moses, and the high priests, and the pious kings, who enquired of God on all extraordinary occasions how they were to carry themselves, or what event they were to have, were all sovereign prophets. But in what manner God spake unto them is not manifest. To say that when Moses went up to God in Mount
-¹Zechariah, 7. 12.
-²I Samuel, 13. 9.
-³Ibid., 14. 18.
-⁴Ibid., 14. 19.
-⁵I Samuel, 23. 2.
-⁶Ibid., 23. 9.
-⁷I Kings, 2. 27.
+¹Zechariah, 7. 12.\
+²I Samuel, 13. 9.\
+³Ibid., 14. 18.\
+⁴Ibid., 14. 19.\
+⁵I Samuel, 23. 2.\
+⁶Ibid., 23. 9.\
+⁷I Kings, 2. 27.\
 ⁸Ibid., 2. 35.
 Sinai it was a dream, or vision, such as other prophets had, is contrary to that distinction which God made between Moses and other prophets.⁹ To say God spake or appeared as He is in His own nature is to deny Hisinfiniteness, invisibility, incomprehensibility. To say he spake by inspiration, or infusion of the Holy Spirit, as the Holy Spirit signifieth the Deity, is to make Moses equal with Christ, in whom only the Godhead, as St. Paul speaketh, dwelleth bodily.¹⁰ And lastly, to say he spake by the Holy Spirit, as it signifieth the graces or gifts of the Holy Spirit, is to attribute nothing to him supernatural. For God disposeth men to piety, justice, mercy, truth, faith, and all manner of virtue, both moral and intellectual, by doctrine, example, and by several occasions, natural and ordinary.
 And as these ways cannot be applied to God, in His speaking to Moses at Mount Sinai; so also they cannot be applied to Him in His speaking to the high priests from the mercy-seat. Therefore in what manner God spake to those sovereign prophets of the Old Testament, whose office it was to enquire of Him, is not intelligible. In the time of the New Testament there was no sovereign prophet but our Saviour, who was both God that spake, and the prophet to whom He spake.
@@ -21346,21 +21346,21 @@ In the time of Moses, there were seventy men besides himself that prophesied in 
 ¹⁰Colossians, 2. 9.
 a cloud, and spake unto Moses, and took of the spirit that was upon him, and gave it to the seventy elders. And it came to pass, when the spirit rested upon them, they prophesied, and did not cease." By which it is manifest, first, that their prophesying to the people was subservient and subordinate to the prophesying of Moses; for that God took of the spirit of Moses to put upon them; so that they prophesied as Moses would have them: otherwise they had not been suffered to prophesy at all. For there was a complaint made against them to Moses; ¹ and Joshua would have Moses to have forbidden them; which he did not, but said to Joshua, "Be not jealous in my behalf." Secondly, that the Spirit of God in that place signifieth nothing but the mind and disposition to obey and assist Moses in the administration of the government. For if it were meant they had the substantial Spirit of God; that is, the divine nature, inspired into them, then they had it in no less manner than Christ himself, in whom only the Spirit of God dwelt bodily. It is meant therefore of the gift and grace of God, that guided them to co-operate with Moses, from whom their spirit was derived. And it appeareth that they were such as Moses himself should appoint for elders and officers of the people: for the words are, "Gather unto me seventy men, whom thou knowest to be elders and officers of the people":² where, thou knowest is the same with thou appointest, or hast appointed to be such. For we are told before that Moses, following the counsel of Jethro his father-in-law, did appoint judges and officers over the people such as feared God;³ and of these were those seventy whom God, by putting upon them Moses' spirit, inclined to aid Moses in the administration of the kingdom: and in this sense the spirit of God is said presently upon the anointing of David to have come upon David, and left Saul;⁴ God giving His graces to him He chose to govern His people, and taking them away from him He rejected. So that by the spirit is meant inclination to God's service, and not any supernatural revelation.
 God spake also many times by the event of lots, which were ordered by such as He had put in authority over His people. So we read that God manifested by the lots which Saul caused to be drawn the fault that Jonathan had committed in eating a honeycomb, contrary to the
-¹Numbers, ii. 27.
-²Ibid.. II. 16.
-³Exodus, 18. [24,25].
+¹Numbers, ii. 27.\
+²Ibid.. II. 16.\
+³Exodus, 18. [24,25].\
 ⁴I Samuel, 16. 13, 14.
 oath taken by the people.⁵ And God divided the land of Canaan amongst the Israelites by the "lots that Joshua did cast before the Lord in Shiloh." ⁶ In the same manner it seemeth to be that God discovered the crime of Achan.⁷ And these are the ways whereby God declared His will in the Old Testament.
 All which ways He used also in the New Testament. To the Virgin Mary, by a vision of an angel; to Joseph, in a dream; again to Paul, in the way to Damascus in a vision of our Saviour; and to Peter in the vision of a sheet let down from heaven with diverse sorts of flesh of clean and unclean beasts; and in prison, by vision of an angel; and to all the Apostles and writers of the New Testament, by the graces of His Spirit; and to the Apostles again, at the choosing of Matthias in the place of Judas Iscariot, by lot.
 Seeing then all prophecy supposeth vision or dream (which two, when they be natural, are the same), or some especial gift of God so rarely observed in mankind as to be admired where observed; and seeing as well such gifts as the most extraordinary dreams and visions may proceed from God, not only by His supernatural and immediate, but also by his natural operation, and by mediation of second causes; there is need of reason and judgement to discern between natural and supernatural gifts, and between natural and supernatural visions or dreams. And consequently men had need to be very circumspect, and wary, in obeying the voice of man that, pretending himself to be a prophet, requires us to obey God in that way which he in God's name telleth us to be the way to happiness. For he that pretends to teach men the way of so great felicity pretends to govern them; that is to say, to rule and reign over them; which is a thing that all men naturally desire, and is therefore worthy to be suspected of ambition and imposture; and consequently ought to be examined and tried by every man before he yield them obedience, unless he have yielded it them already in the institution of a Commonwealth; as when the prophet is the civil sovereign, or by the civil sovereign authorized. And if this examination of prophets and spirits were not allowed to every one of the people, it had been to no purpose to set out the marks by which every man might be able to distinguish between those whom they ought, and those whom they ought not to follow. Seeing there-
-⁵I Samuel, 14. 43.
-⁶Joshua, 18. 10.
+⁵I Samuel, 14. 43.\
+⁶Joshua, 18. 10.\
 ⁷Ibid., 7. 16, etc.
 fore such marks are set out to know a prophet by,¹ and to know a spirit by;² and seeing there is so much prophesying in the Old Testament, and so much preaching in the New Testament against prophets, and so much greater a number ordinarily of false prophets than of true; every one is to beware of obeying their directions at their own peril. And first, that there were many more false than true prophets appears by this, that when Ahab consulted four hundred prophets, they were all false impostors, but only one Micaiah.³ And a little before the time of the Captivity the prophets were generally liars. "The prophets," saith the Lord by Jeremiah, "prophesy lies in my name. I sent them not, neither have I commanded them, nor spake unto them: they prophesy to you a false vision, a thing of naught, and the deceit of their heart." ⁴ Insomuch as God commanded the people by the mouth of the prophet Jeremiah not to obey them. "Thus saith the Lord of Hosts, hearken not unto the words of the prophets that prophesy to you. They make you vain: they speak a vision of their own heart, and not out of the mouth of the Lord." ⁵
-¹Deuteronomy, 13. I, etc.
-²I John, 4. I, etc.
-³I Kings, 22.
-⁴Jeremiah, 14. 14.
+¹Deuteronomy, 13. I, etc.\
+²I John, 4. I, etc.\
+³I Kings, 22.\
+⁴Jeremiah, 14. 14.\
 ⁵Ibid., 23. 16.
 Seeing then there was in the time of the Old Testament such quarrels amongst the visionary prophets, one contesting with another, and asking, "When departed the spirit from me, to go to thee?" as between Micaiah and the rest of the four hundred; and such giving of the lie to one another, as in Jeremiah, 14. 14, and such controversies in the New Testament at this day amongst the spiritual prophets: every man then was, and now is, bound to make use of his natural reason to apply to all prophecy those rules which God hath given us to discern the true from the false. Of which rules, in the Old Testament, one was conformable doctrine to that which Moses the sovereign prophet had taught them; and the other, the miraculous power of foretelling what God would bring to pass, as I have already shown out of Deuteronomy, 13. i, etc. And in the New Testament there was but one only mark, and that was the preaching of this doctrine that Jesus is the Christ, that is, the King of the Jews, promised in the Old Testament. Whosoever denied that article, he was a false prophet, whatsoever miracles he might seem to work; and he that taught it was a true prophet. For St. John, speaking expressly of the means to examine spirits, whether they be of God or not, after he had told them that there would arise false prophets, saith thus, "Hereby know ye the Spirit of God. Every spirit that confesseth that Jesus Christ is come in the flesh, is of God";⁶ that is, is approved and allowed as a prophet of God: not that he is a godly man, or one of the elect for this that he confesseth, professeth, or preacheth Jesus to be the Christ, but for that he is a prophet avowed. For God sometimes speaketh by prophets whose persons He hath not accepted; as He did by Baalam, and as He foretold Saul of his death by the Witch of Endor. Again in the next verse, "Every spirit that confesseth not that Jesus Christ is come in the flesh, is not of Christ. And this is the spirit of Antichrist." So that the rule is perfect on both sides: that he is a true prophet which preacheth the Messiah already come, in the person of Jesus; and he a false one that denieth him come, and looketh for him in some future impostor that shall take upon him that honour falsely, whom the Apostle there properly calleth Antichrist. Every man therefore ought to consider who is the sovereign prophet; that is to say, who it is that is God's vicegerent on earth, and hath next under God the authority of governing Christian men; and to observe for a rule that doctrine which in the name of God he hath commanded to be taught, and thereby to examine and try out the truth of those doctrines which pretended prophets, with miracle or without, shall at any time advance: and if they find it contrary to that rule, to do as they did that came to Moses and complained that there were some that prophesied in the camp whose authority so to do they doubted of; and leave to the sovereign, as they did to Moses, to uphold or to forbid them, as he should see cause; and if he disavow them, then no more to obey their voice, or if he approve them, then to obey them as men to whom God hath given a part of the spirit of their sovereign. For when Christian men take not their Christian sovereign for God's prophet, they must either take their own dreams for the prophecy they mean to be governed by, and the tumour of their own hearts for the Spirit of God; or they must suffer themselves to be lead by some strange prince, or by some of their fellow subjects that can bewitch them by slander of the government into rebellion, without other miracle to confirm their calling than sometimes an extraordinary success and impunity; and by this means destroying all laws, both divine and human, reduce all order, government, and society to the first chaos of violence and civil war.
 ⁶I John, 4. 2, etc.
@@ -21377,16 +21377,16 @@ Furthermore, seeing admiration and wonder is consequent to the knowledge and exp
 Again, it belongeth to the nature of a miracle that it be wrought for the procuring of credit to God's messengers, ministers, and prophets, that thereby men may know they are called, sent, and employed by God, and thereby be the better inclined to obey them. And therefore, though the creation of the world, and after that the destruction of all living creatures in the universal deluge, were admirable works; yet because they were not done to procure credit to any prophet or other minister of God, they use not to be called miracles. For how admirable soever any work be, the admiration consisteth not in that it could be done, because men naturally believe the Almighty can do all things, but because He does it at the prayer or word of a man. But the works of God in Egypt, by the hand of Moses, were properly miracles, because they were done with intention to make the people of Israel believe that Moses came unto them, not out of any design of his own interest, but as sent from God. Therefore after God had commanded him to deliver the Israelites from the Egyptian bondage, when he said, "They will not believe me, but will say the Lord hath not appeared unto me," ¹ God gave him power to turn the rod he had in his hand into a serpent, and again to
 ¹Exodus, 4. 1.
 return it into a rod; and by putting his hand into his bosom, to make it leprous, and again by pulling it out to make it whole, to make the children of Israel believe that the God of their fathers had appeared unto him:¹ and if that were not enough, He gave him power to turn their waters into blood. And when he had done these miracles before the people, it is said that "they believed him." ²"Nevertheless, for fear of Pharaoh, they durst not yet obey him. Therefore the other works which were done to plague Pharaoh and the Egyptians tended all to make the Israelites believe in Moses, and were properly miracles. In like manner if we consider all the miracles done by the hand of Moses, and all the rest of the prophets till the Captivity, and those of our Saviour and his Apostles afterwards, we shall find their end was always to beget or confirm belief that they came not of their own motion, but were sent by God. We may further observe in Scripture that the end of miracles was to beget belief, not universally in all men, elect and reprobate, but in the elect only; that is to say, in such as God had determined should become His subjects. For those miraculous plagues of Egypt had not for end the conversion of Pharaoh; for God had told Moses before that He would harden the heart of Pharaoh, that he should not let the people go: and when he let them go at last, not the miracles persuaded him, but the plagues forced him to it. So also of our Saviour it is written that He wrought not many miracles in His own country, because of their unbelief;³ and instead of, "He wrought not many," it is, "He could work none." ⁴ It was not because he wanted power; which, to say, were blasphemy against God; nor that the end of miracles was not to convert incredulous men to Christ; for the end of all the miracles of Moses, of the prophets, of our Saviour, and of his Apostles was to add men to the Church; but it was because the end of their miracles was to add to the Church, not all men, but such as should be saved; that is to say, such as God had elected. Seeing therefore our Saviour was sent from His Father, He could not use His power in the conversion of those whom His Father had rejected. They that, expounding this place of St. Mark, say that this word, "He could not," is put for, "He would not," do it without example in the Greek tongue (where would not is put sometimes for
-¹Ibid., 4. 5.
-²Ibid., 4. 31.
-³Matthew, 13.58.
+¹Ibid., 4. 5.\
+²Ibid., 4. 31.\
+³Matthew, 13.58.\
 ⁴Mark, 6. 5.
 could not, in things inanimate that have no will; but could not, for would not, never), and thereby lay a stumbling block before weak Christians, as if Christ could do no miracles but amongst the credulous.
 From that which I have here set down, of the nature and use of a miracle, we may define it thus: a miracle is a work of God (besides His operation by the way of nature, ordained in the Creation) done for the making manifest to His elect the mission of an extraordinary minister for their salvation.
 And from this definition, we may infer: first, that in all miracles the work done is not the effect of any virtue in the prophet, because it is the effect of the immediate hand of God; that is to say, God hath done it, without using the prophet therein as a subordinate cause. Secondly, that no devil, angel, or other created spirit can do a miracle. For it must either be by virtue of some natural science or by incantation, that is, virtue of words. For if the enchanters do it by their own power independent, there is some power that proceedeth not from God, which all men deny; and if they do it by power given them, then is the work not from the immediate hand of God, but natural, and consequently no miracle.
 There be some texts of Scripture that seem to attribute the power of working wonders, equal to some of those immediate miracles wrought by God Himself, to certain arts of magic and incantation. As, for example, when we read that after the rod of Moses being cast on the ground became a serpent, "the magicians of Egypt did the like by their enchantments";⁵ and that after Moses had turned the waters of the Egyptian streams, rivers, ponds, and pools of water into blood, "the magicians of Egypt did so likewise, with their enchantments";⁶ and that after Moses had by the power of God brought frogs upon the land, "the magicians also did so with their enchantments, and brought up frogs upon the land of Egypt";⁷ will not a man be apt to attribute miracles to enchantments; that is to say, to the efficacy of the sound of words; and think the same very well proved out of this and other such places? And yet there is no place of Scripture that telleth us what an enchantment is. If therefore enchantment be not, as many think it, a working of strange effects by spells and words, but imposture and delusion wrought by ordinary means; and so far from supernatu-
-⁵Exodus, 7. 11.
-⁶Ibid., 7. 22.
+⁵Exodus, 7. 11.\
+⁶Ibid., 7. 22.\
 ⁷Ibid., 8. 7.
 ral, as the impostors need not the study so much of natural causes, but the ordinary ignorance, stupidity, and superstition of mankind, to do them; those texts that seem to countenance the power of magic, witchcraft, and enchantment must needs have another sense than at first sight they seem to bear.
 For it is evident enough that words have no effect but on those that understand them, and then they have no other but to signify the intentions or passions of them that speak; and thereby produce hope, fear, or other passions, or conceptions in the hearer. Therefore when a rod seemeth a serpent, or the waters blood, or any other miracle seemeth done by enchantment; if it be not to the edification of God's people, not the rod, nor the water, nor any other thing is enchanted; that is to say, wrought upon by the words, but the spectator. So that all the miracle consisteth in this, that the enchanter has deceived a man; which is no miracle, but a very easy matter to do.
@@ -21397,278 +21397,278 @@ a mediocrity of reason would think supernatural: and the question is no more whe
 
 ## 26 SHAKESPEARE: Julius Caesar, ACT I, SC III [1-71] 572c-573b; ACT IV, SC III [275-289] 591c; ACT V, SC I [71-89] 592d
 
-26 SHAKESPEARE: Julius Caesar, ACT I, SC III [1-71] 572c-573b
-Scene III. The same: a street
-Thunder and lightning. Enter, from opposite sides.,
-CASCA, with his sword drawn, and cicero.
-Cic. Good even, Casca: brought you Caesar home?
-Why are you breathless? and why stare you so?
-Casca. Are not you moved, when all the sway of ,
-earth
-Shakes like a thing unfirm? O Cicero,
-I have seen tempests, v/hen the scolding winds
-Have rived the knotty oaks, and I have seen
-The ambitious ocean swell and rage and foam,
-To be exalted with the threatening clouds:
-But never till to-night, never till now.
-Did I go through a tempest dropping fire. 10
-Either there is a civil strife in heaven,
-Or else the world, too saucy with the gods,
-Incenses them to send destruction. ^
-Cic. Why, saw you anything more wonderful?
-Casca. A common slave—you know him well by
-sight—
-Held up his left hand, which did flame and burn
-Like twenty torches join'd, and yet his hand.
-Not sensible of fire, remain'd unscorch'd.
-Besides—I ha' not since put up my sword —
-Against the Capitol I met a lion, 20
-Who glared upon me, and went surly by
-Without annoying me: and there were drawn
-Upon a heap a hundred ghastly women.
-Transformed with their fear, who swore they saw
-Men all in fire walk up and down the streets.
-And yesterday the bird of night did sit
-Even at noon-day upon the market-place.
-Hooting and shrieking. When these prodigies
-Do so conjointly meet, let not men say
-"These are their reasons; they are natural"; 30
-For, I believe, they are portentous things
-Unto the climate that they point upon.
-Cic. Indeed, it is a strange-disposed time:
-But men mav^ construe things after their fashion,
-Clean from the purpose of the things themselves.
-Comes Caesar to the Capitol to-morrow?
-Casca. He doth; for he did bid Antonius
-Send word to vou he would be there to-morrow.
-Cic. Good night then, Casca: this disturbed sky
-Is not to walk in.
-Casca. Farewell, Cicero. [Exit cicero. 40
-Enter cassius.
-Cas. Who's there?
-Casca. A Roman.
-Cas. Casca, by your voice.
-Casca. Your ear is good. Cassius, what night is
-this!
-Cas. A very pleasing night to honest men.
-Casca. Who ever knew the heavens menace so?
-Cas. Those that have known the earth so full of
-faults.
-For mv part, I have walk'd about the streets,
-Submitting me unto the perilous night.
-And, thus unbraced, Casca, as you see,
-Have bared my bosom to the thunder-stone;
-And when the cross blue lightning seem'd to open
-The breast of heaven, I did present myself 51
-Even in the aim and very flash of it.
-Casca. But wherefore did you so much tempt
-the heavens?
-It is the part of men to fear and tremble
-When the most mighty gods by tokens send
-Such dreadful heralds to astonish us.
-Cas. You are dull, Casca, and those sparks of
-life
-That should be in a Roman you do want.
-Or else you use not. You look pale and gaze
-And put on fear and cast yourself in wonder 60
-To see the strange impatience of the heavens:
-But if you would consider the true cause
-Why all these fires, why all these gliding ghosts.
-Why birds and beasts from quality and kind,
-Why old men fool and children calculate.
-Why all these things change from their ordinance
-Their natures and preformed faculties
-To monstrous quality, why, you shall find
-That heaven hath infused them with these spirits
-To make them instruments of fear and warning 70
+26 SHAKESPEARE: Julius Caesar, ACT I, SC III [1-71] 572c-573b\
+Scene III. The same: a street\
+Thunder and lightning. Enter, from opposite sides.,\
+CASCA, with his sword drawn, and cicero.\
+Cic. Good even, Casca: brought you Caesar home?\
+Why are you breathless? and why stare you so?\
+Casca. Are not you moved, when all the sway of ,\
+earth\
+Shakes like a thing unfirm? O Cicero,\
+I have seen tempests, v/hen the scolding winds\
+Have rived the knotty oaks, and I have seen\
+The ambitious ocean swell and rage and foam,\
+To be exalted with the threatening clouds:\
+But never till to-night, never till now.\
+Did I go through a tempest dropping fire. 10\
+Either there is a civil strife in heaven,\
+Or else the world, too saucy with the gods,\
+Incenses them to send destruction. ^\
+Cic. Why, saw you anything more wonderful?\
+Casca. A common slave—you know him well by\
+sight—\
+Held up his left hand, which did flame and burn\
+Like twenty torches join'd, and yet his hand.\
+Not sensible of fire, remain'd unscorch'd.\
+Besides—I ha' not since put up my sword —\
+Against the Capitol I met a lion, 20\
+Who glared upon me, and went surly by\
+Without annoying me: and there were drawn\
+Upon a heap a hundred ghastly women.\
+Transformed with their fear, who swore they saw\
+Men all in fire walk up and down the streets.\
+And yesterday the bird of night did sit\
+Even at noon-day upon the market-place.\
+Hooting and shrieking. When these prodigies\
+Do so conjointly meet, let not men say\
+"These are their reasons; they are natural"; 30\
+For, I believe, they are portentous things\
+Unto the climate that they point upon.\
+Cic. Indeed, it is a strange-disposed time:\
+But men mav^ construe things after their fashion,\
+Clean from the purpose of the things themselves.\
+Comes Caesar to the Capitol to-morrow?\
+Casca. He doth; for he did bid Antonius\
+Send word to vou he would be there to-morrow.\
+Cic. Good night then, Casca: this disturbed sky\
+Is not to walk in.\
+Casca. Farewell, Cicero. [Exit cicero. 40\
+Enter cassius.\
+Cas. Who's there?\
+Casca. A Roman.\
+Cas. Casca, by your voice.\
+Casca. Your ear is good. Cassius, what night is\
+this!\
+Cas. A very pleasing night to honest men.\
+Casca. Who ever knew the heavens menace so?\
+Cas. Those that have known the earth so full of\
+faults.\
+For mv part, I have walk'd about the streets,\
+Submitting me unto the perilous night.\
+And, thus unbraced, Casca, as you see,\
+Have bared my bosom to the thunder-stone;\
+And when the cross blue lightning seem'd to open\
+The breast of heaven, I did present myself 51\
+Even in the aim and very flash of it.\
+Casca. But wherefore did you so much tempt\
+the heavens?\
+It is the part of men to fear and tremble\
+When the most mighty gods by tokens send\
+Such dreadful heralds to astonish us.\
+Cas. You are dull, Casca, and those sparks of\
+life\
+That should be in a Roman you do want.\
+Or else you use not. You look pale and gaze\
+And put on fear and cast yourself in wonder 60\
+To see the strange impatience of the heavens:\
+But if you would consider the true cause\
+Why all these fires, why all these gliding ghosts.\
+Why birds and beasts from quality and kind,\
+Why old men fool and children calculate.\
+Why all these things change from their ordinance\
+Their natures and preformed faculties\
+To monstrous quality, why, you shall find\
+That heaven hath infused them with these spirits\
+To make them instruments of fear and warning 70\
 Unto some monstrous state.
 
-26 SHAKESPEARE: Julius Caesar, ACT IV, SC III [275-289] 591c
-Enter the ghost of CAESAR.
-How ill this taper bums! Ha! who comes here?
-I think it is the weakness of mine eyes
-That shapes this monstrous apparition.
-It comes upon me. Art thou anything?
-Art thou some god, some angel, or some devil.
-That makest my blood cold and my hair to stare?
-Speak to me what thou art. 281
-Ghost. Thy evil spirit, Brutus.
-Bru. Why comest thou?
-Ghost. To tell thee thou shalt see me at Philippi.
-Bru. Well; then I shall see thee again?
-Ghost. Ay, at Philippi.
+26 SHAKESPEARE: Julius Caesar, ACT IV, SC III [275-289] 591c\
+Enter the ghost of CAESAR.\
+How ill this taper bums! Ha! who comes here?\
+I think it is the weakness of mine eyes\
+That shapes this monstrous apparition.\
+It comes upon me. Art thou anything?\
+Art thou some god, some angel, or some devil.\
+That makest my blood cold and my hair to stare?\
+Speak to me what thou art. 281\
+Ghost. Thy evil spirit, Brutus.\
+Bru. Why comest thou?\
+Ghost. To tell thee thou shalt see me at Philippi.\
+Bru. Well; then I shall see thee again?\
+Ghost. Ay, at Philippi.\
 Bru. Why, I will see thee at Philippi, then.
 
-26 SHAKESPEARE: Julius Caesar, ACT V, SC I [71-89] 592d
-Cas. Messala, 71
-This is my birthday; as this very day
-Was Cassius born. Give me thy hand, Messala:
-Be thou my witness that against my will,
-As Pompey was, am I compell'd to set
-Upon one battle all our liberties.
-You know that I held Epicurus strong
-And his opinion: now I change my mind.
-And partly credit things that do presage.
-Coming from Sardis, on our former ensign 80
-Two mighty eagles fell, and there they perch'd,
-Gorging and feeding from our soldiers' hands
-Who to Philippi here consorted us:
-This morning are they fled away and gone;
-And in their steads do ravens, crows, and kites,
-Fly o'er our heads and downward look on us,
-As we were sickly prey: their shadows seem
-A canopy most fatal, under which
-Our army lies, ready to give up the ghost.
+26 SHAKESPEARE: Julius Caesar, ACT V, SC I [71-89] 592d\
+Cas. Messala, 71\
+This is my birthday; as this very day\
+Was Cassius born. Give me thy hand, Messala:\
+Be thou my witness that against my will,\
+As Pompey was, am I compell'd to set\
+Upon one battle all our liberties.\
+You know that I held Epicurus strong\
+And his opinion: now I change my mind.\
+And partly credit things that do presage.\
+Coming from Sardis, on our former ensign 80\
+Two mighty eagles fell, and there they perch'd,\
+Gorging and feeding from our soldiers' hands\
+Who to Philippi here consorted us:\
+This morning are they fled away and gone;\
+And in their steads do ravens, crows, and kites,\
+Fly o'er our heads and downward look on us,\
+As we were sickly prey: their shadows seem\
+A canopy most fatal, under which\
+Our army lies, ready to give up the ghost.\
 Mes. Believe not so.
 
 ## 27 SHAKESPEARE: Hamlet, ACT I, SC I [64-125] 30b-31a / Macbeth, ACT II, SC IV [1-20] 294a-b / Cymbeline, ACT V, SC IV [91-122] 482a-b
 
-27 SHAKESPEARE: Hamlet, ACT I, SC I [64-125] 30b-31a
-'Tis strange.
-Mar. Thus twice before, and jump at this dead
-hour,
-With martial stalk hath he gone by our watch.
-Hor. In what particular thought to work I know
-not;
-But in the gross and scope of my opinion,
-This bodes some strange eruption to our state.
-Mar. Good now, sit down, and tell me, he that
-knows, 70
-Why this same strict and most observant watch
-So nightly toils the subject of the land,
-And why such daily cast of brazen cannon,
-And foreign mart for implements of war;
-Why such impress of shipwrights, whose sore
-task
-Does not divide the Sunday from the week;
-What might be toward, that this sweaty haste
-Doth make the night joint-labourer with the day:
-Who is't that can inform me?
-Hor. That can I;
-At least, the whisper goes so. Our last king, 80
-Whose image even but now appear'd to us,
-Was, as you know, by Fortinbras of Norway,
-Thereto prick'd on by a most emulate pride,
-Dared to the combat; in which our valiant Ham
-let—
-For so this side ofour known world esteem'd
-him—
-Did slay this Fortinbras; who, by a seal'd compact,
-Well ratified by law and heraldry,
-Did forfeit, with his life, all those his lands
-Which he stood seized of, to the conqueror:
-Against the which, a moiety competent 90
-Was gaged by our king; which had return'd
-To the inheritance of Fortinbras,
-Had he been vanquisher; as, by the same covenant,
-And carriage of the article design'd,
-His fell to Hamlet. Now, sir, young Fortinbras.
-Of unimproved mettle hot and full,
-Hath in the skirts of Norway here and there
-Shark'd up a list of lawless resolutes,
-For food and diet, to some enterprise
-That hath a stomach in't; which is no other—
-As it doth well appear unto our state— 101
-But to recover of us, by strong hand
-And terms compulsatory, those foresaid lands
-So by his father lost: and this, I take it,
-Is the main motive of our preparations,
-The source of this our watch and the chief head
-Of this post-haste and romage in the land.
-Ber. I think it be no other but e'en so:
-Well may it sort that this portentous figure
-Comes armed through our watch; so like the
-King 110
-That was and is the question of these wars.
-Hor. A mote it is to trouble the mind's eye.
-In the most high and palmy state of Rome,
-A little ere the mightiest Julius fell,
-The graves stood tenantless and the sheeted
-dead
-Did squeak and gibber in the Roman streets.
-As stars with trains of fire and dews of blood,
-Disasters in the sun; and the moist star
-Upon whose influence Neptune's empire
-stands
-Was sick almost to doomsday with eclipse. 120
-And even the like precurse of fierce events,
-As harbingers preceding still the fates
-And prologue to the omen coming on,
-Have heaven and earth together demonstrated
-Unto our climatures and countrymen.
+27 SHAKESPEARE: Hamlet, ACT I, SC I [64-125] 30b-31a\
+'Tis strange.\
+Mar. Thus twice before, and jump at this dead\
+hour,\
+With martial stalk hath he gone by our watch.\
+Hor. In what particular thought to work I know\
+not;\
+But in the gross and scope of my opinion,\
+This bodes some strange eruption to our state.\
+Mar. Good now, sit down, and tell me, he that\
+knows, 70\
+Why this same strict and most observant watch\
+So nightly toils the subject of the land,\
+And why such daily cast of brazen cannon,\
+And foreign mart for implements of war;\
+Why such impress of shipwrights, whose sore\
+task\
+Does not divide the Sunday from the week;\
+What might be toward, that this sweaty haste\
+Doth make the night joint-labourer with the day:\
+Who is't that can inform me?\
+Hor. That can I;\
+At least, the whisper goes so. Our last king, 80\
+Whose image even but now appear'd to us,\
+Was, as you know, by Fortinbras of Norway,\
+Thereto prick'd on by a most emulate pride,\
+Dared to the combat; in which our valiant Ham\
+let—\
+For so this side ofour known world esteem'd\
+him—\
+Did slay this Fortinbras; who, by a seal'd compact,\
+Well ratified by law and heraldry,\
+Did forfeit, with his life, all those his lands\
+Which he stood seized of, to the conqueror:\
+Against the which, a moiety competent 90\
+Was gaged by our king; which had return'd\
+To the inheritance of Fortinbras,\
+Had he been vanquisher; as, by the same covenant,\
+And carriage of the article design'd,\
+His fell to Hamlet. Now, sir, young Fortinbras.\
+Of unimproved mettle hot and full,\
+Hath in the skirts of Norway here and there\
+Shark'd up a list of lawless resolutes,\
+For food and diet, to some enterprise\
+That hath a stomach in't; which is no other—\
+As it doth well appear unto our state— 101\
+But to recover of us, by strong hand\
+And terms compulsatory, those foresaid lands\
+So by his father lost: and this, I take it,\
+Is the main motive of our preparations,\
+The source of this our watch and the chief head\
+Of this post-haste and romage in the land.\
+Ber. I think it be no other but e'en so:\
+Well may it sort that this portentous figure\
+Comes armed through our watch; so like the\
+King 110\
+That was and is the question of these wars.\
+Hor. A mote it is to trouble the mind's eye.\
+In the most high and palmy state of Rome,\
+A little ere the mightiest Julius fell,\
+The graves stood tenantless and the sheeted\
+dead\
+Did squeak and gibber in the Roman streets.\
+As stars with trains of fire and dews of blood,\
+Disasters in the sun; and the moist star\
+Upon whose influence Neptune's empire\
+stands\
+Was sick almost to doomsday with eclipse. 120\
+And even the like precurse of fierce events,\
+As harbingers preceding still the fates\
+And prologue to the omen coming on,\
+Have heaven and earth together demonstrated\
+Unto our climatures and countrymen.\
 But soft, behold! lo, where it comes again!
 
-27 SHAKESPEARE: Macbeth, ACT II, SC IV [1-20] 294a-b
-Scene IV. Outside Macbeth!s castle
-Enter ross and an old man.
-Old M. Threescore and ten I can remember
-well;
-Within the volume of which time I have seen
-Hours dreadful and things strange; but this sore
-night
-Hath trifled former knowings.
-Ross. Ah, good father,
-Thou seest, the heavens, as troubled with man's
-act,
-Threaten his bloody stage. By the clock, 'tis day,
-And yet dark night strangles the travelling lamp.
-Is'c night's predominance, or the day's shame,
-That darkness does the face of earth entomb,
-When living light should kiss it?
-Old M. 'Tis unnatural, 10
-Even like the deed that's done. On Tuesday
-last,
-A falcon, towering in her pride of place,
-Was by a mousing owl hawk'd at and kill'd.
-Ross. And Duncan's horses—a thing most
-strange and certain—
-Beauteous and swift, the minions of their race,
-Turn'd wild in nature, broke their stalls, flung
-out,
-Contending 'gainst obedience, as they would
-make
-War with mankind.
-Old M. 'Tis said they eat each other.
-Ross. They did so, to the amazement ofmine
-eyes
-That look'd upon't. Here comes the good Mac-
+27 SHAKESPEARE: Macbeth, ACT II, SC IV [1-20] 294a-b\
+Scene IV. Outside Macbeth!s castle\
+Enter ross and an old man.\
+Old M. Threescore and ten I can remember\
+well;\
+Within the volume of which time I have seen\
+Hours dreadful and things strange; but this sore\
+night\
+Hath trifled former knowings.\
+Ross. Ah, good father,\
+Thou seest, the heavens, as troubled with man's\
+act,\
+Threaten his bloody stage. By the clock, 'tis day,\
+And yet dark night strangles the travelling lamp.\
+Is'c night's predominance, or the day's shame,\
+That darkness does the face of earth entomb,\
+When living light should kiss it?\
+Old M. 'Tis unnatural, 10\
+Even like the deed that's done. On Tuesday\
+last,\
+A falcon, towering in her pride of place,\
+Was by a mousing owl hawk'd at and kill'd.\
+Ross. And Duncan's horses—a thing most\
+strange and certain—\
+Beauteous and swift, the minions of their race,\
+Turn'd wild in nature, broke their stalls, flung\
+out,\
+Contending 'gainst obedience, as they would\
+make\
+War with mankind.\
+Old M. 'Tis said they eat each other.\
+Ross. They did so, to the amazement ofmine\
+eyes\
+That look'd upon't. Here comes the good Mac-\
 duff. 20
 
 27 SHAKESPEARE: Cymbeline, ACT V, SC IV [91-122] 482a-b
 JUPITER descends in thunder and lightning, sitting upon an eagle; he throws a thunderbolt. The Ghostsfall on their knees.
-Jup. No more, you petty spirits of region low,
-Offend our hearing; hush! How dare you ghosts
-Accuse the thunderer, whose bolt, you know,
-Sky-planted batters all rebelling coasts?
-Poor shadows of Elysium, hence, and rest
-Upon your never-withering banks of flowers.
-Be not with mortal accidents opprest;
-No care of yours it is; you know 'tis ours. 100
-Whom best I love I cross; to make my gift,
-The more delay'd, delighted. Be content;
-Your low-laid son our godhead will uplift.
-His comforts thrive, his trials well are spent.
-Our Jovial star reign'd at his birth, and in
-Our temple was he married. Rise, and fade.
-He shall be lord of lady Imogen,
-And happier much by his affliction made.
-This tablet lay upon his breast, wherein
-Our pleasure his full fortune doth confine. 110
-And so, away! No further with your din
-Express impatience, lest you stir up mine.
-Mount, eagle, to my palace crystalline.
-[Ascends.
-Ski. He came in thunder; his celestial breath
-Was sulphurous to smell. The holy eagle
-Stoop'd, as to foot us. His ascension is
-More sweet than our blest fields. His royal bird
-Prunes the immortal wing and cloys his beak,
-As when his god is pleased.
-All. Thanks, Jupiter!
-Ski. The marble pavement closes, he is
-enter'd 120
-His radiant roof. Away! and, to be blest,
-Let us with care perform his great behest.
+Jup. No more, you petty spirits of region low,\
+Offend our hearing; hush! How dare you ghosts\
+Accuse the thunderer, whose bolt, you know,\
+Sky-planted batters all rebelling coasts?\
+Poor shadows of Elysium, hence, and rest\
+Upon your never-withering banks of flowers.\
+Be not with mortal accidents opprest;\
+No care of yours it is; you know 'tis ours. 100\
+Whom best I love I cross; to make my gift,\
+The more delay'd, delighted. Be content;\
+Your low-laid son our godhead will uplift.\
+His comforts thrive, his trials well are spent.\
+Our Jovial star reign'd at his birth, and in\
+Our temple was he married. Rise, and fade.\
+He shall be lord of lady Imogen,\
+And happier much by his affliction made.\
+This tablet lay upon his breast, wherein\
+Our pleasure his full fortune doth confine. 110\
+And so, away! No further with your din\
+Express impatience, lest you stir up mine.\
+Mount, eagle, to my palace crystalline.\
+[Ascends.\
+Ski. He came in thunder; his celestial breath\
+Was sulphurous to smell. The holy eagle\
+Stoop'd, as to foot us. His ascension is\
+More sweet than our blest fields. His royal bird\
+Prunes the immortal wing and cloys his beak,\
+As when his god is pleased.\
+All. Thanks, Jupiter!\
+Ski. The marble pavement closes, he is\
+enter'd 120\
+His radiant roof. Away! and, to be blest,\
+Let us with care perform his great behest.\
 [The Ghosts vanish.
 
 ## 29 CERVANTES: Don Quixote, PART II, 381a-b
@@ -21697,8 +21697,8 @@ Let us with care perform his great behest.
 VI. 1. This science being therefore first placed as a common parent like unto Berecynthia, which had so much heavenly issue, "omnes caelicolas, omnes supera alta tenentes"³ we may return to the former distribution of the three philosophies, divine, natural, and human. And as concerning divine philosophy or natural theology, it is that knowledge or rudiment of knowledge concerning God, which may be obtained by the contemplation of his creatures; which knowledge may be truly termed divine in respect of the object, and natural in respect of the light. The bounds of this knowledge are, that it sufficeth to convince atheism, but not to inform religion: and therefore there was never miracle wrought by God to convert an atheist, because the light of nature might have led him to confess a God: but miracles have been wrought to convert idolaters and the superstitious, because no light
 ³Virgil, AEneid, Bk. VI. 787. "All dwellers in the heaven and upper sky."
 of nature extendeth to declare the will and true worship of God. For as all works do show forth the power and skill of the workman, and not his image, so it is of the works of God, which do show the omnipotency and wisdom of the maker, but not his image. And therefore therein the heathen opinion differeth from the sacred truth; for they supposed the world to be the image of God, and man to be an extract or compendious image of the world; but the Scriptures never vouchsafe to attribute to the world that honour, as to be the image of God, but only "the work of his hands"; neither do they speak of any other image of God, but man.⁴ Wherefore by the contemplation of nature to induce and enforce the acknowledgement of God, and to demonstrate his power, providence, and goodness, is an excellent argument, and hath been excellently handled by divers. But on the other side, out of the contemplation of nature, or ground of human knowledges, to induce any verity or persuasion concerning the points of faith, is in my judgement not safe: "Dafidei quae fidei sunt.''⁵ For the heathen themselves conclude as much in that excellent and divine fable of the golden chain: "That men and gods were not able to draw Jupiter down to the earth; but contrari wise Jupiter was able to draw them up to heaven." So as we ought not to attempt to draw down or to submit the mysteries of God to our reason; but contrariwise to raise and advance our reason to the divine truth. So as in this part of knowledge, touching divine philosophy, I am so far from noting any deficience, as I rather note an excess: whereunto I have digressed because of the extreme prejudice which both religion and philosophy hath received and may receive by being commixed together; as that which undoubtedly will make an heretical religion, and an imaginary and fabulous philosophy.⁶
-⁴Ps. 8. 3, 102. 25, and others.
-⁵"Give unto faith the things that are faith’s."
+⁴Ps. 8. 3, 102. 25, and others.\
+⁵"Give unto faith the things that are faith’s."\
 ⁶Iliad, Bk. ix.
 
 2\. Otherwise it is of the nature of angels and spirits, which is an appendix of theology, both divine and natural, and is neither inscrutable nor interdicted. For although the Scripture saith, "Let no man deceive you in sublime discourse touching the worship of angels, pressing into that he knoweth not," &c, yet notwithstanding, if you observe well that precept, it may appear thereby that there be two things only forbidden, adoration of them, and opinion fantastical of them,⁷ either to extoi them further than appertaineth to the degree of a creature,
@@ -21719,15 +21719,15 @@ or to extol a man's knowledge of them further than he hath ground. But the sober
 XII. 1. The knowledge which respecteth the faculties of the mind of man is of two kinds; the one respecting his understanding and reason, and the other his will, appetite, and affection; whereof the former produceth position or decree, the latter action or execution. It is true that the imagination is an agent or nuncius, in both provinces, both the judicial and the ministerial. For sense sendeth over to imagination before reason have judged: and reason sendeth over to imagination before the decree can be acted. For imagination ever precedeth voluntary motion. Saving that this Janus of imagination hath differing faces: for the face towards reason hath the print of truth, but the face towards action hath the print of good; which nevertheless are faces,
 Quales decet esse sororum.²
 Neither is the imagination simply and only a messenger; but is invested with, or at leastwise usurpeth no small authority in itself, besides the duty of the message. For it was well said by Aristotle, "That the mind hath over the body that commandment, which the lord hath over a bondman; but that reason hath over the imagination that commandment which a magistrate hath over a free citizen³ who may come also to rule in his turn." For we see that, in matters of faith and religion, we raise our imagination above our reason; which is the cause why religion sought ever access to the mind by similitudes, types, parables, visions, dreams. And again, in all persuasions that are wrought by eloquence, and other impressions of like nature, which do paint and disguise the true appearance of things, the chief recommendation unto reason is from the imagination. Nevertheless, because I find not any science that doth properly or fitly pertain to the imagination, I see no cause to alter the former division. For as for poesy, it is rather a pleasure or play of imagination, than a work or duty thereof. And if it be a work, we speak not now of such parts of learning as the imagination produceth, but of such sciences as handle and consider of the imagination. No more than we shall speak now of such knowledges as reason produceth (for that extendeth to all philosophy), but of such knowledges as do handle and inquire of the faculty of reason: so as poesy had his true place. As for the power of the imagination in nature, and the manner of fortifying the same, we have mentioned it in the doctrine De Anima,⁴ whereunto most fitly it belongeth. And lastly, for imaginative or insinuative reason, which is the subject of rhetoric, we think it best to refer to the arts of reason. So therefore we content ourselves with the former division, that human philosophy, which respecteth the faculties of the mind of man, hath two parts, rational and moral.
-²Ovid Metamorphoses', II. 14. "Sister-faces."
-³Aristotle, Politics, Bk. 1. 5, 6.
+²Ovid Metamorphoses', II. 14. "Sister-faces."\
+³Aristotle, Politics, Bk. 1. 5, 6.\
 ⁴"On the soul."
 
 2\. The part of human philosophy which is rational, is of all knowledges, to the most wits, the least delightful, and seemeth but a net of subtilty and spinosity. For as it was truly said, that knowledge is pabulum animi;¹ so in the nature of men's appetite to this food, most men are of the taste and stomach of the Israelites in the desert, that would train have returned ad ollas carnium,² and were weary of manna ; which, though it were celestial, yet seemed less nutritive and comfortable. So generally men taste well knowledges that are drenched in flesh and blood, civil history, morality, policy, about the which men's affections, praises, fortunes do turn and are conversant. But this same lumen siccum³ doth parch and offend most men's watery and soft natures. But to speak truly of things as they are in worth, rational knowledges are the keys of all other arts: tor as Aristotle saith aptly and elegantly, "That the hand is the instrument of instruments, and the mind is the form of forms"; so these be truly said to be the art of arts. Neither do they only direct, but likewise confirm and strengthen: even as the habit of shooting doth not only enable to shoot a nearer shoot, but also to draw a stronger bow.
 
 3\. The arts intellectual are four in number; divided according to the ends whereunto they are referred: for man's labour is to invent that which is sought or propounded; or to judge that which is invented; or to retain that which is judged ; or to deliver over that which is retained. So as the arts must be four: art of inquiry or invention: art of examination or judgement: art of custody or memory: and art of elocution or tradition.
-¹"Food of the mind."
-²"To the fleshpots."
+¹"Food of the mind."\
+²"To the fleshpots."\
 ³"Dry light."
 
 30 BACON: New Atlantis, 202c-203c
@@ -21741,285 +21741,285 @@ The next day, the same Governor came again to us, immediately after dinner, and 
 
 ## 32 MILTON: Paradise Lost, BK I [594-599] 106b; BK V [28-128] 176a-178a; BK XI [193-366] 303b-307a / Areopagitica, 389a-b
 
-32 MILTON: Paradise Lost, BK I [594-599] 106b
-Of Glorv obscur'd: As when the Sun new ris'n
-Looks through the Horizontal misty Air
-Shorn of his Beams, or from behind the Moon
-In dim Eclips disastrous twilight sheds
-On half the Nations, and with fear of change
+32 MILTON: Paradise Lost, BK I [594-599] 106b\
+Of Glorv obscur'd: As when the Sun new ris'n\
+Looks through the Horizontal misty Air\
+Shorn of his Beams, or from behind the Moon\
+In dim Eclips disastrous twilight sheds\
+On half the Nations, and with fear of change\
 Perplexes Monarchs. Dark'n'd so, yet shon
 
-32 MILTON: Paradise Lost, BK V [28-128] 176a-178a
-O Sole in whom my thoughts find all repose,
-My Glorie, my Perfection, glad I see
-Thy face, and Morn return'd, for I this Night, 30
-Such night till this I never pass'd, have dream'd,
-If dream'd, not as I oft am wont, of thee,
-Works of day pass't, or morrows next designe,
-But of offence and trouble, which my mind
-Knew never till this irksom night; methought
-Close at mine ear one call'd me forth to walk
-With gentle voice, I thought it thine; it said,
-Why sleepst thou Eve? now is the pleasant time,
-The cool, the silent, save where silence yields
-To the night-warbling Bird, that now awake 40
-Tunes sweetest his love-labor'd song; now reignes
-Full Orb'd the Moon, and with more pleasing light
-Shadowie sets off the face of things; in vain,
-If none regard; Heav'n wakes with all his eyes,
-Whom to behold but thee, Natures desire,
-In whose sight all things joy, with ravishment
-Attracted by thy beauty still to gaze.
-I rose as at thy call, but found thee not;
-To find thee I directed then my walk;
-And on, methought, alone I pass'd through ways 50
-That brought me on a sudden to the Tree
-Of interdicted Knowledge: fair it seem'd,
-Much fairer to my Fancie then by day:
-And as I wondring lookt, beside it stood
-One shap'd and wing'd like one of those from Heav'n
-By us oft seen; his dewie locks distill'd
-Ambrosia; on that Tree he also gaz'd;
-And O fair Plant, said he, with fruit surcharg'd,
-Deigns none to ease thy load and taste thy sweet,
-Nor God, nor Man; is Knowledge so despis'd? 60
-Or envie, or what reserve forbids to taste?
-Forbid who will, none shall from me withhold
-Longer thy offerd good, why else set here?
-This said he paus'd not, but with ventrous Arme
-He pluckt, he tasted; mee damp horror chil'd
-At such bold words voucht with a deed so bold:
-But he thus overjoy'd, O Fruit Divine,
-Sweet of thy self, but much more sweet thus cropt,
-Forbidd'n here, it seems, as onely fit
-For Gods, yet able to make Gods of Men: 70
-And why not Gods of Men, since good, the more
-Communicated, more abundant growes,
-The Author not impair'd, but honourd more?
-Here, happie Creature, fair Angelic Eve,
-Partake thou also; happie though thou art,
-Happier thou mayst be, worthier canst not be:
-Taste this, and be henceforth among the Gods
-Thy self a Goddess, not to Earth confind,
-But somtimes in the Air, as wee, somtimes
-Ascend to Heav'n, by merit thine, and see 80
-What life the Gods live there, and such live thou.
-So saying, he drew nigh, and to me held,
-Even to my mouth of that same fruit held part
-Which he had pluckt; the pleasant savourie smell
-So quick'nd appetite, that I, methought,
-Could not but taste. Forthwith up to the Clouds
-With him I flew, and underneath beheld
-The Earth outstretcht immense, a prospect wide
-And various: wondring at my flight and change
-To this high exaltation; suddenly 90
-My Guide was gon, and I, me thought, sunk down,
-And fell asleep; but O how glad I wak'd
-To find this but a dream! Thus Eve her Night
-Related, and thus Adam answerd sad.
-Best Image of my self and dearer half,
-The trouble of thy thoughts this night in sleep
-Affects me equally; nor can I like
-This uncouth dream, of evil sprung I fear;
-Yet evil whence? in thee can harbour none,
-Created pure. But know that in the Soule 100
-Are many lesser Faculties that serve
-Reason as chief; among these Fansie next
-Her office holds; of all external things,
-Which the five watchful Senses represent,
-She forms Imaginations, Aerie shapes,
-Which Reason joyning or disjoyning, frames
-All what we affirm or what deny, and call
-Our knowledge or opinion; then retires
-Into her private Cell when Nature rests.
-Oft in her absence mimic Fansie wakes 110
-To imitate her; but misjoyning shapes,
-Wilde work produces oft, and most in dreams,
-Ill matching words and deeds long past or late.
-Som such resemblances methinks I find
-Of our last Eevnings talk, in this thy dream,
-But with addition strange; yet be not sad.
-Evil into the mind of God or Man
-May come and go, so unapprov'd, and leave
-No spot or blame behind: Which gives me hope
-That what in sleep thou didst abhorr to dream, 120
-Waking thou never wilt consent to do:
-Be not disheart'nd then, nor cloud those looks
-That wont to be more chearful and serene
-Then when fair Morning first smiles on the World,
-And let us to our fresh imployments rise
-Among the Groves, the Fountains, and the Flours
-That open now thir choicest bosom'd smells
+32 MILTON: Paradise Lost, BK V [28-128] 176a-178a\
+O Sole in whom my thoughts find all repose,\
+My Glorie, my Perfection, glad I see\
+Thy face, and Morn return'd, for I this Night, 30\
+Such night till this I never pass'd, have dream'd,\
+If dream'd, not as I oft am wont, of thee,\
+Works of day pass't, or morrows next designe,\
+But of offence and trouble, which my mind\
+Knew never till this irksom night; methought\
+Close at mine ear one call'd me forth to walk\
+With gentle voice, I thought it thine; it said,\
+Why sleepst thou Eve? now is the pleasant time,\
+The cool, the silent, save where silence yields\
+To the night-warbling Bird, that now awake 40\
+Tunes sweetest his love-labor'd song; now reignes\
+Full Orb'd the Moon, and with more pleasing light\
+Shadowie sets off the face of things; in vain,\
+If none regard; Heav'n wakes with all his eyes,\
+Whom to behold but thee, Natures desire,\
+In whose sight all things joy, with ravishment\
+Attracted by thy beauty still to gaze.\
+I rose as at thy call, but found thee not;\
+To find thee I directed then my walk;\
+And on, methought, alone I pass'd through ways 50\
+That brought me on a sudden to the Tree\
+Of interdicted Knowledge: fair it seem'd,\
+Much fairer to my Fancie then by day:\
+And as I wondring lookt, beside it stood\
+One shap'd and wing'd like one of those from Heav'n\
+By us oft seen; his dewie locks distill'd\
+Ambrosia; on that Tree he also gaz'd;\
+And O fair Plant, said he, with fruit surcharg'd,\
+Deigns none to ease thy load and taste thy sweet,\
+Nor God, nor Man; is Knowledge so despis'd? 60\
+Or envie, or what reserve forbids to taste?\
+Forbid who will, none shall from me withhold\
+Longer thy offerd good, why else set here?\
+This said he paus'd not, but with ventrous Arme\
+He pluckt, he tasted; mee damp horror chil'd\
+At such bold words voucht with a deed so bold:\
+But he thus overjoy'd, O Fruit Divine,\
+Sweet of thy self, but much more sweet thus cropt,\
+Forbidd'n here, it seems, as onely fit\
+For Gods, yet able to make Gods of Men: 70\
+And why not Gods of Men, since good, the more\
+Communicated, more abundant growes,\
+The Author not impair'd, but honourd more?\
+Here, happie Creature, fair Angelic Eve,\
+Partake thou also; happie though thou art,\
+Happier thou mayst be, worthier canst not be:\
+Taste this, and be henceforth among the Gods\
+Thy self a Goddess, not to Earth confind,\
+But somtimes in the Air, as wee, somtimes\
+Ascend to Heav'n, by merit thine, and see 80\
+What life the Gods live there, and such live thou.\
+So saying, he drew nigh, and to me held,\
+Even to my mouth of that same fruit held part\
+Which he had pluckt; the pleasant savourie smell\
+So quick'nd appetite, that I, methought,\
+Could not but taste. Forthwith up to the Clouds\
+With him I flew, and underneath beheld\
+The Earth outstretcht immense, a prospect wide\
+And various: wondring at my flight and change\
+To this high exaltation; suddenly 90\
+My Guide was gon, and I, me thought, sunk down,\
+And fell asleep; but O how glad I wak'd\
+To find this but a dream! Thus Eve her Night\
+Related, and thus Adam answerd sad.\
+Best Image of my self and dearer half,\
+The trouble of thy thoughts this night in sleep\
+Affects me equally; nor can I like\
+This uncouth dream, of evil sprung I fear;\
+Yet evil whence? in thee can harbour none,\
+Created pure. But know that in the Soule 100\
+Are many lesser Faculties that serve\
+Reason as chief; among these Fansie next\
+Her office holds; of all external things,\
+Which the five watchful Senses represent,\
+She forms Imaginations, Aerie shapes,\
+Which Reason joyning or disjoyning, frames\
+All what we affirm or what deny, and call\
+Our knowledge or opinion; then retires\
+Into her private Cell when Nature rests.\
+Oft in her absence mimic Fansie wakes 110\
+To imitate her; but misjoyning shapes,\
+Wilde work produces oft, and most in dreams,\
+Ill matching words and deeds long past or late.\
+Som such resemblances methinks I find\
+Of our last Eevnings talk, in this thy dream,\
+But with addition strange; yet be not sad.\
+Evil into the mind of God or Man\
+May come and go, so unapprov'd, and leave\
+No spot or blame behind: Which gives me hope\
+That what in sleep thou didst abhorr to dream, 120\
+Waking thou never wilt consent to do:\
+Be not disheart'nd then, nor cloud those looks\
+That wont to be more chearful and serene\
+Then when fair Morning first smiles on the World,\
+And let us to our fresh imployments rise\
+Among the Groves, the Fountains, and the Flours\
+That open now thir choicest bosom'd smells\
 Reservd from night, and kept for thee in store.
 
-32 MILTON: Paradise Lost, BK XI [193-366] 303b-307a
-O Eve, some furder change awaits us nigh,
-Which Heav'n by these mute signs in Nature shews
-Forerunners of his purpose, or to warn
-Us haply too secure of our discharge
-From penaltie, because from death releast
-Some days; how long, and what till then our life,
-Who knows, or more then this, that we are dust,
-And thither must return and be no more. 200
-Why else this double object in our sight
-Of flight pursu'd in th' Air and ore the ground
-One way the self-same hour? why in the East
-Darkness ere Dayes mid-course, and Morning light
-More orient in yon Western Cloud that draws
-O're the blew Firmament a radiant white,
-And slow descends, with somthing heav'nly fraught.
-He err'd not, for by this the heav'nly Bands
-Down from a Skie of Jasper lighted now
-In Paradise, and on a Hill made alt, 210
-A glorious Apparition, had not doubt
-And carnal fear that day dimm'd Adams eye.
-Not that more glorious, when the Angels met
-Jacob in Mahanaim, where he saw
-The field Pavilion'd with his Guardians bright;
-Nor that which on the flaming Mount appeerd
-In Dothan, cover'd with a Camp of Fire,
-Against the Syrian King, who to surprize
-One man, Assassin-like had levied Warr,
-Warr unproclam'd. The Princely Hierarch 220
-In thir bright stand, there left his Powers to seise
-Possession of the Garden; hee alone,
-To finde where Adam shelterd, took his way,
-Not unperceav'd of Adam, who to Eve,
-While the great Visitant approachd, thus spake.
-Eve, now expect great tidings, which perhaps
-Of us will soon determin, or impose
-New Laws to be observ'd; for I descrie
-From yonder blazing Cloud that veils the Hill
-One of the heav'nly Host, and by his Gate 230
-None of the meanest, some great Potentate
-Or of the Thrones above, such Majestie
-Invests him coming; yet not terrible,
-That I should fear, nor sociably mild,
-As Raphael, that I should much confide,
-But solemn and sublime, whom not to offend,
-With reverence I must meet, and thou retire.
-He ended; and th' Arch-Angel soon drew nigh,
-Not in his shape Celestial, but as Alan
-Clad to meet Alan; over his lucid Armes 240
-A militarie Vest of purple flowd
-Livelier then Melibcean, or the graine
-Of Sarra, worn by Kings and Hero's old
-In time of Truce; Iris had dipt the wooff;
-His starrie Helme unbuckl'd shew'd him prime
-In Manhood where Youth ended; bv his side
-As in a glistering Zodiac hung the Sword,
-Satans dire dread, and in his hand the Spear.
-Adam bowd low, hee Kingly from his State
-Inclin'd not, but his coming thus declar'd. 250
-Adam, Heav'ns high behest no Preface needs:
-Sufficient that thy Prayers are heard, and Death,
-Then due by sentence when thou didst transgress,
-Defeated of his seisure many dayes
-Giv'n thee of Grace, wherein thou may'st repent,
-And one bad act with many deeds well done
-Mayst cover: well may then thy Lord appeas'd
-Redeem thee quite from Deaths rapacious claime;
-But longer in this Paradise to dwell
-Permits not; to remove thee I am come, 260
-And send thee from the Garden forth to till
-The ground whence thou wast tak'n, fitter Soile.
-He added not, for Adam at the newes
-Heart-strook with chilling gripe of sorrow stood,
-That all his senses bound; Eve, who unseen
-Yet all had heard, with audible lament
-Discover'd soon the place of her retire.
-O unexspected stroke, worse then of Death!
-Must I thus leave thee Paradise? thus leave
-Thee Native Soile, these happie Walks and Shades, 270
-Fit haunt of Gods? where I had hope to spend,
-Quiet though sad, the respit of that day
-That must be mortal to us both. O flours,
-That never will in other Climate grow,
-My early visitation, and my last
-At Eev'n, which I bred up with tender hand
-From the first op'ning bud, and gave ye Names,
-Who now shall reare ye to the Sun, or ranke
-Your Tribes, and water from th' ambrosial Fount?
-Thee lastly nuptial Bowre, by mee adornd 280
-With what to sight or smell was sweet; from thee
-How shall I part, and whither wander down
-Into a lower World, to this obscure
-And wilde, how shall we breath in other Aire
-Less pure, accustomd to immortal Fruits?
-Whom thus the Angel interrupted milde.
-Lament not Eve, but patiently resigne
-What justly thou hast lost; nor set thy heart,
-Thus over fond, on that which is not thine;
-Thy going is not lonely, with thee goes 290
-Thy Husband, him to follow thou art bound;
-Where he abides, think there thy native soile.
-Adam by this from the cold sudden damp
-Recovering, and his scatterd spirits returnd,
-To Michael thus his humble words addressd.
-Celestial, whether among the Thrones, or nam'd
-Of them the Highest, for such of shape may seem
-Prince above Princes, gently hast thou tould
-Thy message, which might else in telling wound,
-And in performing end us; what besides 300
-Of sorrow and dejection and despair
-Our frailtie can sustain, thy tidings bring,
-Departure from this happy place, our sweet
-Recess, and onely consolation left
-Familiar to our eyes, all places else
-Inhospitable appeer and desolate,
-Nor knowing us nor known: and if by prayer
-Incessant I could hope to change the will
-Of him who all things can, I would not cease
-To wearie him with mv assiduous cries: 310
-But prayer against his absolute Decree
-No more availes then breath against the winde,
-Blown stifling back on him that breaths it forth:
-Therefore to his great bidding I submit.
-This most afflicts me, that departing hence,
-As from his face I shall be hid, deprivd
-His blessed count'nance; here I could frequent,
-With worship, place by place where he voutsaf'd
-Presence Divine, and to my Sons relate;
-On this Mount he appeerd, under this Tree 320
-Stood visible, among these Pines his voice
-I heard, here with him at this Fountain talk'd:
-So many grateful Altars I would reare
-Of grassie Terfe, and pile up every Stone
-Of lustre from the brook, in memorie,
-Or monument to Ages, and thereon
-Offer sweet smelling Gumms & Fruits and Flours:
-In yonder nether World where shall I seek
-His bright appearances, or footstep tracer
-For though I fled him angrie, yet recall'd 330
-To life prolongd and promisd Race, I now
-Gladly behold though but his utmost skirts
-Of glory, and farr off his steps adore.
-To whom thus Michael with regard benigne.
-Adam, thou know'st Heav'n his, and all the Earth,
-Not this Rock onely; his Omnipresence fills
-Land, Sea, and Aire, and every kinde that lives,
-Fomented by his virtual power and warmd:
-All th' Earth he gave thee to possess and rule,
-No despicable gift; surmise not then 340
-His presence to these narrow bounds confin'd
-Of Paradise or Eden: this had been
-Perhaps thy Capital Seate, from whence had spred
-All generations, and had hither come
-From all the ends of th' Earth, to celebrate
-And reverence thee thir great Progenitor.
-But this preeminence thou hast lost, brought down
-To dwell on eeven ground now with thy Sons:
-Yet doubt not but in Vallie and in Plaine
-God is as here, and will be found alike 350
-Present, and of his presence many a signe
-Still following thee, still compassing thee round
-With goodness and paternal Love, his Face
-With sinfulness of Men; thereby to learn 360
-True patience, and to temper joy with fear
-And pious sorrow, equally enur'd
-By moderation either state to beare,
-Prosperous or adverse: so shalt thou lead
-Safest thy life, and best prepar'd endure
+32 MILTON: Paradise Lost, BK XI [193-366] 303b-307a\
+O Eve, some furder change awaits us nigh,\
+Which Heav'n by these mute signs in Nature shews\
+Forerunners of his purpose, or to warn\
+Us haply too secure of our discharge\
+From penaltie, because from death releast\
+Some days; how long, and what till then our life,\
+Who knows, or more then this, that we are dust,\
+And thither must return and be no more. 200\
+Why else this double object in our sight\
+Of flight pursu'd in th' Air and ore the ground\
+One way the self-same hour? why in the East\
+Darkness ere Dayes mid-course, and Morning light\
+More orient in yon Western Cloud that draws\
+O're the blew Firmament a radiant white,\
+And slow descends, with somthing heav'nly fraught.\
+He err'd not, for by this the heav'nly Bands\
+Down from a Skie of Jasper lighted now\
+In Paradise, and on a Hill made alt, 210\
+A glorious Apparition, had not doubt\
+And carnal fear that day dimm'd Adams eye.\
+Not that more glorious, when the Angels met\
+Jacob in Mahanaim, where he saw\
+The field Pavilion'd with his Guardians bright;\
+Nor that which on the flaming Mount appeerd\
+In Dothan, cover'd with a Camp of Fire,\
+Against the Syrian King, who to surprize\
+One man, Assassin-like had levied Warr,\
+Warr unproclam'd. The Princely Hierarch 220\
+In thir bright stand, there left his Powers to seise\
+Possession of the Garden; hee alone,\
+To finde where Adam shelterd, took his way,\
+Not unperceav'd of Adam, who to Eve,\
+While the great Visitant approachd, thus spake.\
+Eve, now expect great tidings, which perhaps\
+Of us will soon determin, or impose\
+New Laws to be observ'd; for I descrie\
+From yonder blazing Cloud that veils the Hill\
+One of the heav'nly Host, and by his Gate 230\
+None of the meanest, some great Potentate\
+Or of the Thrones above, such Majestie\
+Invests him coming; yet not terrible,\
+That I should fear, nor sociably mild,\
+As Raphael, that I should much confide,\
+But solemn and sublime, whom not to offend,\
+With reverence I must meet, and thou retire.\
+He ended; and th' Arch-Angel soon drew nigh,\
+Not in his shape Celestial, but as Alan\
+Clad to meet Alan; over his lucid Armes 240\
+A militarie Vest of purple flowd\
+Livelier then Melibcean, or the graine\
+Of Sarra, worn by Kings and Hero's old\
+In time of Truce; Iris had dipt the wooff;\
+His starrie Helme unbuckl'd shew'd him prime\
+In Manhood where Youth ended; bv his side\
+As in a glistering Zodiac hung the Sword,\
+Satans dire dread, and in his hand the Spear.\
+Adam bowd low, hee Kingly from his State\
+Inclin'd not, but his coming thus declar'd. 250\
+Adam, Heav'ns high behest no Preface needs:\
+Sufficient that thy Prayers are heard, and Death,\
+Then due by sentence when thou didst transgress,\
+Defeated of his seisure many dayes\
+Giv'n thee of Grace, wherein thou may'st repent,\
+And one bad act with many deeds well done\
+Mayst cover: well may then thy Lord appeas'd\
+Redeem thee quite from Deaths rapacious claime;\
+But longer in this Paradise to dwell\
+Permits not; to remove thee I am come, 260\
+And send thee from the Garden forth to till\
+The ground whence thou wast tak'n, fitter Soile.\
+He added not, for Adam at the newes\
+Heart-strook with chilling gripe of sorrow stood,\
+That all his senses bound; Eve, who unseen\
+Yet all had heard, with audible lament\
+Discover'd soon the place of her retire.\
+O unexspected stroke, worse then of Death!\
+Must I thus leave thee Paradise? thus leave\
+Thee Native Soile, these happie Walks and Shades, 270\
+Fit haunt of Gods? where I had hope to spend,\
+Quiet though sad, the respit of that day\
+That must be mortal to us both. O flours,\
+That never will in other Climate grow,\
+My early visitation, and my last\
+At Eev'n, which I bred up with tender hand\
+From the first op'ning bud, and gave ye Names,\
+Who now shall reare ye to the Sun, or ranke\
+Your Tribes, and water from th' ambrosial Fount?\
+Thee lastly nuptial Bowre, by mee adornd 280\
+With what to sight or smell was sweet; from thee\
+How shall I part, and whither wander down\
+Into a lower World, to this obscure\
+And wilde, how shall we breath in other Aire\
+Less pure, accustomd to immortal Fruits?\
+Whom thus the Angel interrupted milde.\
+Lament not Eve, but patiently resigne\
+What justly thou hast lost; nor set thy heart,\
+Thus over fond, on that which is not thine;\
+Thy going is not lonely, with thee goes 290\
+Thy Husband, him to follow thou art bound;\
+Where he abides, think there thy native soile.\
+Adam by this from the cold sudden damp\
+Recovering, and his scatterd spirits returnd,\
+To Michael thus his humble words addressd.\
+Celestial, whether among the Thrones, or nam'd\
+Of them the Highest, for such of shape may seem\
+Prince above Princes, gently hast thou tould\
+Thy message, which might else in telling wound,\
+And in performing end us; what besides 300\
+Of sorrow and dejection and despair\
+Our frailtie can sustain, thy tidings bring,\
+Departure from this happy place, our sweet\
+Recess, and onely consolation left\
+Familiar to our eyes, all places else\
+Inhospitable appeer and desolate,\
+Nor knowing us nor known: and if by prayer\
+Incessant I could hope to change the will\
+Of him who all things can, I would not cease\
+To wearie him with mv assiduous cries: 310\
+But prayer against his absolute Decree\
+No more availes then breath against the winde,\
+Blown stifling back on him that breaths it forth:\
+Therefore to his great bidding I submit.\
+This most afflicts me, that departing hence,\
+As from his face I shall be hid, deprivd\
+His blessed count'nance; here I could frequent,\
+With worship, place by place where he voutsaf'd\
+Presence Divine, and to my Sons relate;\
+On this Mount he appeerd, under this Tree 320\
+Stood visible, among these Pines his voice\
+I heard, here with him at this Fountain talk'd:\
+So many grateful Altars I would reare\
+Of grassie Terfe, and pile up every Stone\
+Of lustre from the brook, in memorie,\
+Or monument to Ages, and thereon\
+Offer sweet smelling Gumms & Fruits and Flours:\
+In yonder nether World where shall I seek\
+His bright appearances, or footstep tracer\
+For though I fled him angrie, yet recall'd 330\
+To life prolongd and promisd Race, I now\
+Gladly behold though but his utmost skirts\
+Of glory, and farr off his steps adore.\
+To whom thus Michael with regard benigne.\
+Adam, thou know'st Heav'n his, and all the Earth,\
+Not this Rock onely; his Omnipresence fills\
+Land, Sea, and Aire, and every kinde that lives,\
+Fomented by his virtual power and warmd:\
+All th' Earth he gave thee to possess and rule,\
+No despicable gift; surmise not then 340\
+His presence to these narrow bounds confin'd\
+Of Paradise or Eden: this had been\
+Perhaps thy Capital Seate, from whence had spred\
+All generations, and had hither come\
+From all the ends of th' Earth, to celebrate\
+And reverence thee thir great Progenitor.\
+But this preeminence thou hast lost, brought down\
+To dwell on eeven ground now with thy Sons:\
+Yet doubt not but in Vallie and in Plaine\
+God is as here, and will be found alike 350\
+Present, and of his presence many a signe\
+Still following thee, still compassing thee round\
+With goodness and paternal Love, his Face\
+With sinfulness of Men; thereby to learn 360\
+True patience, and to temper joy with fear\
+And pious sorrow, equally enur'd\
+By moderation either state to beare,\
+Prosperous or adverse: so shalt thou lead\
+Safest thy life, and best prepar'd endure\
 Thy mortal passage when it comes. Ascend
 
 32 MILTON: Areopagitica, 389a-b
@@ -22258,11 +22258,11 @@ Ubi est Deus tuus? ¹ Miracles show Him, and are a light.
 849\. Will Est et non est.³ be received in faith itself as well as in miracles? And if it is inseparable in the others . . .
 When Saint Xavier works miracles. [Saint Hilary. "Ye wretches, who oblige us to speak of miracles."]
 Unjust judges, make not your own laws on the moment; judge by those which are established, and by yourselves. Vae qui conditis leges iniquas .⁴
-Miracles endless, false.
-In order to weaken your adversaries, you disarm the whole Church.
-¹Ps. 41.4. "Where is thy God?"
-²Ps. 1 1 1.4. "Unto the upright there ariseth light in the darkness."
-³"The yes and the no."
+Miracles endless, false.\
+In order to weaken your adversaries, you disarm the whole Church.\
+¹Ps. 41.4. "Where is thy God?"\
+²Ps. 1 1 1.4. "Unto the upright there ariseth light in the darkness."\
+³"The yes and the no."\
 ⁴Js. 10. 1. "Woe unto them that decree unrighteous decrees."
 If they say that our salvation depends upon God, they are "heretics." If they say that they are obedient to the Pope, that is "hypocrisy." If they are ready to subscribe to all the articles, that is not enough. Ifthey say that a man must not be killed for an apple, "they attack the morality of Catholics." If miracles are done among them, it is not a sign of holiness, and is, on the contrary a symptom of heresy.
 This way in which the Church has existed is that truth has been without dispute, or, if it has been contested, there has been the Pope, or, failing him, there has been the Church.
@@ -22460,100 +22460,100 @@ At night Mr. Johnson and I supped in a private room at the Turk's Head coffee-ho
 
 ## 47 GOETHE: Faust, PART I [430-513] 12b-14b
 
-What rapture, ah! at once is flowing 430
-Through all my senses at the sight of this!
-I feel a youthful life, its holy bliss.
-Through nerve and vein run on, new-glowing.
-Was it a god who wrote these signs that still
-My inner tumult and that fill 435
-My wretched heart with ecstasy?
-Unveiling with mysterious potency
-The powers of Nature round about me here?
-Am I a god? All grows so clear to me!
-In these pure lineaments I see 440
-Creative Nature's self before my soul appear.
-Now first I understand what he, the sage, has said:
-"The world of spirits is not shut away;
-Thy sense is closed, thy heart is dead!
-Up, Student! bathe without dismay 445
-Thy earthly breast in morning-red!"
-He contemplates the sign.
-Into the whole how all things blend,
-Each in the other working, living!
-How heavenly powers ascend, descend,
-Each unto each the golden vessels giving!¹ 450
-On pinions fragrant blessings bringing,
-From Heaven through Earth all onward winging,
-Through all the All harmonious ringing!
-What pageantry! Yet, ah, mere pageantry!
-Where shall I, endless Nature, seize on thee? 455
-Thy breasts are—where? Ye, of all life the spring,
-To whom both Earth and Heaven cling,
-Toward whom the withering breast doth strain—
-Ye gush, ye suckle, and shall I pine thus in vain?
-He turns the book over impatiently and perceives the sign of the
-EARTH-SPIRIT.
-How differently upon me works this sign! 460
-Thou, Spirit of the Earth, I feel, art nigher.
-I feel my powers already higher,
-I glow already as from some new wine.
-I feel the courage, forth into the world to dare;
-The woe of earth, the bliss of earth to bear; 465
-With storms to battle, brave the lightning's glare;
-And in the shipwreck's crash not to despair!
-Clouds gather over me—
-The moon conceals her light—
-The lamp fades out! 470
-Mists rise—red beams dart forth
-Around my head—there floats
-A horror downward from the vault
-And seizes me!
-Spirit invoked! near me, I feel, thou art! 475
-Unveil thyself!
-Ha! how it rends my heart!
-To unknown feeling
-All my senses burst forth, reeling!
-¹Cf. Genesis, 28. 12.
-I feel my heart is thine and to the uttermost! 480
-Thou must! Thou must! though my life be the cost!
-He clutches the book and utters the sign of the spirit in a tone of
-mystery. A ruddy flame flashes up; the spirit appears in the
-flame.
-Spirit. Who calls to me?
-Faust [turning away]. Appalling apparition!
-Spirit. By potent spell hast drawn me here,
-Hast long been tugging at my sphere,
-And now—
-Faust. Oh woe! I can not bear thy vision! 485
-Spirit. With panting breath thou hast implored this sight,
-Wouldst hear my voice, my face wouldst see;
-Thy mighty spirit-plea inclineth me!
-Here am I!—what a pitiable fright
-Grips thee, thou Superman! Where is the soul elated? 490
-Where is the breast that in its self a world created
-And bore and fostered it? And that with joyous trembling
-Expanded as if spirits, us, resembling?
-Where art thou, Faust, whose voice rang out to me,
-Who toward me pressed with all thy energy? 495
-Is it thou who, by my breath surrounded,
-In all the deeps of being art confounded?
-A frightened, fleeing, writhing worm?
-Faust. Am I, O form of flame, to yield to thee in fear?
-'Tis I, I'm Faust, I am thy peer! 500
-Spirit. In the tides of life, in action's storm,
-Up and down I wave,
-To and fro weave free,
-Birth and the grave,
-An infinite sea, 505
-A varied weaving,
-A radiant living,
-Thus at Time's humming loom it's my hand that prepares
-The robe ever-living the Deity wears.
-Faust. Thou who dost round the wide world wend, 510
-Thou busy spirit, how near I feel to thee!
-Spirit. Thou art like the spirit thou canst comprehend,
-Not me!
-Vanishes.
+What rapture, ah! at once is flowing 430\
+Through all my senses at the sight of this!\
+I feel a youthful life, its holy bliss.\
+Through nerve and vein run on, new-glowing.\
+Was it a god who wrote these signs that still\
+My inner tumult and that fill 435\
+My wretched heart with ecstasy?\
+Unveiling with mysterious potency\
+The powers of Nature round about me here?\
+Am I a god? All grows so clear to me!\
+In these pure lineaments I see 440\
+Creative Nature's self before my soul appear.\
+Now first I understand what he, the sage, has said:\
+"The world of spirits is not shut away;\
+Thy sense is closed, thy heart is dead!\
+Up, Student! bathe without dismay 445\
+Thy earthly breast in morning-red!"\
+He contemplates the sign.\
+Into the whole how all things blend,\
+Each in the other working, living!\
+How heavenly powers ascend, descend,\
+Each unto each the golden vessels giving!¹ 450\
+On pinions fragrant blessings bringing,\
+From Heaven through Earth all onward winging,\
+Through all the All harmonious ringing!\
+What pageantry! Yet, ah, mere pageantry!\
+Where shall I, endless Nature, seize on thee? 455\
+Thy breasts are—where? Ye, of all life the spring,\
+To whom both Earth and Heaven cling,\
+Toward whom the withering breast doth strain—\
+Ye gush, ye suckle, and shall I pine thus in vain?\
+He turns the book over impatiently and perceives the sign of the\
+EARTH-SPIRIT.\
+How differently upon me works this sign! 460\
+Thou, Spirit of the Earth, I feel, art nigher.\
+I feel my powers already higher,\
+I glow already as from some new wine.\
+I feel the courage, forth into the world to dare;\
+The woe of earth, the bliss of earth to bear; 465\
+With storms to battle, brave the lightning's glare;\
+And in the shipwreck's crash not to despair!\
+Clouds gather over me—\
+The moon conceals her light—\
+The lamp fades out! 470\
+Mists rise—red beams dart forth\
+Around my head—there floats\
+A horror downward from the vault\
+And seizes me!\
+Spirit invoked! near me, I feel, thou art! 475\
+Unveil thyself!\
+Ha! how it rends my heart!\
+To unknown feeling\
+All my senses burst forth, reeling!\
+¹Cf. Genesis, 28. 12.\
+I feel my heart is thine and to the uttermost! 480\
+Thou must! Thou must! though my life be the cost!\
+He clutches the book and utters the sign of the spirit in a tone of\
+mystery. A ruddy flame flashes up; the spirit appears in the\
+flame.\
+Spirit. Who calls to me?\
+Faust [turning away]. Appalling apparition!\
+Spirit. By potent spell hast drawn me here,\
+Hast long been tugging at my sphere,\
+And now—\
+Faust. Oh woe! I can not bear thy vision! 485\
+Spirit. With panting breath thou hast implored this sight,\
+Wouldst hear my voice, my face wouldst see;\
+Thy mighty spirit-plea inclineth me!\
+Here am I!—what a pitiable fright\
+Grips thee, thou Superman! Where is the soul elated? 490\
+Where is the breast that in its self a world created\
+And bore and fostered it? And that with joyous trembling\
+Expanded as if spirits, us, resembling?\
+Where art thou, Faust, whose voice rang out to me,\
+Who toward me pressed with all thy energy? 495\
+Is it thou who, by my breath surrounded,\
+In all the deeps of being art confounded?\
+A frightened, fleeing, writhing worm?\
+Faust. Am I, O form of flame, to yield to thee in fear?\
+'Tis I, I'm Faust, I am thy peer! 500\
+Spirit. In the tides of life, in action's storm,\
+Up and down I wave,\
+To and fro weave free,\
+Birth and the grave,\
+An infinite sea, 505\
+A varied weaving,\
+A radiant living,\
+Thus at Time's humming loom it's my hand that prepares\
+The robe ever-living the Deity wears.\
+Faust. Thou who dost round the wide world wend, 510\
+Thou busy spirit, how near I feel to thee!\
+Spirit. Thou art like the spirit thou canst comprehend,\
+Not me!\
+Vanishes.\
 Faust [collapsing]. Not thee!
 
 ## 51 TOLSTOY: War and Peace, BK IX, 377b-379a; BK XII, 561 b-562a
@@ -22569,14 +22569,14 @@ Here is wisdom. Let him that hath understanding count the number of the beast: f
 And in the fifth verse of the same chapter:
 And there was given unto him a mouth speaking great things and blasphemies; and power was given unto him to continue forty and two months.
 The French alphabet, written out with the same numerical values as the Hebrew, in which the first nine letters denote units and the others tens, will have the following significance:
-a b e d e f g h i k
-1 2 3 4 5 6 7 8 9 10
-l m n o p q r s
-20 30 40 50 60 70 80 90
-t u v w x y z
+a b e d e f g h i k\
+1 2 3 4 5 6 7 8 9 10\
+l m n o p q r s\
+20 30 40 50 60 70 80 90\
+t u v w x y z\
 100 110 120 130 140 150 160
 Writing the words L'Empereur Napoleon in numbers, it appears that the sum of them is 666,¹ and that Napoleon was therefore the beast foretold in the Apocalypse. Moreover, by applying the same system to the words quarantedeux,² which was the term allowed to the beast that "spoke great things and blasphemies," the same number 666 was obtained; from which it followed that the limit fixed for Napoleon's power had come in the year 1812 when the French emperor was forty-two. This prophecy pleased Pierre very much and he often asked himself what would put an end to the power of the beast, that is, of Napoleon, and tried by the same system of using letters as numbers and adding them up, to find an answer to the question that engrossed him. He wrote the words L'Empereur Alexandre, La nation russe and added up their numbers, but the sums were either more or less than 666. Once when making such calculations he wrote down his own name in French, Comte Pierre Besouhoff, but the sum of the numbers did not come right. Then he changed the spelling, substituting a z for the s and adding de and the article le, still without obtaining the desired result. Then it occurred to him: if the answer to the question were contained in his name, his nationality would also be given in the answer. So he wrote Le russe Besuhof and adding up the numbers got 671. This was only five too much, and five was represented by e, the very letter elided from the article le before the word Empereur. By omitting the e, though incorrectly, Pierre got the answer he sought. L'russe Besuhof made 666. This discovery excited him. How, or by
-¹Including a 5 for the letter e dropped by elision from the le before Empereur.—Tr.
+¹Including a 5 for the letter e dropped by elision from the le before Empereur.—Tr.\
 ²Forty- two.
 what means, he was connected with the great event foretold in the Apocalypse he did not know, but he did not doubt that connection for a moment. His love for Natasha, Antichrist, Napoleon, the invasion, the comet, 666, L'Empereur Napoleon, and L'russe Besuhof—all this had to mature and culminate, to lift him out of that spellbound, petty sphere of Moscow habits in which he felt himself held captive, and lead him to a great achievement and great happiness.
 On the eve of the Sunday when the special prayer was read, Pierre had promised the Rostovs to bring them, from Count Rostopchin whom he knew well, both the appeal to the people and the latest news from the army. In the morning, when he went to call at Rostopchin's he met there a courier fresh from the army, an acquaintance of his own, who often danced at Moscow balls.

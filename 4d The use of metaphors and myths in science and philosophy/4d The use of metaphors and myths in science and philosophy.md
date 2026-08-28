@@ -41,8 +41,8 @@ Ten thousand years must elapse before the soul of each one can return to the pla
 Thus far I have been speaking of the fourth and last kind of madness, which is imputed to him who, when he sees the beauty of earth, is transported with the recollection of the true beauty; he would like to fly away, but he cannot; he is like a bird fluttering and looking upward and careless of the world below; and he is therefore thought to be mad. And I have shown this of all inspirations to be the noblest and highest and the offspring of the highest to him who has or shares in it, and that he who loves the beautiful is called a lover because he partakes of it. For, as has been already said, every soul of man has in the way of nature beheld true being; this was the condition of her passing into the form of man. But all souls do not easily recall the things of the other world; [250] they may have seen them for a short time only, or they may have been unfortunate in their earthly lot, and, having had their hearts turned to unrighteousness through some corrupting influence, they may have lost the memory of the holy things which once they saw. Few only retain an adequate remembrance of them; and they, when they behold here any image of that other world, are rapt in amazement; but they are ignorant of what this rapture means, because they do not clearly perceive. For there is no light of justice or temperance or any of the higher ideas which are precious to souls in the earthly copies of them: they are seen through a glass dimly; and there are few who, going to the images, behold in them the realities, and these only with difficulty. There was a time when with the rest of the happy band they saw beauty shining in brightness, we philosophers following in the: train of Zeus, others in company with other gods; and then we beheld the beatific vision and were initiated into a mystery which may be truly called most blessed, celebrated by us in our state of innocence, before we had any experience of evils to come, when we were admitted to the sight of apparitions innocent and simple and calm and happy, which we beheld shining in pure light, pure ourselves and not yet enshrined in that living tomb which we carry about, now that we are imprisoned in the body, like an oyster in his shell. Let me linger over the memory of scenes which have passed away.
 But of beauty, I repeat again that we saw her there shining in company with the celestial forms; and coming to earth we find her here too, shining in clearness through the clearest aperture of sense. For sight is the most piercing of our bodily senses; though not by that is wisdom seen; her loveliness would have been transporting if there had been a visible image of her, and the other ideas, if they had visible counterparts, would be equally lovely. But this is the privilege of beauty, that being the loveliest she is also the most palpable to sight. Now he who is not newly initiated or who has become corrupted, does not easily rise out of this world to the sight of true beauty in the other; he looks only at her earthly namesake, and instead of being awed at the sight of her, he is given over to pleasure, and like a brutish beast he rushes on to enjoy and beget; [ 251] he consorts with wantonness, and is not afraid or ashamed of pursuing pleasure in violation of nature. But he whose initiation is recent, and who has been the spectator of many glories in the other world, is amazed when he sees anyone having a god-like face or form, which is the expression of divine beauty; and at first a shudder runs through him, and again the old awe steals over him; then looking upon the face of his beloved as of a god he reverences him, and if he were not afraid of being thought a downright mad-man, he would sacrifice to his beloved as to the image of a god; then while he gazes on him there is a sort of reaction, after the shudder passes into an unusual heat and perspiration; for, as he receives the effluence of beauty through the eyes, the wings moistens and he warms. And as he warms, the parts out of which the wings grew, and which had been hitherto closed and rigid, and bad prevented the wings from shooting forth, are melted, and as nourishment streams upon him, the lower end of the wings begins to swell and grow from the root up-words and the growth extends under the whole soul-for once the whole was winged.
 During this process the whole soul is all in a state of ebullition and effervescence, -which may be compared to the irritation and uncasiness in the gums at the time of cutting teeth, - bubbles up, and has a feeling of uneasiness and tickling; but when unlike manner the soul is beginning to grow wings, the beauty of the beloved meets her eye and she receives the sensible warm motion of particles which flow towards her, therefore called emotions and is refreshed and warmed by them, and then she ceases from her pain with joy. But when she is parted from her beloved and her moisture fails, then the orifices of the passage out of which the wings shoots dry up the passage out of which the wings shoots dry up and close, and intercept the germ of the wing; which, being shut up with the emotion, throbbing as with the pulsations of an artery, pricks the aperture which is nearest, until at length the entire soul is pierced and maddened and pained, and at the recollection of beauty is again delighted. And from both of them together the soul is oppressed at the strangeness of her condition, and is in a great strait and excitement, and in her madness can neither sleep by night nor abide in her place by day. And wherever she thinks that she will behold the beautiful one, thither in her desire she runs. And when she has seen him, and bathed herself in the waters of beauty, her constraint is loosened, and she is refreshed, and has no more pangs and pains; and this is the sweetest of all pleasures at the time, [252] and is the reason why the soul of the lover will never forsake his beautiful one, whom he esteems above all; he has forgotten mother and brethren and companions, and he thinks nothing of the neglect and loss of his property; the rules and proprieties of life, on which he formerly prided himself, he now despises, and is ready to sleep like a servant, wherever he is allowed, as near as he can to his desired one, who is the object of his worship, and the physician who can alone assuage the greatness of his pain. And this state, my dear imaginary youth to whom I am talking, is by men called love, and among the gods has a name at which you, in your simplicity, may be inclined to mock; there are two lines in the apocryphal writings of Homer in which the name occurs. One of them is rather outrageous, and not altogether metrical. They are as follow:
-Mortals call him fluttering love,
-But the immortals call him winger one,
+Mortals call him fluttering love,\
+But the immortals call him winger one,\
 Because the growing of wings is a necessity to him.
 You may believe this, but not unless you like. At any rate the loves of lovers and their causes are such as I have described.
 Now the lover who is taken to be the attendant o f Zeus is better able to bear the winged god, and can endure a heavier burden; but the attendants and companions of Ares, when under the influence of love, if they fancy that they have been at all wronged, are ready to kill and put an end to themselves and their beloved and with the rest of the world during the period of his earthly existence. Every one chooses his love from the ranks of beauty according to his character, and this he makes his god, and fashions and adorns as a sort of image which he is to fall down and worship. The followers of Zeus desire that their beloved should have a soul like him; and therefor they seek out some one of a philosophical and imperial nature, and when they have found him and loved him, they do all they can to confirm such a nature in him, and if they have no experience of such a disposition hitherto, they learn of any one who can teach them, and themselves follow in the same way. And they have the less difficulty in finding the nature of their own god in themselves, [253] because they have been compelled to gaze intensely on him; their recollection clings to him, and they become possessed of him, and receive from him their character and disposition, so far as man can participate in God. The qualities of their god they attribute to the beloved, wherefore they love him all the more, and if, like the Bacchic Nymphs, they draw inspiration from Zeus they pour out their own fountain upon him, wanting to make him as like as possible to their own god. But those who are the followers of Here seek a royal love, and when they have found him they do just the same with him; and in like manner the followers of Apollo, and of every other god walking in the ways of their god, seek a love who is to be made like him whom they serve, and when they have found him, they themselves imitate their god, and persuade their love to do the same, and educate him into the manner and nature of the god as far as they each can; for no feelings of envy or jealousy are entertained by them towards their beloved, but they do their utmost to create in him the greatest likeness of themselves and of the god whom they honour. Thus lair and blissful to the beloved is the desire of the inspired lover, and the initiation of which I speak into the mysteries of true love, if he be captured by the lover and their purpose is effected. Now the beloved is taken captive in the following manner: —
@@ -113,31 +113,31 @@ Soc. And von. like him, invite any one to ask you about anything which he please
 Pol. To be sure.
 Soc. And now, which will you do, ask or answer?
 Pol. I will ask; and do you answer me, Socrates, the same question which Gorgias, as you suppose, is unable to answer: What is rhetoric?
-Soc. Do you mean what sort of an art?
-Pol. Yes.
-Soc. To say the truth, Polus, it is not an art at all, in my opinion.
+Soc. Do you mean what sort of an art?\
+Pol. Yes.\
+Soc. To say the truth, Polus, it is not an art at all, in my opinion.\
 Pol. Then what, in your opinion, is rhetoric?
 Soc. A thing which, as I was lately reading in a book of yours, you say that you have made an art.
-Pol. What thing?
-Soc. I should say a sort of experience.
-Pol. Does rhetoric seem to you to be an experience?
-Soc. That is my view, but you may be of another mind.
-Pol. An experience in what?
+Pol. What thing?\
+Soc. I should say a sort of experience.\
+Pol. Does rhetoric seem to you to be an experience?\
+Soc. That is my view, but you may be of another mind.\
+Pol. An experience in what?\
 Soc. An experience in producing a sort of delight and gratification.
 Pol. And if able to gratify others, must not rhetoric be a fine thing?
 Soc. What are you saying, Polus? Why do you ask me whether rhetoric is a fine thing or not, when I have not as yet told you what rhetoric is?
 Pol. Did I not hear you say that rhetoric was a sort of experience?
 Soc. Will you, who are so desirous to gratify others, afford a slight gratification to me?
-Pol. I will.
-Soc. Will you ask me, what sort of an art is cookery?
-Pol. What sort of an art is cookery?
-Soc. Not an art at all, Polus.
-Pol. What then?
-Soc. I should say an experience.
+Pol. I will.\
+Soc. Will you ask me, what sort of an art is cookery?\
+Pol. What sort of an art is cookery?\
+Soc. Not an art at all, Polus.\
+Pol. What then?\
+Soc. I should say an experience.\
 Pol. In what? I wish that you would explain to me.
 Soc. An experience in producing a sort of delight and gratification, Polus.
-Pol. Then are cookery and rhetoric the same?
-Soc. No, they are only different parts of the same profession.
+Pol. Then are cookery and rhetoric the same?\
+Soc. No, they are only different parts of the same profession.\
 Pol. Of what profession?
 Soc. I am afraid that the truth may seem discourteous; and I hesitate to answer, lest Gorgias should imagine that I am making fun of his own profession. [463] For whether or no this is that art of rhetoric which Gorgias practices I really cannot tell:—from what he was just now saying, nothing appeared of what he thought of his art, but the rhetoric which I mean is a part of a not very creditable whole.
 Gor. A part of what, Socrates? Say what you mean, and never mind me.
@@ -166,11 +166,11 @@ And this, I say, is the natural difference between the rhetorician and the sophi
 Pol, What do you mean? do you think that rhetoric is flatter?
 Soc. Nay, I said a part of flattery; if at your Polus, you cannot remember, what will you do by-and by, when you get older?
 Pol. And are the good rhetoricians meanly regarded in states, under the idea that they are flatterers?
-Soc. Is that a question or the beginning of a speech?
-Pol, I am asking a question.
-Soc. Then my answer is, that they are not regard at all.
-Pol. How not regarded? Have they not very great power in states?
-Soc. Not if you mean to say that power is a good to the possessor.
+Soc. Is that a question or the beginning of a speech?\
+Pol, I am asking a question.\
+Soc. Then my answer is, that they are not regard at all.\
+Pol. How not regarded? Have they not very great power in states?\
+Soc. Not if you mean to say that power is a good to the possessor.\
 Pol. And that is what I do mean to say.
 Soc, Then, if so, I think that they have the least power of all the citizens.
 Pol. What! are they not like tyrants? They kill and despoil and exile any one whom they please.
@@ -184,8 +184,8 @@ From this tale, Callicles, which I have heard and believe, I draw the following 
 Now the proper office of punishment is twofold: he who is rightly punished ought either to become better and profit by it, or he ought to be made an example to his fellows, that they may see what he suffers, and fear and become better. Those who arc improved when they arc punished by gods and men, are those whose sins are curable; and they are improved, as in this world so also in another, by pain and suffering; for there is no other way in which they can be delivered from their evil. But they who have been guilty of the worst crimes, and are incurable by reason of their crimes, are made examples; for, as they are incurable, the time has passed at which they can receive any benefit. They get no good themselves, but others get good when they behold them enduring forever the most terrible and painful and fearful sufferings as the penalty of their sins—there they are, hanging up as examples, in the prison-house of the world below, a spectacle and a warning to all unrighteous men who can thither. And among them I am confidently affirm, will be found Archelaus, if Polus truly reports of him, and any other tyrant who is like him. Of these fearful examples, most, as I believe, are taken from the class of tyrants and kings and potentates and public men, for they are the authors of the greatest and impious crimes, because they have the power. And Homer witnesses to the truth of this; for they are always kings and potentates whom he has described as suffering everlasting punishment in the world below: such were Tantatlus and Sisyphus and Tutyus. But no one ever described Thersites, or any private person who was a villain, as suffering everlasting punishment, or as incurable. For to commit the worst crimes, as I am inclined to think, was not in his power. No, Callicles, [526] the very bad man come form the class of those who have power.¹ And yet in that very class there may arise good men, and worthy of all admiration they are, for where there is great power to do wrong, to live and to die justly is a hard thing, and greatly to be praised, and few there are who attain to this. Such good and true men, however, there have been, and will be again, at Athens and in other states, who have fulfilled their trust righteously; and there is one who is quite famous all over Hellas, Aristeides, the son of Lysimachus. But, in general, great men are also bad, my friend.
 As I was saying, Rhadamanthus, when he gets a soul of the bad kind, knows nothing about him, neither who he is, nor who his parents are; he knows only that he has got hold of a villain; and seeing this, he stamps him I able or incurable, and sends him away to Tartarus, whither he goes and receives his proper recompense.
 Or, again, he looks with admiration on the soul of some just one who has lived in holiness and truth; he may have been a private man or not; and I should say, Callicles, that he is most likely to have been a philosopher who has done his own work, and not troubled himself with the doings of other men in his lifetime; him Rhadamanthus sends to the Islands of the Blessed. Aeacus does the same; and they both have sceptres, and judge; but Minos alone has a golden sceptre and is seated looking on, as Odysseus in Homer declares that he saw him:
-Holding a sceptre of gold, and giving laws to the dead.
-Now I, Callicles, am persuaded of the truth of
+Holding a sceptre of gold, and giving laws to the dead.\
+Now I, Callicles, am persuaded of the truth of\
 ¹Cf. Republic, x. 615.
 these things, and I consider how I shall present my soul whole and undented before the judge in that day. Renouncing the honours at which the world aims, I desire only to know the truth, and to live as well as I can, and, when I die, to die as well as I
 can. And, to the utmost of my power, I exhort all other men to do the same. And, in return lor your exhortation of me, I exhort you also to take part in the great combat, which is the combat of life, and greater than every other earthly conflict. And I retort your reproach of me, and say, that you will not he able to help yourself when the clay of trial and judgment, of which I was speaking, comes upon you; you will go before the judge, [527] the son of Aegina, and, when he has got you in his grip and is earn mg you off, you will gape and your head will swim round, just as mine would in the courts of this world, and very likely someone will shamefully box you on the ears, and put upon you any sort of insult.
@@ -196,8 +196,8 @@ Follow me then, and I will lead you where you will be happy in lite and after de
 ### Republic, BK VI-VII, 383d-391b
 
 And yet we were saying that both qualities were necessary in those to whom the higher education is to be imparted, and who arc to share in any office or command.
-Certainly, he said.
-And will they be a class which is rarely found?
+Certainly, he said.\
+And will they be a class which is rarely found?\
 Yes, indeed.
 Then the aspirant must not only be tested in those labours and dangers and pleasures which we mentioned before, but there is another kind of probation which we did not mention—he must be exercised also in many kinds of knowledge, to see whether the soul will be able to endure the highest of all, [504] or will faint under them, as in any other studies and exercises.
 Yes, he said, you are quite right in testing him. But what do you mean by the highest of all knowledge?
@@ -225,8 +225,8 @@ How ridiculous!
 Yes, I said, that they should begin by reproaching us with our ignorance of the good, and then presume our knowledge of it—for the good they define to be knowledge of the good, just as it we understood them when they use the term "good"—this is of course ridiculous.
 Most true, he said.
 And those who make pleasure their good are in equal perplexity; for they are compelled to admit that there are bad pleasures as well as good.
-Certainly.
-And therefore to acknowledge that bad and good are the same?
+Certainly.\
+And therefore to acknowledge that bad and good are the same?\
 True.
 There can be no doubt about the numerous difficulties in which this question is involved.
 There can be none.
@@ -261,8 +261,8 @@ True, he said.
 And there is an absolute beauty and an absolute good, and of other things to which the term “many”, is applied there is an absolute; for they may be brought under a single idea, which is called the essence of each.
 Very true.
 The many, as we say, are seen but not known, and the ideas are known but not seen.
-Exactly.
-And what is the organ with which we see the visible things?
+Exactly.\
+And what is the organ with which we see the visible things?\
 The sight, he said.
 And with the hearing, I said, we hear, and with the other senses perceive the other objects of sense?
 True.
@@ -275,18 +275,18 @@ Certainly not.
 But you see that without the addition of some other nature there is no seeing or being seen?
 How do you mean?
 Sight being, as I conceive, in the eyes, and he who has eyes wanting to see; colour being also present in them, still unless there be a third nature specially adapted to the purpose, the owner of the eyes will see nothing and the colours will be invisible.
-Of what nature are you speaking?
-Of that which you term light, I replied.
+Of what nature are you speaking?\
+Of that which you term light, I replied.\
 True, he said.
 [508] Noble, then, is the bond which links together sight and visibility, and great beyond other bonds by no small difference of nature; for light is their bond, and light is no ignoble thing?
 Nay, he said, the reverse of ignoble.
 And which, I said, of the gods in heaven would you say was the lord of this element? Whose is that light which makes the eye to see perfectly and the visible to appear?
-You mean the sun, as you and all mankind say.
-May not the relation oi sight to this deity be described as follows?
-How?
-Neither sight nor the eye in which sight resides is the sun?
-No.
-Yet of all the organs of sense the eye is the most like the sun?
+You mean the sun, as you and all mankind say.\
+May not the relation oi sight to this deity be described as follows?\
+How?\
+Neither sight nor the eye in which sight resides is the sun?\
+No.\
+Yet of all the organs of sense the eye is the most like the sun?\
 By far the most like.
 And the power which the eye possesses is a sort of effluence which is dispensed from the sun?
 Exactly.
@@ -498,8 +498,8 @@ Theaet. What do you mean?
 Soc. In the first place, how can a man who has the knowledge of anything be ignorant of that which he knows, not by reason of ignorance, but by reason of his own knowledge? And, again, is it not an extreme absurdity that he should suppose another thing to be this, and this to be another thing; - that, having knowledge present with him in his mind, he should still know nothing and be ignorant of all things? – you might as well argue that ignorance may make a man know, and blindness make him see, as that knowledge can make him ignorant.
 Theaet. Perhaps, Socrates, we may have been wrong in making only forms of knowledge our birds: whereas there ought to have been forms of ignorance as well, flying about together in the mind, and then he who sought to take some of them might sometimes catch a form of knowledge, and sometimes a form of ignorance; and thus he would have a false opinion from ignorance, but a true one from knowledge, about the same thing.
 Soc. I cannot help praising you. Theaetetus and yet I must beg you to reconsider your words. [200] Let us grant what you say—then, according to you, he who takes ignorance will have a false opinion—am I right?
-Theaet. Yes.
-Soc. He will certainly not think that he has a false opinion?
+Theaet. Yes.\
+Soc. He will certainly not think that he has a false opinion?\
 Theaet. Of course not.
 Soc. He will think that his opinion is true. and he will fancy that he knows the things about which he has been deceived?
 Theaet. Certainly.
@@ -510,9 +510,9 @@ Theaet. Indeed, I do not know what we are to say
 Soc. Are not his reproaches just, and does not the argument truly show that we are wrong in seeking for false opinion until we know what knowledge is; that must be first ascertained; then, the nature of false opinion?
 Theart. I cannot but agree with you, Socrates, so far as we have yet gone.
 Soc. Then, once more, what shall we say that knowledge is? —for we are not going to lose heart as yet.
-Theaet. Certainly, I shall not lose heart, if you do not.
-Soc. What definition will be most consistent with our former views?
-Theaet. I cannot think of any but our old one. Socrates.
+Theaet. Certainly, I shall not lose heart, if you do not.\
+Soc. What definition will be most consistent with our former views?\
+Theaet. I cannot think of any but our old one. Socrates.\
 Soc. What was it?
 Theaet. Knowledge was said by us to be true opinion; and true opinion is surely unerring, and the results which follow from it are all noble and good.
 
@@ -533,8 +533,8 @@ Str. There did really happen, and will again happen, like many other events of w
 You have heard, no doubt, and remember what they say happened at that time?
 Y. Soc. I suppose you to mean the token of the birth of the golden lamb.
 [269] Str. No, not that; but another part of the story, which tells how the sun and the stars once rose in the west, and set in the east, and that the god reversed their motion, and gave them that which they now have as a testimony to the right of Atreus.
-Y. Soc. Yes; there is that legend also.
-Str. Again, we have been often told of the reign of Cronos.
+Y. Soc. Yes; there is that legend also.\
+Str. Again, we have been often told of the reign of Cronos.\
 Y. Soc. Yes, very often.
 Str. Did you ever hear that the men of former times were earthborn, and not begotten of one another?
 Y. Soc. Yes, that is another old tradition.
@@ -561,8 +561,8 @@ Str. The life of all animals first came to a standstill, and the mortal nature c
 Str. It is evident, Socrates, that there was no such thing in the then order of nature as the procreation of animals from on another; the earth-born race, of which we hear in story, was the one which existed in those days- they rose again from the ground; and of this tradition, which is now-a-days often unduly discredited, our ancestors, who were nearest in point of time to the end of the last period and came into being at the beginning of this, are to us the heralds. And mark how consistent the sequel of the tale is; after the return of age to youth, follows the return of the dead, who are lying in the earth, to life; simultaneously with the reversal of the world the wheel of their generation has been turned back, and they are put together and rise and live in the opposite order, unless God has carried any of them away to some other lot. According to this tradition they of necessity sprang from the earth and have the name of earth-born, and so the above legend clings to them.
 Y. Soc. Certainly that is quite consistent with what has preceded; but tell me, was the life which you said existed in the reign of Cronos in that cycle of the world, or in this? For the change in the course of the stars and the sun must have occurred in both.
 Str. I see that you enter into my meaning:- no, that blessed and spontaneous life does not belong to the present cycle of the world, but to the previous one, in which God superintended the whole revolution of the universe; and the several parts of the universe were distributed under the rule of certain inferior deities, as is the way in some places still. There were demigods, who were the shepherds of the various species and herds of animals, and each one was in all respects sufficient for those of whom he was the shepherd; neither was there any violence, or devouring of on another, or war or quarrel among them; and I might tell of ten thousand other blessings, which belonged to that dispensation. The reason why the life of man was, as tradition says, spontaneous, is as follows: In those days God himself was their shepherd, and ruled over them, just as man, who is by comparison a divine being, still rules over the lower animals. Under him there were no forms of government or separate possession of women and children; [272] for all men rose again from the earth, having no memory of the past. And although they had nothing of this sort, the earth gave them fruits in abundance, which grew on trees and shrubs unbidden, and were not planted by the hand of man. And they dwelt naked, and mostly in the open air, for the temperature of their seasons was mild; and they had no beds, but lay on soft couches of grass, which grew plentifully out of the earth. Such was the life of man in the days of Cronos, Socrates; the character of our present life, which is said to be under Zeus, you know from your own experience. Can you, and will you, determine which of them you deem the happier?
-Y. Soc. Impossible.
-Str. Then shall I determine for you as well as I can?
+Y. Soc. Impossible.\
+Str. Then shall I determine for you as well as I can?\
 Y. Soc. By all means.
 Str. Suppose that the nurslings of Cronos, having this boundless leisure, and the power of holding intercourse, not only with men, but with the brute creation, had used all these advantages with a view to philosophy, conversing with the brutes as well as with one another, and learning of every nature which was gifted with any special power, and was able to contribute some special experience to the store of wisdom, there would be no difficulty in deciding that they would be a thousand times happier than the men of our own day. Or, again, if they had merely eaten and drunk until they were full, and told stories to one another and to the animals— such stories as are now attributed to them—in this case also, as I should imagine, the answer would be easy. But until some satisfactory witness can be found of the love of that knowledge and discussion, we had better let the matter drop, and give the reason why we have unearthed this tale, and then we shall be able to get on.
 In the fulness of time, when the change to Like place, and the earth-born race had all perished, and every soul had completed its proper cycle of births and been sown in the earth her appointed number of times, the pilot of the universe let the helm go, and retired to his place of view; and then Fate and innate desire reversed the motion of the world. Then also all the inferior deities who share the rule of the supreme power, being informed of what happening, let go the parts of the world which were under their control, [273] And the world turning round with a sudden shock, being impelled in an opposite direction from beginning to end, was shaken by a mighty earthquake, which wrought a new destruction of all manner of animals. Afterwards, when sufficient time had elapsed, the tumult and confusion and earthquake ceased, and the universal creature, once more at peace, attained to a calm, and settled down into his own orderly and accustomed course, having the charge and rule of himself and of all the creatures which are contained in him, and executing, as far as he remembered them, the instructions of his Father and Creator, more precisely at first, but afterwords with less exactness. The reason of the falling oil was the admixture of matter in him: this was inherent in the primal nature, which was full of disorder, until attaining to the present order. From God, the constructor, the world received all that is good in him, but from a previous state came elements of evil and unrighteousness, which, thence derived, first of all passed into the world, and were then transmitted to the animals. While the world was aided by the pilot in nurturing the animals, the evil was small, and great the good which he produced, but after the separation, when the world was let go, at first all proceeded well enough; but, as time went on, there was more and more forgetting, and the old discord again held sway and burst forth in full glory; and at last small was the good, and great was the admixture of evil, and there was a danger of universal ruin to the world, and to the things contained in him. Wherefore God, the orderer of all, in his tender care, seeing that the world was in great straits, and fearing that all might be dissolved in the storm and disappear in infinite chaos, again seated himself at the helm; and bringing back the elements which had fallen into dissolution and disorder to the motion which had prevailed under his dispensation, he set them in order and restored them, and made the world imperishable and immortal.
@@ -604,9 +604,9 @@ King of the oar, on Mysia's coast he landed,⁴
 [35] kindred and similar things, so that the kinship is clearly perceived as soon as the words are said. Thus in the celebrated riddle 1405ᵇ
 I marked how a man glued bronze with fire to another man's body,⁶
 the process is nameless; but both it and gluing are a kind of application, and that is why the application of the cupping-glass is here called a 'gluing'. Good riddles do, in general, provide
-⁴Euripides, Telephus, Nauck, p. 583.
-⁵Dionysius Chalcus, fr. 7, Bergk, vol. ii, p. 264.
-⁶Cleobulina, fr. 1, Bergk, vol. ii, p. 62.
+⁴Euripides, Telephus, Nauck, p. 583.\
+⁵Dionysius Chalcus, fr. 7, Bergk, vol. ii, p. 264.\
+⁶Cleobulina, fr. 1, Bergk, vol. ii, p. 62.\
 us with satisfactory metaphors: for metaphors
 [5] imply riddles, and therefore a good riddle can furnish a good metaphor. Further, the materials of metaphors must be beautiful; and the beauty, like the ugliness, of all words may, as Licymnius says, lie in their sound or in their meaning. Further, there is a third consideration— one that upsets the fallacious argument of the sophist Bryson, that there is no such thing as foul language, because in what-
 [10] ever words you put a given thing your meaning is the same. This is untrue. One term may describe a thing more truly than another, may be more like it, and set it more intimately before our eyes. Besides, two different words will represent a thing in two different lights; so on this ground also one term must be held
@@ -621,9 +621,9 @@ us with satisfactory metaphors: for metaphors
 [15] to carry the hearer with them. The address of Gorgias to the swallow, when she had let her droppings fall on him as she flew overhead, is in the best tragic manner. He said, 'Nay, shame, O Philomela'. Considering her as a bird, you could not call her act shameful; considering her as a girl, you could; and so it was a good gibe to address her as what she was once and not as what she is.
 4
 [20] The Simile also is a metaphor; the difference is but slight. When the poet says of Achilles that he
-Leapt on the joe as a lion,⁵
-³Baiter-Sauppe, op. cit., p. 131 ; Gorgias.
-⁴Ibid., p. 156; Alcidamas.
+Leapt on the joe as a lion,⁵\
+³Baiter-Sauppe, op. cit., p. 131 ; Gorgias.\
+⁴Ibid., p. 156; Alcidamas.\
 ⁵Ci. Iliad, xx. 164.
 this is a simile; when he says of him 'the lion leapt', it is a metaphor—here, since both are courageous, he has transferred to Achilles the name of 'lion'. Similes are useful in prose as well as in verse; but not often, since they are
 [25] of the nature of poetry. They are to be employed just as metaphors are employed, since they are really the same thing except for the difference mentioned.
@@ -643,8 +643,8 @@ The following are examples of similes. Androtion said of Idrieus that he was lik
 [20] then, that both speech and reasoning are lively in proportion as they make us seize a new idea promptly. For this reason people are not much taken either by obvious arguments (using the word 'obvious' to mean what is plain to everybody and needs no investigation), nor by those which puzzle us when we hear them stated, but only by those which convey their information to us as soon as we hear them, pro-
 [25] vided we had not the information already; or which the mind only just fails to keep up with. These two kinds do convey to us a sort of information: but the obvious and the obscure kinds convey nothing, either at once or later on. It is these qualities, then, that, so far as the meaning of what is said is concerned, make an argument acceptable. So far as the style is concerned, it is the antithetical form that appeals to us, e.g. 'judging that the peace common to
 [30] all the rest was a war upon their own private interests',¹¹ where there is an antithesis
-⁹Odyssey, xiv. 213.
-¹⁰in, 4, beginning.
+⁹Odyssey, xiv. 213.\
+¹⁰in, 4, beginning.\
 ¹¹Isocrates, Philippus, 73.
 between war and peace. It is also good to use metaphorical words; but the metaphors must not be far-fetched, or they will be difficult to grasp, nor obvious, or they will have no effect. The words, too, ought to set the scene before our eyes; for events ought to be seen in progress rather than in prospect. So we must aim
 [35] at these three points: Antithesis, Metaphor, and Actuality.
@@ -655,12 +655,12 @@ between war and peace. It is also good to use metaphorical words; but the metaph
 [20] My daughters' marriage-bonds are overdue.⁵
 Polyeuctus said of a paralytic man named Speusippus that he could not keep quiet, 'though fortune had fastened him in the pillory of disease'. Cephisodotus called warships 'painted millstones'.⁶ Diogenes the Dog called taverns
 [25] 'the mess-rooms of Attica'. Aesion said that the Athenians had 'emptied' their town into Sicily: this is a graphic metaphor.⁷ 'Till all Hellas shouted aloud' may be regarded as a
-¹Baiter-Sauppe, op. cit., p. 250; Leptines.
-²Baiter-Sauppe, p. 220; Cephisodotus.
-³Ibid., p. 318; Peitholaus.
-⁴Ibid., p. 275 (Moerocles).
-⁵Anaxandrides; Kock, Com. Att. Fragm., 11, p. 162.
-⁶Baiter-Sauppe, p. 220; Cephisodotus.
+¹Baiter-Sauppe, op. cit., p. 250; Leptines.\
+²Baiter-Sauppe, p. 220; Cephisodotus.\
+³Ibid., p. 318; Peitholaus.\
+⁴Ibid., p. 275 (Moerocles).\
+⁵Anaxandrides; Kock, Com. Att. Fragm., 11, p. 162.\
+⁶Baiter-Sauppe, p. 220; Cephisodotus.\
 ⁷Ibid., p. 318 (Aesion).
 metaphor, and a graphic one again. Cephisodotus bade the Athenians take care not to hold too many 'parades'.⁸ Isocrates used the same
 [30] word of those who 'parade' at the national festivals.⁹ Another example occurs in the Funeral Speech:¹⁰ 'It is fitting that Greece should cut off her hair beside the tomb of those who fell at Salamis, since her freedom and their valour are buried in the same grave.' Even if the speaker here had only said that it was right to weep when valour was being buried in their
@@ -671,22 +671,22 @@ metaphor, and a graphic one again. Cephisodotus bade the Athenians take care not
 [20] mankind',¹⁷ for a reckoning is damage deservedly incurred.
 11
 It has already been mentioned that liveliness is got by using the proportional type of metaphor
-⁸Ibid., p. 220; Cephisodotus.
-⁹Isocrates, Philippus, 12.
-¹⁰Epitaphius (by Lysias?), 60.
-¹¹Baiter-Sauppe, op. cit., p. 191 ; under Lysias.
-¹²Ibid., p. 249; Lycoleon. ¹³Isocrates, Paneg., 151.
-¹⁴Anonymous. ¹⁵Isocrates, Paneg., 172.
+⁸Ibid., p. 220; Cephisodotus.\
+⁹Isocrates, Philippus, 12.\
+¹⁰Epitaphius (by Lysias?), 60.\
+¹¹Baiter-Sauppe, op. cit., p. 191 ; under Lysias.\
+¹²Ibid., p. 249; Lycoleon. ¹³Isocrates, Paneg., 151.\
+¹⁴Anonymous. ¹⁵Isocrates, Paneg., 172.\
 ¹⁶Ibid., 180. ¹⁷Anonymous; d. Isocrates, De Pace, 120.
 and by being graphic (i.e. making your hearers see things). We have still to explain what we mean by their 'seeing things', and what must be done to effect this. By 'making them
 [25] see things' I mean using expressions that represent things as in a state of activity. Thus, to say that a good man is 'four-square'¹ is certainly a metaphor; both the good man and the square are perfect; but the metaphor does not suggest activity. On the other hand, in the expression 'with his vigour in full bloom'² there is a notion of activity; and so in 'But you must roam as free as a sacred victim';³ and in
 [30] Thereat up sprang the Hellenes to their feet,⁴
 where 'up sprang' gives us activity as well as metaphor, for it at once suggests swiftness. So with Homer's common practice of giving metaphorical life to lifeless things: all such passages are distinguished by the effect of activity they convey. Thus,
-Downward anon to the valley rebounded the boulder remorseless;⁵
-and
-The (bitter) arrow flew;⁶
-and
-[35] Flying on eagerly;⁷
+Downward anon to the valley rebounded the boulder remorseless;⁵\
+and\
+The (bitter) arrow flew;⁶\
+and\
+[35] Flying on eagerly;⁷\
 and
 1412ᵃ StucJ{ in the earth, still panting to feed on the flesh of the heroes;⁸
 and
@@ -695,12 +695,12 @@ In all these examples the things have the effect of being active because they ar
 [5] of proportional metaphors: as the stone is to Sisyphus, so is the shameless man to his victim. In his famous similes, too, he treats inanimate things in the same way:
 Curving and crested with white, host following host without ceasing.¹⁰
 Here he represents everything as moving and living; and activity is movement.
-Metaphors must be drawn, as has been said
-¹Simonides, fr. 5, Bergk. ²Isocrates, Philippus, 10.
-³Ibid., 127. ⁴Euripides, Iphigenia in Aulis, 80.
-⁵Odyssey, xi. 598. ⁶Iliad, xiii. 587.
-⁷Ibid., iv. 126. ⁸Ibid., xi. 574.
-⁹Ibid., xv. 542. ¹⁰Ibid., xiii. 799.
+Metaphors must be drawn, as has been said\
+¹Simonides, fr. 5, Bergk. ²Isocrates, Philippus, 10.\
+³Ibid., 127. ⁴Euripides, Iphigenia in Aulis, 80.\
+⁵Odyssey, xi. 598. ⁶Iliad, xiii. 587.\
+⁷Ibid., iv. 126. ⁸Ibid., xi. 574.\
+⁹Ibid., xv. 542. ¹⁰Ibid., xiii. 799.\
 already,¹¹ from things that are related to the
 [10] original thing, and yet not obviously so related—just as in philosophy also an acute mind will perceive resemblances even in things far apart. Thus Archytas said that an arbitrator and an altar were the same, since the injured fly to both for refuge. Or you might say that an anchor and an overhead hook were the same, since both are in a way the
 [15] same, only the one secures things from below and the other from above. And to speak of states as 'levelled'¹² is to identify two widely different things, the equality of a physical surface and the equality of political powers.
@@ -710,14 +710,14 @@ Liveliness is specially conveyed by metaphor, and by the further power of surpri
 [30] Onward he came, and his feet were shod with his—chilblains,¹⁴
 where one imagined the word would be 'sandals'. But the point should be clear the moment the words are uttered. Jokes made by altering the letters of a word consist in meaning, not just what you say, but something that gives a twist to the word used; e.g. the remark of Theodorus about Nicon the harpist Θρᾷττ' εἰ σύ ('you Thracian slavey'), where he pre-
 [35] tends to mean θράττειϛ σύ ('you harpplayer'), and surprises us when we find he 1412ᵇ means something else. So you enjoy the point when you see it, though the remark will
-¹¹iii.10 (1410ᵇ32).
-¹²Cf. Isocrates, Philippus, 40. ¹³Cf. 11. 21, above.
+¹¹iii.10 (1410ᵇ32).\
+¹²Cf. Isocrates, Philippus, 40. ¹³Cf. 11. 21, above.\
 ¹⁴Anonymous.
 fall flat unless you are aware that Nicon is Thracian. Or again: βούλει αύτὀν πέραι.¹ In both these cases the saying must fit the facts. This is also true of such lively remarks as the one to the effect that to the Athenians their empire (ἀρχή) of the sea was not the begin-
 [5] ning (ἀρχή) of their troubles, since they gained by it. Or the opposite one of Isocrates, that their empire (ἀρχή) was the beginning (ἀρχή) of their troubles. Either way, the speaker says something unexpected, the soundness of which is thereupon recognized. There would be nothing clever is saying 'empire is empire'. Isocrates means more than that, and uses the word with a new meaning. So too with the former saying, which denies that ἀρχή in one sense was ἀρχή in another sense.
 [10] In all these jokes, whether a word is used in a second sense or metaphorically, the joke is good if it fits the facts. For instance, ʹΑνάσχετοϛ (proper name) ούκ ἀνασχετὸϛ:² where you say that what is so-and-so in one sense is not so and so in another; well, if the man is unpleasant, the joke fits the facts. Again, take—
-Thou must not be a stranger stranger than
-Thou should'st.³
+Thou must not be a stranger stranger than\
+Thou should'st.³\
 Do not the words 'thou must not be', &c.,
 [15] amount to saying that the stranger must not always be strange? Here again is the use of one word in different senses. Of the same kind also is the much-praised verse of Anaxandrides:
 Death is most fit before you do
@@ -725,28 +725,28 @@ Deeds that would make death fit for you.⁴
 This amounts to saying 'it is a fit thing to die when you are not fit to die', or 'it is a fit thing to die when death is not fit for you', i.e. when
 [20] death is not the fit return for what you are doing. The type of language employed is the same in all these examples; but the more briefly and antithetically such sayings can be expressed, the more taking they are, for antithesis impresses the new idea more firmly and brevity more quickly. They should always have either some personal application or some
 [25] merit of expression, if they are to be true without being commonplace—two requirements not always satisfied simultaneously. Thus 'a man should die having done no wrong' is true but dull: 'the right man should marry
-¹"You wish [or, do you wish J to persecute him."
-²"Baring is past bearing."
-³Kock, Com., Fragm., ill. 209.
+¹"You wish [or, do you wish J to persecute him."\
+²"Baring is past bearing."\
+³Kock, Com., Fragm., ill. 209.\
 ⁴Anaxandrides, ibid., 11, p. 161.
 the right woman'⁵ is also true but dull. No, there must be both good qualities together, as in 'it is fitting to die when you are not fit for death'. The more a saying has these qualities,
 [30] the livelier it appears: if, for instance, its wording is metaphorical, metaphorical in the right way, antithetical, and balanced, and at the same time it gives an idea of activity. Successful similes also, as has been said above,⁶ are in a sense metaphors, since they always involve two relations like the proportional
 [35] al metaphor. Thus: a shield, we say, is 1413ᵃ the 'drinking-bowl of Ares',⁷ and a bow is the "chordless lyre'.⁸ This way of putting a metaphor is not 'simple', as it would be if we called the bow a lyre or the shield a drinking bowl. There are 'simple' similes also: we may say that a flute-player is like a monkey, or that a short-sighted man's eyes are like a lamp-flame with water dropping on it, since both eyes and flame keep winking. A simile succeeds best when it is a converted metaphor, for it is possi-
 [5] ble to say that a shield is like the drinking bowl of Ares, or that a ruin is like a house in rags, and to say that Niceratus is like a Philoctetes stung by Pratys—the simile made by Thrasymachus when he saw Niceratus, who had been beaten by Pratys in a recitation competition, still going about unkempt and unwashed. It is in these respects that poets fail
 [10] worst when they fail, and succeed best when they succeed, i.e. when they give the resemblance pat, as in
-Those legs of his curl just li\e parsley leaves;⁹
-and
+Those legs of his curl just li\e parsley leaves;⁹\
+and\
 Just like Philammon struggling with his punchball.¹⁰
 These are all similes; and that similes are metaphors has been stated often already.¹¹
 Proverbs, again, are metaphors from one species to another.¹² Suppose, for instance, a
 [15] man to start some undertaking in hope of gain and then to lose by it later on, 'Here we have once more the man of Carpathus and his hare', says he. For both alike went through the said experience.
 It has now been explained fairly completely how liveliness is secured and why it has the ef-
-⁵Ibid., iii, p. 447; fr. adesp. 206. ⁶iii. 4 and 10.
-⁷Timotheus, fr. 16, Bergk. Cf. iii. 4, end.
-⁸Bergk⁴, fr. adesp. 127, vol. iii. p. 728.
-⁹Kock, Com. An. Fragm., iii. fr. adesp. 207, p. 448.
-¹⁰Ibid, iii, fr. 208, p. 448.
-¹¹iii. 4, 10, 11.
+⁵Ibid., iii, p. 447; fr. adesp. 206. ⁶iii. 4 and 10.\
+⁷Timotheus, fr. 16, Bergk. Cf. iii. 4, end.\
+⁸Bergk⁴, fr. adesp. 127, vol. iii. p. 728.\
+⁹Kock, Com. An. Fragm., iii. fr. adesp. 207, p. 448.\
+¹⁰Ibid, iii, fr. 208, p. 448.\
+¹¹iii. 4, 10, 11.\
 ¹²Cf. Poetics, 21.
 feet it has. Successful hyperboles are also metaphors, e.g. the one about the man with a black
 [20] eye, 'you would have thought he was a basket of mulberries'; here the 'black eye' is compared to a mulberry because of its colour, the exaggeration lying in the quantity of mulberries suggested. The phrase 'like so-and-so' may introduce a hyperbole under the form of a simile. Thus
@@ -754,13 +754,13 @@ Just like Philammon struggling with his punchball
 [25] is equivalent to 'you would have thought he was Philammon struggling with his punchball'; and
 Those legs of his curl just like parsley leaves
 is equivalent to 'his legs are so curly that you would have thought they were not legs but parsley leaves'. Hyperboles are for young men to use; they show vehemence of character; and this is why angry people use them more than
-[30] other people.
-Not though he gave me as much as the dust
-or the sands of the sea . . ,¹
-But her, the daughter of Atreus1 son, I never
-will marry,
-Nay, not though she were fairer than
-Aphrodite the Golden,
+[30] other people.\
+Not though he gave me as much as the dust\
+or the sands of the sea . . ,¹\
+But her, the daughter of Atreus1 son, I never\
+will marry,\
+Nay, not though she were fairer than\
+Aphrodite the Golden,\
 Defter of hand than Athene . . ²
 1413ᵇ (The Attic orators are particularly fond of this method of speech.) Consequently it does not suit an elderly speaker.
 ¹Iliad, ix. 385. ²Ibid., ix. 388-90.
@@ -857,9 +857,9 @@ Reply Obj. 4. The term animal applied to a true and a pictured animal is not pur
 Reply Obj. 5. Neither a Catholic nor a pagan knows the very nature of God as it is in itself, but each one knows it according to some idea of causality, or excellence, or remotion (q. xii, a. 12). So the Gentile can take this name God in the same way when he says an idol is God as the Catholic does in saying an idol is not God. But if anyone should be quite ignorant of God altogether, he could not even name Him, unless, perhaps, as we use names the meaning of which we know not.
 ¹Categories, i (iᵃi).
 
-19 AQUINAS: Summa Theologica, PART 1, Q 34, A I, ANS and REP I,4 185b-187b
-QUESTION XXXIV
-Of the person of the son
+19 AQUINAS: Summa Theologica, PART 1, Q 34, A I, ANS and REP I,4 185b-187b\
+QUESTION XXXIV\
+Of the person of the son\
 (In Three Articles)
 We next consider the person of the Son. Three names are attributed to the Son—namely, Son, Word, and Image. The idea of Son is gathered from the idea of Father. Hence it remains for us to consider Word and Image.
 Concerning Word there are three points of inquiry: (1) Whether Word is an essential term in God, or a personal term? (2) Whether it is the proper name of the Son? (3) Whether in the name of Word is expressed relation to creatures?
@@ -888,10 +888,9 @@ Reply Obj. 3. As, properly speaking, Word in God is said personally, and not ess
 and likewise also all creatures ; just as the intellect of a man by the word he conceives in the act of understanding a stone, speaks a stone. Anselm took the term speak improperly for the act of understanding, whereas they differ from each other; for "to understand" means only the relation of the intelligent agent to the thing understood, in which relation no notion of origin is conveyed, but only a certain informing of our intellect, according as our intellect is put in act by the form of the thing understood. In God. however, it means complete identity, because in God the intellect and the thing understood are altogether the same, as was proved above (q. xiv, aa. 2, 4). But to speak means chiefly the relation to the word conceived, for to speak is nothing but to utter a word. But by means of the word it signifies a relation to the thing understood which in the word uttered is manifested to the one who understands. Thus, only the Person who utters the Word is speaker in God. although each Person understands and is understood, and consequently is spoken by the Word.
 Reply Obj. 4. The term word is taken there figuratively, as the thing signified or effected by word is called word. For thus creatures are said to do the word of God, as executing any effect to which they are ordained by the word conceived of the divine wisdom ; just as anyone is said to do the word of the king when he does the work to which he is appointed by the king's word.
 
-19 AQUINAS: Summa Theologica, PART 1, Q 67, A I 349d-350b
-QUESTION LXVII
-Of the work of distinction in
-ITSELF
+19 AQUINAS: Summa Theologica, PART 1, Q 67, A I 349d-350b\
+QUESTION LXVII\
+Of the work of distinction in ITSELF\
 (In Four Articles)
 We must consider next the work of distinction in itself. First, the work of the first day; secondly, the work of the second day (q. lxviii) ; thirdly, the work of the third day (Q. lxix). Under the first head there are four points of inquiry: (1) Whether the word light is used in its proper sense in speaking of spiritual things? (2) Whether light, in corporeal things, is itself corporeal? (3) Whether light is a quality? (4) Whether light was fittingly made on the first day?
 
@@ -944,8 +943,8 @@ Again, three kinds of supernatural visions, bodily, imaginative, and intellectua
 Reply Obj. 1. The earth stands in relation to the heaven as the centre of a circle to its circumference. But as one centre may have many circumferences, so. though there is but one earth, there may be many heavens.
 Reply Obj. 2. The argument holds good as to the heaven, in so far as it denotes the entire sum of corporeal creation, for in that sense it is one.
 Reply Obj. 3. All the heavens have in common sublimity and some degree of luminosity, as appears from what has been said.
-¹Bede, In Pentat., on Gen. 1.1 (PL 91, 192).
-²I. 5 (PL 34, 1237).
+¹Bede, In Pentat., on Gen. 1.1 (PL 91, 192).\
+²I. 5 (PL 34, 1237).\
 ³Chap. 28, 29, 34 (PL 34, 47S, 479, 482).
 
 ## 20 AQUINAS: Summa Theologica, PART III, Q 60, A 5, REP 1 850b-851b
@@ -985,13 +984,13 @@ The secret thoughts of a man run over all things holy, prophane, clean, obscene,
 ## 25 MONTAIGNE: Essays, 422c-423c
 
 What Virgil says of Venus and Vulcan, Lucretius had better expressed of a stolen enjoyment betwixt her and Mars:
-Belli fera moenera Mavors
-Armipotens regit, in gremium qui saepe tuum se
-Rejicit, aeterno devinctus vulnere amoris:
-Pascit amore avidos inhians in te, Dea, visus,
-Eque tuo pendet reswpini spiritus ore:
-Hunc tu, Diva, tuo recubantem corpore sancto
-Circumfusa super, suaveis ex ore loquelas
+Belli fera moenera Mavors\
+Armipotens regit, in gremium qui saepe tuum se\
+Rejicit, aeterno devinctus vulnere amoris:\
+Pascit amore avidos inhians in te, Dea, visus,\
+Eque tuo pendet reswpini spiritus ore:\
+Hunc tu, Diva, tuo recubantem corpore sancto\
+Circumfusa super, suaveis ex ore loquelas\
 Funde.⁶
 When I consider this rejicit, pascit, inhians, molli, fovet, medullas, labefacta, pendet, percurrit, and that noble circumfusa, mother of the gentle infusus; I contemn those little quibbles and verbal allusions that have been since in use. Those worthy people stood in need of no subtilty to disguise their meaning; their language is downright, and full of natural and continued vigour; they are all epigram; not only the tail, but the head, body, and feet. There is nothing forced, nothing languishing, but everything keeps the same pace : Contextus totus virilis est; non sunt circa flosculos occupati.⁷ 'Tis not a soft eloquence, and without offence only; 'tis nervous and solid, that does not so much please, as it fills and ravishes the greatest minds. When I see these brave forms of expression, so lively, so profound, I do not say that 'tis Well said, but Well thought. 'Tis the sprightliness of the imagination that swells and elevates the words : Pectus est quod disertum facit.⁸ Our people call language, judgment, and fine words, full conceptions. This painting is not so much carried on by dexterity of hand, as by having the object more vividly imprinted in the soul. Gallus speaks simply, because he conceives simply: Horace does not content himself with a superficial expression; that would betray him; he sees farther and more clearly into things; his mind breaks into and rummages all the magazine of words and figures wherewith to express himself, and he must have them more than ordinary, because his
 ⁶Mars, the god of wars, who controls the cruel tasks of war, often reclines on thy bosom, and greedily drinks love at both his eyes, vanquished by the eternal wound of love: and his breath, as he reclines, hangs on thy lips; bending thy head over him as he lies upon thy sacred person, pour forth sweet and persuasive words.—Lucretius, i. 23.
