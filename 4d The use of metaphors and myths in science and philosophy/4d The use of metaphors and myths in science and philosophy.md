@@ -334,7 +334,7 @@ I understand you, he replied; not perfectly, for you seem to me to be describing
 You have quite conceived my meaning, I said; and now, corresponding to these four divisions, let there be four faculties in the soul- reason answering to the highest, understanding to the second, faith (or conviction) to the third, and perception of shadows to the last — and let there be a scale of them, and let us suppose that the several faculties have clearness in the same degree that their objects have truth.
 I understand, he replied, and give my assent, and accept your arrangement.
 
-## BOOK VII
+BOOK VII
 
 [514] And now, I said, let me show in a figure how far our nature is enlightened or unenlightened: — Behold! human beings living in an underground den, which has a mouth open towards the light and reaching all along the den; here they have been from their childhood, and have their legs and necks chained so that the not move, and can only see before them, being prevented by the chains from turning round their heads. Above and behind them a fire is blazing at a distance, and between the fire and the prisoners there is a raised way: and you will see, if you look, a low wall built along the way, like the screen which marionette players have in front of them, over which they show the puppets.
 I see.
