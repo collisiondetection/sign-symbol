@@ -236,13 +236,26 @@ restore any bracket that's missing its letter even where no stray line
 gives it away (check every `###` subheader's bracket against the index's
 bracket set, not just presence-anywhere-in-body, since a *different*,
 correctly-formed bracket elsewhere in the file can mask a broken one).
-**GitHub's heading-anchor slug algorithm collapses runs of whitespace
-before turning spaces into hyphens** — a naive port that skips this step
-silently produces double hyphens wherever a heading has `" / "` or two
-adjacent spaces, breaking the anchor even though the visible text looks
-right. Verify a slug implementation against a real, already-working anchor
-in this repo before trusting it (this bug reached 6 already-committed
-fixes in this same pass before being caught).
+**GitHub's heading-anchor slug algorithm does NOT collapse whitespace —
+ever.** Lowercase, strip to Unicode-aware `[\w \-]` (accented letters and
+things like Aristotle's superscript Bekker `ᵃ`/`ᵇ` survive), replace each
+space with a hyphen individually. A heading with `" / "` (space-slash-space)
+loses the `/` but keeps both spaces, so the real anchor has a **double**
+hyphen (`passim--objections`, not `passim-objections`). This was gotten
+backwards mid-session — a "fix" was added to collapse consecutive spaces
+into one, on the strength of a reference anchor that was never actually
+checked against a live page, and it silently broke 6 already-committed
+fixes before the mistake was caught. Do not trust a slug implementation
+against another slug it also generated — that just checks the algorithm
+against itself. Verify against GitHub's own output instead: open the file
+on github.com, find the heading's `<a class="anchor" href="#...">` self-link
+(rendered next to the heading, inside `<div class="markdown-heading">`),
+and compare its `href` directly. Note separately that the real anchor
+**id** on that same element is prefixed `user-content-` (e.g.
+`id="user-content-citations"` for `href="#citations"`) — GitHub translates
+between the two via its own JS, not native browser fragment matching, so
+don't be alarmed that `document.getElementById('<slug>')` returns nothing;
+that's expected and not a sign anything is broken.
 
 **`5b`'s citation index was only 8 of 38 groups long** — someone had
 linked the first 8 entries when the file was built, then a running
