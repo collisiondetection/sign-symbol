@@ -1420,24 +1420,24 @@ The democratical constitution alone was adapted to the spirit and political cond
 
 ## 47 GOETHE: Faust, PART I [3432-3468] 84a-b
 
-Who dare name Him?
-And who avow:
-"I believe in Him"?
-Who feels and would 3435
-Have hardihood
-To say: "I don't believe in Him"?
-The All-Enfolder,
-The All-Upholder,
-Enfolds, upholds He not 3440
-You, me, Himself?
-Do not the heavens over-arch us yonder?
-Does not the earth lie firm beneath?
-Do not eternal stars rise friendly
-Looking down upon us? 3445
-Look I not, eye in eye, on you,
-And do not all things throng
-Toward your head and heart,
-Weaving in mystery eternal,
+Who dare name Him?\
+And who avow:\
+"I believe in Him"?\
+Who feels and would 3435\
+Have hardihood\
+To say: "I don't believe in Him"?\
+The All-Enfolder,\
+The All-Upholder,\
+Enfolds, upholds He not 3440\
+You, me, Himself?\
+Do not the heavens over-arch us yonder?\
+Does not the earth lie firm beneath?\
+Do not eternal stars rise friendly\
+Looking down upon us? 3445\
+Look I not, eye in eye, on you,\
+And do not all things throng\
+Toward your head and heart,\
+Weaving in mystery eternal,\
 Invisible, visible, near to you? 3450
 
 Fill up your heart with it, great though it is,
