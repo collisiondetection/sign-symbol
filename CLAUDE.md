@@ -103,3 +103,22 @@ soffice --headless --convert-to txt:Text --outdir "$(dirname "input.docx")" "inp
 Both tools preserve the citation-list layout reasonably well. `pdftotext`
 without `-layout` reflows text and loses column alignment in the citation
 lists — always use `-layout`.
+
+**Line-wrapping gotcha:** LibreOffice's docx conversion does not wrap
+paragraphs at all — it dumps each paragraph as one unbroken line, which for
+a multi-page excerpt produced single lines up to ~9,800 characters (found
+and fixed across all 9 docx-derived files: 4d, 5a–6c). `pdftotext -layout`
+doesn't have this problem, since it preserves the PDF's real line breaks.
+After any docx conversion, always reflow:
+
+```bash
+fold -s -w 90 "input.txt" > tmp && mv tmp "input.txt"
+```
+
+`fold -s` only splits lines *longer* than the width, breaking at the last
+space — it never merges already-short lines together. That distinction
+matters here: some sections (e.g. scripture quotes, one verse per line)
+are already correctly formatted line-by-line, and a paragraph-reflow tool
+like `fmt` would wreck that by merging consecutive short lines into one
+justified block. `fold -s` leaves those alone and only touches the
+pathological giant-line paragraphs.
