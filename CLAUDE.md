@@ -217,3 +217,47 @@ Regenerate the title lookup from each file's actual `# ` line (`grep -n
 title text against it before trusting it. The two deliberate exceptions
 are `1d` and `5c`, which use the outline's title because their own
 heading is wrong/absent (see gotchas above).
+
+**Long citations that wrap across physical lines in the source PDF get
+mis-detected as multiple separate headers, not one.** Found by reading the
+rendered page directly — a citation like `8 ARISTOTLE: Categories, ... /
+Topics, ... / Metaphysics, ...` that's long enough to wrap across several
+lines in the original PDF sometimes had EACH wrapped line promoted to its
+own `##` header, with the superscript Bekker/page-locator letters (`a`/`b`,
+e.g. the "b" in `16b19-26`) that happened to fall at the wrap point dropped
+entirely or scattered onto isolated stray lines in between (a bare `a`,
+`b a`, etc. with no attached number). Confirmed across 12 files in this
+pass (1b, 1d, 1e, 1f, 2d, 3c(1), 3c(2), 3c(3), 3d, 4a, 4b, 4c) — the worst
+case (`4c`) had a single citation fragmented into 5 pieces across 3 stray
+lines. The fix pattern: the file's own Citations index is untouched by
+this bug (it's built differently) and holds the complete, correct text —
+use it as ground truth to merge the fragments back into one header, and to
+restore any bracket that's missing its letter even where no stray line
+gives it away (check every `###` subheader's bracket against the index's
+bracket set, not just presence-anywhere-in-body, since a *different*,
+correctly-formed bracket elsewhere in the file can mask a broken one).
+**GitHub's heading-anchor slug algorithm collapses runs of whitespace
+before turning spaces into hyphens** — a naive port that skips this step
+silently produces double hyphens wherever a heading has `" / "` or two
+adjacent spaces, breaking the anchor even though the visible text looks
+right. Verify a slug implementation against a real, already-working anchor
+in this repo before trusting it (this bug reached 6 already-committed
+fixes in this same pass before being caught).
+
+**`5b`'s citation index was only 8 of 38 groups long** — someone had
+linked the first 8 entries when the file was built, then a running
+page-header (the printed edition's own "5. Symbolism in theology... 5b.
+Supernatural signs..." breadcrumb) leaked into the list and silently
+ended it; the remaining 30 stayed as bare unlinked text forever after.
+The same page-header pattern (promoted to a fake `##` heading, splitting
+one real citation group into two) recurs standalone in `5f`, not caught by
+the citation-fragmentation check since it isn't a wrapped citation, just
+page furniture. If a `##`/`###` heading's text looks like `(N. Group
+title. Xy. Topic title.)` — parenthesized, restating the file's own outline
+position — it's this artifact, not content; delete it and its index entry.
+`5b` separately had 73 of its 74 `###` headers be false positives (bare
+verse-line starts, stanza numbers, and section markers wrongly promoted —
+the same false-positive class documented above, just far more of it in one
+file) and a broken 2-row cipher table (a letter and its matching number had
+both been orphaned onto stray lines by the same bug). See the commit
+history on this branch for the exact fix if this recurs elsewhere.
