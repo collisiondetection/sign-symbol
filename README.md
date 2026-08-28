@@ -61,7 +61,7 @@ Each folder below is one sub-topic from Adler's outline and holds that topic's c
 
 † Folder name is inherited from the original source and doesn't match its actual topic — see [CLAUDE.md](CLAUDE.md) for details.
 
-‡ This topic was missing from the repo entirely until it was compiled from independent public-domain sources (it isn't a scan of the original like the others) — see the compiler's note at the top of [4e The use of signs in reasoning/4e.md](<4e The use of signs in reasoning/4e.md>) for sourcing and confidence details.
+‡ This topic was missing from the repo entirely until it was compiled from independent public-domain sources (it isn't a scan of the original like the others) — see the compiler's note at the top of [4e The use of signs in reasoning](<4e The use of signs in reasoning/4e The use of signs in reasoning.md>) for sourcing and confidence details.
 
 ## Source
 

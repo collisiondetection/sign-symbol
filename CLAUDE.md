@@ -72,9 +72,10 @@ gotchas below). Full code → title mapping:
   **only on `plain-text`/`markdown`**, not `main` — there's no original
   PDF/docx to put there, since nothing was ever extracted from an original
   for this topic. Confidence notes are inline per-passage (`4e/4e.txt` on
-  `plain-text`, `4e The use of signs in reasoning/4e.md` here); treat its
-  GBWW page locators as unverified (content/structure identity is solid,
-  the literal page-letter codes are not).
+  `plain-text`, `4e The use of signs in reasoning/4e The use of signs in
+  reasoning.md` here); treat its GBWW page locators as unverified
+  (content/structure identity is solid, the literal page-letter codes are
+  not).
 - **`4c` is citations-only** (`references_4c-1`) — no excerpted body text,
   unlike every other section.
 - **Folder naming is inconsistent** — some have a trailing period after the
