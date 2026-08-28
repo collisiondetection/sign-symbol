@@ -13,38 +13,36 @@
 - [5 EURIPIDES: Iphigenia Among the Tauri [42-60] 411c-d; [1234-1283] 422b-c](#5-euripides-iphigenia-among-the-tauri-42-60-411c-d-1234-1283-422b-c)
 - [5 ARISTOPHANES: Birds [708-722] 551d-552a](#5-aristophanes-birds-708-722-551d-552a)
 
-(5. Symbolism in theology and religion. 5b. Supernatural signs: omens, portents, visitations, dreams, miracles.)
-6 HERODOTUS: History, BK I, 4d; 8a-b; 12b-d; 17a-b; 18b; 20d-21a; 38a-b; 39c-40a; BK II, 60d-61b; 79a-c; 83b-c; 86c-87a; BK III, 90d- 91a; 95d; 116a-b; BK IV, 124d-125a; 126d-127a; 135b-c; 138a-b; 150b-d; 154c-d; 155b-c; BK V, 170c-d; 176c-d; 183d-184a; BK VI, 190c-d; 200d-201a; 204b-c; 208b; BK VII, 219a-c; 238d-239a; BK VIII, 266b-d; 267a; 270c-271a; 283d; BK IX, 289d-290a; 302c; 309d-310a; 313d-314a
-7 PLATO: Euthydemus, 66a / Apology, 207b-c; 211a-b / Timaeus, 467a-c
-8 ARISTOTLE: Prophesying 707a-709a,c
-9 ARISTOTLE: History of Animals, BK III, CH II [518ᵃ32-36] 43a; CH 20 [522ᵃ13-19] 47a-b
-12 LUCRETIUS: Nature of Things, BK V [1161-1240] 76b-77b; BK VI [43-79] 80d-81b; [379-422] 85b-d
-12 EPICTETUS: Discourses, BK I, CH 17, 123c-124a; BK III, CH I, 177a-b
-13 VIRGIL: Aeneid, BK I [387-401] 113b-114a; BK II [162-233] 128b-130b; [679-704] 143b- 144a; BK III [90-101] 149b-150a; [135-191]
-150b-152b; [388-393] 157b-158a; [523-547] 161b-162a; BK VI [190-211] 216a-b; BK VII [59-80] 237b-238a; BK VIII [26-89] 259b- 261b; [520-540] 273a-b;BK XII [244-265] 360b-361a
-14 PLUTARCH: Numa Pompilius, 52b-c / Poplicola, 82a-b / Timoleon, 198c-d / Pelopidas, 239d-240c / Aristides, 268a-d / Sulla, 371d- 372c / Lucullus, 404d-405a; 405c / Agesilaus, 483a-b / Alexander, 568a-b / Demosthenes, 698b-699a / Dion, 781d-782a / Marcus Brutus, 818a-b; 822b
-15 TACITUS: Annals, BK I, 9a-b; BK II, 26c; 27b; BK IV, 79b; BK VI, 95d-96a; BK XI, 105c; BK XII, 112d-113a; 119b; 124b; BK XIV, 149b-c; BK XV, 168d-169a / Histories, BK I, 206a; 212d- 213a; BK II, 228a-b; 235a-c; BK III, 256d; BK IV, 293a-294a
-18 AUGUSTINE: Confessions, BK III, par 19-20 18b-19a / City of God, BK x, CH 8 303a-d; CH 12-13 306d-307c; CH 16-18 308b-310d; BK XI, CH 2, 323b; BK XXII, CH 8-10 591d-599b
-19 AQUINAS: Summa Theologica, PART I, Q 51, A 2, REP I 276b-277a; Q 104, A 4, ANS 538a-c; Q 105, A 7 544a-d; Q 106, A 3, ANS and REP 2 547c-548b; Q 110, A 4 567c-568b
-21 DANTE: Divine Comedy, PURGATORY, IX [13- 69] 66a-c; XIX [1-63] 81c-82a; XXVII [91-108] 95c
-22 CHAUCER: Troilus and Cressida, BK V, STANZA 52-55 127a-b; STANZA 177-186 143b-144b; STANZA 207-219 147a-149a; STANZA 245 152a
-23 HOBBES: Leviathan, PART I, 51b-52a; 80b-d; 81d-82b; PART II, 160b; PART III, 165d-167a; 177a-c; 183b-187a; 188a-191a
-26 SHAKESPEARE: Julius Caesar, ACT I, SC III [1-71] 572c-573b; ACT IV, SC III [275-289] 591c; ACT V, SC I [71-89] 592d
-27 SHAKESPEARE: Hamlet, ACT I, SC I [64-125] 30b-31a / Macbeth, ACT II, SC IV [1-20] 294a-b / Cymbeline, ACT V, SC IV [91-122] 482a-b
-29 CERVANTES: Don Quixote, PART II, 381a-b
-30 BACON: Advancement of Learning, 8c; 19b; 41 b-c; 54c-d; 55b-d / New Atlantis, 202c-203c
-32 MILTON: Paradise Lost, BK I [594-599] 106b; BK V [28-128] 176a-178a; BK XI [193-366] 303b-307a / Areopagitica, 389a-b
-33 PASCAL: Pensees, 803-856 328b-341b passim
-35 LOCKE: Human Understanding, BK IV, CH XVI, SECT 13 371a-b; CH XIX, SECT 15 388a-c
-35 BERKELEY: Human Knowledge, SECT 63 425b-c
-35 HUME: Human Understanding, SECT X, DIV 92-101 491c-497b esp DIV 98-101 495d-497b
-40 GIBBON: Decline and Fall, 180b-c; 189b-190d; 206b-d; 294a-296b; 445d-446b; 465d-467a; 547a-b; 571a; 605b-d; 614b-c
-41 GIBBON: Decline and Fall, 232a-c; 398b-399b
-44 BOSWELL: Johnson, 126b-c
-47 GOETHE: Faust, PART I [430-513] 12b-14b
-51 TOLSTOY: War and Peace, BK IX, 377b-379a; BK XII, 561 b-562a
-52 DOSTOEVSKY: Brothers Karamazov, BK I, 11a-b; BK V, 129c-135a
-54 FREUD: Interpretation of Dreams, 138a-c / General Introduction, 477b-c
+- [6 HERODOTUS: History, BK I, 4d; 8a-b; 12b-d; 17a-b; 18b; 20d-21a; 38a-b; 39c-40a; BK II, 60d-61b; 79a-c; 83b-c; 86c-87a; BK III, 90d- 91a; 95d; 116a-b; BK IV, 124d-125a; 126d-127a; 135b-c; 138a-b; 150b-d; 154c-d; 155b-c; BK V, 170c-d; 176c-d; 183d-184a; BK VI, 190c-d; 200d-201a; 204b-c; 208b; BK VII, 219a-c; 238d-239a; BK VIII, 266b-d; 267a; 270c-271a; 283d; BK IX, 289d-290a; 302c; 309d-310a; 313d-314a](#6-herodotus-history-bk-i-4d-8a-b-12b-d-17a-b-18b-20d-21a-38a-b-39c-40a-bk-ii-60d-61b-79a-c-83b-c-86c-87a-bk-iii-90d--91a-95d-116a-b-bk-iv-124d-125a-126d-127a-135b-c-138a-b-150b-d-154c-d-155b-c-bk-v-170c-d-176c-d-183d-184a-bk-vi-190c-d-200d-201a-204b-c-208b-bk-vii-219a-c-238d-239a-bk-viii-266b-d-267a-270c-271a-283d-bk-ix-289d-290a-302c-309d-310a-313d-314a)
+- [7 PLATO: Euthydemus, 66a / Apology, 207b-c; 211a-b / Timaeus, 467a-c](#7-plato-euthydemus-66a-apology-207b-c-211a-b-timaeus-467a-c)
+- [8 ARISTOTLE: Prophesying 707a-709a,c](#8-aristotle-prophesying-707a-709ac)
+- [9 ARISTOTLE: History of Animals, BK III, CH II [518ᵃ32-36] 43a; CH 20 [522ᵃ13-19] 47a-b](#9-aristotle-history-of-animals-bk-iii-ch-ii-518ᵃ32-36-43a-ch-20-522ᵃ13-19-47a-b)
+- [12 EPICTETUS: Discourses, BK I, CH 17, 123c-124a; BK III, CH I, 177a-b](#12-epictetus-discourses-bk-i-ch-17-123c-124a-bk-iii-ch-i-177a-b)
+- [12 EPICTETUS: Discourses, BK I, CH 17, 123c-124a; BK III, CH I, 177a-b](#12-epictetus-discourses-bk-i-ch-17-123c-124a-bk-iii-ch-i-177a-b)
+- [13 VIRGIL: Aeneid, BK I [387-401] 113b-114a; BK II [162-233] 128b-130b; [679-704] 143b- 144a; BK III [90-101] 149b-150a; [135-191] 150b-152b; [388-393] 157b-158a; [523-547] 161b-162a; BK VI [190-211] 216a-b; BK VII [59-80] 237b-238a; BK VIII [26-89] 259b- 261b; [520-540] 273a-b;BK XII [244-265] 360b-361a](#13-virgil-aeneid-bk-i-387-401-113b-114a-bk-ii-162-233-128b-130b-679-704-143b--144a-bk-iii-90-101-149b-150a-135-191-150b-152b-388-393-157b-158a-523-547-161b-162a-bk-vi-190-211-216a-b-bk-vii-59-80-237b-238a-bk-viii-26-89-259b--261b-520-540-273a-bbk-xii-244-265-360b-361a)
+- [14 PLUTARCH: Numa Pompilius, 52b-c / Poplicola, 82a-b / Timoleon, 198c-d / Pelopidas, 239d-240c / Aristides, 268a-d / Sulla, 371d- 372c / Lucullus, 404d-405a; 405c / Agesilaus, 483a-b / Alexander, 568a-b / Demosthenes, 698b-699a / Dion, 781d-782a / Marcus Brutus, 818a-b; 822b](#14-plutarch-numa-pompilius-52b-c-poplicola-82a-b-timoleon-198c-d-pelopidas-239d-240c-aristides-268a-d-sulla-371d--372c-lucullus-404d-405a-405c-agesilaus-483a-b-alexander-568a-b-demosthenes-698b-699a-dion-781d-782a-marcus-brutus-818a-b-822b)
+- [15 TACITUS: Annals, BK I, 9a-b; BK II, 26c; 27b; BK IV, 79b; BK VI, 95d-96a; BK XI, 105c; BK XII, 112d-113a; 119b; 124b; BK XIV, 149b-c; BK XV, 168d-169a / Histories, BK I, 206a; 212d- 213a; BK II, 228a-b; 235a-c; BK III, 256d; BK IV, 293a-294a](#15-tacitus-annals-bk-i-9a-b-bk-ii-26c-27b-bk-iv-79b-bk-vi-95d-96a-bk-xi-105c-bk-xii-112d-113a-119b-124b-bk-xiv-149b-c-bk-xv-168d-169a-histories-bk-i-206a-212d--213a-bk-ii-228a-b-235a-c-bk-iii-256d-bk-iv-293a-294a)
+- [18 AUGUSTINE: Confessions, BK III, par 19-20 18b-19a / City of God, BK x, CH 8 303a-d; CH 12-13 306d-307c; CH 16-18 308b-310d; BK XI, CH 2, 323b; BK XXII, CH 8-10 591d-599b](#18-augustine-confessions-bk-iii-par-19-20-18b-19a-city-of-god-bk-x-ch-8-303a-d-ch-12-13-306d-307c-ch-16-18-308b-310d-bk-xi-ch-2-323b-bk-xxii-ch-8-10-591d-599b)
+- [19 AQUINAS: Summa Theologica, PART I, Q 51, A 2, REP I 276b-277a; Q 104, A 4, ANS 538a-c; Q 105, A 7 544a-d; Q 106, A 3, ANS and REP 2 547c-548b; Q 110, A 4 567c-568b](#19-aquinas-summa-theologica-part-i-q-51-a-2-rep-i-276b-277a-q-104-a-4-ans-538a-c-q-105-a-7-544a-d-q-106-a-3-ans-and-rep-2-547c-548b-q-110-a-4-567c-568b)
+- [21 DANTE: Divine Comedy, PURGATORY, IX [13- 69] 66a-c; XIX [1-63] 81c-82a; XXVII [91-108] 95c](#21-dante-divine-comedy-purgatory-ix-13--69-66a-c-xix-1-63-81c-82a-xxvii-91-108-95c)
+- [22 CHAUCER: Troilus and Cressida, BK V, STANZA 52-55 127a-b; STANZA 177-186 143b-144b; STANZA 207-219 147a-149a; STANZA 245 152a](#22-chaucer-troilus-and-cressida-bk-v-stanza-52-55-127a-b-stanza-177-186-143b-144b-stanza-207-219-147a-149a-stanza-245-152a)
+- [23 HOBBES: Leviathan, PART I, 51b-52a; 80b-d; 81d-82b; PART II, 160b; PART III, 165d-167a; 177a-c; 183b-187a; 188a-191a](#23-hobbes-leviathan-part-i-51b-52a-80b-d-81d-82b-part-ii-160b-part-iii-165d-167a-177a-c-183b-187a-188a-191a)
+- [26 SHAKESPEARE: Julius Caesar, ACT I, SC III [1-71] 572c-573b; ACT IV, SC III [275-289] 591c; ACT V, SC I [71-89] 592d](#26-shakespeare-julius-caesar-act-i-sc-iii-1-71-572c-573b-act-iv-sc-iii-275-289-591c-act-v-sc-i-71-89-592d)
+- [27 SHAKESPEARE: Hamlet, ACT I, SC I [64-125] 30b-31a / Macbeth, ACT II, SC IV [1-20] 294a-b / Cymbeline, ACT V, SC IV [91-122] 482a-b](#27-shakespeare-hamlet-act-i-sc-i-64-125-30b-31a-macbeth-act-ii-sc-iv-1-20-294a-b-cymbeline-act-v-sc-iv-91-122-482a-b)
+- [29 CERVANTES: Don Quixote, PART II, 381a-b](#29-cervantes-don-quixote-part-ii-381a-b)
+- [30 BACON: Advancement of Learning, 8c; 19b; 41 b-c; 54c-d; 55b-d / New Atlantis, 202c-203c](#30-bacon-advancement-of-learning-8c-19b-41-b-c-54c-d-55b-d-new-atlantis-202c-203c)
+- [32 MILTON: Paradise Lost, BK I [594-599] 106b; BK V [28-128] 176a-178a; BK XI [193-366] 303b-307a / Areopagitica, 389a-b](#32-milton-paradise-lost-bk-i-594-599-106b-bk-v-28-128-176a-178a-bk-xi-193-366-303b-307a-areopagitica-389a-b)
+- [33 PASCAL: Pensees, 803-856 328b-341b passim](#33-pascal-pensees-803-856-328b-341b-passim)
+- [35 HUME: Human Understanding, SECT X, DIV 92-101 491c-497b esp DIV 98-101 495d-497b](#35-hume-human-understanding-sect-x-div-92-101-491c-497b-esp-div-98-101-495d-497b)
+- [35 HUME: Human Understanding, SECT X, DIV 92-101 491c-497b esp DIV 98-101 495d-497b](#35-hume-human-understanding-sect-x-div-92-101-491c-497b-esp-div-98-101-495d-497b)
+- [35 HUME: Human Understanding, SECT X, DIV 92-101 491c-497b esp DIV 98-101 495d-497b](#35-hume-human-understanding-sect-x-div-92-101-491c-497b-esp-div-98-101-495d-497b)
+- [40 GIBBON: Decline and Fall, 180b-c; 189b-190d; 206b-d; 294a-296b; 445d-446b; 465d-467a; 547a-b; 571a; 605b-d; 614b-c](#40-gibbon-decline-and-fall-180b-c-189b-190d-206b-d-294a-296b-445d-446b-465d-467a-547a-b-571a-605b-d-614b-c)
+- [41 GIBBON: Decline and Fall, 232a-c; 398b-399b](#41-gibbon-decline-and-fall-232a-c-398b-399b)
+- [44 BOSWELL: Johnson, 126b-c](#44-boswell-johnson-126b-c)
+- [47 GOETHE: Faust, PART I [430-513] 12b-14b](#47-goethe-faust-part-i-430-513-12b-14b)
+- [51 TOLSTOY: War and Peace, BK IX, 377b-379a; BK XII, 561 b-562a](#51-tolstoy-war-and-peace-bk-ix-377b-379a-bk-xii-561-b-562a)
+- [52 DOSTOEVSKY: Brothers Karamazov, BK I, 11a-b; BK V, 129c-135a](#52-dostoevsky-brothers-karamazov-bk-i-11a-b-bk-v-129c-135a)
+- [54 FREUD: Interpretation of Dreams, 138a-c / General Introduction, 477b-c](#54-freud-interpretation-of-dreams-138a-c-general-introduction-477b-c)
 
 ## OLD TESTAMENT: Genesis, 4:1-16 esp 4:14-15; 9:8-17; 28:10-22; 37:1-11; 40-41 / Exodus, 3:1-4:9; 7-17 passim; 31:18; 32:15-16; 40:34-38-(D) Exodus, 3:1-4 :9; 7-17 passim; 31:18; 32:15-16; 40:32-36/ Numbers, 9:15-23; 11-12; 16-17; 20:1-13; 22; 26:9-11 / Deuteronomy, 4:9-14,32-39; 5:22- 27; 6:20-25: 7:17-23; 10:20-11:9; 13:1-5; 28:1-29:9 / Joshua, 3-4; 5:13-6:20; 10:12-14-(D) Josue, 3-4; 5:13- 6:20; 10:12-14 / Judges, 6:11-24,36-40; 7:13-15; 13 / I Samuel, 10:1-16; 12:12-20; 28-(D) I Kings, 10:1-16; 12:12-20; 28 / I Kings, 13:4-6; 17; 18:16-39 esp 18:30-39; 19-(D) III Kings, 13:4-6; 17; 18:16-39 esp 18:30-39; 19/ II Kings, 1-6 passim; 13:20-21; 20:1-11- (D) IV Kings, 1-6 passim; 13:20-21; 20:1-11/ II Chronicles, 32:9-22 esp 32:21-22-(D) II Paralipomenon, 32:9-22 esp 32:21-22 / Job, 4:13-21; 38:1-42:8 / Psalms, 105 esp 105:16-41; 135:8-12-(D) Psalms, 104 esp 104:16-41; 134:8-12 / Isaiah, 6; 7:10-16; 38:1-8-(D) Isaias, 6; 7:10-16; 38:1-8 / Jeremiah, 32:16-24-(D) Jeremias, 32:16-24 / Ezekiel passim, esp 1-3, 11:22-24, 40:1-48:35-(D) Ezechiel passim, esp 1-3, 11 :22-24, 40:1-48:35 / Daniel, 2-12 passim-(D) Daniel, 2 :1-3:23 passim; 3:91-12:13 passim / Hosea, 1-3-(D) Osee, 1-3 / Amos, 7-8 / Jonah-(D) Jonas / Zechariah, 1-6-(D) Zacharias, 1-6
 
@@ -9446,9 +9444,7 @@ And for thyself, thy children and the State
 And all thou lovest good things to fulfil.
 This done, with drink-offerings propitiate
 Earth and the dead; and then entreat thy spouse,
-
-### Darius, whom thou say'st that yesternight
-
+Darius, whom thou say'st that yesternight
 Thou did'st behold, for thee and for thy house
 Up from the underworld into the light
 To send good luck, and adverse things blindfold
@@ -9493,9 +9489,7 @@ With flattering words admonished and cajoled me,
 Saying, "O lucky one, so long a maid?
 And what a match for thee if thou would'st wed!
 Why, pretty, here is Zeus as hot as hot
-
-### —
-
+—
 Love-sick— to have thee! Such a bolt as thou
 Hast shot clean through his heart! And he won't
 rest
@@ -9586,9 +9580,7 @@ Unfestal feast, that rite accursed,
 Of a quarrel inly nursed,
 To a true man perilous,
 The abhorred artificer.
-
-### For, behold, within the house
-
+For, behold, within the house
 Coiled and fanged Conspiracy
 Turns to strike with forked tongue,
 Mindful of her murdered young."
@@ -9633,9 +9625,7 @@ Ch. She cried in her sleep and started broad
 awake.
 And all the palace-lamps, that hung blind-eyed
 In darkness, blazed up for the mistress' sake.
-
-### And, presently, she sends these loving-cups;
-
+And, presently, she sends these loving-cups;
 She thinks them surgery for distempered thoughts.
 Or. O parent earth, sepulchre of my father,
 Answer my prayer and make this dream come true!
@@ -9725,9 +9715,7 @@ sea-god Poseidon, thou art hallowing his altar with
 sacrifice—come thence! Worthy art thou in the
 stranger's sight, worthy are thy city and thy folk,
 that he should render a just recompense for benefits.
-
-### Haste, come quickly, O king!
-
+Haste, come quickly, O king!
 Enter theseus, on the spectators' right.
 Th. Wherefore once more rings forth a summons
 from you all—from my people as clearly as from
@@ -10354,14 +10342,10 @@ Concerning the soul, as to which part is mortal and which divine, and how and wh
 
 ## 8 ARISTOTLE: Prophesying 707a-709a,c
 
-
-### 1
-
+1
 As to the divination which takes place in sleep, and is said to be based on dreams, we cannot lightly either dismiss it with contempt or give it implicit confidence. The fact that all persons, or many, suppose dreams to possess a special significance, tends to inspire us with be- [75] lief in it [such divination], as founded on the testimony of experience; and indeed that divination in dreams should, as regards some subjects, be genuine, is not incredible, for it has a show of reason; from which one might form a like opinion also respecting all other dreams. Yet the fact of our seeing no probable cause to account for such divination tends to inspire us [20] with distrust. For, in addition to its further unreasonableness, it is absurd to combine the idea that the sender of such dreams should be God with the fact that those to whom he sends them are not the best and wisest, but merely commonplace persons.. If, however, we abstract from the causality of God, none of the other causes assigned appears probable. For that certain persons should have foresight in dreams concerning things destined to take place at the Pillars of Hercules, or on the [25] banks of the Borysthenes, seems to be something to discover the explanation of which surpasses the wit of man. Well then, the dreams in question must be regarded either as causes, or as tokens, of the events, or else as coincidences; either as all, or some, of these, or as one only. I use the word 'cause' in the sense in which the moon is [the cause] of an eclipse of the sun, or in which fatigue is [a cause] of fe- [30] ver; 'token' [in the sense in which] the entrance of a star [into the shadow] is a token of the eclipse, or [in which] roughness of the tongue [is a token] of fever; while by 'coincidence' I mean, for example, the occurrence of an eclipse of the sun while some one is taking a walk; for the walking is neither a token nor 463ᵃ a cause of the eclipse, nor the eclipse [a cause or token] of the walking. For this reason no coincidence takes place according to a universal or general rule. Are we then to say that some dreams are causes, others tokens, e.g. of events taking place in the bodily organism? At all events, even scientific physicians tell us [5] that one should pay diligent attention to dreams, and to hold this view is reasonable also for those who are not practitioners, but speculative philosophers. For the movements which occur in the daytime [within the body] are, unless very great and violent, lost sight of in contrast with the waking movements, which [10] are more impressive. In sleep the opposite takes place, for then even trifling movements seem considerable. This is plain in what often happens during sleep; for example, dreamers fancy that they are affected by thunder and lightning, when in fact there are only faint ringings in their ears; or that they are enjoying honey or other sweet savours, when only a tiny drop of phlegm is flowing down [15] [the oesophagus]; or that they are walking through fire, and feeling intense heat, when there is only a slight warmth affecting certain parts of the body. When they are awakened, these things appear to them in this their true character. But since the beginnings of all events are small, so, it is clear, are those also of the diseases or other affections about to occur [20] in our bodies. In conclusion, it is manifest that these beginnings must be more evident in sleeping than in waking moments.
 Nay, indeed, it is not improbable that some of the presentations which come before the mind in sleep may even be causes of the actions cognate to each of them. For as when we are about to act [in waking hours], or are engaged in any course of action, or have already performed certain actions, we often find our- [25] selves concerned with these actions, or performing them, in a vivid dream; the cause whereof is that the dream-movement has had a way paved for it from the original movements set up in the daytime; exactly so, but conversely, it must happen that the movements set up first in sleep should also prove to be starting- points of actions to be performed in the daytime, since the recurrence by day of the thought of these actions also has had its way [50] paved for it in the images before the mind at night. Thus then it is quite conceivable that some dreams may be tokens and causes [of future events]. Most [so-called prophetic] dreams are, how- 463ᵇ ever, to be classed as mere coincidences, especially all such as are extravagant, and those in the fulfilment of which the dreamers have no initiative, such as in the case of a sea-fight, or of things taking place far away. As regards these it is natural that the fact should stand as it does whenever a person, on mentioning [5] something, finds the very thing mentioned come to pass. Why, indeed, should this not happen also in sleep? The probability is, rather, that many such things should happen. As, then, one's mentioning a particular person is neither token nor cause of this person's presenting himself, so, in the parallel instance, the dream is, to him who has seen it, neither token nor cause of its [so-called] fulfilment, but a mere coincidence. Hence the fact that many dreams have no 'fulfilment', for coincidences [10] do not occur according to any universal or general law.
-
-### 2
-
+2
 On the whole, forasmuch as certain of the lower animals also dream, it may be concluded that dreams are not sent by God, nor are they designed for this purpose [to reveal the future]. They have a divine aspect, however, for Nature [their cause] is divinely planned, [15] though not itself divine. A special proof [of their not being sent by God] is this: the power of foreseeing the future and of having vivid dreams is found in persons of inferior type, which implies that God does not send their dreams; but merely that all those whose physical temperament is, as it were, garrulous and excitable, see sights of all descriptions; for, inasmuch as they experience many movements of every kind, they just chance to have visions resembling objective facts, their luck in these [20] matters being merely like that of persons who play at even and odd. For the principle which is expressed in the gambler's maxim: 'If you make many throws your luck must change,' holds good in their case also.
 That many dreams have no fulfilment is not strange, for it is so too with many bodily symptoms and weather-signs, e.g. those of [25] rain or wind. For if another movement occurs more influential than that from which, while [the event to which it pointed was] still future, the given token was derived, the event [to which such token pointed] does not take place. So, of the things which ought to be accomplished by human agency, many, though well-planned, are by the operation of other principles more powerful [than man's agency] brought to nought. For, speaking generally, that which was about to happen is not in every case what now is happening; nor is that which shall hereafter be identical with that which is now going to be. Still, however, we must hold [jo] that the beginnings from which, as we said, no consummation follows, are real beginnings, and these constitute natural tokens of certain events, even though the events do not come to pass.
 As for [prophetic] dreams which involve not such beginnings [sc. of future events] as we have here described, but such as are extravagant in times, or places, or magnitudes; or 464ᵃ those involving beginnings which are not extravagant in any of these respects, while yet the persons who see the dream hold not in their own hands the beginnings [of the event to which it points] : unless the foresight which such dreams give is the result of pure coincidence, the following would be a better explanation of it than that proposed by Democritus, [5] who alleges 'images' and 'emanations' as its cause. As, when something has caused motion in water or air, this [the portion moved] moves another [portion of water or air], and, though the cause has ceased to operate, such motion propagates itself to a certain point, though there the prime movement is not present; just so it may well be that a movement and a consequent sense-perception should reach [10] sleeping souls from the objects from which Democritus represents 'images' and 'emanations' as coming; that such movements, in whatever way they arrive, should be more perceptible at night [than by day], because when proceeding thus in the daytime they are more liable to dissolution (since at night the air is less disturbed, there being then less [15] wind); and that they shall be perceived within the body owing to sleep, since persons are more sensitive even to slight sensory movements when asleep than when awake. It is these movements then that cause 'presentations', as a result of which sleepers foresee the future even relatively to such events as those referred¹ to above. These considerations also [20] explain why this experience befalls commonplace persons and not the most intelligent. For it would have regularly occurred both in the daytime and to the wise had it been God who sent it; but, as we have explained the matter, it is quite natural that commonplace persons should be those who have foresight [in dreams]. For the mind of such persons is not given to thinking, but, as it were, derelict, or
@@ -10429,9 +10413,7 @@ Go forward, follow where the pathway leads." 401
 " 'All hope and courage for the war's emprise
 On Pallas' help the Danaans ever stayed:
 But from what time, with Tydeus' impious son,
-
-### Ulysses, crime-contriver, dared to rend
-
+Ulysses, crime-contriver, dared to rend
 Doom-fraught Palladium from its hallowed shrine.
 And slew the watchmen of her castled height.
 And snatched the sacred image, and feared not
@@ -10475,9 +10457,7 @@ Remain in store for our posterity.' 194
 "By such decoys of Sinon's art forsworn
 The tale gat credence, and by craft were caught
 And forced tears, whom neither Tydeus'son,
-
-### No, nor Achilles of Larissa, nor
-
+No, nor Achilles of Larissa, nor
 Ten years had conquered, nor a thousand keels.
 "A mightier portent and more fearful far,
 Poor souls! here bursts upon them, and confounds
@@ -11101,9 +11081,7 @@ Here perhaps our adversaries will say that their gods also have done some wonder
 ## 19 AQUINAS: Summa Theologica, PART I, Q 51, A 2, REP I 276b-277a; Q 104, A 4, ANS 538a-c; Q 105, A 7 544a-d; Q 106, A 3, ANS and REP 2 547c-548b; Q 110, A 4 567c-568b
 
 19 AQUINAS: Summa Theologica, PART I, Q 51, A 2, REP I 276b-277a
-
-### Article 2. Whether Angels Assume Bodies?
-
+Article 2. Whether Angels Assume Bodies?
 We proceed thus to the Second Article: It would seem that angels do not assume bodies. Objection 1. For there is nothing superfluous in the work of an angel, as there is nothing of the kind in the work of nature. But it would be superfluous for the angels to assume bodies, because an angel has no need for a body, since his own power exceeds all bodily power. Therefore an angel does not assume a body.
 Obj. 2. Further, every assumption is terminated in some union, because to assume implies a taking to oneself (ad se sumere). But a body is not united to an angel as to a form, as stated (a. i), while in so far as it is united to the angel as to a mover, it is not said to be assumed, otherwise it would follow that all bodies moved by the angels are assumed by them. Therefore the angels do not assume bodies.
 Obj. 3. Further, angels do not assume bodies from the earth or water, or they could not suddenly disappear; nor again from fire, otherwise they would burn whatever things they touched; nor again from air, because air is without shape or colour. Therefore the angels do not assume bodies.
@@ -11115,9 +11093,7 @@ Reply Obj. 2. The body assumed is united to the angel not as its form, nor merel
 ⁵Maimonides, Guide for the Perplexed, II, 6 (FR 162).
 Reply Obj. 3. Although air as long as it is in a state of rarefaction has neither shape nor colour, yet when condensed it can both be shaped and coloured as appears in the clouds. Even so the angels assume bodies of air, condensing it by Divine power in so far as is needful for forming the assumed body.
 19 AQUINAS: Summa Theologica, PART I, Q 104, A 4, ANS 538a-c
-
-### Article 4. Whether Anything Is Annihilated?
-
+Article 4. Whether Anything Is Annihilated?
 We proceed thus to the Fourth Article: It would seem that something is annihilated.
 Objection 1. For the end corresponds to the beginning. But in the beginning there was nothing but God. Therefore all things must tend to this end, that there shall be nothing but God. Therefore creatures will be reduced to nothing.
 Obj. 2. Further, every creature has a finite power. But no finite power extends to the infinite. And so the Philosopher proves¹ that "a finite power cannot move in infinite time." Therefore a creature cannot last for an infinite duration, and so at some time it will be reduced to nothing.
@@ -11208,9 +11184,7 @@ Thus ruminating, and thus gazing upon them, sleep overcame me, sleep which oft b
 ## 22 CHAUCER: Troilus and Cressida, BK V, STANZA 52-55 127a-b; STANZA 177-186 143b-144b; STANZA 207-219 147a-149a; STANZA 245 152a
 
 22 CHAUCER: Troilus and Cressida, BK V, STANZA 52-55 127a-b
-
-### 52
-
+52
 Thy swevenes eek and al swich fantasye
 Dryf out, and lat hem faren to mischaunce;
 For they procede of thy malencolye,
@@ -11218,9 +11192,7 @@ That doth thee fele in sleep al this penaunce.
 A straw for alle swevenes signifiaunce!
 God helpe me so, I counte hem not a bene,
 Ther woot no man aright what dremes mene.
-
-### 53
-
+53
 For prestes of the temple tellen this,
 That dremes been the revelaciouns
 Of goddes, and as wel they telle, y-wis.
@@ -11228,9 +11200,7 @@ That they ben infernals illusiouns;
 And leches seyn, that of complexiouns
 Proceden they, or fast, or glotonye.
 Who woot in sooth thus what they signifye?
-
-### 54
-
+54
 Eek othere seyn that thorugh impressiouns,
 As if a wight hath faste a thing in minde.
 That ther-of cometh swiche avisiouns;
@@ -11238,21 +11208,15 @@ And othere seyn, as they in bokes finde.
 That, after tymes of the yeer by kinde,
 Men dreme, and that th'effect goth by the mone;
 But leve no dreem, for it is nought to done.
-
-### 55
-
+55
 Wel worth of dremes ay thise olde wyves,
 And treweliche eek augurie of thise foules;
 For fere of which men wenen lese her lyves,
 As ravenes qualm, or shryking of thise oules.
 To trowen on it bothe fals and foul is.
-
-### Alias, alias, so noble a creature
-
+Alias, alias, so noble a creature
 As is a man, shal drede swich ordure!
-
-### 52
-
+52
 "And all your dreams and other such like folly,
 To deep oblivion let them be consigned;
 For they arise but from your melancholy,
@@ -11260,9 +11224,7 @@ By which your health is being undermined.
 A straw for all the meaning you can find
 In dreams! They aren't worth a hill of beans,
 For no one knows what dreaming really means.
-
-### 53
-
+53
 "Priests in the temples sometimes choose to say
 That dreams come from the Gods as revelations;
 But other times they speak another way,
@@ -11270,9 +11232,7 @@ And call them hellish false hallucinations!
 And doctors say they come from complications,
 Or fast or surfeit, or any other lie,
 For who knows truly what they signify?
-
-### 54
-
+54
 "And others say that through impressions deep,
 As when one has a purpose firm in mind,
 There come these visions in one's sleep;
@@ -11280,9 +11240,7 @@ And others say that they in old books find,
 That every season hath its special kind
 Of dream, and all depends upon the moon;
 But all such folk are crazy as a loon!
-
-### 55
-
+55
 "Dreams are the proper business of old wives,
 Who draw-their auguries from birds and fowls,
 For which men often fear to lose their lives,
@@ -11291,9 +11249,7 @@ O why put trust in bestial shrieks and howls!
 Alas, that noble man should be so brash
 To implicate his mind in such like trash!
 22 CHAUCER: Troilus and Cressida, BK V, STANZA 177-186 143b-144b
-
-### 177
-
+177
 So on a day he leyde him doun to slepe,
 And so bifel that in his sleep him thoughte,
 That in a forest faste he welk to wepe
@@ -11301,9 +11257,7 @@ For love of hir that him these peynes wroughte;
 And up and doun as he the forest soughte,
 He mette he saugh a boor with tuskes grete,
 That sleep ayein the bright sonnes hete.
-
-### 178
-
+178
 And by this boor, faste in his armes folde,
 Lay kissing ay his lady bright Criseyde:
 For sorwe of which, whan he it gan biholde,
@@ -11311,9 +11265,7 @@ And for despyt, out of his slepe he breyde,
 And loude he cryde on Pandarus, and seyde,
 "O Pandarus, now knowe I crop and rote!
 I nam but deed, ther nis non other bote!
-
-### 179
-
+179
 My lady bright Criseyde hath me bitrayed,
 In whom I trusted most of any wight,
 She elles-where hath now hir herte apayed;
@@ -11321,9 +11273,7 @@ The blisful goddes, through hir grete might,
 Han in my dreem y-shewed it ful right.
 Thus in my dreem Criseyde I have biholde"—
 And al this thing to Pandarus he tolde.
-
-### 180
-
+180
 "O my Criseyde, alias! what subtiltee,
 What newe lust, what beautee, what science,
 What wratthe of juste cause have ye
@@ -11332,9 +11282,7 @@ What gilt of me, what fel experience
 Hath fro me raft, alias! thyn advertence?
 O trust, O feyth, O depe aseurance,
 Who hath me reft Criseyde, al my plesaunce?
-
-### 177
-
+177
 It chanced one day he laid him down to sleep,
 And in his restless slumber, so he thought,
 Within a wood he went to walk and weep,
@@ -11342,9 +11290,7 @@ For love of her who all this wrong had wrought,
 And down a path, his eyes a vision caught;
 A tusked boar appeared in his sad dreams,
 Asleep and lying in the bright sunbeams,
-
-### 178
-
+178
 And by this boar, whom in her arms she held,
 Lay Cressida, kissing the fearsome beast.
 And suddenly this vision strange expelled
@@ -11352,9 +11298,7 @@ All sleep, and from his dreaming thus released,
 Troilus knew all hope for him had ceased.
 "O Pandar," cried he, "now I know the worst!
 I am a man abandoned and accursed!
-
-### 179
-
+179
 "My lady Cressida hath me betrayed,
 In whom was all my trust and my delight;
 Her love she hath elsewhere conveyed!
@@ -11362,9 +11306,7 @@ The blessed Gods above through their great might
 Have in my dreams revealed it to my sight!
 Thus in my dreams I did my love behold—"
 And all the tale to Pandar he then told.
-
-### 180
-
+180
 "O Cressida, what baseless treachery,
 What lust of heart, what beauty or what wit—,
 What wrath with just cause have you felt
@@ -11373,9 +11315,7 @@ What guilt in me, what thoughts or deeds unfit
 Have caused thy heart away from me to flit ?
 O trust! O faith! O hopes that life inspire!
 O who hath robbed me of my heart's desire!
-
-### 181
-
+181
 "Alas, why did I ever let you go?
 O, by what folly was I thus misled?
 What faith on oaths can I henceforth bestow!
@@ -11383,9 +11323,7 @@ God knows I was convinced in heart and head,
 That every word was Gospel that you said.
 But treason oft doth show its hateful face
 In those in whom the greatest trust we place.
-
-### 182
-
+182
 "What shall I do? What now is left for me?
 There falls on me anew so sharp a pain,
 For which there can be found no remedy, <
@@ -11393,9 +11331,7 @@ Better to kill myself with these hands twain
 Than in this life of misery remain!
 Death at the least a final peace will send,
 But life is daily death that hath no end !"
-
-### 183
-
+183
 Then Pandar answered him, "Alas the while
 That I was born! Have I not said ere this,
 That dreams all sorts of folk all times beguile ?
@@ -11403,9 +11339,7 @@ And why ? They all interpret them amiss!
 To charge her false on dreams is cowardice,
 Because your dreams rise only from your fear,
 And what they mean, you never can make clear.'
-
-### 184
-
+184
 "This dream that you have had about a boar,
 It well may be that it doth signify
 Her father, old and of his head so hoar,
@@ -11413,9 +11347,7 @@ Who near his death doth in the warm sun lie,
 While she for natural grief must weep and cry,
 And kiss him as he lies there on the ground—
 This is the way you should your dream expound."
-
-### 185
-
+185
 "Perhaps," said Troilus. "I wish I knew
 For certain how to judge my dream aright."
 "I'll tell you then," said Pandar, "what to do!
@@ -11423,9 +11355,7 @@ Since you know well enough how to endite,
 Bestir yourself and to your lady write.
 I know no better way of finding out
 The truth and freeing so your mind of doubt.
-
-### 186
-
+186
 "That way you'll know just how things stand,
 for better
 Or worse; for if untrue she means to be,
@@ -11434,9 +11364,7 @@ And if she writes, then you can quickly see
 If she to come again to Troy is free,
 And if she's let and hindered in some way,
 She will explain it all as clear as day.
-
-### 181
-
+181
 Alias! why lcet I you from hennes go,
 For which wel neigh out of my wit I breyde?
 Who shal now trowe on any othes mo?
@@ -11444,9 +11372,7 @@ God wot I wende, O lady bright, Criseyde,
 That every word was gospel that ye seyde!
 But who may bet bigylen, if him liste,
 Than he on whom men weneth best to triste?
-
-### 182
-
+182
 What shal I doon, my Pandarus, alias!
 I fele now so sharpe a newe peyne,
 Sin that ther is no remedie in this cas,
@@ -11454,9 +11380,7 @@ That bet were it I with myn hondes tweyne
 My-selven slow, than alwey thus to pleyne.
 For through my deeth my wo sholde han an ende,
 Ther every day with lyf my-self I shende."
-
-### 183
-
+183
 Pandare answerde and seyde, "alias the whyle
 That I was born; have I not seyd er this,
 That dremes many a maner man bigyle?
@@ -11464,9 +11388,7 @@ And why? for folk expounden hem a-mis.
 How darstow seyn that fals thy lady is,
 For any dreem, right for thyn owene drede?
 Lat be this thought, thou canst no dremes rede.
-
-### 184
-
+184
 Paraunter, ther thou dremest of this boor,
 It may so be that it may signifye
 Hir fader, which that old is and eek hoor,
@@ -11474,9 +11396,7 @@ Ayein the sonne lyth, on poynt to dye,
 And she for sorwe ginneth wepe and crye,
 And kisseth him, ther he lyth on the grounde;
 Thus ahuldestow thy dreem a-right expounde."
-
-### 185
-
+185
 "How mighte I thanne do?" quod Troilus,
 "To knowe of this, ye, were it never so lyte?"
 "Now seystow wysly," quod this Pandarus,
@@ -11484,9 +11404,7 @@ Thus ahuldestow thy dreem a-right expounde."
 That hastely a lettre thou hir wryte,
 Thorugh which thou shalt wel bringen it aboute,
 To knowe a sooth of that thou art in doute.
-
-### 186
-
+186
 And see now why; for this I dar wel
 seyn,
 That if so is that she untrewe be,
@@ -11496,9 +11414,7 @@ As whether she hath any libertee
 To come ayein, or elles in som clause,
 If she be let, she wol assigne a cause.
 22 CHAUCER: Troilus and Cressida, BK V, STANZA 207-219 147a-149a
-
-### 207
-
+207
 This dreem, of which I told have eek biforn,
 May never come out of his remembraunce;
 He thoughte ay wel he hadde his lady lorn,
@@ -11506,9 +11422,7 @@ And that Joves, of his purveyaunce,
 Him shewed hadde in sleep the signifiaunce
 Of hir untrouthe and his disaventure,
 And that the boor was shewed him in figure.
-
-### 208
-
+208
 For which he for Sibille his suster sente,
 That called was Cassandre eek al aboute;
 And al his dreem he tolde hir er he stente,
@@ -11516,9 +11430,7 @@ And hir bisoughte assoilen him the doute
 Of the stronge boor, with tuskes stoute;
 And fynally, with-inne a litel stounde,
 Cassandre him gan right thus his dreem expounde.
-
-### 209
-
+209
 She gan first smyle, and seyde, "O brother dere.
 If thou a sooth of this desyrest knowe,
 Thou most a fewe of olde stories here,
@@ -11527,9 +11439,7 @@ Hath lordes olde; through which, with-inne a
 throwe,
 Thou wel this boor shalt knowe, and of what kinde
 He comen is, as men in bokes finde.
-
-### 210
-
+210
 Diane, which that wrooth was and in ire
 For Grekes nolde doon hir sacrifyse,
 Ne encens up-on hir auter sette a-fyre,
@@ -11537,9 +11447,7 @@ She, for that Grekes gonne hir so dispyse,
 Wrak hir in a wonder cruel wyse.
 For with a boor as greet as oxe in stalle
 She made up frete hir corn and vynes alle.
-
-### 211
-
+211
 To slee this boor was al the contree reysed,
 A-monges which ther com, this boor to see,
 A mayde, oon of this world the best y-preysed;
@@ -11547,9 +11455,7 @@ And Mcleagre, lord of that contrec,
 He lovede so this fresshe mayden free
 That with his manhod, er he wolde stente,
 This boor he slow, and hir the heed he sente;
-
-### 212
-
+212
 Of which, as olde bokes tellen us,
 Ther roos a contek and a greet envye;
 And of this lord descended Tydeus
@@ -11557,9 +11463,7 @@ By ligne, or elles olde bokes lye;
 But how this Meleagre gan to dye
 Thorugh his moder, wol I yow not telle,
 For al to long it were for to dwelle."
-
-### 213
-
+213
 She tolde eek how Tydeus, er she stente,
 Un-to the stronge citee of Thebes,
 To cleyme kingdom of the citee, wente,
@@ -11567,9 +11471,7 @@ For his felawe, daun Polymites,
 Of which the brother, daun Ethyocles,
 Ful wrongfully of Thebes held the strengthe;
 This tolde she by proces, al by lengthe.
-
-### 214
-
+214
 She tolde eek how Hemonides asterte,
 Whan Tydeus slough fifty knightes stoute.
 She tolde eek al the prophesyes by herte,
@@ -11577,9 +11479,7 @@ And how that sevene kinges, with hir route,
 Bisegeden the citee al aboute;
 And of the holy serpent, and the welle,
 And of the furies, al she gan him telle.
-
-### 215
-
+215
 Of Archimoris buryinge and the pleyes,
 And how Amphiorax fil through the grounde,
 How Tydeus was slayn, lord of Argeyes,
@@ -11587,9 +11487,7 @@ And how Ypomedoun in litel stounde
 Was dreynt, and deed Parthonope of wounde;
 And also how Cappaneus the proude
 With thonder-dint was slayn, that cryde loude.
-
-### 216
-
+216
 She gan eek telle him how that either brother,
 Ethyocles and Polimyte also,
 At a scarmyche, eche of hem slough other,
@@ -11597,9 +11495,7 @@ And of Argyves wepinge and hir wo;
 And how the town was brent she tolde eek tho.
 And so descendeth doun from gestes olde
 To Diomede, and thus she spak and tolde.
-
-### 217
-
+217
 "This ilke boor bitokneth Diomede,
 Tydeus sone, that doun descended is
 Fro Meleagre, that made the boor to blede.
@@ -11607,9 +11503,7 @@ And thy lady, wher-so she be, y-wis,
 This Diomede hir herte hath, and she his.
 Weep if thou wolt, or leef; for, out of doute,
 This Diomede is inne, and thou art oute."
-
-### 218
-
+218
 "Thou seyst nat soth," quod he, "thou sorceresse,
 With al thy false goost of prophesye!
 Thou wenest been a greet devyneresse;
@@ -11617,9 +11511,7 @@ Now seestow not this fool of fantasye
 Peyneth hir on ladyes for to lye?
 Awey," quod he, "ther Joves yeve thee sorwe!
 Thou shalt be fals, paraunter, yet to-morwe!
-
-### 219
-
+219
 As wel thou mightest lyen on Alceste,
 That was of creatures, but men lye,
 That ever weren, kindest and the beste.
@@ -11627,9 +11519,7 @@ For whanne hir housbonde was in jupartye
 To dye him-self, but-if she wolde dye,
 She chees for him to dye and go to helle,
 And starf anoon, as us the bokes telle."
-
-### 207
-
+207
 This dream, of which I have already told,
 He never from his fancy could expel,
 Nor could he doubt his lady had grown cold,
@@ -11637,9 +11527,7 @@ Nor yet that Jove had taken means to tell
 By dreams, when heavy sleep upon him fell,
 Of her untruth and his disastrous fate-
 All which the boar was meant to indicate.
-
-### 208
-
+208
 Then for his sister Sibly straight he sent,
 Known also as Cassandra round about,
 And told his dream to her just at it went,
@@ -11647,9 +11535,7 @@ And asked her to resolve his mind of doubt,
 Concerning this great boar with tusks so stout;
 And soon as she the meaning of it found,
 She thus began his vision to expound.
-
-### 209
-
+209
 Smiling a prophet's smile, "O brother dear,"
 She said, "if you the truth will really know,
 Then you must first a few old stories hear,
@@ -11658,9 +11544,7 @@ Some lords of old, and thereby I shall
 show
 And tell you whence this boar, and of what kind,
 As in the books the story you may find.
-
-### 210
-
+210
 "Diana, filled with anger and with ire,
 Because the Greeks withheld her sacrifice,
 Nor on her altar set incense afire,
@@ -11668,9 +11552,7 @@ In vengeance made them pay a cruel price,
 And this, in long and short, was her device,
 She let a boar, as great as ox in stall,
 Devour their growing corn and vines and all.
-
-### 211
-
+211
 "To slay this boar the countryside was raised,
 And thereamong came one, the boar to see,
 A maiden whom all in that region praised;
@@ -11678,9 +11560,7 @@ And Mcleager, lord of that country.
 So loved this maiden, fair and fresh and free,
 That into battle with this boar he went.
 And killing it, its head unto her sent.
-
-### 212
-
+212
 "From this, as ancient writers tell to us.
 There rose a contest and a warfare high.
 And from this lord descended Tydeus,
@@ -11688,9 +11568,7 @@ By line direct, as no one can deny;
 But how this Meleager came to die
 Through his own mother, that I shall not tell,
 For on that tale it were too long to dwell."
-
-### 213
-
+213
 How Tydeus made warfare Sibyl told,
 At Thebes, that ancient city and so strong,
 Maintaining that to Polynices bold,
@@ -11698,9 +11576,7 @@ The Theban city did by right belong,
 And that Eteocles, his brother, wrong
 Had done, in holding Thebes by strength—
 All this she told to him and at great length.
-
-### 214
-
+214
 She also told about Haemonides,
 When Tydeus slew fifty knights so stout,
 And told of all the wondrous prophecies,
@@ -11708,9 +11584,7 @@ And how the seven kings for Thebes set out,
 And then besieged the city round about,
 And of the holy serpent and the well,
 And of the Furies, all this did she tell;
-
-### 215
-
+215
 And Archemorus' death and funeral plays,
 And how Amphiorax fell through the ground,
 How Tydeus was slain and closed his days,
@@ -11718,9 +11592,7 @@ And also how Ipomedon was drowned,
 And Parthenope final death wound found,
 And how Capaneus, the strong and proud,
 Was slain by stroke of thunder, sounding loud.
-
-### 216
-
+216
 And then she told the tale how either brother,
 Eteocles and Polynices true,
 How each of them in skirmish killed the other,
@@ -11728,9 +11600,7 @@ And how Argia wept and made ado;
 The burning of the town did she review,
 And so descended down from stories old
 To Diomede, and of him thus she told.
-
-### 217
-
+217
 "This boar you dreamed of stands for Diomede,
 Tydeus' son, of Meleager's line,
 Who killed the boar and won fame by that deed;
@@ -11738,9 +11608,7 @@ Thy lady, if in fact she once was thine,
 With Diomede in love doth now combine;
 Be glad or sad, but there can be no doubt,
 This Diomede is in and you are out."
-
-### 218
-
+218
 "That isn't true," he cried, "thou sorceress!
 False is the spirit of thy prophecy,
 And all the priestly cunning you profess!
@@ -11748,9 +11616,7 @@ Your wickedness is plain and clear to see,
 To stain a lady's name with falsity!
 Away," he cried, "may Jove increase your sorrow,
 For you are false today and false tomorrow!
-
-### 219
-
+219
 "As well defame the beautiful Alceste,
 Who was, unless all history doth lie,
 Of human kind the truest and the best,
@@ -11759,9 +11625,7 @@ Unless his place she would herself supply.
 For him she chose to die and go to hell,
 And in his stead, among the dead to dwell."
 22 CHAUCER: Troilus and Cressida, BK V, STANZA 245 152a
-
-### 245
-
+245
 "Thou, Pandar, who didst often fret and chide,
 Because my dreams seemed credible to me,
 O, would that more on them I had relied,
@@ -11769,9 +11633,7 @@ For now you see your niece's falsity!
 In sundry ways both joy and misery
 The Gods reveal in sleep for our behoof,
 And here my dreams provide for this a proof.
-
-### 245
-
+245
 O Pandare, that in dremes for to triste
 Me blamed hast, and wont art ofte upbreyde,
 Now maystow see thy-selve, if that thee liste,
@@ -12087,9 +11949,7 @@ Of this post-haste and romage in the land.
 Ber. I think it be no other but e'en so:
 Well may it sort that this portentous figure
 Comes armed through our watch; so like the
-
-### King 110
-
+King 110
 That was and is the question of these wars.
 Hor. A mote it is to trouble the mind's eye.
 In the most high and palmy state of Rome,
@@ -12458,9 +12318,7 @@ And in performing end us; what besides 300
 Of sorrow and dejection and despair
 Our frailtie can sustain, thy tidings bring,
 Departure from this happy place, our sweet
-
-### Recess, and onely consolation left
-
+Recess, and onely consolation left
 Familiar to our eyes, all places else
 Inhospitable appeer and desolate,
 Nor knowing us nor known: and if by prayer
@@ -12889,9 +12747,7 @@ Creative Nature's self before my soul appear.
 Now first I understand what he, the sage, has said:
 "The world of spirits is not shut away;
 Thy sense is closed, thy heart is dead!
-
-### Up, Student! bathe without dismay 445
-
+Up, Student! bathe without dismay 445
 Thy earthly breast in morning-red!"
 He contemplates the sign.
 Into the whole how all things blend,
@@ -12985,17 +12841,11 @@ And in the fifth verse of the same chapter:
 And there was given unto him a mouth speaking great things and blasphemies; and power was given unto him to continue forty and two months.
 The French alphabet, written out with the same numerical values as the Hebrew, in which the first nine letters denote units and the others tens, will have the following significance:
 a b e d e f g h i k
-12 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
 l m n o p q r s
 20 30 40 50 60 70 80 90
-t u V w x y
-
-### 100 110 120 130 140 150
-
-z
-
-### 160
-
+t u v w x y z
+100 110 120 130 140 150 160
 Writing the words L'Empereur Napoleon in numbers, it appears that the sum of them is 666,¹ and that Napoleon was therefore the beast foretold in the Apocalypse. Moreover, by applying the same system to the words quarantedeux,² which was the term allowed to the beast that "spoke great things and blasphemies," the same number 666 was obtained; from which it followed that the limit fixed for Napoleon's power had come in the year 1812 when the French emperor was forty-two. This prophecy pleased Pierre very much and he often asked himself what would put an end to the power of the beast, that is, of Napoleon, and tried by the same system of using letters as numbers and adding them up, to find an answer to the question that engrossed him. He wrote the words L'Empereur Alexandre, La nation russe and added up their numbers, but the sums were either more or less than 666. Once when making such calculations he wrote down his own name in French, Comte Pierre Besouhoff, but the sum of the numbers did not come right. Then he changed the spelling, substituting a z for the s and adding de and the article le, still without obtaining the desired result. Then it occurred to him: if the answer to the question were contained in his name, his nationality would also be given in the answer. So he wrote Le russe Besuhof and adding up the numbers got 671. This was only five too much, and five was represented by e, the very letter elided from the article le before the word Empereur. By omitting the e, though incorrectly, Pierre got the answer he sought. L'russe Besuhof made 666. This discovery excited him. How, or by
 ¹Including a 5 for the letter e dropped by elision from the le before Empereur.—Tr.
 ²Forty- two.
