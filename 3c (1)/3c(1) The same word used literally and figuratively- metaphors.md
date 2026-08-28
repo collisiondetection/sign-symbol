@@ -1,0 +1,1596 @@
+*Great Books of the Western World* — Chapter 85: SIGN AND SYMBOL
+
+# 3c. The types of equivocation 3c(1) The same word used literally and figuratively: metaphors derived from analogies or proportions and from other kinds of similitude
+
+## Citations
+
+- [8 ARISTOTLE: Categories, CH 1 [1a1-6] 5a / Topics, BK VI, CH 2 [139b33-140a6] 192d-193a](#8-aristotle-categories-ch-1-1-1-6-5a-topics-bk-vi-ch-2-139b33-140a6-192d-193a)
+- [9 ARISTOTLE: Ethics, BK V, CH 2 [1138b5-14] 387a,c / Rhetoric, BK III, CH 2 [1404b27-1405b3] 655a-d; CH 3 [1406b5]-CH 4 [1407a16] 657a-d; CH 6 [1408a2-9] 659a; CH 10-11 662c-666b / Poetics, CH 21 [1457b1-33] 693a-c; CH 25 [1461a8-20] 697c-d](#9-aristotle-ethics-bk-v-ch-2-1138b5-14-387ac-rhetoric-bk-iii-ch-2-1404b27-1405b3-655a-d-ch-3-1406b5-ch-4-1407a16)
+- [18 AUGUSTINE: Confessions, BK V, par 24 34a-b; BK VI, par 6 36c-d / City of God, BK XVII, CH 3 450c-451c; BK XX, CH 21, 549d / Christian Doctrine, BK II, CH 1O 640d-641a; BK III, CH 1 657b; CH 5-37 659d-674d](#18-augustine-confessions-bk-v-par-24-34a-b-bk-vi-par-6-36c-d-city-of-god-bk-xvii-ch-3-450c-451c-bk-xx-ch-21-549d-christian-doctrine-bk-ii-ch-1o-640d-641a-bk-iii-ch-1-657b-ch-5-37-659d-674d)
+- [19 AQUINAS: Summa Theologica, PART I, Q 1, AA 9-10 8d-1Oc; Q 3, A 1, REP 1-5 14b-15b; A 2, REP 1-2 15c-16a; A 3, REP 1 16a-d; Q 13, A 2, ANS and REP 1 63c-64d; A 3 64d-65c; A 6, ANS and REP 2 67d-68c; A 10, CONTRARY 72c-73c; Q 34, A 1, ANS and REP 1,4 185b-187b; Q 67, A 1 349d-350b; A 2, REP 3 350b-351a; Q 68, A 4, ANS 358b-359b](#19-aquinas-summa-theologica-part-i-q-1-aa-9-10-8d-1oc-q-3-a-1-rep-1-5-14b-15b-a-2-rep-1-2-15c-16a-a-3-rep-1-16a-d-q-13-a-2-ans-and-rep-1-63c-64d-a-3-64d-65c-a-6-ans-and-rep-2-67d-68c-a-10-contrary-72c-73c-q-34-a-1-ans-and-rep-14-185b-187b-q-67-a-1-349d-350b-a-2-rep-3-350b-351a-q-68-a-4-ans-358b-359b)
+- [20 AQUINAS: Summa Theologica, PART I-II, Q 1OO, A 2, REP 2 252b-253a; PART III, Q 8, A 1, REP 2 756d-757c](#20-aquinas-summa-theologica-part-i-ii-q-1oo-a-2-rep-2-252b-253a-part-iii-q-8-a-1-rep-2-756d-757c)
+- [23 HOBBES: Leviathan, PART I, 55b; 59d; 61c; PART III, 176d-177d; 181d; 193d-195d](#23-hobbes-leviathan-part-i-55b-59d-61c-part-iii-176d-177d-181d-193d-195d)
+- [25 MONTAIGNE: Essays, 422c-423c](#25-montaigne-essays-422c-423c)
+- [28 HARVEY: Motion of the Heart, 267a-b](#28-harvey-motion-of-the-heart-267a-b)
+- [30 BACON: Advancement of Learning, 65b-c](#30-bacon-advancement-of-learning-65b-c)
+- [35 LOCKE: Human Understanding, BK III, CH I, SECT 5 252b-c](#35-locke-human-understanding-bk-iii-ch-i-sect-5-252b-c)
+- [35 BERKELEY: Human Knowledge, SECT 144 441d](#35-berkeley-human-knowledge-sect-144-441d)
+- [36 SWIFT: Gulliver, PART III, 114b-115b](#36-swift-gulliver-part-iii-114b-115b)
+- [40 GIBBON: Decline and Fall, 775c-d [n 173]](#40-gibbon-decline-and-fall-775c-d-n-173)
+- [42 KANT: Judgement, 547b-548c](#42-kant-judgement-547b-548c)
+- [53 JAMES: Psychology, 380a-381a; 689a-b](#53-james-psychology-380a-381a-689a-b)
+- [54 FREUD: General Introduction, 510b-c; 512d-513a](#54-freud-general-introduction-510b-c-512d-513a)
+
+a
+
+## 8 ARISTOTLE: Categories, CH 1 [1 1-6] 5a / Topics, BK VI, CH 2 [139b33-140a6] 192d-193a
+
+
+### Categories, CH 1 [1a1-6] 5a
+
+1a Things are said to be named ‘equivocally’ when, though they have a common name, the definition corresponding with the name differs for each. Thus, a real man and a figure in a picture can both lay claim to the name ‘animal’; yet these are equivocally so named, for, though they have a common name, the definition corresponding with the name differs for each. For should any one define in what sense each is an animal, his definition in the one case will be appropriate to that case only.
+
+### Topics, BK VI, CH 2 [139b33-140a6] 192d-193a
+
+Another rule is, See if he has used a metaphorical expression, as, for instance, if he has defined knowledge as ‘unsupplantable’, or the earth as a ‘nurse’, or temperance as a ‘harmony’. For a metaphorical expression is always obscure. It is possible, also, to argue sophistically against the user of a metaphorical expression as though he had used it in its literal sense: for the definition stated will not apply to the term defined, e. g. in the case of temperance: for harmony is always found between notes. Moreover, if harmony be the genus of temperance, then the same object will occur in 140a two genera of which neither contains the other: for harmony does not contain virtue, nor virtue harmony. Again, see if he used terms that are unfamiliar, as when Plato describes the eye as ‘brow-shaded’, or a certain spider as ‘poison-fanged’, or the marrow as ‘bone-formed’. For an unusual phrase is always obscure.
+
+## 9 ARISTOTLE: Ethics, BK V, CH 2 [1138b5-14] 387a,c / Rhetoric, BK III, CH 2 [1404b27-1405b3] 655a-d; CH 3 [1406b5]-CH 4 [1407a16]
+
+a
+
+## 657a-d; CH 6 [1408 2-9] 659a; CH 10-11 662c-666b / Poetics, CH 21 [1457b1-33] 693a-c; CH 25 [1461a8-20] 697c-d
+
+
+### Ethics, BK V, CH 2 [1138b5-14] 387a,c
+
+Metaphorically and in virtue of a certain resemblance there is a justice, not indeed between a man and himself, but between certain parts of him; yet not every kind of justice but that of master and servant or that of husband and wife. For these are the ratios in which the part of the soul that has a rational principle stands to the irrational part; and it is with a view to these parts that people also think a man can be unjust to himself, viz. because these parts are liable to suffer something contrary to their respective desires; there is therefore thought to be a mutual justice between them as between ruler and ruled. Let this be taken as our account of justice and the other, i. e. the other moral, virtues.
+
+### Rhetoric, BK III, CH 2 [1404b27-1405b3] 655a-d
+
+Language is composed of nouns and verbs. Nouns are of the various kinds considered in the treatise on Poetry.1 Strange words, compound words, and
+
+### invented words must be used sparingly and on few occasions: on what
+
+occasions we shall state later.2 The reason for this restriction has been already indicated: they depart from what is suitable, in the direction of excess. In the language of prose, besides the regular and proper terms for things, metaphorical terms only can be used with advantage. This we gather from the fact that these two classes of terms, the proper or regular and the metaphorical—these and no others—are used by everybody in conversation. We can now see that a good writer can produce a style that is distinguished without being obtrusive, and is at the same time clear, thus satisfying our definition of good oratorical prose. Words of ambiguous meaning are chiefly useful to enable the sophist to mislead his hearers. Synonyms are useful to the poet, by which I mean words whose ordinary 1405a meaning is the same,
+
+### e. g. πορεύεσθαι (advancing) and βαδίζειν (proceeding); these two are ordinary
+
+words and have the same meaning.
+
+### In the Art of Poetry,3 as we have already said, will be found definitions of
+
+these kinds of words; a classification of Metaphors; and mention of the fact that metaphor is of great value both in poetry and in prose. Prose-writers must, however, pay specially careful attention to metaphor, because their other resources are scantier than those of poets. Metaphor, moreover, gives style clearness, charm, and distinction as nothing else can: and it is not a thing whose use can be taught by one man to another. Metaphors, like epithets, must be fitting, which means that they must fairly correspond to the thing signified: failing this, their inappropriateness will be conspicuous: the want of harmony between two things is emphasized by their being placed side by side. It is like having to ask ourselves what dress will suit an old man; certainly not the crimson cloak that suits a young man. And if you wish to pay a compliment, you must take your metaphor from something better in the same line; if to disparage, from something worse. To illustrate my meaning: since opposites are in the same class, you do what I have suggested if you say that a man who begs ‘prays’, and a man who prays ‘begs’; for praying and begging are both varieties of asking. So Iphicrates called Callias a ‘mendicant priest’ instead of a ‘torch-bearer’, and Callias replied that Iphicrates must be uninitiated or he would have called him not a ‘mendicant priest’ but a ‘torch-bearer.’ Both are religious titles, but one is 1 Poetics, 21. 2 III. 3, 7. 3 Cf. Poetics, 21, 22. honourable and the other is not. Again, somebody calls actors ‘hangers-on of Dionysus’, but they call themselves ‘artists’: each of these terms is a metaphor, the one intended to throw dirt at the actor, the other to dignify him. And pirates now call themselves ‘purveyors’. We can thus call a crime a mistake, or a mistake a crime. We can say that a thief ‘took’ a thing, or that he ‘plundered’ his victim. An expression like that of Euripides' Telephus,
+
+### King of the oar, on Mysia's coast he landed,4
+
+is inappropriate; the word ‘king’ goes beyond the dignity of the subject, and
+
+### so the art is not concealed. A metaphor may be amiss because the very
+
+syllables of the words conveying it fail to indicate sweetness of vocal utterance. Thus Dionysius the Brazen in his elegies calls poetry ‘Calliope's screech’.5 Poetry and screeching are both, to be sure, vocal utterances. But the metaphor is bad, because the sounds of ‘screeching’, unlike those of poetry, are discordant and unmeaning. Further, in using metaphors to give names to nameless things, we must draw them not from remote but from kindred and similar things, so that the kinship is clearly perceived as soon as the words are said. Thus in the celebrated riddle 1405b
+
+### I marked how a man glued bronze with fire to another man's body,6
+
+the process is nameless; but both it and gluing are a kind of application, and that is why the application of the cupping-glass is here called a ‘gluing’.
+
+### Rhetoric, BK III, CH 3 [1406b5]-CH 4 [1407a16] 657a-d
+
+(4) There remains the fourth region in which bad taste may be shown, metaphor. Metaphors like other things may be inappropriate. Some are so because they are ridiculous; they are indeed used by comic as well as tragic poets. Others are too grand and theatrical; and these, if they are far-fetched, may also be obscure. For instance, Gorgias talks of ‘events that are green and full of sap’, and says ‘foul was the deed you sowed and evil the harvest you reaped.’7 That is too much like poetry. Alcidamas, again, called philosophy ‘a fortress that threatens the power of law’, and the
+
+### Odyssey ‘a goodly looking-glass of human life’,8 and talked about ‘offering no
+
+such toy to poetry’: all these expressions fail, for the reasons given, to carry the hearer with them. The address of Gorgias to the swallow, when she had let her droppings fall on him as she flew overhead, is in the best tragic manner. He said, ‘Nay, shame, O Philomela’. Considering her as a bird, you could not call her act shameful; considering her as a girl, you could; and so it was a good gibe to address her as what she was once and not as what she is. 4 Euripides, Telephus, Nauck, p. 583. 5 Dionysius Chalcus, fr. 7, Bergk, vol. II, p. 264. 6 Cleobulina, fr. I, Bergk, vol. II, p. 62. 7 Baiter-Sauppe, op. cit., p. 131; Gorgias. 8 Ibid., p. 156; Alcidamas. 4 The Simile also is a metaphor; the difference is but slight. When the poet says of Achilles that he
+
+### Leapt on the foe as a lion,9
+
+this is a simile; when he says of him ‘the lion leapt’, it is a metaphor—here, since both are courageous, he has transferred to Achilles the name of ‘lion’. Similes are useful in prose as well as in verse; but not often, since they are of the nature of poetry. They are to be employed just as metaphors are employed, since they are really the same thing except for the difference mentioned. The following are examples of similes. Androtion said of Idrieus that he was like a terrier let off the chain, that flies at you and bites you—Idrieus too
+
+### was savage now that he was let out of his chains. Theodamas compared
+
+Archidamus to an Euxenus who could not do geometry—a proportional
+
+### simile, implying that Euxenus is an Archidamus who can do geometry. In Plato's Republic those who strip the dead are compared to curs which bite
+
+the stones thrown at them but do not touch the thrower,10 and there is the simile about the Athenian people, who are compared to a ship's captain 11 who is strong but a little deaf; and the one about poets’ verses, which are likened to persons who lack beauty but possess youthful freshness—when a the freshness has faded the charm perishes, and so with verses 1407 when broken up into prose.12 Pericles compared the Samians to children who take their pap but go on crying; and the Boeotians to holm-oaks, because they were ruining one another by civil wars just as one oak causes another oak's fall. Demosthenes said that the Athenian people were like sea-sick men on board ship. Again, Demosthenes compared the political orators to nurses who swallow the bit of food themselves and then smear the children's lips with the spittle. Antisthenes compared the lean Cephisodotus to frankincense, because it was his consumption that gave one pleasure. All these ideas may be expressed either as similes or as metaphors; those which succeed as metaphors will obviously do well also as similes, and similes, with the explanation omitted, will appear as metaphors. But the proportional metaphor must always apply reciprocally to either of its co-ordinate terms. For instance, if a drinking-bowl is the shield of Dionysus, a shield may fittingly be called the drinking-bowl of Ares. 9 Cf. Iliad, XX. 164. 10 Plato, Republic, V. 469. 11 Ibid., VI. 488. 12 Cf. Ibid., X. 601. a
+
+### Rhetoric, BK III, CH 6 [1408 2-9] 659a
+
+(6) And the practice of Antimachus, too, is useful—to describe a thing by mentioning attributes it does not possess; as he does in talking of Teumessus— 13
+
+### There is a little wind swept knoll . . .
+
+A subject can be developed indefinitely along these lines. You may apply this method of treatment by negation either to good or to bad qualities, according to which your subject requires. It is from this source that the poets draw expressions such as the ‘stringless’ or ‘lyreless’ melody, thus forming epithets out of negations. This device is popular in proportional metaphors, as when the trumpet’s note is called ‘a lyreless melody’.
+
+### Rhetoric, BK III, CH 10-11 662c-666b
+
+10 We may now consider the above points settled, and pass on to say something about the way to devise lively and taking sayings. Their actual invention can only come through natural talent or long practice; but this treatise may indicate the way it is done. We may deal with them by enumerating the different kinds of them. We will begin by remarking that we all naturally find it agreeable to get hold of new ideas easily: words express ideas, and therefore those words are the most agreeable that enable us to get hold of new ideas. Now strange words simply puzzle us; ordinary words convey only what we know already; it is from metaphor that we can best get hold of something fresh. When the poet calls old age ‘a withered stalk’,14 he conveys a new idea, a new fact, to us by means of the general notion of ‘lost bloom’, which is common to both things. The similes of the poets do the same, and therefore, if they are good similes, give an effect of brilliance. The simile, as has been said before,15 is a metaphor, differing from it only in the way it is put; and just because it is longer it is
+
+### less attractive. Besides, it does not say outright that ‘this’ is ‘that’, and
+
+therefore the hearer is less interested in the idea. We see, then, that both speech and reasoning are lively in proportion as they make us seize a new idea promptly. For this reason people are not much taken either by obvious arguments (using the word ‘obvious’ to mean what is plain to everybody and needs no investigation), nor by those which puzzle us when we hear them stated, but only by those which convey their information to us as soon as we hear them, provided we had not the information already; or which the mind only just fails to keep up with. These two kinds do convey to us a sort of information: but the obvious and the obscure kinds convey nothing, either at once or later on. It is these qualities, then, that, so far as the 13 Antimachus, Thebais, fr. 2. 14 Odyssey, XIV. 213. 15 III, 4, beginning. meaning of what is said is concerned, make an argument acceptable. So far as the style is concerned, it is the antithetical form that appeals to us, e.g. ‘judging that the peace common to all the rest was a war upon their own private interests’,16 where there is an antithesis between war and peace. It is also good to use metaphorical words; but the metaphors must not be far-fetched, or they will be difficult to grasp, nor obvious, or they will have no effect. The words, too, ought to set the scene before our eyes; for events ought to be seen in progress rather than in prospect. So we must aim at these three points: Antithesis, Metaphor, and Actuality. 1411a Of the four kinds of Metaphor the most taking is the proportional kind. Thus Pericles, for instance, said that the vanishing from their country of the young men who had fallen in the war was ‘as if the spring were taken out of the year’. Leptines, speaking of the Lacedaemonians, said that he would not have the Athenians let Greece ‘lose one of her two eyes’. 17 When Chares was pressing for leave to be examined upon his share in the Olynthiac war, Cephisodotus was indignant, saying that he wanted his examination to take place ‘while he had his fingers upon the people's throat’. The same speaker once urged the Athenians to march to Euboea, ‘with Miltiades’ decree as 18 their rations’. Iphicrates, indignant at the truce made by the Athenians with Epidaurus and the neighbouring sea-board, said that they had stripped themselves of their travelling-money for the journey of war. Peitholaus called the state-galley ‘the people's big stick’, and Sestos ‘the corn-bin of the Peiraeus’.19 Pericles bade his countrymen remove Aegina, ‘that eyesore of the Peiraeus’. And Moerocles said he was no more a rascal than was a certain respectable citizen he named, ‘whose rascality was worth over thirty 20 per cent per annum to him, instead of a mere ten like his own’. There is also the iambic line of Anaxandrides about the way his daughters put off marrying— 21
+
+### My daughters' marriage-bonds are overdue.
+
+Polyeuctus said of a paralytic man named Speusippus that he could not keep quiet, ‘though fortune had fastened him in the pillory of disease’. Cephisodotus called warships ‘painted millstones’.22 Diogenes the Dog called taverns ‘the mess-rooms of Attica’. Aesion said that the Athenians had 23 ‘emptied’ their town into Sicily: this is a graphic metaphor. ‘Till all Hellas shouted aloud’ may be regarded as a metaphor, and a graphic one again. Cephisodotus bade the Athenians take care not to hold too many 16 Isocrates, Philippus, 73. 17 Baiter-Sauppe, op. cit., p. 250; Leptines. 18 Baiter-Sauppe, p. 220; Cephisodotus. 19 Ibid., p. 318; Peitholaus. 20 Ibid., 275 (Moerocles). 21 Anaxandrides; Kock, Com. Att. Fragm., II, p. 162. 22 Baiter-Sauppe, p. 220; Cephisodotus. 23 Ibid., p. 318 (Aesion). 24 ‘parades’. Isocrates used the same word of those who ‘parade’ at the national festivals.25 Another example occurs in the Funeral Speech:26 ‘It is fitting that Greece should cut off her hair beside the tomb of those who fell at Salamis, since her freedom and their valour are buried in the same grave.’ Even if the speaker here had only said that it was right to weep when valour was being buried in their grave, it would have been a metaphor, and a graphic one; but the coupling of ‘their 1411b valour’ and ‘her freedom’ presents a kind of antithesis as well. ‘The course of my words’, said Iphicrates, ‘lies straight through the middle of Chares’ deeds’:27 this is a proportional metaphor, and the phrase ‘straight through the middle’ makes it graphic. The expression ‘to call in one danger to rescue us from another’ is a graphic metaphor. Lycoleon said, defending Chabrias, ‘They did not respect even that bronze statue of his that intercedes for him yonder’. 28 This was a metaphor for the moment, though it would not always apply; a vivid metaphor, however; Chabrias is in danger, and his statue intercedes for him—that lifeless yet living thing which records his services to his country. ‘Practising in every way littleness of mind’29 is metaphorical, for practising a quality implies increasing it. So is ‘God kindled our reason to be a lamp 30 within our soul’, for both reason and light reveal things. So is ‘we are not putting an end to our wars, but only postponing them’,31 for both literal postponement and the making of such a peace as this apply to future action. So is such a saying as ‘This treaty is a far nobler trophy than those
+
+### we set up on fields of battle; they celebrate small gains and single
+
+32
+
+### successes; it celebrates our triumph in the war as a whole’; for both
+
+trophy and treaty are signs of victory. So is ‘A country pays a heavy 33 reckoning in being condemned by the judgement of mankind’, for a reckoning is damage deservedly incurred. 11 It has already been mentioned that liveliness is got by using the proportional type of metaphor and by being graphic (i.e. making your
+
+### hearers see things). We have still to explain what we mean by their ‘seeing
+
+things’, and what must be done to effect this. By ‘making them see things’ I mean using expressions that represent things as in a state of activity. Thus, 34 to say that a good man is ‘four-square’ is certainly a metaphor; both the 24 Ibid., p. 220; Cephisodotus. 25 Isocrates, Philippus, 12. 26 Epitaphius (by Lysias?), 60. 27 Baiter-Sauppe, op. cit., p. 191; under Lysias. 28 Ibid., 180. 29 Isocrates, Paneg., 151. 30 Anonymous. 31 Isocrates, Paneg., 172. 32 Ibid., 180. 33 Anonymous: cf. Isocrates, De Pace, 120. 34 Simonides, fr. 5, Bergk. good man and the square are perfect; but the metaphor does not suggest activity. On the other hand, in the expression ‘with his vigour in full bloom’ 35 there is a notion of activity; and so in ‘But you must roam as free as a sacred victim’;36 and in
+
+### Thereat up sprang the Hellenes to their feet,37
+
+where ‘up sprang’ gives us activity as well as metaphor, for it at once suggests swiftness. So with Homer's common practice of giving metaphorical life to lifeless things: all such passages are distinguished by the effect of activity they convey. Thus,
+
+### Downward anon to the valley rebounded the boulder remorseless;38
+
+and
+
+### The ⟨bitter⟩ arrow flew;39
+
+and
+
+### Flying on eagerly;40
+
+and a 41 1412 Stuck in the earth, still panting to feed on the flesh of the heroes; and
+
+### And the point of the spear in its fury drove full through his breastbone.42
+
+In all these examples the things have the effect of being active because they are made into living beings; shameless behaviour and fury and so on are all forms of activity. And the poet has attached these ideas to the things by means of proportional metaphors: as the stone is to Sisyphus, so is the shameless man to his victim. In his famous similes, too, he treats inanimate things in the same way:
+
+### Curving and crested with white, host following host without ceasing.43
+
+Here he represents everything as moving and living; and activity is movement. Metaphors must be drawn, as has been said already,44 from things that are related to the original thing, and yet not obviously so related—just as in philosophy also an acute mind will perceive resemblances even in things far apart. Thus Archytas said that an arbitrator and an altar were the same, since the injured fly to both for refuge. Or you might say that an anchor and an overhead hook were the same, since both are in a way the same, only the one secures things from below and the other from above. And to speak 35 Isocrates, Philippus, 10. 36 Ibid., 127. 37 Euripides, Iphigenia in Aulis, 80. 38 Odyssey, XI. 598. 39 Iliad, XIII. 587. 40 Ibid., IV. 126. 41 Ibid., XI. 574. 42 Ibid., XV. 542. 43 Ibid., XIII. 799. 44 III. 10 (1410b 32). 45 of states as ‘levelled’ is to identify two widely different things, the equality of a physical surface and the equality of political powers. Liveliness is specially conveyed by metaphor, and by the further power of surprising the hearer; because the hearer expected something different, his acquisition of the new idea impresses him all the more. His mind seems to say, ‘Yes, to be sure; I never thought of that’. The liveliness of epigrammatic remarks is due to the meaning not being just what the words say: as in the saying of Stesichorus that ‘the cicalas will chirp to themselves on the ground’.46 Well-constructed riddles are attractive for the same reason; a new idea is conveyed, and there is metaphorical expression. So with the ‘novelties’ of Theodorus. In these the thought is startling, and, as Theodorus puts it, does not fit in with the ideas you already have. They are like the burlesque words that one finds in the comic writers. The effect is produced even by jokes depending upon changes of the letters of a word; this too is a surprise. You find this in verse as well as in prose. The word which comes is not what the hearer imagined: thus
+
+### Onward he came, and his feet were shod with his—chilblains,47
+
+where one imagined the word would be ‘sandals’. But the point should be clear the moment the words are uttered. Jokes made by altering the letters of a word consist in meaning, not just what you say, but something that gives a twist to the word used; e.g. the remark of Theodorus about Nicon
+
+### the harpist Θρᾷττ’ εἶ σύ (‘you Thracian slavey’), where he pretends to mean
+
+θράττεις σύ (‘you harp-player’), and surprises us when we find he 1412b means something else. So you enjoy the point when you see it, though the remark will fall flat unless you are aware that Nicon is Thracian. Or again: βούλει αὐτὸν έρσαι 48
+
+### π . In both these cases the saying must fit the facts. This
+
+is also true of such lively remarks as the one to the effect that to the
+
+### Athenians their empire (ἀρχή) of the sea was not the beginning (ἀρχή) of
+
+their troubles, since they gained by it. Or the opposite one of Isocrates, that
+
+### their empire (ἀρχή) was the beginning (ἀρχή) of their troubles. Either way,
+
+the speaker says something unexpected, the soundness of which is thereupon recognized. There would be nothing clever is saying ‘empire is empire’. Isocrates means more than that, and uses the word with a new
+
+### meaning. So too with the former saying, which denies that ἀρχή in one sense was ἀρχή in another sense. In all these jokes, whether a word is used
+
+in a second sense or metaphorically, the joke is good if it fits the facts. For
+
+### instance, Ανάσχετος (proper name) οὐκ ἀνασχετός:49 where you say that what
+
+45 Cf. Isocrates, Philippus, 40. 46 Cf. 11. 21, above. 47 Anonymous. 48 “You wish [or, do you wish] to persecute him.” 49 “Baring is past bearing.” is so-and-so in one sense is not so-and-so in another; well, if the man is unpleasant, the joke fits the facts. Again, take—
+
+### Thou must not be a stranger stranger than Thou should'st.50
+
+Do not the words ‘thou must not be’, &c., amount to saying that the stranger must not always be strange? Here again is the use of one word in different senses. Of the same kind also is the much-praised verse of Anaxandrides:
+
+### Death is most fit before you do Deeds that would make death fit for you. 51
+
+This amounts to saying ‘it is a fit thing to die when you are not fit to die’, or ‘it is a fit thing to die when death is not fit for you’, i.e. when death is not the fit return for what you are doing. The type of language employed is the same in all these examples; but the more briefly and antithetically such sayings can be expressed, the more taking they are, for antithesis impresses the new idea more firmly and brevity more quickly. They should always have either some personal application or some merit of expression, if they are to be true without being commonplace—two requirements not always satisfied simultaneously. Thus ‘a man should die having done no wrong’ is true but dull: ‘the right man should marry the right woman’52 is also true but dull. No, there must be both good qualities together, as in ‘it is fitting to die when you are not fit for death’. The more a saying has these qualities, the livelier it appears: if, for instance, its wording is metaphorical, metaphorical in the right way, antithetical, and balanced, and at the same time it gives an idea of activity. 53 Successful similes also, as has been said above, are in a sense metaphors, since they always involve two relations like the proportional metaphor. Thus: a 54 a shield, we say, is 1413 the ‘drinking-bowl of Ares’, and a bow is the “chordless lyre’.55 This way of putting a metaphor is not ‘simple’, as it would be if we called the bow a lyre or the shield a drinking-bowl. There are ‘simple’ similes also: we may say that a flute-player is like a monkey, or that a short-sighted man's eyes are like a lamp-flame with water dropping on it, since both eyes and flame keep winking. A simile succeeds best when it is a
+
+### converted metaphor, for it is possible to say that a shield is like the drinking-bowl of Ares, or that a ruin is like a house in rags, and to say that Niceratus is like a Philoctetes stung by Pratys—the simile made by
+
+Thrasymachus when he saw Niceratus, who had been beaten by Pratys in a recitation competition, still going about unkempt and unwashed. It is in these respects that poets fail worst when they fail, and succeed best when they succeed, i.e. when they give the resemblance pat, as in 50 Kock, Com., Fragm., III. 209. 51 Anaxandrides, ibid., II, p. 161. 52 Ibid., III, p. 447; fr. adesp. 206. 53 III. 4 and 10. 54 Timotheus, fr. 16, Bergk. Cf. III. 4, end. 55 Bergk4, fr. adesp. 127, vol. III. p. 728. 56
+
+### Those legs of his curl just like parsley leaves;
+
+and
+
+### Just like Philammon struggling with his punchball.57
+
+These are all similes; and that similes are metaphors has been stated often already.58 59 Proverbs, again, are metaphors from one species to another. Suppose, for instance, a man to start some undertaking in hope of gain and then to lose by it later on, ‘Here we have once more the man of Carpathus and his hare’, says he. For both alike went through the said experience. It has now been explained fairly completely how liveliness is secured and why it has the effect it has. Successful hyperboles are also metaphors, e.g. the one about the man with a black eye, ‘you would have thought he was a basket of mulberries’; here the ‘black eye’ is compared to a mulberry because of its colour, the exaggeration lying in the quantity of mulberries
+
+### suggested. The phrase ‘like so-and-so’ may introduce a hyperbole under the
+
+form of a simile. Thus
+
+### Just like Philammon struggling with his punchball is equivalent to ‘you would have thought he was Philammon struggling with
+
+his punchball’; and
+
+### Those legs of his curl just like parsley leaves is equivalent to ‘his legs are so curly that you would have thought they were
+
+not legs but parsley leaves’. Hyperboles are for young men to use; they show vehemence of character; and this is why angry people use them more than other people.
+
+### Not though he gave me as much as the dust or the sands of the sea . . . 60 But her, the daughter of Atreus’ son, I never will marry, Nay, not though she were fairer than Aphrodite the Golden, Defter of hand than Athene . . .61
+
+b 1413 (The Attic orators are particularly fond of this method of speech.) Consequently it does not suit an elderly speaker.
+
+### Poetics, CH 21 [1457b1-33] 693a-c
+
+b 1457 Whatever its structure, a Noun must always be either (1) the ordinary word for the thing, or (2) a strange word, or (3) a metaphor, or (4) an ornamental word, or (5) a coined word, or (6) a word lengthened out, or (7) curtailed, or (8) altered in form. By the ordinary word I mean that in general use in a country; and by a strange word, one in use elsewhere. So that the same word may obviously be at once strange and ordinary, though not in 56 Kock, Com. Att. Fragm., III. fr. adesp. 207, p. 448. 57 Ibid, III, fr. 208, p. 448. 58 III. 4, 10, 11. 59 Cf. Poetics, 21. 60 Iliad, IX. 385. 61 Ibid., IX. 388-90.
+
+### reference to the same people; οίγυνον, for instance, is an ordinary word in
+
+Cyprus, and a strange word with us. Metaphor consists in giving the thing a name that belongs to something else; the transference being either from genus to species, or from species to genus, or from species to species, or on grounds of analogy. That from genus to species is exemplified in ‘Here 62 stands my ship’; for lying at anchor is the ‘standing’ of a particular kind of thing. That from species to genus in ‘Truly ten thousand good deeds has Ulysses wrought’,63 where ‘ten thousand’, which is a particular large number, is put in place of the generic ‘a large number’. That from species to species in ‘Drawing the life with the bronze’,64 and in ‘Severing with the enduring 65 bronze’; where the poet uses ‘draw’ in the sense of ‘sever’ and ‘sever’ in that of ‘draw’, both words meaning to ‘take away’ something. That from analogy is possible whenever there are four terms so related that the second (B) is to the first (A), as the fourth (D) to the third (C); for one may then metaphorically put D in lieu of B, and B in lieu of D. Now and then, too, they qualify the metaphor by adding on to it that to which the word it supplants is relative. Thus a cup (B) is in relation to Dionysus (A) what a shield (D) is to Ares (C). The cup accordingly will be metaphorically ＋
+
+### described as the ‘shield of Dionysus’ (D A), and the shield as the ’cup of Ares’66 (B＋C). Or to take another instance: As old age (D) is to life (C), so is
+
+evening (B) to day (A). One will accordingly describe evening (B) as the ‘old
+
+### age of the day’ (D＋A)—or by the Empedoclean equivalent; and old age (D) as the ‘evening’67 or ‘sunset of life’68 (B＋C). It may be that some of the
+
+terms thus related have no special name of their own, but for all that they will be metaphorically described in just the same way. Thus to cast forth seed-corn is called ‘sowing’; but to cast forth its flame, as said of the sun, has no special name. This nameless act (B), however, stands in just the same relation to its object, sunlight (A), as sowing (D) to the seed-corn (C). ＋
+
+### Hence the expression in the poet, ‘sowing around a god-created flame’ (D
+
+A). There is also another form of qualified metaphor. Having given the thing the alien name, one may by a negative addition deny of it one of the attributes naturally associated with its new name. An instance of this would
+
+### be to call the shield not the ‘cup of Ares’, as in the former case, but a ‘cup that holds no wine’. . . .
+
+62 Odyssey, I. 185, XXIV. 308. 63 Iliad., II. 272. 64 Empedocles, Καθαρμοί; cf. fr. 143, Diels. 65 Καθαρ οί Empedocles, μ ; cf. fr. 143, Diels. 66 Timotheus, fr. 22, Wilamowitz. 67 Alexis, fr. 228, Kock. 68 Plato, Laws, 770. a
+
+### Poetics, CH 25 [1461 8-20] 697c-d
+
+III. Other criticisms one must meet by considering the language of the poet:
+
+### (1) by the assumption of a strange word in a passage like οὐρῆας μὲν πρῶτον,69 where by οὐρῆας Homer may perhaps mean not mules but
+
+70
+
+### sentinels. And in saying of Dolon, ὄς ῥ’ ἦ τοι εἶδος μὲν ἔην κακός, his meaning
+
+may perhaps be, not that Dolon’s body was deformed, but that his face was
+
+### εὐειδής ζωρότερον δὲ ugly, as is the Cretan word for handsome-faced. So, too, κέραιε71 may mean not ‘mix the wine stronger’, as though for topers, but ‘mix
+
+it quicker’. (2) Other expressions in Homer may be explained as 72
+
+### metaphorical; e.g. in ἄλλοι μέν ῥα θεοί τε καὶ ἀνέρες εὗδον ⟨ἄπαντες⟩ παννύχιοι, as compared with what he tells us at the same time, ἦ τοι ὄτ’ ἐς πεδίον τὸ Τρωικὸν ἀθρήσειεν, αὐλῶν συρίγγων †τε ὁμαδόν†,73 the word ἄπαντες ‘all’, is
+
+metaphorically put for ‘many’, since ‘all’ is a species of ‘many’. So also his
+
+### οἴη δ’ ἄμμορος74 is metaphorical, the best known standing ’alone’.
+
+
+## 18 AUGUSTINE: Confessions, BK V, par 24 34a-b; BK VI, par 6 36c-d / City of God, BK XVII, CH 3 450c-451c; BK XX, CH 21, 549d / Christian Doctrine, BK II, CH 1O 640d-641a; BK III, CH 1 657b; CH 5-37 659d-674d
+
+
+### Confessions, BK V, par 24 34a-b
+
+[XIV] 24. For though I took no pains to learn what he spake, but only to hear how he spake (for that empty care alone wa left me, despairing of a way open for man to Thee); yet, together with the words which I would choose, came also into my mind the things which I would refuse; for I could not separate them. And while I opened my heart to admit “how eloquently he spake,” there also entered “how truly he spake”; but this by degrees. For first, these things also had now begun to appear to me capable of defence; and the Catholic faith, for which I had thought nothing could be said against the Manichees’ objections, I now thought might be maintained without shamelessness; especially after I had heard one or two places of the Old Testament resolved, and oft-times “in a figure,” which when I understood 75 literally. I was “slain” spiritually. Very many places then of those books having been explained, I now blamed my despair in believing that no answer could be given to such as hated and scoffed at the Law and the Prophets. Yet did I not therefore then see that the Catholic way was to be held because it also could find learned maintainers, who could at large and with 69 Iliad, I. 50. 70 Ibid., X. 316. 71 Ibid. IX. 202. 72 Cf. Ibid., X. 1, II. 1. 73 Ibid., X. 11-13. 74 Ibid., XVIII. 489 = Odyssey, V. 275. 75 I Cor. 113. 12; II Cor. 3. 6. some shew of reason answer objections; nor that what I held was therefore to be condemned because both sides could be maintained. For the Catholic cause seemed to me in such sort not vanquished, as still not as yet to be victorious.
+
+### Confessions, BK VI, par 6 36c-d
+
+6. I joyed also that the old Scriptures of the Law and the Prophets were laid before me, not now to be perused with that eye to which before they seemed absurd, when I reviled Thy holy ones for so thinking, whereas indeed they thought not so: and with joy I heard Ambrose in his sermons to the people oftentimes most diligently recommend this text for a rule, “The letter killeth, but the Spirit giveth life”;76 whilst he drew aside the mystic veil, laying open spiritually what according to the “letter” seemed to teach something unsound; teaching herein nothing that offended me, though he taught what I knew not as yet whether it were true. For I kept my heart from assenting to anything, fearing to fall headlong; but by hanging in suspense I was the worse killed. For I wished to be as assured of the things I saw not as I was that seven and three are ten. For I was not so mad as to think that even this could not be comprehended; but I desired to have other things as clear as this, whether things corporeal, which were not present to my senses, or spiritual, whereof I knew not how to conceive, except corporeally. And by believing might I have been cured, that so the eyesight of my soul, being cleared, might in some way be directed to Thy truth, which abideth always, and in no part faileth. But as it happens that one who has tried a bad physician fears to trust himself with a good one, so was it with the health of my soul, which could not be healed but by believing, and, lest it should believe falsehoods, refused to be cured; resisting Thy hands, Who hast prepared the medicines of faith, and hast applied them to the diseases of the whole world, and given unto them so great authority.
+
+### City of God, BK XVII, CH 3 450c-451c Chap. 3. Of the three-fold meaning of the prophecies, which are to be referred now to the earthly, now to the heavenly Jerusalem, and now again to both
+
+Wherefore just as that divine oracle to Abraham, Isaac, and Jacob, and all the other prophetic signs or sayings which are given in the earlier sacred writings, so also the other prophecies from this time of the kings pertain partly to the nation of Abraham's flesh and partly to that seed of his in which all nations are blessed as fellow-heirs of Christ by the New Testament, to the possessing of eternal life and the kingdom of the heavens. Therefore they pertain partly to the bond maid who gendereth to 76 II Cor. 3. 6. bondage, that is, the earthly Jerusalem, which is in bondage with her children; but partly to the free city of God, that is, the true Jerusalem eternal in the heavens, whose children are all those that live according to God in the earth: but there are some things among them which are understood to pertain to both—to the bond maid properly, to the free 77 woman figuratively. Therefore prophetic utterances of three kinds are to be found; forasmuch as there are some relating to the earthly Jerusalem, some to the heavenly, and some to both. I think it proper to prove what I say by examples. The prophet Nathan was sent to convict king David of heinous sin, and predict to him what future evils should be consequent on it. Who can question that this and the like pertain to the terrestrial city, whether publicly, that is, for the safety or help of the people, or privately, when there are given forth for each one's private good divine utterances whereby something of the future may be known for the use of temporal life? But where we read, “Behold, the days come, saith the Lord, that I will make for the house of Israel, and for the house of Judah, a new testament: not according to the testament that I settled for their fathers in the day when I laid hold of their hand to lead them out of the land of Egypt; because they continued not in my testament, and I regarded them not, saith the Lord. For this is the testament that I will make for the house of Israel: after those days, saith the Lord, I will give my laws in their mind, and will write them upon their hearts, and I will see to them; and I will be to them a God, and they shall 78 be to me a people”; without doubt this is prophesied to the Jerusalem above, whose reward is God Himself, and whose chief and entire good it is to have Him, and to be His. But this pertains to both, that the city of God is called Jerusalem, and that it is prophesied the house of God shall be in it; and this prophecy seems to be fulfilled when king Solomon builds that most noble temple. For these things both happened in the earthly Jerusalem, as history shows, and were types of the heavenly Jerusalem. And this kind of prophecy, as it were compacted and commingled of both the others in the ancient canonical books, containing historical narratives, is of very great significance, and has exercised and exercises greatly the wits of those who search holy writ. For example, what we read of historically as predicted and fulfilled in the seed of Abraham according to the flesh, we must also inquire the allegorical meaning of, as it is to be fulfilled in the seed of Abraham according to faith. And so much is this the case that some have thought there is nothing in these books either foretold and effected, or effected although not foretold, that does not insinuate something else which is to be referred by figurative signification to the city of God on high, and to her children who are pilgrims in this life. But if this be so, then the 77 Gal. 4. 22-31. 78 Heb. 8. 8-10. utterances of the prophets, or rather the whole of those Scriptures that are reckoned under the title of the Old Testament, will be not of three, but of two different kinds. For there will be nothing there which pertains to the terrestrial Jerusalem only, if whatever is there said and fulfilled of or concerning her signifies something which also refers by allegorical prefiguration to the celestial Jerusalem; but there will be only two kinds, one that pertains to the free Jerusalem, the other to both. But just as, I think, they err greatly who are of opinion that none of the records of affairs in that kind of writings mean anything more than that they so happened, so I think those very daring who contend that the whole gist of their contents lies in allegorical significations. Therefore I have said they are three-fold, not two-fold. Yet, in holding this opinion, I do not blame those who may be able to draw out of everything there a spiritual meaning, only saving, first of all, the historical truth. For the rest, what believer can doubt that those things are spoken vainly which are such that, whether said to have been done or to be yet to come, they do not beseem either human or divine affairs? Who would not recall these to spiritual understanding if he could, or confess that they should be recalled by him who is able?
+
+### City of God, BK XX, CH 21, 549d
+
+Behold, I will make Jerusalem an exultation, and my people a joy. And I will exult in Jerusalem, and joy in my people; and the voice of weeping shall be no more heard in her”;79 and other promises, which some endeavour to refer to carnal enjoyment during the thousand years. For, in the manner of prophecy, figurative and literal expressions are mingled, so that a serious mind may, by useful and salutary effort, reach the spiritual sense; but carnal sluggishness, or the slowness of an uneducated and undisciplined mind, rests in the superficial letter, and thinks there is nothing beneath to be looked for. But let this be enough regarding the style of those prophetic expressions just quoted. And now, to return to their interpretation. When he had said, “And your bones shall rise up like a herb,” in order to show that it was the resurrection of the good, though a bodily resurrection, to which he alluded, he added, “And the hand of the Lord shall be known by His worshippers.” What is this but the hand of Him who distinguishes those who worship from those who despise Him? Regarding these the context immediately adds, “And He shall threaten the contumacious,” or, as another translator has it, “the unbelieving.”
+
+### Christian Doctrine, BK II, CH 1O 640d-641a Chap. 10. Unknown or ambiguous signs prevent Scripture from being understood
+
+79 Isa. 65. 17-19. 15. Now there are two causes which prevent what is written from being understood: its being veiled either under unknown, or under ambiguous signs. Signs are either proper or figurative. They are called proper when they are used to point our the objects they were designed to point out, as we say
+
+### bos when we mean an ox, because all men who with us use the Latin
+
+tongue call it by this name. Signs are figurative when the things themselves which we indicate by the proper names are used to signify something else,
+
+### as we say bos, and understand by that syllable the ox, which is ordinarily
+
+called by that name; but then further by that ox understand a preacher of the gospel, as Scripture signifies, according to the apostle’s explanation, 80 when it says: “Thou shalt not muzzle the ox that treadeth out the corn.”
+
+### Christian Doctrine, BK III, CH 1 657b Chap. 1. Summary of the foregoing books, and scope of that which follows
+
+1. The man who fears God seeks diligently in Holy Scripture for a knowledge of His will. And when he has become meek through piety, so as to have no love of strife; when furnished also with a knowledge of languages, so as not to be stopped by unknown words and forms of speech, and with the knowledge of certain necessary objects, so as not to be ignorant of the force and nature of those which are used figuratively; and assisted, besides, by accuracy in the texts, which has been secured by skill and care in the matter of correction; when thus prepared, let him proceed to the examination and solution of the ambiguities of Scripture. And that he may not be led astray by ambiguous signs, so far as I can give him instruction (it may happen, however, that either from the greatness of his intellect, or the greater clearness of the light he enjoys, he shall laugh at the methods I am going to point out as childish), but yet, as I was going to say, so far as I can give instruction, let him who is in such a state of mind that he can be instructed by me know, that the ambiguity of Scripture lies either in proper words or in metaphorical, classes which I have already described in the second book.81
+
+### Christian Doctrine, BK III, CH 5-37 659d-674d Chap. 5. It is a wretched slavery which takes the figurative expressions of Scripture in a literal sense
+
+9.But the ambiguities of metaphorical words, about which I am next to speak, demand no ordinary care and diligence. In the first place, we must beware of taking a figurative expression literally. For the saying of the apostle applies in this case too: “The letter killeth, but the spirit giveth life.” 82 For when what is said figuratively is taken as if it were said literally, it is 80 I Cor. 9. 9. 81 See BK. II. Chap. 10. 82 II Cor. 3. 6. understood in a carnal manner. And nothing is more fittingly called the death of the soul than when that in it which raises it above the brutes, the intelligence namely, is put in subjection to the flesh by a blind adherence to the letter. For he who follows the letter takes figurative words as if they were proper, and does not carry out what is indicated by a proper word into its secondary signification; but, if he hears of the Sabbath, for example, thinks of nothing but the one day out of seven which recurs in constant succession; and when he hears of a sacrifice, does not carry his thoughts beyond the customary offerings of victims from the flock, and of the fruits of the earth. Now it is surely a miserable slavery of the soul to take signs for things, and to be unable to lift the eye of the mind above what is corporeal and created, that it may drink in eternal light.
+
+### Chap. 6. Utility of the bondage of the Jews
+
+10. This bondage, however, in the case of the Jewish people, differed widely from what it was in the case of the other nations; because, though the former were in bondage to temporal things, it was in such a way that in all these the One God was put before their minds. And although they paid attention to the signs of spiritual realities in place of the realities themselves, not knowing to what the signs referred, still they had this conviction rooted in their minds, that in subjecting themselves to such a bondage they were doing the pleasure of the one invisible God of all. And the apostle describes this bondage as being like to that of boys under the guidance of a schoolmaster.83 And those who clung obstinately to such signs could not endure our Lord’s neglect of them when the time for their revelation had come; and hence their leaders brought it as a charge against Him that He healed on the Sabbath, and the people, clinging to these signs as if they were realities, could not believe that one who refused to observe them in the way the Jews did was God, or came from God. But those who did believe, from among whom the first Church at Jerusalem was formed, showed clearly how great an advantage it had been to be so guided by the schoolmaster that signs, which had been for a season imposed on the obedient, fixed the thoughts of those who observed them on the worship of the One God Who made heaven and earth. These men, because they had been very near to spiritual things (for even in the temporal and carnal offerings and types, though they did not clearly apprehend their spiritual meaning, they had learnt to adore the One Eternal God), were filled with such a measure of the Holy Spirit that they sold all their goods, and laid their price at the apostles’ feet to be distributed among the needy,84 and consecrated themselves wholly to God as a new temple, of which the old temple they were serving was but the earthly type. 83 Gal. 3. 24. 84 Acts, 4. 34, 35. 11. Now it is not recorded that any of the Gentile churches did this, because men who had for their gods idols made with hands had not been so near to spiritual things.
+
+### Chap. 7. The useless bondage of the Gentiles
+
+And if ever any of them endeavoured to make it out that their idols were only signs, yet still they used them in reference to the worship and adoration of the creature. What difference does it make to me, for instance, that the image of Neptune is not itself to be considered a god, but only as representing the wide ocean, and all the other waters besides that spring out of fountains? As it is described by a poet of theirs, 85 who says, if I recollect aright, “Thou, Father Neptune, whose hoary temples are wreathed with the resounding sea, whose beard is the mighty ocean flowing forth unceasingly, and whose hair is the winding rivers.” This husk shakes its rattling stones within a sweet covering, and yet it is not food for men, but for swine. He who knows the gospel knows what I mean.86 What profit is it to me, then, that the image of Neptune is used with a reference to this explanation of it, unless indeed the result be that I worship neither? For any statue you like to take is as much god to me as the wide ocean. I grant, however, that they who make gods of the works of man have sunk lower than they who make gods of the works of God. But the command is that we should love and serve the One God, who is the Maker of all those things, the images of which are worshipped by the heathen either as gods, or as signs and representations of gods. If, then, to take a sign which has been established for a useful end instead of the thing itself which it was designed to signify, is bondage to the flesh, how much more so is it to take signs intended to represent useless things for the things themselves! For even if you go back to the very things signified by such signs, and engage your mind in the worship of these, you will not be anything the more free from the burden and the livery of bondage to the flesh.
+
+### Chap. 8. The Jews liberated from their bondage in one way, the Gentiles in another
+
+12. Accordingly the liberty that comes by Christ took those whom it found under bondage to useful signs, and who were (so to speak) near to it, and, interpreting the signs to which they were in bondage, set them free by raising them to the realities of which these were signs. And out of such were formed the churches of the saints of Israel. Those, on the other hand, whom it found in bondage to useless signs, it not only freed from their slavery to such signs, but brought to nothing and cleared out of the way all these signs themselves, so that the Gentiles were turned from the corruption of a multitude of false gods, which Scripture frequently and justly speaks of as fornication, to the worship of the One God: not that they 85 Claudian. 86 Luke, 15. 16. might now fall into bondage to signs of a useful kind, but rather that they might exercise their minds in the spiritual understanding of such.
+
+### Chap. 9. Who is in bondage to signs, and who not
+
+13. Now he is in bondage to a sign who uses, or pays homage to, any significant object without knowing what it signifies: he, on the other hand, who either uses or honours a useful sign divinely appointed, whose force and significance he understands, does not honour the sign which is seen and temporal, but that to which all such signs refer. Now such a man is spiritual and free even at the time of his bondage, when it is not yet expedient to reveal to carnal minds those signs by subjection to which their carnality is to be overcome. To this class of spiritual persons belonged the patriarchs and the prophets, and all those among the people of Israel through whose instrumentality the Holy Spirit ministered unto us the aids and consolations of the Scriptures. But at the present time, after that the proof of our liberty has shone forth so clearly in the resurrection of our Lord, we are not oppressed with the heavy burden of attending even to those signs which we now understand, but our Lord Himself and apostolic practice have handed down to us a few rites in place of many, and these at once very easy to perform, most majestic in their significance, and most sacred in the observance; such, for example, as the sacrament of baptism, and the celebration of the body and blood of the Lord. And as soon as any one looks upon these observances he knows to what they refer, and so reveres them not in carnal bondage, but in spiritual freedom. Now, as to follow the letter, and to take signs for the things that are signified by them, is a mark of weakness and bondage; so to interpret signs wrongly is the result of being misled by error. He, however, who does not understand what a sign signifies, but yet knows that it is a sign, is not in bondage. And it is better even to be in bondage to unknown but useful signs than, by interpreting them wrongly, to draw the neck from under the yoke of bondage only to insert it in the coils of error.
+
+### Chap. 10. How we are to discern whether a phrase is figurative
+
+14. But in addition to the foregoing rule, which guards us against taking a metaphorical form of speech as if it were literal, we must also pay heed to that which tells us not to take a literal form of speech as if it were figurative. In the first place, then, we must show the way to find out whether a phrase is literal or figurative. And the way is certainly as follows: Whatever there is in the word of God that cannot, when taken literally, be referred either to purity of life or soundness of doctrine, you may set down as figurative. Purity of life has reference to the love of God and one's neighbour; soundness of doctrine to the knowledge of God and one's neighbour. Every man, moreover, has hope in his own conscience, so far as he perceives that he has attained to the love and knowledge of God and his neighbour. Now all these matters have been spoken of in the first book. 15. But as men are prone to estimate sins, not by reference to their inherent sinfulness, but rather by reference to their own customs, it frequently happens that a man will think nothing blameable except what the men of his own country and time are accustomed to condemn, and nothing worthy of praise or approval except what is sanctioned by the custom of his companions; and thus it comes to pass, that if Scripture either enjoins what is opposed to the customs of the hearers, or condemns what is not so opposed, and if at the same time the authority of the word has a hold upon their minds, they think that the expression is figurative. Now Scripture enjoins nothing except charity, and condemns nothing except lust, and in that way fashions the lives of men. In the same way, if an erroneous opinion has taken possession of the mind, men think that whatever Scripture asserts contrary to this must be figurative. Now Scripture asserts nothing but the Catholic faith, in regard to things past, future, and present. It is a narrative of the past, a prophecy of the future, and a description of the present. But all these tend to nourish and strengthen charity, and to overcome and root out lust. 16. I mean by charity that affection of the mind which aims at the enjoyment of God for His own sake, and the enjoyment of one's self and one's neighbour in subordination to God; by lust I mean that affection of the mind which aims at enjoying one's self and one's neighbour, and other corporeal things, without reference to God. Again, what lust, when
+
+### unsubdued, does towards corrupting one's own soul and body, is called vice; but what it does to injure another is called crime. And these are the two
+
+classes into which all sins may be divided. But the vices come first; for when these have exhausted the soul, and reduced it to a kind of poverty, it easily slides into crimes, in order to remove hindrances to, or to find assistance in, its vices. In the same way, what charity does with a view to
+
+### one's own advantage is prudence; but what it does with a view to a neighbour's advantage is called benevolence. And here prudence comes
+
+first; because no one can confer an advantage on another which he does not himself possess. Now in proportion as the dominion of lust is pulled down, in the same proportion is that of charity built up.
+
+### Chap. 11. Rule for interpreting phrases which seem to ascribe severity to God and the saints
+
+17. Every severity, therefore, and apparent cruelty, either in word or deed, that is ascribed in Holy Scripture to God or His saints, avails to the pulling down of the dominion of lust. And if its meaning be clear, we are not to give it some secondary reference, as if it were spoken figuratively. Take, for example, that saying of the apostle: “But, after thy hardness and impenitent heart, treasurest up unto thyself wrath against the day of wrath and revelation of the righteous judgment of God; who will render to every man according to his deeds: to them who, by patient continuance in well-doing, seek for glory, and honor, and immortality, eternal life; but unto them that are contentious, and do not obey the truth, but obey unrighteousness, indignation and wrath, tribulation and anguish, upon every soul of man that doeth evil, of the Jew first, and also of the Gentile.” 87 But this is addressed to those who, being unwilling to subdue their lust, are themselves involved in the destruction of their lust. When, however, the dominion of lust is overturned in a man over whom it had held sway, this plain expression is used: “They that are Christ's have crucified the flesh, with the affections and lusts.” 88 Only that, even in these instances, some words are used figuratively, as for example, “the wrath of God” and “crucified.” But these are not so numerous, nor placed in such a way as to obscure the sense, and make it allegorical or enigmatical, which is the kind of expression properly
+
+### called figurative. But in the saying addressed to Jeremiah, “See, I have this
+
+day set thee over the nations, and over the kingdoms, to root out, and to pull down, and to destroy, and to throw down,” 89 there is no doubt the whole of the language is figurative, and to be referred to the end I have spoken of.
+
+### Chap. 12. Rule for interpreting those sayings and actions which are ascribed to God and the saints, and which yet seem to the unskilful to be wicked
+
+18. Those things, again, whether only sayings or whether actual deeds, which appear to the inexperienced to be sinful, and which are ascribed to God, or to men whose holiness is put before us as an example, are wholly figurative, and the hidden kernel of meaning they contain is to be picked out as food for the nourishment of charity. Now, whoever uses transitory objects less freely than is the custom of those among whom he lives, is either temperate or superstitious; whoever, on the other hand, uses them so as to transgress the bounds of the custom of the good men about him, either has a further meaning in what he does, or is sinful. In all such matters it is not the use of the objects, but the lust of the user, that is to blame. Nobody in his sober senses would believe, for example, that when 90 our Lord's feet were anointed by the woman with precious ointment, it was for the same purpose for which luxurious and profligate men are accustomed to have theirs anointed in those banquets which we abhor. For the sweet odor means the good report which is earned by a life of good works; and the man who wins this, while following in the footsteps of Christ, anoints His feet (so to speak) with the most precious ointment. And so that which in the case of other persons is often a sin, becomes, when ascribed to God or a prophet, the sign of some great truth. Keeping company with a harlot, for example, is one thing when it is the result of 87 Rom. 2. 5-9. 88 Gal. 5. 24. 89 Jer. 1. 10. 90 John, 12. 3. abandoned manners, another thing when done in the course of his prophecy by the prophet Hosea.91 Because it is a shamefully wicked thing to strip the body naked at a banquet among the drunken and licentious, it does not follow that it is a sin to be naked in the baths. 19. We must, therefore, consider carefully what is suitable to times and places and persons, and not rashly charge men with sins. For it is possible that a wise man may use the daintiest food without any sin of epicurism or gluttony, while a fool will crave for the vilest food with a most disgusting eagerness of appetite. And any sane man would prefer eating fish after the manner of our Lord, to eating lentils after the manner of Esau, or barley after the manner of oxen. For there are several beasts that feed on commoner kinds of food, but it does not follow that they are more temperate than we are. For in all matters of this kind it is not the nature of the things we use, but our reason for using them, and our manner of seeking them, that make what we do either praiseworthy or blameable. 20. Now the saints of ancient times were, under the form of an earthly kingdom, foreshadowing and foretelling the kingdom of heaven. And on account of the necessity for a numerous offspring, the custom of one man having several wives was at that time blameless: and for the same reason it was not proper for one woman to have several husbands, because a woman does not in that way become more fruitful, but, on the contrary, it is base harlotry to seek either gain or offspring by promiscuous intercourse. In regard to matters of this sort, whatever the holy men of those times did without lust, Scripture passes over without blame, although they did things which could not be done at the present time, except through lust. And everything of this nature that is there narrated we are to take not only in its historical and literal, but also in its figurative and prophetical sense, and to interpret as bearing ultimately upon the end of love towards God or our neighbor, or both. For as it was disgraceful among the ancient Romans to wear tunics reaching to the heels, and furnished with sleeves, but now it is disgraceful for men honorably born not to wear tunics of that description: so we must take heed in regard to other things also, that lust do not mix with our use of them; for lust not only abuses to wicked ends the customs of those among whom we live, but frequently also transgressing the bounds of custom, betrays, in a disgraceful outbreak, its own hideousness, which was concealed under the cover of prevailing fashions.
+
+### Chap. 13. Same subject, continued
+
+21. Whatever, then, is in accordance with the habits of those with whom we are either compelled by necessity, or undertake as a matter of duty, to spend this life, is to be turned by good and great men to some prudent or 91 Hos. 1. 2. benevolent end, either directly, as is our duty, or figuratively, as is allowable to prophets.
+
+### Chap. 14. Error of those who think that there is no absolute right and wrong
+
+22. But when men unacquainted with other modes of life than their own meet with the record of such actions, unless they are restrained by authority, they look upon them as sins, and do not consider that their own customs either in regard to marriage, or feasts, or dress, or the other necessities and adornments of human life, appear sinful to the people of other nations and other times. And, distracted by this endless variety of customs, some who were half asleep (as I may say)—that is, who were neither sunk in the deep sleep of folly, nor were able to awake into the light of wisdom—have thought that there was no such thing as absolute right, but that every nation took its own custom for right; and that, since every nation has a different custom, and right must remain unchangeable, it becomes manifest that there is no such thing as right at all. Such men did not perceive, to take only one example, that the precept, “Whatsoever ye would that men should do to you, do ye even so to them,” 92 cannot be altered by any diversity of national customs. And this precept, when it is referred to the love of God, destroys all vices when to the love of one's neighbor, puts an end to all crimes. For no one is willing to defile his own dwelling; he ought not, therefore, to defile the dwelling of God, that is, himself. And no one wishes an injury to be done him by another; he himself, therefore, ought not to do injury to another.
+
+### Chap. 15. Rule for interpreting figurative expressions
+
+23. The tyranny of lust being thus overthrown, charity reigns through its supremely just laws of love to God for His own sake, and love to one's self and one's neighbor for God's sake. Accordingly, in regard to figurative expressions, a rule such as the following will be observed, to carefully turn over in our minds and meditate upon what we read till an interpretation be found that tends to establish the reign of love. Now, if when taken literally it at once gives a meaning of this kind, the expression is not to be considered figurative.
+
+### Chap. 16. Rule for interpreting commands and prohibitions
+
+24. If the sentence is one of command, either forbidding a crime or vice, or enjoining an act of prudence or benevolence, it is not figurative. If, however, it seems to enjoin a crime or vice, or to forbid an act of prudence or benevolence, it is figurative. “Except ye eat the flesh of the Son of man,” says Christ, “and drink His blood, ye have no life in you.” 93 This seems to enjoin a crime or a vice; it is therefore a figure, enjoining that we should have a share in the sufferings of our Lord, and that we should retain a sweet and profitable memory of the fact that His flesh was wounded and 92 Matt. 7. 12. Cf. Tobit, 4. 15. 93 John, 6. 53. crucified for us. Scripture says: “If thine enemy hunger, feed him; if he thirst, give him drink”; and this is beyond doubt a command to do a kindness. But in what follows, “for in so doing thou shalt heap coals of fire on his head,” 94 one would think a deed of malevolence was enjoined. Do not doubt, then, that the expression is figurative; and, while it is possible to interpret it in two ways, one pointing to the doing of an injury, the other to a display of superiority, let charity on the contrary call you back to benevolence, and interpret the coals of fire as the burning groans of penitence by which a man's pride is cured who bewails that he has been the enemy of one who came to his assistance in distress. In the same way, 95 when our Lord says, “He who loveth his life shall lose it,” we are not to think that He forbids the prudence with which it is a man's duty to care for his life, but that He says in a figurative sense, “Let him lose his life”—that is, let him destroy and lose that perverted and unnatural use which he now makes of his life, and through which his desires are fixed on temporal things so that he gives no heed to eternal. It is written: “Give to the godly man, and help not a sinner.” 96 The latter clause of this sentence seems to forbid benevolence; for it says, “help not a sinner.” Understand, therefore, that “sinner” is put figuratively for sin, so that it is his sin you are not to help.
+
+### Chap. 17. Some commands are given to all in common, others to particular classes
+
+25. Again, it often happens that a man who has attained, or thinks he has attained, to a higher grade of spiritual life, thinks that the commands given to those who are still in the lower grades are figurative; for example, if he has embraced a life of celibacy and made himself a eunuch for the kingdom of heaven's sake, he contends that the commands given in Scripture about loving and ruling a wife are not to be taken literally, but figuratively; and if he has determined to keep his virgin unmarried, he tries to put a figurative interpretation on the passage where it is said, “Marry thy daughter, and so 97 shall thou have performed a weighty matter.” Accordingly, another of our rules for understanding the Scriptures will be as follows—to recognize that some commands are given to all in common, others to particular classes of persons, that the medicine may act not only upon the state of health as a whole, but also upon the special weakness of each member. For that which cannot be raised to a higher state must be cared for in its own state.
+
+### Chap. 18. We must take into consideration the time at which anything was enjoyed or allowed
+
+94 Rom. 12. 20; Prov. 25. 21, 22. 95 John, 12. 25. Cf. Matt. 10. 39. 96 Ecclus. 12. 4. Cf. Tobit, 4. 17. 97 Ecclus. 7. 27. 26. We must also be on our guard against supposing that what in the Old Testament, making allowance for the condition of those times, is not a crime or a vice even if we take it literally and not figuratively, can be transferred to the present time as a habit of life. For no one will do this except lust has dominion over him, and endeavors to find support for itself in the very Scriptures which were intended to overthrow it. And the wretched man does not perceive that such matters are recorded with this useful design, that men of good hope may learn the salutary lesson, both that the custom they spurn can be turned to a good use, and that which they embrace can be used to condemnation, if the use of the former be accompanied with charity, and the use of the latter with lust. 27. For, if it was possible for one man to use many wives with chastity, it is possible for another to use one wife with lust. And I look with greater approval on the man who uses the fruitfulness of many wives for the sake of an ulterior object, than on the man who enjoys the body of one wife for its own sake. For in the former case the man aims at a useful object suited to the circumstances of the times; in the latter case he gratifies a lust which is engrossed in temporal enjoyments. And those men to whom the apostle permitted as a matter of indulgence to have one wife because of their incontinence,98 were less near to God than those who, though they had each of them numerous wives, yet just as a wise man uses food and drink only for the sake of bodily health, used marriage only for the sake of offspring. And, accordingly, if these last had been still alive at the advent of our Lord, when the time not of casting stones away but of gathering them together had come,99 they would have immediately made themselves eunuchs for the kingdom of heaven's sake. For there is no difficulty in abstaining unless when there is lust in enjoying. And assuredly those men of whom I speak knew that wantonness even in regard to wives is abuse and intemperance, as is proved by Tobit's prayer when he was married to his wife. For he says: “Blessed art Thou, O God of our fathers, and blessed is Thy holy and glorious name for ever; let the heavens bless Thee, and all Thy creatures. Thou madest Adam, and gavest him Eve his wife for an helper and stay.... And now, O Lord, Thou knowest that I take not this my sister for 100 lust, but uprightly: therefore have pity on us, O Lord.”
+
+### Chap. 19. Wicked men judge others by themselves
+
+28. But those who, giving the rein to lust, either wander about steeping themselves in a multitude of debaucheries, or even in regard to one wife not only exceed the measure necessary for the procreation of children, but with the shameless licence of a sort of slavish freedom heap up the filth of a still more beastly excess, such men do not believe it possible that the 98 I Cor. 7. 1, 2, 9. 99 Eccles. 3. 5. 100 Tobit, 8. 5-7. men of ancient times used a number of wives with temperance, looking to nothing but the duty, necessary in the circumstances of the time, of propagating the race; and what they themselves, who are entangled in the meshes of lust, do not accomplish in the case of a single wife, they think utterly impossible in the case of a number of wives. 29. But these same men might say that it is not right even to honor and praise good and holy men, because they themselves when they are honored and praised, swell with pride, becoming the more eager for the emptiest sort of distinction the more frequently and the more widely they are blown about on the tongue of flattery, and so become so light that a breath of rumor, whether it appear prosperous or adverse, will carry them into the whirlpool of vice or dash them on the rocks of crime. Let them, then, learn how trying and difficult it is for themselves to escape either being caught by the bait of praise, or pierced by the stings of insult; but let them not measure others by their own standard.
+
+### Chap. 20. Consistency of good men in all outward circumstances
+
+Let them believe, on the contrary, that the apostles of our faith were neither puffed up when they were honored by men, nor cast down when they were despised. And certainly neither sort of temptation was wanting to those great men. For they were both cried up by the loud praises of believers, and cried down by the slanderous reports of their persecutors. But the apostles used all these things, as occasion served, and were not corrupted; and in the same way the saints of old used their wives with reference to the necessities of their own times, and were not in bondage to lust as they are who refuse to believe these things. 30. For if they had been under the influence of any such passion, they could never have restrained themselves from implacable hatred towards their sons, by whom they knew that their wives and concubines were solicited and debauched.
+
+### Chap. 21. David not lustful, though he fell into adultery
+
+But when King David had suffered this injury at the hands of his impious and unnatural son, he not only bore with him in his mad passion, but mourned over him in his death. He certainly was not caught in the meshes of carnal jealousy, seeing that it was not his own injuries but the sins of his son that moved him. For it was on this account he had given orders that his son should not be slain if he were conquered in battle, that he might have a place of repentance after he was subdued; and when he was baffled in this design, he mourned over his son's death, not because of his own loss, but because he knew to what punishment so impious an adulterer and parricide had been hurried.101 For prior to this, in the case of another son who had 101 Cf. II Sam. 16. 22; 18. 5; 19. 1. been guilty of no crime, though he was dreadfully afflicted for him while he was sick, yet he comforted himself after his death.102 31. And with what moderation and self-restraint those men used their wives appears chiefly in this, that when this same king, carried away by the heat of passion and by temporal prosperity, had taken unlawful possession of one woman, whose husband also he ordered to be put to death, he was accused of his crime by a prophet, who, when he had come to show him his sin, set before him the parable of the poor man who had but one ewe-lamb, and whose neighbor, though he had many, yet when a guest came to him spared to take of his own flock, but set his poor neighbor's one lamb before his guest to eat. And David's anger being kindled against the man, he commanded that he should be put to death, and the lamb restored fourfold to the poor man; thus unwittingly condemning the sin he had wittingly committed.103 And when he had been shown this, and God's punishment had been denounced against him, he wiped out his sin in deep penitence. But yet in this parable it was the adultery only that was indicated by the poor man's ewe-lamb; about the killing of the woman's husband—that is, about the murder of the poor man himself who had the one ewe-lamb—nothing is said in the parable, so that the sentence of condemnation is pronounced against the adultery alone. And hence we may understand with what temperance he possessed a number of wives when he was forced to punish himself for transgressing in regard to one woman. But in his case the immoderate desire did not take up its abode with him, but was only a passing guest. On this account the unlawful appetite is called even by the accusing prophet, a guest. For he did not say that he took the poor man's ewe-lamb to make a feast for his king, but for his guest. In the case of his son Solomon, however, this lust did not come and pass away like a guest, but reigned as a king. And about him Scripture is not silent, but accuses him of being a lover of strange women; for in the beginning of his reign he was inflamed with a desire for wisdom, but after he had attained it through 104 spiritual love, he lost it through carnal lust.
+
+### Chap. 22. Rule regarding passages of Scripture in which approval is expressed of actions which are new condemned by good men
+
+32. Therefore, although all, or nearly all, the transactions recorded in the Old Testament are to be taken not literally only, but figuratively as well, nevertheless even in the case of those which the reader has taken literally, and which, though the authors of them are praised, are repugnant to the habits of the good men who since our Lord's advent are the custodians of the divine commands, let him refer the figure to its interpretation, but let 102 II Sam. 12. 19-23. 103 II Sam. 12. 1-6. 104 II Chron. 1. 10-12; I Kings 11. 1-3. him not transfer the act to his habits of life. For many things which were done as duties at that time, cannot now be done except through lust.
+
+### Chap. 23. Rule regarding the narrative of sins of great men
+
+33. And when he reads of the sins of great men, although he may be able to see and to trace out in them a figure of things to come, let him yet put the literal fact to this use also, to teach him not to dare to vaunt himself in his own good deeds, and in comparison with his own righteousness, to despise others as sinners, when he sees in the case of men so eminent both the storms that are to be avoided and the shipwrecks that are to be wept over. For the sins of these men were recorded to this end, that men might everywhere and always tremble at that saying of the apostle: “Wherefore let him that thinketh he standeth take heed lest he fall.” 105 For there is hardly a page of Scripture on which it is not clearly written that God resisteth the proud and giveth grace to the humble.106
+
+### Chap. 24. The character of the expressions used is above all to have weight
+
+34. The chief thing to be inquired into, therefore, in regard to any expression that we are trying to understand is, whether it is literal or figurative. For when it is ascertained to be figurative, it is easy, by an application of the laws of things which we discussed in the first book, to turn it in every way until we arrive at a true interpretation, especially when we bring to our aid experience strengthened by the exercise of piety. Now we find out whether an expression is literal or figurative by attending to the considerations indicated above.
+
+### Chap. 25. The same word does not always signify the same thing
+
+And when it is shown to be figurative, the words in which it is expressed will be found to be drawn either from like objects or from objects having some affinity. 35. But as there are many ways in which things show a likeness to each other, we are not to suppose there is any rule that what a thing signifies by similitude in one place it is to be taken to signify in all other places. For our Lord used leaven both in a bad sense, as when He said, “Beware of the leaven of the Pharisees,” 107 and in a good sense, as when He said, “The kingdom of heaven is like unto leaven, which a woman took and hid in three 108 measures of meal, till the whole was leavened.” 36. Now the rule in regard to this variation has two forms. For things that signify now one thing and now another, signify either things that are contrary, or things that are only different. They signify contraries, for example, when they are used metaphorically at one time in a good sense, at another in a bad, as in the case of the leaven mentioned above. Another 105 I Cor. 10. 12. 106 Cf. Jas. 4. 6 and I Pet. 5. 6. 107 Matt. 16. 6; Luke 12. 1. 108 Luke, 13. 21. example of the same is that a lion stands for Christ in the place where it is said, “The lion of the tribe of Judah hath prevailed”; 109 and again, stands for the devil where it is written, “Your adversary the devil, as a roaring lion, walketh about seeking whom he may devour.” 110 In the same way the serpent is used in a good sense, “Be wise as serpents”;111 and again, in a bad 112 sense, “The serpent beguiled Eve through his subtlety.” Bread is used in a good sense, “I am the living bread which came down from heaven”;113 in a bad, “Bread eaten in secret is pleasant.” 114 And so in a great many other cases. The examples I have adduced are indeed by no means doubtful in their signification, because only plain instances ought to be used as examples. There are passages, however, in regard to which it is uncertain in what sense they ought to be taken, as for example, “In the hand of the Lord there is a cup, and the wine is red: it is full of mixture.” 115 Now it is uncertain whether this denotes the wrath of God, but not to the last extremity of punishment, that is, “to the very dregs”; or whether it denotes the grace of the Scriptures passing away from the Jews and coming to the Gentiles, because “He has put down one and set up another”—certain observances, however, which they understand in a carnal manner, still remaining among the Jews, for “the dregs hereof is not yet wrung out.” The following is an example of the same object being taken, not in opposite, but only in different significations: water denotes people, as we read in the Apocalypse,116 and also the Holy Spirit, as for example, “Out of his belly shall flow rivers of living water”;117 and many other things besides water must be interpreted according to the place in which they are found. 37. And in the same way other objects are not single in their signification, but each one of them denotes not two only but sometimes even several different things, according to the connection in which it is found.
+
+### Chap. 26. Obscure passages are to be interpreted by those which are clearer
+
+Now from the places where the sense in which they are used is more manifest we must gather the sense in which they are to be understood in obscure passages. For example, there is no better way of understanding the words addressed to God, “Take hold of shield and buckler and stand up for mine help,” 118 than by referring to the passage where we read, “Thou, Lord, 119 hast crowned us with Thy favor as with a shield.” And yet we are not so 109 Rev. 5. 5. 110 I Pet. 5. 8. 111 Matt. 10. 16. 112 II Cor. 11. 3. 113 John, 6. 51. 114 Prov. 9. 17. 115 Ps. 75. 8. 116 Rev. 17. 15. 117 John, 7. 38. 118 Ps. 35. 2. 119 Ps. 5. 12. to understand it, as that wherever we meet with a shield put to indicate a protection of any kind, we must take it as signifying nothing but the favor of God. For we hear also of the shield of faith, “wherewith,” says the apostle, “ye shall be able to quench all the fiery darts of the wicked.” 120 Nor ought we, on the other hand, in regard to spiritual armor of this kind to assign
+
+### faith to the shield only; for we read in another place of the breastplate of
+
+faith: “putting on,” says the apostle, “the breastplate of faith and love.” 121
+
+### Chap. 27. One passage susceptible of various interpretations
+
+38. When, again, not some one interpretation, but two or more interpretations are put upon the same words of Scripture, even though the meaning the writer intended remain undiscovered, there is no danger if it can be shown from other passages of Scripture that any of the interpretations put on the words is in harmony with the truth. And if a man in searching the Scriptures endeavors to get at the intention of the author through whom the Holy Spirit spoke, whether he succeeds in this endeavor, or whether he draws a different meaning from the words, but one that is not opposed to sound doctrine, he is free from blame so long as he is supported by the testimony of some other passage of Scripture. For the author perhaps saw that this very meaning lay in the words which we are trying to interpret; and assuredly the Holy Spirit, who through him spoke these words, foresaw that this interpretation would occur to the reader, nay, made provision that it should occur to him, seeing that it too is founded on truth. For what more liberal and more fruitful provision could God have made in regard to the Sacred Scriptures than that the same words might be understood in several senses, all of which are sanctioned by the concurring testimony of other passages equally divine?
+
+### Chap. 28. It is safer to explain a doubtful passage by other passages of Scripture than by reason
+
+39. When, however, a meaning is evolved of such a kind that what is doubtful in it cannot be cleared up by indubitable evidence from Scripture, it remains for us to make it clear by the evidence of reason. But this is a dangerous practice. For it is far safer to walk by the light of Holy Scripture; so that when we wish to examine the passages that are obscured by metaphorical expressions, we may either obtain a meaning about which there is no controversy, or if a controversy arises, may settle it by the application of testimonies sought out in every portion of the same Scripture.
+
+### Chap. 29. The knowledge of tropes is necessary
+
+40. Moreover, I would have learned men to know that the authors of our Scriptures use all those forms of expression which grammarians call by the
+
+### Greek name tropes, and use them more freely and in greater variety than
+
+120 Eph. 6. 16. 121 I Thess. 5. 8. people who are unacquainted with the Scriptures, and have learnt these figures of speech from other writings, can imagine or believe. Nevertheless those who know these tropes recognize them in Scripture, and are very much assisted by their knowledge of them in understanding Scripture. But this is not the place to teach them to the illiterate, lest it might seem that I was teaching grammar. I certainly advise, however, that they be learnt elsewhere, although indeed I have already given that advice above, in the second book—namely, where I treated of the necessary knowledge of languages. For the written characters from which grammar itself gets its
+
+### name (the Greek name for letters being γράμματα) are the signs of sounds
+
+made by the articulate voice with which we speak. Now of some of these figures of speech we find in Scripture not only examples (which we have of
+
+### them all), but the very names as well: for instance, allegory, enigma, and parable. However, nearly all these tropes which are said to be learnt as a
+
+matter of liberal education are found even in the ordinary speech of men who have learnt no grammar, but are content to use the vulgar idiom. For who does not say, “So may you flourish?” And this is the figure of speech
+
+### called metaphor. Who does not speak of a fish-pond in which there is no
+
+fish, which was not made for fish, and yet gets its name from fish? And this
+
+### is the figure called catachresis.
+
+41. It would be tedious to go over all the rest in this way; for the speech of the vulgar makes use of them all, even of those more curious figures which
+
+### mean the very opposite of what they say, as for example, those called irony and antiphrasis. Now in irony we indicate by the tone of voice the meaning
+
+we desire to convey; as when we say to a man who is behaving badly, “You are doing well.” But it is not by the tone of voice that we make an antiphrasis to indicate the opposite of what the words convey; but either the words in which it is expressed are used in the opposite of their
+
+### etymological sense, as a grove is called lucus from its want of light; or it is customary to use a certain form of expression, although it puts yes for no
+
+by a law of contraries, as when we ask in a place for what is not there, and get the answer, “There is plenty”; or we add words that make it plain we mean the opposite of what we say, as in the expression, “Beware of him, for he is a good man.” And what illiterate man is there that does not use such expressions, although he knows nothing at all about either the nature or the names of these figures of speech? And yet the knowledge of these is necessary for clearing up the difficulties of Scripture; because when the words taken literally give an absurd meaning, we ought forthwith to inquire whether they may not be used in this or that figurative sense which we are unacquainted with; and in this way many obscure passages have had light thrown upon them.
+
+### Chap. 30. The rules of Tichonius the Donatist examined
+
+42. One Tichonius, who, although a Donatist himself, has written most triumphantly against the Donatists (and herein showed himself of a most inconsistent disposition, that he was unwilling to give them up altogether),
+
+### wrote a book which he called the Book of Rules, because in it he laid down
+
+seven rules, which are, as it were, keys to open the secrets of Scripture. And of these rules, the first relates to the Lord and His body, the second to the twofold division of the Lord's body, the third to the promises and the
+
+### law, the fourth to species and genus, the fifth to times, the sixth to
+
+recapitulation, the seventh to the devil and his body. Now these rules, as expounded by their author, do indeed, when carefully considered, afford considerable assistance in penetrating the secrets of the sacred writings; but still they do not explain all the difficult passages, for there are several other methods required, which are so far from being embraced in this number of seven, that the author himself explains many obscure passages without using any of his rules; finding, indeed, that there was no need for them, as there was no difficulty in the passage of the kind to which his rules apply. As, for example, he inquires what we are to understand in the Apocalypse by the seven angels of the churches to whom John is commanded to write; and after much and various reasoning, arrives at the conclusion that the angels are the churches themselves. And throughout this long and full discussion, although the matter inquired into is certainly very obscure, no use whatever is made of the rules. This is enough for an example, for it would be too tedious and troublesome to collect all the passages in the canonical Scriptures which present obscurities of such a kind as require none of these seven rules for their elucidation. 43. The author himself, however, when commending these rules, attributes so much value to them that it would appear as if, when they were thoroughly known and duly applied, we should be able to interpret all the obscure passages in the law—that is, in the sacred books. For he thus commences this very book: “Of all the things that occur to me, I consider none so necessary as to write a little book of rules, and, as it were, to make keys for, and put windows in, the secret places of the law. For there are certain mystical rules which hold the key to the secret recesses of the whole law, and render visible the treasures of truth that are to many invisible. And if this system of rules be received as I communicate it, without jealousy, what is shut shall be laid open, and what is obscure shall be elucidated, so that a man travelling through the vast forest of prophecy shall, if he follow these rules as pathways of light, be preserved from going astray.” Now, if he had said, “There are certain mystical rules which hold the key to some of the secrets of the law,” or even “which hold the key to the great secrets of the law,” and not what he does say, “the secret recesses of the whole law”; and if he had not said “What is shut shall be laid open,” but, “Many things that are shut shall be laid open,” he would have said what was true, and he would not, by attributing more than is warranted by the facts to his very elaborate and useful work, have led the reader into false expectations. And I have thought it right to say thus much, in order both that the book may be read by the studious (for it is of very great assistance in understanding Scripture), and that no more may be expected from it than it really contains. Certainly it must be read with caution, not only on account of the errors into which the author falls as a man, but chiefly on account of the heresies which he advances as a Donatist. And now I shall briefly indicate what these seven rules teach or advise.
+
+### Chap. 31. The first rule of Tichonius 44. The first is about the Lord and His body, and it is this, that, knowing as
+
+we do that the head and the body—that is, Christ and His Church—are sometimes indicated to us under one person (for it is not in vain that it is said to believers, “Ye then are Abraham's seed,” 122 when there is but one seed of Abraham, and that is Christ), we need not be in a difficulty when a transition is made from the head to the body or from the body to the head, and yet no change made in the person spoken of. For a single person is represented as saying, “He hath decked me as a bridegroom with 123 ornaments, and adorned me as a bride with jewels”; and yet it is, of course, a matter for interpretation which of these two refers to the head and which to the body, that is, which to Christ and which to the Church.
+
+### Chap. 32. The second rule of Tichonius 45. The second rule is about the twofold division of the body of the Lord; but
+
+this indeed is not a suitable name, for that is really no part of the body of Christ which will not be with Him in eternity. We ought, therefore, to say that the rule is about the true and the mixed body of the Lord, or the true and the counterfeit, or some such name; because, not to speak of eternity, hypocrites cannot even now be said to be in Him, although they seem to be
+
+### in His Church. And hence this rule might be designated thus: Concerning the mixed Church. Now this rule requires the reader to be on his guard when
+
+Scripture, although it has now come to address or speak of a different set of persons, seems to be addressing or speaking of the same persons as before, just as if both sets constituted one body in consequence of their being for the time united in a common participation of the sacraments. An example of this is that passage in the Song of Solomon, “I am black, but 124 comely, as the tents of Kedar, as the curtains of Solomon.” For it is not
+
+### said, I was black as the tents of Kedar, but am now comely as the curtains
+
+of Solomon. The Church declares itself to be at present both; and this because the good fish and the bad are for the time mixed up in the one 122 Gal. 3. 29. 123 Isa. 61. 10 (Septuagint). 124 Song of Sol. 1. 5. 125 net. For the tents of Kedar pertain to Ishmael, who “shall not be heir with the son of the free woman.” 126 And in the same way, when God says of the good part of the Church, “I will bring the blind by a way that they knew not; I will lead them in paths that they have not known; I will make darkness light before them, and crooked things straight: these things will I do unto 127 them, and not forsake them”; He immediately adds in regard to the other part, the bad that is mixed with the good, “They shall be turned back.” Now these words refer to a set of persons altogether different from the former; but as the two sets are for the present united in one body, He speaks as if there were no change in the subject of the sentence. They will not, however, always be in one body; for one of them is that wicked servant of whom we are told in the gospel, whose lord, when he comes, “shall cut him asunder and appoint him his portion with the hypocrites.” 128
+
+### Chap. 33. The third rule of Tichonius 46. The third rule relates to the promises and the law, and may be
+
+designated in other terms as relating to the spirit and the letter, which is the name I made use of when writing a book on this subject. It may be also named, of grace and the law. This, however, seems to me to be a great question in itself, rather than a rule to be applied to the solution of other questions. It was the want of clear views on this question that originated, or at least greatly aggravated, the Pelagian heresy. And the efforts of Tichonius to clear up this point were good, but not complete. For, in discussing the question about faith and works, he said that works were given us by God as the reward of faith, but that faith itself was so far our own that it did not come to us from God; not keeping in mind the saying of the apostle: “Peace be to the brethren, and love with faith, from God the Father and the Lord Jesus Christ.” 129 But he had not come into contact with this heresy, which has arisen in our time, and has given us much labor and trouble in defending against it the grace of God which is through our Lord Jesus Christ, and which (according to the saying of the apostle, “There must be also heresies among you, that they which are approved may be made manifest among you” 130) has made us much more watchful and diligent to discover in Scripture what escaped Tichonius, who, having no enemy to guard against, was less attentive and anxious on this point, namely, that even faith itself is the gift of Him Who “hath dealt to every man the 131 measure of faith.” Whence it is said to certain believers: “Unto you it is given, in the behalf of Christ, not only to believe on Him, but also to suffer 125 Matt. 13. 47, 48. 126 Gal. 4. 30. 127 Isa. 42. 16. 128 Matt. 24. 50, 51. 129 Eph. 6. 23. 130 I Cor. 11. 19. 131 Rom. 12. 3. 132 for His sake.” Who, then, can doubt that each of these is the gift of God, when he learns from this passage, and believes, that each of them is given? There are many other testimonies besides which prove this. But I am not now treating of this doctrine. I have, however, dealt with it, one place or another, very frequently.
+
+### Chap. 34. The fourth rule of Tichonius 47. The fourth rule of Tichonius is about species and genus. For so he calls
+
+it, intending that by species should be understood a part, by genus the whole of which that which he calls species is a part: as, for example, every single city is a part of the great society of nations: the city he calls a species, all nations constitute the genus. There is no necessity for here applying that subtilty of distinction which is in use among logicians, who discuss with great acuteness the difference between a part and a species. The rule is of course the same, if anything of the kind referred to is found in Scripture, not in regard to a single city, but in regard to a single province, or tribe, or kingdom. Not only, for example, about Jerusalem, or some of the cities of the Gentiles, such as Tyre or Babylon, are things said in Scripture whose significance oversteps the limits of the city, and which are more suitable when applied to all nations; but in regard to Judea also, and Egypt, and Assyria, or any other nation you choose to take which contains numerous cities, but still is not the whole world, but only a part of it, things are said which pass over the limits of that particular country, and apply more fitly to the whole of which this is a part; or, as our author terms it, to the genus of which this is a species. And hence these words have come to be commonly known, so that even uneducated people understand what is laid down specially, and what generally, in any given Imperial command. The same thing occurs in the case of men: things are said of Solomon, for example, the scope of which reaches far beyond him, and which are only properly understood when applied to Christ and His Church, of which Solomon is a part.133 48. Now the species is not always overstepped, for things are often said of such a kind as evidently apply to it also, or perhaps even to it exclusively. But when Scripture, having up to a certain point been speaking about the species, makes a transition at that point from the species to the genus, the reader must then be carefully on his guard against seeking in the species what he can find much better and more surely in the genus. Take, for example, what the prophet Ezekiel says: “When the house of Israel dwelt in their own land, they defiled it by their own way, and by their doings: their way was before me as the uncleanness of a removed woman. Wherefore I poured my fury upon them for the blood that they had shed upon the land, and for their idols wherewith they had polluted it: and I scattered them 132 Phil. 1. 29. 133 II Sam. 7. 14-16. among the heathen, and they were dispersed through the countries: according to their way, and according to their doings, I judged them.” 134 Now it is easy to understand that this applies to that house of Israel of which the apostle says, “Behold Israel after the flesh”;135 because the people of Israel after the flesh did both perform and endure all that is here referred to. What immediately follows, too, may be understood as applying to the same people. But when the prophet begins to say, “And I will sanctify my great name, which was profaned among the heathen, which ye have profaned in the midst of them; and the heathen shall know that I am the Lord,” 136 the reader ought now carefully to observe the way in which the species is overstepped and the genus taken in. For he goes on to say: “And I shall be sanctified in you before their eyes. For I will take you from among the heathen, and gather you out of all countries, and will bring you into your own land. Then will I sprinkle clean water upon you, and ye shall be clean: from all your filthiness, and from all your idols, will I cleanse you. A new heart also will I give you, and a new spirit will I put within you; and I will take away the stony heart out of your flesh and I will give you a heart of flesh. And I will put my Spirit within you, and cause you to walk in my statutes, and ye shall keep my commandments, and do them. And ye shall dwell in the land that I gave to your fathers; and ye shall be my people, and 137 I will be your God. I will also save you from all your uncleannesses.” Now that this is a prophecy of the New Testament, to which pertain not only the remnant of that one nation of which it is elsewhere said, “For though the number of the children of Israel be as the sand of the sea, yet a remnant of them shall be saved,” 138 but also the other nations which were promised to their fathers and our fathers; and that there is here a promise of that washing of regeneration which, as we see, is now imparted to all nations, no one who looks into the matter can doubt. And that saying of the apostle, when he is commending the grace of the New Testament and its excellence in comparison with the Old, “Ye are our epistle... written not with ink, but with the Spirit of the living God; not in tables of stone, but in fleshy tables of the heart,” 139 has an evident reference to this place where the prophet says, “A new heart also will I give you, and a new spirit will I put within you; and I will take away the stony heart out of your flesh, and I will give you an heart of flesh.” 140 Now the heart of flesh from which the apostle's expression, “the fleshy tables of the heart,” is drawn, the prophet intended to point out as distinguished from the stony heart by the possession of 134 Ezek. 36. 17-19. 135 I Cor. 10. 18. 136 Ezek. 36. 23. 137 Ezek. 36. 23-29. 138 Isa. 10. 22. 139 II Cor. 3. 2, 3. 140 Ezek. 38, 26. sentient life; and by sentient he understood intelligent life. And thus the spiritual Israel is made up, not of one nation, but of all the nations which were promised to the fathers in their seed, that is, in Christ. 49. This spiritual Israel, therefore, is distinguished from the carnal Israel which is of one nation, by newness of grace, not by nobility of descent, in feeling, not in race; but the prophet, in his depth of meaning, while speaking of the carnal Israel, passes on, without indicating the transition, to speak of the spiritual, and although now speaking of the latter, seems to be still speaking of the former; not that he grudges us the clear apprehension of Scripture, as if we were enemies, but that he deals with us as a physician, giving us a wholesome exercise for our spirit. And therefore we ought to take this saying, “And I will bring you into your own land,” and what he says shortly afterwards, as if repeating himself, “And ye shall dwell in the land that I gave to your fathers,” not literally, as if they referred to Israel after the flesh, but spiritually, as referring to the spiritual Israel. For the Church, without spot or wrinkle, gathered out of all nations, and destined to reign for ever with Christ, is itself the land of the blessed, the land of the living; and we are to understand that this was given to the fathers when it was promised to them for what the fathers believed would be given in its own time was to them, on account of the unchangeableness of the promise and purpose, the same as if it were already given; just as the apostle, writing to Timothy, speaks of the grace which is given to the saints: “Not according to our works, but according to His own purpose and grace, which was given us in Christ Jesus before the world began; but is now made manifest by the appearing of our Saviour.” 141 He speaks of the grace as given at a time when those to whom it was to be given were not yet in existence; because he looks upon that as having been already done in the arrangement and purpose of God, which was to take place in its own time, and he himself speaks of it as now made manifest. It is possible, however, that these words may refer to the land of the age to come, when there will be a new heaven and a new earth, wherein the unrighteous shall be unable to dwell. And so it is truly said to the righteous, that the land itself is theirs, no part of which will belong to the unrighteous; because it is the same as if it were itself given, when it is firmly settled that it shall be given.
+
+### Chap. 35. The fifth rule of Tichonius 50. The fifth rule Tichonius lays down is one he designates of times—a rule
+
+by which we can frequently discover or conjecture quantities of time which are not expressly mentioned in Scripture. And he says that this rule applies
+
+### in two ways: either to the figure of speech called synecdoche, or to
+
+legitimate numbers. The figure synecdoche either puts the part for the whole, or the whole for the part. As, for example, in reference to the time 141 II Tim. 1. 9, 10. when, in the presence of only three of His disciples, our Lord was transfigured on the mount, so that His face shone as the sun, and His raiment was white as snow, one evangelist says that this event occurred “after eight days,” 142 while another says that it occurred “after six days.” 143 Now both of these statements about the number of days cannot be true, unless we suppose that the writer who says “after eight days,” counted the latter part of the day on which Christ uttered the prediction and the first part of the day on which he showed its fulfillment as two whole days; while the writer who says “after six days,” counted only the whole unbroken days between these two. This figure of speech, which puts the part for the whole, explains also the great question about the resurrection of Christ. For unless to the latter part of the day on which He suffered we join the previous night, and count it as a whole day, and to the latter part of the night in which He arose we join the Lord's day which was just dawning, and count it also a whole day, we cannot make out the three days and three nights during which He foretold that He would be in the heart of the earth.144
+
+### 51. In the next place, our author calls those numbers legitimate which Holy
+
+Scripture more highly favors such as seven, or ten, or twelve, or any of the other numbers which the diligent reader of Scripture soon comes to know. Now numbers of this sort are often put for time universal; as for example, “Seven times in the day do I praise Thee,” means just the same as “His praise shall continually be in my mouth.” 145 And their force is exactly the same, either when multiplied by ten, as seventy and seven hundred (whence the seventy years mentioned in Jeremiah may be taken in a spiritual sense for the whole time during which the Church is a sojourner among aliens);146 or when multiplied into themselves, as ten into ten gives one hundred, and twelve into twelve gives one hundred and forty-four, which last number is used in the Apocalypse to signify the whole body of the saints.147 Hence it appears that it is not merely questions about times that are to be settled by these numbers, but that their significance is of much wider application, and extends to many subjects. That number in the Apocalypse, for example, mentioned above, has not reference to times, but to men.
+
+### Chap. 36. The sixth rule of Tichonius 52. The sixth rule Tichonius calls the recapitulation, which, with sufficient
+
+watchfulness, is discovered in difficult parts of Scripture. For certain occurrences are so related, that the narrative appears to be following the 142 Luke, 9. 28. 143 Matt. 17. 1; Mark, 9, 2. 144 Matt. 12. 40. 145 Cf. Ps. 119. 164. with 34. 2. 146 Jer. 25. 11. 147 Rev. 7. 4. order of time, or the continuity of events, when it really goes back without mentioning it to previous occurrences, which had been passed over in their proper place. And we make mistakes if we do not understand this, from applying the rule here spoken of. For example, in the book of Genesis we read, “And the Lord God planted a garden eastward in Eden; and there He put the man whom He had formed. And out of the ground made the Lord God to grow every tree that is pleasant to the sight, and good for food.” 148 Now here it seems to be indicated that the events last mentioned took place after God had formed man and put him in the garden; whereas the fact is, that the two events having been briefly mentioned, viz., that God planted a garden, and there put the man whom He had formed, the narrative goes back, by way of recapitulation, to tell what had before been omitted, the way in which the garden was planted: that out of the ground God made to grow every tree that is pleasant to the sight, and good for food. Here there follows, “The tree of life also was in the midst of the garden, and the tree of knowledge of good and evil.” Next the river is mentioned which watered the garden, and which was parted into four heads, the sources of four streams; and all this has reference to the arrangements of the garden. And when this is finished, there is a repetition of the fact which had been already told, but which in the strict order of events came after all this: “And the Lord God took the man, and put him into the garden of Eden.” 149 For it was after all these other things were done that man was put in the garden, as now appears from the order of the narrative itself: it was not after man was put there that the other things were done, as the previous statement might be thought to imply, did we not accurately mark and understand the recapitulation by which the narrative reverts to what had previously been passed over. 53. In the same book, again, when the generations of the sons of Noah are recounted, it is said: “These are the sons of Ham, after their families, after their tongues, in their countries, and in their nations.” 150 And, again, when the sons of Shem are enumerated: “These are the sons of Shem, after their families, after their tongues, in their lands, after their nations.” 151 And it is added in reference to them all: “These are the families of the sons of Noah, after their generations, in their nations; and by these were the nations divided in the earth after the flood. And the whole earth was of one 152 language and of one speech.” Now the addition of this sentence, “And the whole earth was of one language and of one speech,” seems to indicate that at the time when the nations were scattered over the earth they had all one 148 Gen. 2. 8, 9. 149 Gen. 2. 15. 150 Gen. 10. 20. 151 Gen. 10. 31. 152 Gen. 10, 32; 11. 1. language in common; but this is evidently inconsistent with the previous words, “after their families, after their tongues.” For each family or nation could not be said to have its own language if all had one language in common. And so it is by way of recapitulation it is added, “And the whole earth was of one language and of one speech,” the narrative here going back, without indicating the change, to tell how it was, that from having one language in common, the nations were divided into a multitude of tongues. And, accordingly, we are forthwith told of the building of the tower, and of this punishment being there laid upon them as the judgment of God upon their arrogance; and it was after this that they were scattered over the earth according to their tongues. 54. This recapitulation is found in a still more obscure form; as, for example, our Lord says in the gospel: “The same day that Lot went out of Sodom it rained fire from heaven, and destroyed them all. Even thus shall it be in the day when the Son of man is revealed. In that day, he which shall be upon the house-top, and his stuff in the house, let him not come down to take it away; and he that is in the field, let him likewise not return back. Remember Lot's wife.” 153 Is it when our Lord shall have been revealed that men are to give heed to these sayings, and not to look behind them, that is, not to long after the past life which they have renounced? Is not the present rather the time to give heed to them, that when the Lord shall have been revealed every man may receive his reward according to the things he has given heed to or despised? And yet because Scripture says, “In that day,” the time of the revelation of the Lord will be thought the time for giving heed to these sayings, unless the reader be watchful and intelligent so as to understand the recapitulation, in which he will be assisted by that other passage of Scripture which even in the time of the apostles proclaimed: “Little children, it is the last time.” 154 The very time then when the gospel is preached, up to the time that the Lord shall be revealed, is the day in which men ought to give heed to these sayings: for to the same day, which shall be brought to a close by a day of judgment, belongs that very revelation of the Lord here spoken of.155
+
+### Chap. 37. The seventh rule of Tichonius 55. The seventh rule of Tichonius and the last, is about the devil and his body. For he is the head of the wicked, who are in a sense his body, and
+
+destined to go with him into the punishment of everlasting fire, just as Christ is the head of the Church, which is His body, destined to be with Him in His eternal kingdom and glory. Accordingly, as the first rule, which is
+
+### called of the Lord and His body, directs us, when Scripture speaks of one
+
+and the same person, to take pains to understand which part of the 153 Luke, 17. 29-32. 154 I John, 2. 18. 155 Cf. Rom. 2. 5. statement applies to the head and which to the body; so this last rule shows us that statements are sometimes made about the devil, whose truth is not so evident in regard to himself as in regard to his body; and his body is made up not only of those who are manifestly out of the way, but of those also who, though they really belong to him, are for a time mixed up with the Church, until they depart from this life, or until the chaff is separated from the wheat at the last great winnowing. For example, what is said in Isaiah, “How he is fallen from heaven, Lucifer, son of the morning!” 156 and the other statements of the context which, under the figure of the king of Babylon, are made about the same person, are of course to be understood of the devil; and yet the statement which is made in the same place, “He is ground down on the earth, who sendeth to all nations,” 157 does not altogether fitly apply to the head himself. For, although the devil sends his angels to all nations, yet it is his body, not himself, that is ground down on the each, except that he himself is in his body, which is beaten small like the dust which the wind blows from the face of the earth. 56. Now all these rules, except the one about the promises and the law, make one meaning to be understood where another is expressed, which is the peculiarity of figurative diction; and this kind of diction, it seems to me, is too widely spread to be comprehended in its full extent by any one. For, wherever one thing is said with the intention that another should be understood we have a figurative expression, even though the name of the trope is not to be found in the art of rhetoric. And when an expression of this sort occurs where it is customary to find it, there is no trouble in understanding it; when it occurs, however, where it is not customary, it costs labor to understand it, from some more, from some less, just as men have got more or less from God of the gifts of intellect, or as they have access to more or fewer external helps. And, as in the case of proper words which I discussed above, and in which things are to be understood just as they are expressed, so in the case of figurative words, in which one thing is expressed and another is to be understood, and which I have just finished speaking of as much as I thought enough, students of these venerable documents ought to be counselled not only to make themselves acquainted with the forms of expression ordinarily used in Scripture, to observe them carefully, and to remember them accurately, but also, what is especially and before all things necessary, to pray that they may understand them. For in these very books on the study of which they are intent, they read, “The Lord giveth wisdom: out of His mouth cometh knowledge and understanding”;158 and it is from Him they have received their very desire for knowledge, if it is wedded to piety. But about signs, so far as relates to words, I have now said 156 Isa. 14. 12 (Septuagint). 157 Ibid. 158 Prov. 2. 6. enough. It remains to discuss, in the following book, so far as God has given me light, the means of communicating our thoughts to others.
+
+## 19 AQUINAS: Summa Theologica, PART I, Q 1, AA 9-10 8d-1Oc; Q 3, A 1, REP 1-5 14b-15b; A 2, REP 1-2 15c-16a; A 3, REP 1 16a-d; Q 13, A 2, ANS and REP 1 63c-64d; A 3 64d-65c; A 6, ANS and REP 2 67d-68c; A 10, CONTRARY 72c-73c; Q 34, A 1, ANS and REP 1,4 185b-187b; Q 67, A 1 349d-350b; A 2, REP 3 350b-351a; Q 68, A 4, ANS 358b-359b
+
+
+### AQUINAS: Summa Theologica, PART I, Q I, AA 9-10 8d-1Oc Article 9. Whether Holy Scripture Should Use Metaphors? We proceed thus to the Ninth Article: It seems that Holy Scripture should
+
+not use metaphors.
+
+### Objection 1. For that which is proper to the lowest science seems not to be
+
+appropriate to this science, which holds the highest place of all, as we have said (A. 5). But to proceed by the aid of various likenesses and figures is proper to poetry, the least of all the sciences. Therefore it is not fitting that this science should make use of such likenesses.
+
+### Obj. 2. Further, this doctrine seems to be ordered to the manifestation of truth. Hence a reward is held out to those who manifest it: They that explain me shall have life everlasting (Ecclus. 24. 31). But by such likenesses
+
+truth is obscured. Therefore to put forward divine truths by likening them to corporeal things does not befit this science.
+
+### Obj. 3. Further, the higher creatures are, the nearer they approach to the
+
+divine likeness. If therefore any creature be taken to represent God, this representation ought chiefly to be taken from the higher creatures, and not from the lower. Yet this is often found in the Scriptures.
+
+### On the contrary, It is written (Osee 12. 10): I have multiplied visions, and I have used similitudes by the ministry of the prophets. But to put forward
+
+anything by means of similitudes is to use metaphors. Therefore this sacred science may use metaphors.
+
+### I answer that, It is befitting Holy Writ to put forward divine and spiritual
+
+truths under the likenesses of material things. For God provides for everything according to the capacity of its nature. Now it is natural to man to attain to intellectual truths through sensible things, because all our knowledge originates from sense. Hence in Holy Writ spiritual truths are fittingly taught under the metaphors of material things. This is what
+
+### Dionysius says (Cœlest. Hierarch. i):159 “We cannot be enlightened by the
+
+divine rays except they be hidden within the covering of many sacred veils.” 159 Sect. 2 (PG 3, 121). It is also befitting Holy Writ, which is proposed to all without distinction of
+
+### persons—To the wise and to the unwise I am a debtor (Rom. 1. 14)—that
+
+spiritual truths be expounded by means of likenesses taken from corporeal things, in order that thereby even the simple who are unable by themselves to grasp intellectual things may be able to understand it.
+
+### Reply Obj. 1. Poetry makes use of metaphors to produce a representation,
+
+for it is natural to man to be pleased with representations. But sacred doctrine makes use of metaphors as both necessary and useful, as we have said.
+
+### Reply Obj. 2. The ray of divine revelation is not extinguished by the sensible
+
+160
+
+### imagery in which it is veiled, as Dionysius says (Cœlest Hierarch. i). And its
+
+truth so far remains that it does not allow the minds of those to whom the revelation has been made to rest in the likenesses, but raises them to the knowledge of intelligible things. And through those to whom the revelation has been made others also may receive instruction in these matters. Hence those things that are taught metaphorically in one part of Scripture, in other parts are taught more openly. The very hiding of truth in figures is useful for the exercise of thoughtful minds, and as a defence against the
+
+### ridicule of the impious, according to the words Give not that which is holy to dogs (Matt. 7. 6).
+
+161
+
+### Reply Obj. 3. As Dionysius says, (loc. cit.) it is more fitting that divine truths
+
+should be expounded under the figure of less noble than of nobler bodies, and this for three reasons. First, because in this way men’s minds are the better freed from error. For then it is clear that these things are not literal descriptions of divine truths, which might have been open to doubt had they been expressed under the figure of nobler bodies, especially for those who did not know how to think of anything nobler than bodies. Secondly, because this is more befitting the knowledge of God that we have in this life. For what He is not is clearer to us than what He is. Therefore likenesses drawn from things farthest away from God form within us a truer estimate that God is above whatsoever we may say or think of Him. Thirdly, because thereby divine truths are the better hidden from the unworthy.
+
+### Article 10. Whether in Holy Scripture a Word May Have Several Senses? We proceed thus to the Tenth Article: It seems that in Holy Writ a word
+
+cannot have several senses, historical or literal, allegorical, tropological or moral, and anagogical.
+
+### Objection 1. For many different senses in one text produce confusion and
+
+deception and destroy all force of argument. Hence no proof, but only fallacies, can be deduced from a multiplicity of propositions. But Holy Writ ought to be able to state the truth without any fallacy. Therefore there cannot be several senses to a word in Holy Writ. 160 Sect. 2 (PG 3, 121). 161 PG 3, 136. 162
+
+### Obj. 2. Further, Augustine says (De util. cred. iii) that “the Old Testament
+
+has a fourfold division namely, according to history, etiology, analogy, and allegory.” Now these four seem altogether different from the four divisions mentioned in the first objection. Therefore it does not seem fitting to explain the same word of Holy Writ according to the four different senses mentioned above.
+
+### Obj. 3. Further, besides these senses, there is the parabolical, which is not
+
+one of these four.
+
+### On the contrary, Gregory says (Moral, XX, I):163 “Holy Writ by the manner of its
+
+speech transcends every science, because in one and the same sentence, while it describes a fact, it reveals a mystery.”
+
+### I answer that, The author of Holy Writ is God, in whose power it is to signify
+
+His meaning not by words only (as man also can do), but also by things themselves. So, whereas in every other science things are signified by words, this science has the property that the things signified by the words have themselves also a meaning. Therefore that first meaning whereby words signify things belongs to the first sense, the historical or literal. That meaning whereby things signified by words have themselves also a meaning is called the spiritual sense, which is based on the literal, and presupposes it. Now this spiritual sense has a threefold division. For as the Apostle says (Heb. 10. 1) the Old Law is a figure of the New Law, and Dionysius says 164 the New Law itself is a figure of future glory. Again, in the New Law, whatever our Head has done is a type of what we ought to do. Therefore, so far as the things of the Old Law signify the things of the New Law, there is the allegorical sense. But so far as the things done in Christ, or so far as the things which signify Christ, are types of what we ought to do, there is the moral sense. But so far as they signify what relates to eternal glory, there is the anagogical sense. Since the literal sense is that which the author intends, and since the author of Holy Writ is God, Who by one act comprehends all things by His intellect, it is not unfitting, as Augustine says165 if, even according to the literal sense, one word in Holy Writ should have several senses.
+
+### Reply Obj. 1. The multiplicity of these senses does not produce equivocation
+
+or any other kind of multiplicity, seeing that these senses are not multiplied because one word signifies several things, but because the things signified by the words can be themselves types of other things. Thus in Holy Writ no confusion results, for all the senses are founded on one—the literal—from which alone can any argument be drawn, and not from those intended in 162 PL 42, 68. 163 PL 76, 135. 164 De Eccl. Hier., V, 2 (PG 3, 501). 165 Confessions, XII, 42 (PL 32, 844). 166
+
+### allegory, as Augustine says (Epist. xciii). Nevertheless, nothing of Holy
+
+Scripture perishes on account of this, since nothing necessary to faith is contained under the spiritual sense which is not elsewhere put forward by the Scripture in its literal sense.
+
+### Reply Obj. 2. These three—history, etiology, analogy—are grouped under the
+
+167 literal sense. For it is called history, as Augustine expounds whenever anything is simply related; it is called etiology when its cause is assigned, as when Our Lord gave the reason why Moses allowed the putting away of wives—namely, on account of the hardness of men's hearts (Matt. 19. 8); it is called analogy whenever the truth of one text of Scripture is shown not to contradict the truth of another. Of these four, allegory alone stands for
+
+### the three spiritual senses. Thus Hugh of S. Victor ( Sacram. 1, 4)168 includes
+
+the anagogical under the allegorical sense, laying down three senses only—the historical, the allegorical, and the tropological.
+
+### Reply Obj. 3. The parabolical sense is contained in the literal, for by words
+
+things are signified properly and figuratively. Nor is the figure itself, but that which is figured, the literal sense. When Scripture speaks of God's arm, the literal sense is not that God has such a member, but only what is signified by this member, namely, operative power. Hence it is plain that nothing false can ever underlie the literal sense of Holy Writ.
+
+### AQUINAS: Summa Theologica, PART I, Q 3, A 1, REP 1-5 14b-15b Article 1. Whether God Is a Body? We proceed thus to the First Article: It seems that God is a body. Objection 1. For a body is that which has three dimensions. But Holy Scripture attributes three dimensions to God, for it is written: He is higher than Heaven, and what wilt thou do? He is deeper than Hell, and how wilt thou know? The measure of Him is longer than the earth and broader than the sea (Job 11. 8, 9). Therefore God is a body. Obj. 2. Further, everything that has figure is a body, since figure is a quality of quantity. But God seems to have figure, for it is written: Let us make man to our image and likeness (Gen 1. 26). Now a figure is called an image, according to the text: Who being the brightness of His glory and the figure i.e., the image of His substance (Heb. 1. 3). Therefore God is a body. Obj. 3. Further, whatever has corporeal parts is a body. Now Scripture attributes corporeal parts to God. Hast thou an arm like God? (Job 40. 4); and The eyes of the Lord are upon the just (Ps. 33. 16); and The right hand of the Lord hath wrought strength (Ps. 117. 16). Therefore God is a body.
+
+166 Chap. 8 (PL 33, 334). 167 De Util. Cred., 3 (PL 42, 68). 168 PL 176, 184; Cf. De Scriptur. et Scriptor. Sacris., III (PL 175, II).
+
+### Obj. 4. Further, posture belongs only to bodies. But something which supposed posture is said of God in the Scriptures: I saw the Lord sitting (Isa. 6. 1), and He standeth up to judge (Isa. 3. 13). Therefore God is a body. Obj. 5. Further, only bodies or things corporeal can be a local term from
+
+which or to which. But in the Scriptures God is spoken of as a local term to
+
+### which, according to the words, Come ye to Him and be enlightened (Ps. 23. 6), and as a term from which: All they that depart from Thee shall be written in the earth (Jer. 17. 13). Therefore God is a body. On the contrary, It is written in the Gospel of St. John (4. 24): God is a spirit. I answer that, It is absolutely true that God is not a body; and this can be
+
+shown in three ways. First, because no body is in motion unless it be put in motion, as is evident from induction. Now it has been already proved (Q. II, A. 3), that God is the First Mover unmoved. Therefore it is clear that God is not a body. Secondly, because the first being must of necessity be in act, and in no way in potency. For although in one and the same thing that passes from potency to act, the potency is prior in time to the act, nevertheless, absolutely speaking, act is prior to potency. For whatever is in potency can be reduced to act only by some being in act. Now it has been already proved that God is the First Being. It is therefore impossible that in God there should be anything in potency. But every body is in potency, because the continuous, as such, is divisible to infinity. It is therefore impossible that God should be a body. Thirdly, because God is the most noble of beings as is clear from what was said above (Q. II, A. 3). Now it is impossible for a body to be the most noble of beings, for a body must be either animate inanimate, and an animate body is manifestly nobler than any inanimate body. But an animate body is not animate in so far as it is a body. Otherwise all bodies would be animate. Therefore its animation depends upon some other thing, as our body depends for its animation on the soul. Hence that by which a body becomes animated must be nobler than the body. Therefore it is impossible that God should be a body.
+
+### Reply Obj. 1. As we have said above (Q. I, A. 9.), Holy Writ puts before us
+
+spiritual and divine things under the likenesses of corporeal things. Hence, when it attributes to God the three dimensions under the likeness of corporeal quantity, it designates His virtual quantity; thus, by depth, it signifies His power of knowing hidden things; by height, the excellence of His power over all things; by length, the duration of His being; by breadth, 169
+
+### His act of love for all. Or, as Dionysius says (Div. Nom. ix.), by the depth of
+
+God is meant the incomprehensibility of His essence, by length, the 169 Sect. 9 (PG 3, 913). procession of His all-pervading power, by breadth, His overspreading all things, since, namely, all things lie under His protection.
+
+### Reply Obj. 2. Man is said to be after the image of God not as regards his
+
+body, but as regards that whereby he excels other animals. Hence, when it
+
+### is said, Let us make man to our image and likeness, it is added, And let him have dominion over the fishes of the sea (Gen. 1. 26). Now man excels all
+
+animals by his reason and intelligence. Hence it is according to his intelligence and reason, which are incorporeal, that man is said to be according to the image of God.
+
+### Reply Obj. 3. Corporeal parts are attributed to God in Scripture on account
+
+of His actions, and this is owing to a certain likeness. For instance the act of the eye is to see; hence the eye attributed to God signifies His power of seeing intellectually, not sensibly, and so on with the other parts.
+
+### Reply Obj. 4. Whatever pertains to posture, also, is only attributed to God by
+
+some sort of likeness. He is spoken of as sitting, on account of His unchangeableness and dominion, and as standing, on account of His power of overcoming whatever withstands Him.
+
+### Reply Obj. 5. We draw near to God by no corporeal steps, since He is
+
+everywhere, but by the affections of our mind, and in the same way we withdraw from Him. Thus, to draw near or to withdraw signifies merely spiritual affections based on the likeness of local motion.
+
+### AQUINAS: Summa Theologica, PART I, Q 3, A 2, REP 1-2 15c-16a Article 2. Whether God Is Composed of Matter and Form? We proceed thus to the Second Article: It seems that God is composed of
+
+matter and form.
+
+### Objection 1. For whatever has a soul is composed of matter and form, since
+
+the soul is the form of the body. But Scripture attributes a soul to God, for
+
+### it is mentioned in Hebrews (10. 38), where God says: But My just man liveth by faith; but if he withdraw himself, he shall not please My soul. Therefore
+
+God is composed of matter and form.
+
+### Obj. 2. Further, anger, joy, and the like are passions of the composite as is said in the book on the Soul.170 But these are attributed to God in Scripture: The Lord was exceeding angry with His people (Ps. 105. 40). Therefore God is
+
+composed of matter and form.
+
+### Obj. 3. Further, matter is the principle of individuation. But God seems to be
+
+individual, for He is not predicated of many. Therefore He is composed of matter and form.
+
+### On the contrary, Whatever is composed of matter and form is a body; for
+
+dimensive quantity is what first inheres in matter. But God is not a body as 170 Aristotle, 1, 1 (403a3). proved in the preceding Article. Therefore He is not composed of matter and form.
+
+### I answer that, It is impossible that matter should exist in God. First,
+
+because matter is that which is in potency. But we have shown (Q. II, A. 3) that God is pure act, without any potentiality. Hence it is impossible that God should be composed of matter and form. Secondly, because everything composed of matter and form is perfect and good through its form. Therefore its goodness is participated, according as matter participates the form. Now the first good and the best—namely God—is not a participated good, because the essential good is prior to the participated good. Hence it is impossible that God should be composed of matter and form. Thirdly, because every agent acts by its form. Hence the manner in which it has its form is the manner in which it is an agent. Therefore whatever is primarily and essentially an agent must be primarily and essentially form. Now God is the first agent, since He is the first efficient cause as we have shown (Q. II, A. 3). He is therefore of His essence a form, and not composed of matter and form.
+
+### Reply Obj. 1. A soul is attributed to God because His acts resemble the acts
+
+of a soul; for, that we will anything, is due to our soul. Hence what is pleasing to His will is said to be pleasing to His soul.
+
+### Reply Obj. 2. Anger and the like are attributed to God on account of a
+
+likeness of effect. Thus, because to punish is properly the act of an angry man, God’s punishment is metaphorically spoken of as His anger.
+
+### Reply Obj. 3. Forms which can be received in matter are individualized by
+
+matter, which cannot be in another since it is the first underlying subject; but form of itself, unless something else prevents it, can be received by many. But that form which cannot be received in matter, but is self-subsisting, is individualized precisely because it cannot be received in another; and such a form is God. Hence it does not follow that matter exists in God.
+
+### AQUINAS: Summa Theologica, PART I, Q 3, A 3, REP 1 16a-d Article 3. Whether God Is the Same As His Essence or Nature? We proceed thus to the Third Article: It seems that God is not the same as
+
+His essence or nature.
+
+### Objection 1. For nothing is in itself. But the essence or nature of God, which
+
+is the Godhead, is said to be in God. Therefore it seems that God is not the same as His essence or nature.
+
+### Obj. 2. Further, the effect is likened to its cause, for every agent produced
+
+its like. But in created things the suppositum is not identical with its nature, for a man is not the same as his humanity. Therefore God is not the same as His Godhead.
+
+### On the contrary, It is said of God that He is life, and not only that He is living: I am the way, the truth, and the life (John 14. 6). Now the relation
+
+between Godhead and God is the same as the relation between life and a living thing. Therefore God is His very Godhead.
+
+### I answer that, God is the same as His essence or nature. To understand this,
+
+it must be noted that in things composed of matter and form, the nature or essence must differ from the suppositum, because the essence or nature comprises in itself only what is included in the definition of the species; as, humanity comprises in itself all that is included in the definition of man, for it is by this that man is man, and it is this that humanity signifies, that, namely, whereby man is man.Now individual matter, with all its individualizing accidents, is not included in the definition of the species. One of the elements in this defect in imitation is that what is one and simple can be represented only by many things. And so there comes about in these effects composition, which renders suppositum distinct from nature in them. For this flesh, these bones, this blackness or whiteness, etc., are not included in the definition of a man. Therefore this flesh, these bones, and the accidents designating this matter, are not included in humanity; and yet they are included in the thing which is a man. Hence the thing which is a man has something in it which humanity does not have. Consequently humanity and a man are not wholly the same, but humanity is taken to mean the formal part of a man, because the principles by which a thing is defined are as the formal constituent in relation to the individualizing matter. On the other hand, in things not composed of matter and form, in which
+
+### individualization is not due to individual matter—that is to say, to this
+
+matter—the very forms being individualized of themselves,—it is necessary that the forms themselves should be subsisting supposita. Therefore suppositum and nature do not differ in them as we have shown above (A. 2.). Since God then is not composed of matter and form, He must be His own Godhead, His own Life, and whatever else is thus predicated of Him.
+
+### Reply Obj. 1. We can speak of simple things only as though they were like
+
+the composite things from which we derive our knowledge. Therefore, in speaking of God, we use concrete nouns to signify His subsistence, because with us only those things subsist which are composite; and we use abstract nouns to signify His simplicity. In saying therefore that Godhead, or life, or the like are in God, it must be ascribed to the diversity which lies in the way our intellect receives, and not to any diversity in reality.
+
+### Reply Obj. 2. The effects of God do not imitate Him perfectly, but only as far
+
+as they are able.
+
+### AQUINAS: Summa Theologica, PART I, Q 13, A 2, ANS and REP 1 63c-64d Article 2. Whether Any Name Can Be Applied to God Substantially? We proceed thus to the Second Article: It seems that no name can be
+
+applied to God substantially.
+
+### Objection 1. For Damascene says (De Fid. Orth. i, 9):171 “Everything said of God
+
+signifies not His substance, but rather shows forth what He is not; or expresses some relation, or something following from His nature or operation.”
+
+### Obj. 2. Further, Dionysius says (Div. Nom. i)172: “You will find a chorus of all
+
+the holy doctors addressed to the end of distinguishing clearly and praiseworthily the divine processions in the denominations of God.” Thus the names applied by the holy doctors in praising God are distinguished according to the divine processions themselves. But what expresses the procession of anything does not signify anything pertaining to its essence. Therefore the names applied to God are not said of Him substantially.
+
+### Obj. 3. Further, a thing is named by us according as we understand it. But
+
+God is not understood by us in this life in His substance. Therefore neither is any name we can use applied substantially to God.
+
+### On the contrary, Augustine says (De Trin. vi)173: “The being of God is the being
+
+strong, or the being wise, or whatever else we may say of that simplicity whereby His substance is signified.” Therefore all names of this kind signify the divine substance.
+
+### I answer that, Negative names applied to God or signifying His relation to
+
+creatures manifestly do not at ail signify His substance, but rather express the distance of the creature from Him, or His relation to something else, or rather, the relation of creatures to Himself. But as regards absolute and affirmative names of God, such as good, wise, and the like, various and many opinions have been given. For some have said that all such names, although they are applied to God affirmatively, nevertheless have been brought into use more to express some remotion from God rather than to place anything in Him. Hence they assert that when we say that God lives, we mean that God is not like an inanimate thing, and the same in like manner applies to other names; and this was taught by Rabbi Moses.174 Others175 say that these names applied to God signify His relationship towards creatures; thus in the words, “God is good,” we mean, God is the cause of goodness in things; and the same rule applies to other names. Both of these opinions, however, seem to be untrue for three reasons. First because in neither of them can a reason be assigned why some names more than others are applied to God. For He is assuredly the cause of 171 PG 94, 833. 172 Sect. 4 (PG 3, 589). 173 Chap. 4 (PL 42, 927). 174 Guide, 1, 58 (FR 82). 175 Alan of Lille, Theol. Reg., reg. 21, 26 (PL 210, 631, 633). bodies in the same way as He is the cause of good things; therefore if the words “God is good,” signified no more than, “God is the cause of good things,’' it might in like manner be said that God is a body, since He is the cause of bodies. So also to say that He is a body, takes away the notion that He is being in potency only as is prime matter. Secondly, because it would follow that all names applied to God would be said of Him by way of being taken in a secondary sense, as healthy is secondarily said of medicine, because it signifies only the cause of health in the animal which primarily is called healthy. Thirdly, because this is against the intention of those who speak of God, For in saying that God lives, they assuredly mean more than to say that He is the cause of our life, or that He differs from inanimate bodies. Therefore we must hold a different doctrine—namely, that these names signify the divine substance and are predicated substantially of God, although they fall short of a full representation of Him. Which is proved thus. For these names express God so far as our intellects know Him. Now since our intellect knows God from creatures, it knows Him as far as creatures represent Him. Now it was shown above (Q. IV, A. 2) that God possesses beforehand in Himself all the perfections of creatures, being Himself absolutely and universally perfect. Hence every creature represents Him, and is like Him so far as it possesses some perfection; yet it represents Him not as something of the same species or genus, but as the excelling principle of whose form the effects fall short, although they derive some kind of likeness to it, even as the forms of inferior bodies represent the power of the sun. This was explained above (Q. IV, A. 3), in treating of the divine perfection. Therefore these names signify the divine substance, but in an imperfect manner, even as creatures represent it imperfectly. So when we say, “God is good,” the meaning is not, “God is the cause of goodness,” or “God is not evil,” but the meaning is, “Whatever good we attribute to creatures pre-exists in God,” and in a higher way. Hence it does not follow that God is good because He causes goodness, but rather, on the contrary, He pours out goodness in things because He is good, according to what Augustine says,176 “Because He is good, we are.”
+
+### Reply Obj. 1. Damascene says that these names do not signify what God is,
+
+since by none of these names is perfectly expressed what He is, but each one signifies Him in an imperfect manner, even as creatures represent Him imperfectly.
+
+### Reply Obj. 2. In the signification of names, that from which the name is
+
+derived is different sometimes from what it is intended to signify, as for
+
+### instance this name “stone” (lapis) is imposed from the fact that it hurts the foot (lœdit pedem); but it is not imposed to signify that which hurts the
+
+176 Christian Doctrine, 1, 32 (PL 34, 32). foot, but rather to signify a certain kind of body; otherwise everything that hurts the foot would be a stone. So we must say that these kinds of divine names are imposed from the divine processions; for as according to the diverse processions of their perfections, creatures are the representations of God, although in an imperfect manner, so likewise our intellect knows and names God according to each kind of procession. But nevertheless these names are not imposed to signify the processions themselves, as if when we say “God lives,” the senses were, “life proceeds from Him,” but to signify the principle itself of things, in so far as life pre-exists in Him, although it pre-exists in Him in a more eminent way than can be understood or signified.
+
+### Reply Obj. 3. We cannot know the essence of God in this life, as He really is
+
+in Himself; but we know Him according as He is represented in the perfections of creatures; and thus the names imposed by us signify Him in that manner only.
+
+### AQUINAS: Summa Theologica, PART I, Q 13, A 3 64d-65c Article 3. Whether Any Name Can Be Applied to God Properly? We proceed thus to the Third Article: It seems that no name is applied
+
+properly to God.
+
+### Objection 1. For all names which we apply to God are taken from creatures,
+
+as was explained above (A. 1). But the names of creatures are applied to God metaphorically, as when we say, God is a stone, or a lion, or the like. Therefore names are applied to God in a metaphorical sense.
+
+### Obj. 2. Further, no name can be applied literally to anything if it should be
+
+withheld from it rather than given to it. But all such names as good, wise, and the like, are more truly withheld from God than given to Him, as
+
+### appears from what Dionysius says (Cœl. Hier. ii).177 Therefore none of these
+
+names belong to God in their proper sense.
+
+### Obj. 3. Further, corporeal names are applied to God in a metaphorical sense
+
+only, since He is incorporeal. But all such names imply some kind of corporeal condition, for their meaning is bound up with time and composition and like corporeal conditions. Therefore all these names are applied to God in a metaphorical sense.
+
+### On the contrary, Ambrose says (De Fide, ii),178 “Some names there are which
+
+express evidently the property of the divinity, and some which express the clear truth of the divine majesty, but others there are which are applied to God figuratively by way of similitude.” Therefore not all names are applied to God in a metaphorical sense, but there are some which are said of Him in their proper sense. 177 Sect. 3 (PG 3, 141). 178 Prologue (PL 16, 583).
+
+### I answer that, According to the preceding article, our knowledge of God is
+
+derived from the perfections which flow from Him to creatures, which perfections are in God in a more eminent way than in creatures. Now our intellect apprehends them as they are in creatures, and as it apprehends them it signifies them by names. Therefore as to the names applied to God, there are two things to be considered—namely, the perfections which they signify, such as goodness, life, and the like, and their mode of signification. As regards what is signified by these names, they belong properly to God, and more properly than they belong to creatures, and are applied primarily to Him. But as regards their mode of signification, they do not properly and strictly apply to God, for their mode of signification applies to creatures.
+
+### Reply Obj. 1. There are some names which signify these perfections flowing
+
+from God to creatures in such a way that the imperfect way in which creatures receive the divine perfection is part of the very signification of the name itself, as stone signifies a material being, and names of this kind can be applied to God only in a metaphorical sense. Other names, however, express these perfections absolutely, without any such mode of participation being part of their signification, as the words being, good, living, and the like, and such names can be properly applied to God.
+
+### Reply Obj. 2. Such names as these, as Dionysius shows, are denied of God
+
+for the reason that what the name signifies does not belong to Him in the ordinary sense of its signification, but in a more eminent way. Hence Dionysius says also that God is “above all substance and all life.”
+
+### Reply Obj. 3. These names which are applied to God properly imply
+
+corporeal conditions not in the thing signified, but as regards their mode of signification; but those which are applied to God metaphorically imply and mean a corporeal condition in the thing signified.
+
+### AQUINAS: Summa Theologica, PART I, Q 13, A 6, ANS and REP 2 67d-68c Article 6. Whether Names Are Predicated Primarily of Creatures Rather Than of God? We proceed thus to the Sixth Article: It seems that names are predicated
+
+primarily of creatures rather than of God.
+
+### Objection 1. For we name anything accordingly as we know it, since names,
+
+as the Philosopher says,179 are signs of ideas. But we know creatures before we know God. Therefore the names imposed by us are predicated primarily of creatures rather than of God. 180
+
+### Obj. 2. Further, Dionysius says (Div. Nom. i) that we name God from
+
+creatures. But names transferred from creatures to God are said primarily of creatures rather than of God, as lion, stone, and the like. Therefore all 179 Interpretation, I (16a3). 180 Sect. 6 (PG 3, 596). names applied to God and creatures are applied primarily to creatures rather than to God.
+
+### Obj. 3. Further, all names applied in common to God and creatures, “are applied to God as the cause of all things,” as Dionysius says ( De Myst. Theol.).181 But what is said of anything through its cause is applied to it
+
+secondarily; for “healthy” is primarily said of animal rather than of medicine, which is the cause of health. therefore these names are said primarily of creatures rather than of God.
+
+### On the contrary, It is written, I bow my knees to the Father of our Lord Jesus Christ, of Whom all paternity in heaven and earth is named (Eph. 3. 14, 15);
+
+and the same applies to the other names applied to God and creatures. Therefore these names are applied primarily to God rather than to creatures.
+
+### I answer that, In all names which are said of many in an analogical sense,
+
+they must all be said with reference to one thing, and therefore this one thing must be placed in the definition of them all. And since “the nature expressed by the name is the definition,” as the Philosopher says,182 such a name must be said primarily of that which is put in the definition of such other things, and secondarily to these others according to the order in which they approach more or less to that first. Thus, for instance, healthy applied to animals comes into the definition of healthy applied to medicine, which is called healthy as being the cause of health in the animal, and also into the definition of healthy which is applied to urine, which is called healthy in so far as it is the sign of the animal's health. Thus, all names which are said metaphorically of God, are said of creatures primarily rather than of God, because when said of God they mean only likenesses to such creatures. For as smiling said of a field means only that the field in the beauty of its flowering is like to the beauty of the human smile according to the likeness of proportion, so the name of lion said of God means only that God manifests strength in His works, as a lion in his. Thus it is clear that as they are said of God the signification of names can be defined only from what is said of creatures. But to other names not said of God in a metaphorical sense, the same rule would apply if they were spoken of God as the cause only, as some have supposed.183 For when it is said, "God is good," it would then only mean, "God is the cause of the creature's goodness"; thus the term good applied to God would included in its meaning the creature's goodness. Hence good would apply primarily to creatures rather than God. But as was shown above (A. 2), these names are applied to God not as the cause only, but also essentially. For the words, "God is good," or "wise," signify not only that He is 181 1, 2 (PG 3, 1000). 182 Metaphysics, IV, 7(1012a23). 183 Alan of Lille, Theol. Reg., REG. 21, 26 (PL 210, 631, 633). the cause of wisdom or goodness, but that these pre-exist in Him in a more excellent way. Hence as regards the things which the name signifies, these names are applied primarily to God rather than to creatures, because these perfections flow from God to creatures; but as regards the imposition of the names, they are primarily applied by us to creatures, which we know first. Hence they have a mode of signification which belongs to creatures, as said above (A. 3).
+
+### Reply Obj. 1. This objection refers to the imposition of the name. Reply Obj. 2. The same rule does not apply to metaphorical and to other
+
+names, as said above.
+
+### Reply Obj. 3. This objection would be valid if these names were said of God
+
+only as cause, and not also essentially, for instance as healthy is applied to medicine.
+
+### AQUINAS: Summa Theologica, PART I, Q 13, A 10, CONTRARY 72c-73c Article 10. Whether This Name God Is Applied to God Univocally, by Nature, by Participation, and According to Opinion? We proceed thus to the Tenth Article: It seems that this name God is applied
+
+to God univocally by nature, by participation, and according to opinion.
+
+### Objection 1. For where a diverse signification exists, there is no contradiction
+
+of affirmation and negation; for equivocation prevents contradiction. But a Catholic who says: “An idol is not God,” contradicts a pagan who says: “An idol is God.” Therefore God in both senses is spoken of univocally.
+
+### Obj. 2. Further, as an idol is God in opinion, and not in truth, so the
+
+enjoyment of carnal pleasures is called happiness in opinion, and not in truth. But this name happiness is applied univocally to this supposed happiness, and also to true happiness. Therefore also this name God is applied univocally to the true God, and to God also in opinion.
+
+### Obj. 3. Further, names are called univocal because they contain one idea.
+
+Now when a Catholic says: “There is one God,” he understands by the name God an omnipotent being, and one venerated above all; while the heathen understands the same when he says: “An idol is God.” Therefore this name God is applied univocally to both.
+
+### On the contrary, That which is in the intellect is the likeness of what is in the thing as is said in Interpretation.184 But the word animal applied to a
+
+true animal and to a picture of one is equivocal. Therefore this name God applied to the true God and to God in opinion is applied equivocally.
+
+### Further, No one can signify what he does not know. But the heathen does
+
+not know the divine nature. So when he says an idol is God, he does not signify the true Deity. On the other hand, a Catholic signifies the true Deity 184 Aristotle, I (16a5). when he says that there is one God. Therefore this name God is not applied univocally, but equivocally to the true God, and to God according to opinion.
+
+### I answer that, This name God in the three above significations is taken
+
+neither univocally nor equivocally, but analogically. This is apparent from this reason. Univocal terms mean absolutely the same thing, but equivocal terms absolutely different things; but in analogical terms a word taken in one signification must be placed in the definition of the same word taken in other senses; as, for instance, being which is applied to substance is placed in the definition of being as applied to accident; and healthy applied to animal is placed in the definition of healthy as applied to urine and medicine. For urine is the sign of health in the animal, and medicine is the cause of health. The same applies to the question at issue. For this name God, as signifying the true God, includes the idea of God when it is used to denote God in opinion, or participation. For when we name anyone god by participation, we understand by the name of god some likeness of the true God. Likewise, when we call an idol god, by this name god we understand and signify something which men think is God; thus it is manifest that the name has different meanings, but that one of them is comprised in the other significations. Hence it is manifestly said analogically.
+
+### Reply Obj. 1. The multiplication of names does not depend on the
+
+predication of the name, but on the signification: for this name man, of whomsoever it is predicated, whether truly or falsely, is predicated in one sense. But it would be multiplied if by the name man we meant to signify different things; for instance, if one meant to signify by this name man what man really is, and another meant to signify by the same name a stone, or something else. Hence it is evident that a Catholic saying that an idol is not God contradicts the pagan asserting that it is God; because each of them uses this name God to signify the true God. For when the pagan says an idol is God, he does not use this name as meaning God in opinion, for he would then speak the truth, as also Catholics sometimes use the name in
+
+### the sense, as in the Psalm, All the gods of the Gentiles are demons (Ps. 95.
+
+5).
+
+### The same remark applies to the second and third Objections. For those
+
+reasons proceed from the different predication of the name, and not from its various significations.
+
+### Reply Obj. 4. The term animal applied to a true and a pictured animal is not
+
+purely equivocal; for the Philosopher185 takes equivocal names in a large sense, including analogous names; because also being, which is predicated analogically, is sometimes said to be predicated equivocally of different predicaments. 185 Categories, I (1a1).
+
+### Reply Obj. 5. Neither a Catholic nor a pagan knows the very nature of God as
+
+it is in itself, but each one knows it according to some idea of causality, or excellence, or remotion (Q. XII, A. 12). So the Gentile can take this name God in the same way when he says an idol is God as the Catholic does in saying an idol is not God. But if anyone should be quite ignorant of God altogether, he could not even name Him, unless, perhaps, as we use names the meaning of which we know not.
+
+### AQUINAS: Summa Theologica, PART I, Q 34, A 1, ANS and REP 1, 4 185b-187b Article 1. Whether Word in God Is a Personal Name? We proceed thus to the First Article: It would seem that Word in God is not a
+
+personal name.
+
+### Objection 1. For personal names are applied to God in a proper sense, as
+
+Father and Son. But “Word is applied to God metaphorically,” as Origen
+
+### says186 on (John 1. 1), In the beginning was the Word. Therefore Word is not a
+
+personal name in God. 187
+
+### Obj. 2. Further, according to Augustine (De Trin. ix, 10), “The Word is knowledge with love”; and according to Anselm (Monol.),188 to speak is to
+
+the Supreme Spirit nothing but to see by thought. But knowledge and thought, and sight, are essential terms in God. Therefore Word is not a personal term in God.
+
+### Obj. 3. Further, it is essential to word to be spoken. But, according to Anselm (ibid. lxii), as the Father is intelligent, the Son intelligent, and the
+
+Holy Ghost intelligent, so the Father speaks, the Son speaks, and the Holy Ghost speaks; and likewise, each one of them is spoken. Therefore, the name Word is used as an essential term in God, and not in a personal sense.
+
+### Obj. 4. Further, no divine person is made. But the Word of God is something made. For it is said, Fire, hail, snow, ice, the storms which do His Word (Ps.
+
+148. 8). Therefore the Word is not a personal name in God.
+
+### On the contrary, Augustine says (De Trin. vii, 2):189 “As the Son is related to
+
+the Father, so also is the Word to Him Whose Word He is.” But Son is a personal name, since it is said relatively. Therefore so also is Word.
+
+### I answer that, The name of Word in God, if taken in its proper sense, is a
+
+personal name, and in no way an essential name. To see how this is true, we must know that our own word taken in its proper sense has a threefold meaning, while in a fourth sense it is taken improperly or figuratively. The clearest and most common sense is when it 186 PG 14, 59. 187 PL 42, 969. 188 Chap. 63 (PL 158, 208). 189 PL 42, 936. is said of the word spoken by the voice; and this proceeds from an interior source as regards two things found in the exterior word—that is, the vocal sound itself, and the signification of the sound. For, according to the Philosopher,190 vocal sound signifies the concept of the intellect. Again the vocal sound proceeds from the signification or the imagination, as stated in 191
+
+### the book on the Soul. The vocal sound, which has no signification, cannot
+
+be called a word: hence the exterior vocal sound is called a word because it signifies the interior concept of the mind. Thus, therefore first and chiefly, the interior concept of the mind is called a word; secondarily, the vocal sound itself, signifying the interior concept, is so called; and thirdly, the imagination of the vocal sound is called a word. Damascene mentions these
+
+### three kinds of words (De Fide Orthod. i, 13),192 saying that “word is called the
+
+natural movement of the intellect, whereby it is moved, and understands, and thinks, as light and splendour,” which is the first kind. “Again,” he says, “the word is what is not pronounced by a vocal word, but is uttered in the heart,” which is the third kind. “Again,” also, “the word is the angel”—that is, the messenger “of intelligence,” which is the second kind. Word is also used in a fourth way figuratively for that which is signified or effected by a word; thus we are accustomed to say, “this is the word I have said to you,” or “which the king has commanded,” alluding to some deed signified by the word either by way of assertion or of command. Now word is taken properly in God as signifying the concept of the intellect.
+
+### Hence Augustine says (De Trin. xv, 10):193 “Whoever can understand the word
+
+not only before it is sounded, but also before thought has clothed it with imaginary sound, can already see some likeness of that Word of Whom it is
+
+### said: In the beginning was the Word.” The concept itself of the heart has the
+
+nature of proceeding from something other than itself—namely, from the knowledge of the one conceiving. Hence Word, according as we use the term properly of God, signifies something proceeding from another, which belongs to the nature of personal terms in God, since the divine persons are distinguished by origin (Q. XXVII, Introd.; Q. XXXII, A. 3). Hence the term “Word,” according as we use the term properly of God, is to be taken as said not essentially, but personally only. 194
+
+### Reply Obj. 1. The Arians, who sprang from Origen, declared that the Son
+
+differed in substance from the Father. Hence, they endeavoured to maintain that when the Son of God is called the Word this is not to be understood in a proper sense, lest the idea of the Word proceeding should compel them to confess that the Son of God is of the same substance as the Father. For 190 a Interpretation, I (16 3). 191 b Aristotle, II, 8 (420 32). 192 PG 94, 857. 193 PL 42, 1071. 194 In Joann., II (PG 14, 109). the interior word proceeds in such a manner from the one who pronounces it as to remain within him. But supposing Word to be said metaphorically of God, we must still admit Word in its proper sense. For if a thing be called a word metaphorically, this can only be by reason of some manifestation; either it makes something manifest as a word, or it is manifested by a word. If manifested by a word, there must exist a word whereby it is manifested. If it is called a word because it exteriorly manifests, what it exteriorly manifests cannot be called word except in as far as it signifies the interior concept of the mind, which anyone may also manifest by exterior signs. Therefore, although Word may be sometimes said of God metaphorically, nevertheless we must also admit Word in the proper sense, which is said personally.
+
+### Reply Obj. 2. Nothing belonging to the intellect can be applied to God
+
+personally except word alone, for word alone signifies that which emanates from another. For what the intellect forms in its conception is the word. Now, the intellect itself, according as it is put in act by the intelligible species, is considered absolutely; likewise the act of understanding which is to the intellect in act what being is to being in act, since the act of understanding does not signify an act going out from the intelligent agent, but an act remaining in the agent. Therefore when we say that word is knowledge, the term knowledge does not mean the act of a knowing intellect, or any one of its habits, but stands for what the intellect
+
+### conceives by knowing. Hence also Augustine says (De Trin. vii, 2)195 that the
+
+Word is “begotten wisdom,” for it is nothing but the concept of the Wise One; and in the same way It can be called “begotten knowledge.” Thus also can be explained how to speak is in God to see by thought, since the Word is conceived by the gaze of the divine thought. Still the term thought does
+
+### not properly apply to the Word of God. For Augustine says ( De Trin. xv, 16)196:
+
+“Therefore do we speak of the Word of God, and not of the Thought of God, lest we believe that in God there is something unstable, now assuming the form of Word, now putting off that form and remaining latent and as it were formless.” For thought consists properly in the search after truth, and this has no place in God. But when the intellect attains to the form of truth, it
+
+### does not think, but perfectly contemplates the truth. Hence Anselm ( loc. cit.) takes thought in an improper sense for contemplation. Reply Obj. 3. As, properly speaking, Word in God is said personally, and not
+
+essentially, so likewise is “to speak.” Hence, as the Word is not common to the Father, Son, and Holy Ghost, so it is not true that the Father, Son, and 197
+
+### Holy Ghost are one speaker. So Augustine says (De Trin. vii, 1): “That
+
+co-eternal Word is understood as not alone in God.” On the other hand, “to 195 PL 42, 936. 196 PL 42, 1079. 197 PL 42, 933. be spoken” belongs to each Person, for not only is the word spoken, but also the thing understood or signified by the word. Therefore in this manner to one person alone in God does it belong to be spoken in the same way as a word is spoken; but in the way whereby a thing is spoken as being understood in the word, it belongs to each Person to be spoken. For the Father, by understanding Himself, the Son, and the Holy Ghost, and all other things comprised in this knowledge, conceives the Word, so that thus the whole Trinity is spoken in the Word, and likewise also all creatures; just as the intellect of a man by the word he conceives in the act of understanding a stone, speaks a stone. Anselm took the term speak improperly for the act of understanding, whereas they really from each other; for “to understand” means only the relation of the intelligent agent to the thing understood, in which relation no notion of origin is conveyed, but only a certain informing of our intellect, according as our intellect is put in act by the form of the thing understood. In God, however, it means complete identity, because in God the intellect and the thing understood are altogether the same, as was proved above (Q. XIV, AA. 2, 4). But to speak means chiefly the relation to the word conceived, for to speak is nothing but to utter a word. But by means of the word it signifies a relation to the thing understood which in the word uttered is manifested to the one who understands. Thus, only the Person who utters the Word is speaker in God, although each Person understands and is understood, and consequently is spoken by the Word.
+
+### Reply Obj. 4. The term word is taken there figuratively, as the thing signified
+
+or effected by word is called word. For thus creatures are said to do the word of God, as executing any effect to which they are ordained by the word conceived of the divine wisdom; just as anyone is said to do the word of the king when he does the work to which he is appointed by the king's word.
+
+### AQUINAS: Summa Theologica, PART I, Q 67, A 1 349d-350b Article 1. Whether the Word Light Is Used in Its Proper Sense in Speaking of Spiritual Things? We proceed thus to the First Article: It would seem that light is used in its
+
+proper sense in spiritual things.
+
+### Objection 1. For Augustine says (Gen. ad lit. iv, 28)198 that in spiritual things
+
+“light is better and surer; and that Christ is not called Light in the same sense as He is called the Stone; the former is to be taken literally, and the latter figuratively.”
+
+### Obj. 2. Further, Dionysius (Div. Nom. iv)199 includes Light among the
+
+intelligible names of God. But such names are used in their proper sense in 198 PL 34, 415. 199 Sect. 5 (PG 3, 700). spiritual things. Therefore light is used in its proper sense in spiritual matters.
+
+### Obj. 3. Further, the Apostle says (Eph. 5. 13): All that is made manifest is light. But to be made manifest belongs more properly to spiritual things
+
+than to corporeal. Therefore also does light. 200
+
+### On the contrary, Ambrose says (De Fid. ii) that Splendour is among those
+
+things which are said of God metaphorically.
+
+### I answer that, Any word may be used in two ways—that is to say, either in
+
+its original application or according to custom. This is clearly shown in the word “sight,” originally applied to the act of the sense, and then, as sight is the noblest and most trustworthy of the senses, extended in common speech to all knowledge obtained through the other senses. Thus we say, “See how it tastes,” or smells, or is hot. Further, sight is applied to
+
+### knowledge obtained through the intellect, as in those words: Blessed are the clean of heart, for they shall see God (Matt. 5. 8). And thus it is with the
+
+word light. In its primary meaning it signifies that which makes manifest to the sense of sight; afterwards it was extended to that which makes manifest to knowledge of any kind. If, then, the word is taken in its strict and primary meaning, it is to be understood metaphorically when applied to
+
+### spiritual things, as Ambrose says (loc. cit.). But if taken according to the
+
+usage of speech, as applied to manifestation of every kind, it may properly be applied to spiritual things. The answer to the objections will sufficiently appear from what has been said.
+
+### AQUINAS: Summa Theologica, PART I, Q 67, A 2, REP 3 350b-351a Article 2. Whether Light is a Body? We proceed thus to the Second Article: It would seem that light is a body.
+
+201
+
+### Objection 1. For Augustine says (De Lib. Arb. iii, 5) that “light takes the first
+
+place among bodies.” Therefore light is a body.
+
+### Obj. 2. Further, the Philosopher says202 that light is a species of fire. But fire
+
+is a body, and therefore so is light.
+
+### Obj. 3. Further, to be borne, to be divided, to be reflected, is proper to
+
+bodies; and all these are attributed to light and its rays. Moreover, different
+
+### rays of light, as Dionysius says (Div. Nom.),203 are united and separated,
+
+which seems impossible unless they are bodies. Therefore light is a body.
+
+### On the contrary, Two bodies cannot occupy the same place simultaneously.
+
+But this is the case with light and air. Therefore light is not a body. 200 Prol. (PL 16, 584). 201 PL 32, 1279. 202 Topics, V, 5 (134b29). 203 II, 4 (PG 3, 641).
+
+### I answer that, Light cannot be a body, which appears in three ways. First, on
+
+the part of place. For the place of any one body is different from that of any other, nor is it possible, naturally speaking, for any two bodies, of whatever nature, to exist simultaneously in the same place, since contiguity requires distinction of place. The second reason is from the nature of movement. For if light were a body, illumination would be the local motion of a body. Now no local motion of a body can be instantaneous, as everything that moves from one place to another must pass through the intervening space before reaching the end, whereas illumination is instantaneous. Nor can it be argued that the time required is too short to be perceived; for though this may be the case in short distances, it cannot be so in distances so great as that which separates the East from the West. Yet as soon as the sun is at the horizon, the whole hemisphere is illuminated from end to end. It must also be borne in mind on the part of movement that whereas all bodies have their natural determinate movement, that of light is indifferent as regards direction, working equally in a circle as in a straight line. Hence it appears that the diffusion of light is not the local motion of a body. The third reason is from generation and corruption. For if light were a body, it would follow that whenever the air is darkened by the absence of the luminary, the body of light would be corrupted, and its matter would receive a new form. But unless we are to say that darkness is a body, this does not appear to be the case. Neither does it appear from what matter a body can be daily generated large enough to fill the intervening hemisphere. Also it would be absurd to say that a body of so great bulk is corrupted by the mere absence of the luminary. And should anyone reply that it is not corrupted, but approaches and moves round with the sun, we may ask why it is that when a lighted candle is obscured by the intervening object the whole room is darkened? It is not that the light is condensed round the candle when this is done, since it burns no more brightly then than it burned before. Since, therefore, these things go against not only reason, but also the sense, we must conclude that light cannot be a body.
+
+### Reply Obj. 1. Augustine takes light to be a luminous body in act—in other
+
+words, to be fire, the noblest of the four elements.
+
+### Reply Obj. 2. Aristotle refers to light as fire existing in its proper matter; just as fire in aerial matter is called flame, or in earthly matter is called coal.
+
+Nor must too much attention be paid to the instances brought in by Aristotle in his works on logic, as he mentions them as probable opinions of other writers.
+
+### Reply Obj. 3. All these properties are assigned to light metaphorically, and
+
+might in the same way be attributed to heat. For because “motion from place to place is naturally the first of movements,” as is proved in the 204
+
+### Physics, we use terms belonging to local motion in speaking of alteration
+
+and movement of all kinds. For even the word distance is extended from
+
+### the idea of place, to that of all contraries, as is said in the Metaphysics.205 AQUINAS: Summa Theologica, PART I, Q 68, A 4, ANS 358b-359b Article 4. Whether There Is Only One Heaven? We proceed thus to the Fourth Article: It would seem that there is only one
+
+heaven.
+
+### Objection 1. For the heaven is contrasted with the earth, in the words, In the beginning God created heaven and earth. But there is only one earth.
+
+Therefore there is only one heaven.
+
+### Obj. 2. Further, that which consists of the entire sum of its own matter,
+
+must be one; and such is the heaven, as the Philosopher proves.206 Therefore there is but one heaven.
+
+### Obj. 3. Further, whatever is predicated of many things univocally is
+
+predicated of them according to some common notion. But if there are more heavens than one, they are so called univocally, for if equivocally only, they could not properly be called many. If, then, they are many, there must be some common motion by reason of which each is called heaven, but this common notion cannot be assigned. Therefore there cannot be more than one heaven.
+
+### On the contrary, It is said (Ps. 148. 4): Praise Him, ye heavens of heavens. I answer that, On this point there seems to be a diversity of opinion
+
+between Basil and Chrysostom. The latter says that there is only one heaven
+
+### (Hom. iv in Gen.),207 and that the words heavens of heavens are merely the
+
+translation of the Hebrew idiom according to which the word is always used in the plural, just as in Latin there are many nouns that are wanting in the
+
+### singular. On the other hand, Basil (Hom. iii in Hexaëm.),208 whom Damascene
+
+209
+
+### follows (De Fid. Orth. ii), says that there are many heavens. The difference,
+
+however, is more nominal than real. For Chrysostom means by the one heaven the whole body that is above the earth and the water, for which reason the birds that fly in the air are called birds of heaven. But since in this body there are many distinct parts, Basil said that there are more heavens than one. In order, then, to understand the distinction of heavens, it must be borne in mind that Scripture speaks of heaven in a threefold sense. Sometimes it uses the word in its proper and natural meaning, when it denotes that body on high which is luminous actually or potentially, and incorruptible by 204 a Aristotle, VIII, 7 (260 28). 205 a Aristotle, X, 4 (1055 9). 206 a Heavens, 1, 9 (279 7). 207 PG 53, 41. 208 PG 29, 56. 209 Chap. 6 (PG 94, 880, 884). nature. In this body there are three heavens; the first is the empyrean, which is wholly luminous210; the second is the aqueous or crystalline, wholly transparent; and the third is called the starry heaven, in part transparent, and in part actually luminous, and divided into eight spheres. One of these is the sphere of the fixed stars; the other seven, which may be called the eight heavens, are the spheres of the planets. In the second place, the name heaven is applied to a body that participates in any property of the heavenly body, as sublimity and luminosity, actual or
+
+### potential. Thus Damascene (ibid.) holds as one heaven all the space
+
+between the waters and the moon’s orb, calling it the aerial. According to him, then, there are three heavens, the aerial, the starry, and one higher than both these, of which the Apostle is understood to speak when he says
+
+### of himself that he was rapt to the third heaven (2 Cor. 12. 2).
+
+But since this space contains two elements, namely, fire and air, and in each of these there is what is called a higher and a lower region, Rabanus 211 subdivides this space into four distinct heavens. The higher region of fire he calls “the fiery heaven”; the lower, “the Olympian heaven” from a lofty mountain of that name; the higher region of air he calls, from its brightness, “the ethereal heaven,” the lower, the “aerial.” When, therefore, these four heavens are added to the three enumerated above, there are seven corporeal heavens in all, in the opinion of Rabanus. Thirdly, there are metaphorical uses of the word heaven, as when this name is applied to the Blessed Trinity, Who is the Light and the Most High Spirit.
+
+### It is explained by some, as thus applied, in the words, I will ascend into heaven, whereby the evil spirit is represented as seeking to make himself
+
+equal with God. Sometimes also spiritual goods, the recompense of the Saints, from being the highest of all good gifts, are signified by the word
+
+### heaven, and, in fact, are so signified, according to Augustine (De Serm. Dom.
+
+212
+
+### in Monte), in the words, Your reward is very great in heaven (Matt. 5. 12).
+
+Again, three kinds of supernatural visions, bodily, imaginative, and intellectual, are called sometimes so many heavens, in reference to which
+
+### Augustine (De Gen. ad lit. xii)213 expounds Paul’s rapture to the third heaven. Reply Obj. 1. The earth stands in relation to the heaven as the centre of a
+
+circle to its circumference. But as one centre may have many circumferences, so, though there is but one earth, there may be many heavens. 210 This and the following names are found in Glossa ordin., on Gen. 1. 1 (1, 23F); Bede, In Pentat., Bk. I, on Gen. 1. 1 (PL 91, 192); on the names, disposition and number of the heavens, see Alexander of Hales, Summa Theol., I-II, n. 266 (QR II, 327); Albert, In Sent., II, d. XV, A. 3 (BO XXVII, 275); Summa de Creatur., Pt. I, tr. 3, Q. 10 (BO XXXIV, 415); Bonaventure, In Sent., II, d. ii, dub. 2 (QR II, 85). Cf. Denifle, Chartularium, n. 128 (I, 171). 211 Bede, In Pentat., on Gen. 1. 1 (PL 91, 192). 212 I, 5 (PL 34, 1237). 213 Chap. 28, 29, 34 (PL 34, 478, 479, 482).
+
+### Reply Obj. 2. The argument holds good as to the heaven, in so far as it
+
+denotes the entire sum of corporeal creation, for in that sense it is one.
+
+### Reply Obj. 3. All the heavens have in common sublimity and some degree of
+
+luminosity, as appears from what has been said.
+
+## 20 AQUINAS: Summa Theologica, PART I-II, Q 1OO, A 2, REP 2 252b-253a; PART III, Q 8, A 1, REP 2 756d-757c
+
+
+### Summa Theologica, PART I-II, Q 1OO, A 2, REP 2 252b-253a Article 2. Whether the Moral Precepts of the Law Are About All the Acts of Virtue? We proceed thus to the Second Article: It would seem that the moral
+
+precepts of the Law are not about all the acts of virtue.
+
+### Objection 1. For observance of the precepts of the Old Law is called justification, according to Ps. 118. 8: I will keep Thy justifications. But
+
+justification is the execution of justice. Therefore the moral precepts are not only about acts of justice.
+
+### Obj. 2. Further, that which comes under a precept has the character of a
+
+duty. But the character of duty belongs to justice alone and to none of the other virtues, for the proper act of justice consists in rendering to each one his due. Therefore the precepts of the moral law are not about the acts of the other virtues, but only about the acts of justice.
+
+### Obj. 3. Further, every law is made for the common good, as Isidore says
+
+214
+
+### (Etym. V, 21). But of all the virtues justice alone regards the common good,
+
+as the Philosopher says.215 Therefore the moral precepts are only about the acts of justice.
+
+### On the contrary, Ambrose says (De Paradiso viii)216 that “a sin is a
+
+transgression of the Divine law, and a disobedience to the commandments of heaven.” But there are sins contrary to all the acts of virtue. Therefore it belongs to the Divine law to direct all the acts of virtue.
+
+### I answer that, Since the precepts of the Law are ordered to the common
+
+good, as stated above (Q. XC, A. 2), the precepts of the Law must be diversified according to the various kinds of community; hence the 217 Philosopher teaches that the laws which are made in a state which is ruled by a king must be different from the laws of a state which is ruled by the people, or by a few powerful men in the state. Now human law is ordained for one kind of community, and the Divine law for another kind. Because human law is ordained for the civil community, implying mutual duties of man and his fellows, and men are ordered to one another by 214 PL 82, 203; 11, 10 (PL 82, 131). 215 Ethics, V, I (1130a4). 216 PL 14, 309. 217 Politics, IV, I (1289a11). outward acts, by which men live in communion with one another. This life in common of man with man pertains to justice, whose proper function consists in directing the human community. Therefore human law makes precepts only about acts of justice; and if it commands acts of other virtues, this is only in so far as they assume the nature of justice, as the 218 Philosopher explains. But the community for which the Divine law is ordained is that of men in relation to God, either in this life or in the life to come. And therefore the Divine law proposes precepts about all those matters by which men are well ordered in their relations to God. Now man is united to God by his reason or mind, in which is God's image. Therefore the Divine law proposes precepts about all those matters by which human reason is well ordered. But this is effected by the acts of all the virtues, since the intellectual virtues set in good order the acts of the reason in themselves, while the moral virtues set in good order the acts of the reason in reference to the interior passions and exterior actions. It is therefore evident that the Divine law fittingly proposes precepts about the acts of all the virtues, yet so that certain matters, without which the order of virtue, which is the order of reason, cannot even exist, come under an obligation of precept, while other matters, which pertain to the well-being of perfect virtue, come under an admonition of counsel.
+
+### Reply Obj. 1. The fulfillment of the commandments of the Law, even of
+
+those which are about the acts of the other virtues, has the character of justification, since it is just that man should obey God; or again, because it is just that all that belongs to man should be subject to reason.
+
+### Reply Obj. 2. Justice properly so called regards the duty of one man to
+
+another; but all the other virtues regard the duty of the lower powers to reason. It is in relation to this latter duty that the Philosopher speaks of a 219 kind of metaphorical justice. The Reply to the Third Objection is clear from what has been said about the different kinds of community.
+
+### Summa Theologica, PART III, Q 8, A 1, REP 2 756d-757c Article 1. Whether Christ Is the Head of the Church? We proceed thus to the First Article: It would seem that it does not belong
+
+to Christ as man to be Head of the Church.
+
+### Objection 1. For the head imparts sense and motion to the members. Now
+
+spiritual sense and motion which are by grace, and not imparted to us by 220
+
+### the Man Christ, because, as Augustine says (De Trin. XV, 26), not even
+
+218 Ethics, V, I (1129b23). 219 Ethics, V, II (1138b5). 220 PL 42, 1093. Christ, as man, but only as God, bestows the Holy Ghost. Therefore it does not belong to Him as man to be Head of the Church.
+
+### Obj. 2. Further, it is not fitting for the head to have a head. But God is the Head of Christ, as man, according to I Cor. 11. 3, The Head of Christ is God.
+
+Therefore Christ Himself is not a head.
+
+### Obj. 3. Furthermore, the head of a man is a particular member, receiving an
+
+influx from the heart. But Christ is the universal principle of the whole Church. Therefore He is not the Head of the Church.
+
+### On the contrary, It is written (Eph. 1. 22): And He . . . hath made Him head over all the Church. I answer that, As the whole Church is termed one mystic body from its
+
+likeness to the natural body of a man, which in various members has various acts, as the Apostle teaches (Rom. 12. 4; Cor. 12. 12), so likewise Christ is called the Head of the Church from a likeness with the human head, in which we may consider three things, namely, order, perfection, and power. Order, because the head is the first part of man, beginning from the higher part; and hence it is that every principle is usually called a head
+
+### according to Ezech. 16. 24: At every head of the way, thou hast set up a sign of thy prostitution. Perfection, because in the head dwell all the senses,
+
+both interior and exterior, whereas in the other members there is only
+
+### touch, and hence it is said (Isa. 9. 15): The aged and honorable, he is the head. Power, because the power and movement of the other members,
+
+together with the direction of them in their acts, is from the head, by reason of the sensitive and motive power there ruling; hence the ruler is
+
+### called the head of a people, according to I Kings 15. 17: When thou wast a little one in thy own eyes, wast thou not made the head of the tribes of Israel?
+
+Now these three things belong spiritually to Christ. First, on account of His nearness to God His grace is the highest and first, though not in time, since all have received grace on account of His grace,
+
+### according to Rom. 8. 29: For whom He foreknew, He also predestinated to be made conformable to the image of His Son; that He might be the first-born amongst many brethren. Secondly, He had perfection as regards the fulness of all graces, according to John 1. 14, We saw Him (Vulg., His glory) . . . full of grace and truth, as was shown, Q. VII, A. 9. Thirdly, He has the power of
+
+bestowing grace on all the members of the Church, according to John 1. 16:
+
+### Of His fulness we have all received. And thus it is plain that Christ is fittingly
+
+called the Head of the Church.
+
+### Reply Obj. 1. To give grace or the Holy Ghost belongs to Christ as He is God,
+
+as originator; but instrumentally it belongs also to Him as man, since His manhood is the instrument of His Godhead. And hence by the power of the Godhead His actions were health-bringing to us—that is, by causing grace in us, both meritoriously and efficiently. But Augustine denies that Christ as man gives the Holy Ghost as originator. Even other saints are said to give
+
+### the Holy Ghost instrumentally, or ministerially, according to Gal 3. 5: He . . . who giveth to you the Spirit, etc. Reply Obj. 2. In metaphorical speech we must not expect a likeness in all
+
+respects, for thus there would be not likeness but identity. Accordingly a natural head has not another head because one human body is not part of another; but a metaphorical body—that is, an ordered multitude—is part of another multitude as the domestic multitude is part of the civil multitude; and hence the father who is head of the domestic multitude has a head above him—that is, the civil governor. And so there is no reason why God should not be the head of Christ, although Christ Himself is Head of the Church.
+
+### Reply Obj. 3. The head has a manifest preeminence over the other exterior
+
+members, but the heart has a certain hidden influence. And hence the Holy Ghost is likened to the heart, since He invisibly quickens and unifies the Church; but Christ is likened to the Head in His visible nature in which man is set over man.
+
+## 23 HOBBES: Leviathan, PART I, 55b; 59d; 61c; PART III, 176d-177d; 181d; 193d-195d
+
+
+### Leviathan, PART I, 55b
+
+To these uses, there are also four correspondent abuses. First, when men register their thoughts wrong by the inconstancy of the signification of their words; by which they register for their conceptions that which they never conceived, and so deceive themselves. Secondly, when they use words metaphorically; that is, in other sense than that they are ordained for, and thereby deceive others. Thirdly, when by words they declare that to be their will which is not. Fourthly, when they use them to grieve one another: for seeing nature hath armed living creatures, some with teeth, some with horns, and some with hands, to grieve an enemy, it is but an abuse of speech to grieve him with the tongue, unless it be one whom we are obliged to govern; and then it is not to grieve, but to correct and amend. The manner how speech serveth to the remembrance of the consequence
+
+### of causes and effects consisteth in the imposing of names, and the
+
+connexion of them.
+
+### Leviathan, PART I, 59d
+
+2. The second cause of absurd assertions, I ascribe to the giving of names
+
+### of bodies to accidents; or of accidents to bodies; as they do that say, faith is infused, or inspired; when nothing can be poured, or breathed into anything, but body; and that extension is body; that phantasms are spirits,
+
+etc. 3. The third I ascribe to the giving of the names of the accidents of bodies
+
+### without us to the accidents of our own bodies; as they do that say, the colour is in the body; the sound is in the air, etc.
+
+4. The fourth, to the giving of the names of bodies to names, or speeches;
+
+### as they do that say that there be things universal; that a living creature is genus, or a general thing, etc.
+
+5. The fifth, to the giving of the names of accidents to names and speeches;
+
+### as they do that say, the nature of a thing is its definition; a man’s command is his will; and the like.
+
+6. The sixth, to the use of metaphors, tropes, and other rhetorical figures, instead of words proper. For though it be lawful to say, for example, in
+
+### common speech, the way goeth, of leadeth hither, or thither; the proverb says this or that (whereas ways cannot go, nor proverbs speak); yet in
+
+reckoning, and seeking of truth, such speeches are not to be admitted.
+
+### Leviathan, PART I, 61c So also do the Greek words for the same, which are ὁρμὴ and ἀφορμὴ. For
+
+Nature itself does often press upon men those truths which afterwards, when they look for somewhat beyond Nature, they stumble at. For the Schools find in mere appetite to go, or move, no actual motion at all; but
+
+### because some motion they must acknowledge, they call it metaphorical motion, which is but an absurd speech; for though words may be called
+
+metaphorical, bodies and motions cannot. That which men desire they are also said to love, and to hate those things for which they have aversion. So that desire and love are the same thing;
+
+### save that by desire, we always signify the absence of the object; by love, most commonly the presence of the same. So also by aversion, we signify the absence; and by hate, the presence of the object.
+
+Of appetites and aversions, some are born with men; as appetite of food, appetite of excretion, and exoneration (which may also and more properly be called aversions, from somewhat they feel in their bodies), and some other appetites, not many. The rest, which are appetites of particular things, proceed from experience and trial of their effects upon themselves or other men. For of things we know not at all, or believe not to be, we can have no further desire than to taste and try. But aversion we have for things, not only which we know have hurt us, but also that we do not know whether they will hurt us, or not.
+
+### Leviathan, PART III, 176d-177d On the signification of the word spirit dependeth that of the word inspiration; which must either be taken properly, and then it is nothing but
+
+the blowing into a man some thin and subtle air or wind in such manner as a man filleth a bladder with his breath; or if spirits be not corporeal, but have their existence only in the fancy, it is nothing but the blowing in of a phantasm; which is improper to say, and impossible; for phantasms are not, but only seem to be, somewhat. That word therefore is used in the Scripture metaphorically only: as where it is said that God inspired into man the breath of life,221 no more is meant than that God gave unto him vital motion. For we are not to think that God made first a living breath, and then blew it into Adam after he was made, whether that breath were real or seeming; but only as it is “that he gave him life, and breath”;222 that is, made him a living creature. And where it is said “all Scripture is given by inspiration from God,” 223 speaking there of the Scripture of the Old Testament, it is an easy metaphor to signify that God inclined the spirit or mind of those writers to write that which should be useful in teaching, reproving, correcting, and instructing men in the way of righteous living. But where St. Peter saith that “Prophecy came not in old time by the will of man, but the holy men of God spake as they were moved by the Holy Spirit,” 224
+
+### by the Holy Spirit is meant the voice of God in a dream or vision
+
+supernatural, which is not inspiration: nor when our Saviour, breathing on His Disciples, said, “Receive the Holy Spirit, was that breath the Spirit, but a sign of the spiritual graces he gave unto them. And though it be said of many, and of our Saviour Himself, that he was full of the Holy Spirit; yet that fullness is not to be understood for infusion of the substance of God, but for accumulation of his gifts, such as are the gift of sanctity of life, of tongues, and the like, whether attained supernaturally or by study and industry; for in all cases they are the gifts of God. So likewise where God says, “I will pour out my Spirit upon all flesh, and your sons and your daughters shall prophesy, your old men shall dream dreams, and your young men shall see visions,” 225 we are not to understand it in the proper sense, as if his Spirit were like water, subject to effusion or infusion; but as if God had promised to give them prophetical dreams and visions. For the proper
+
+### use of the word infused, in speaking of the graces of God, is an abuse of it;
+
+for those graces are virtues, not bodies to be carried hither and thither, and to be poured into men as into barrels.
+
+### In the same manner, to take inspiration in the proper sense, or to say that
+
+good spirits entered into men to make them prophesy, or evil spirits into those that became phrenetic, lunatic, or epileptic, is not to take the word in the sense of the Scripture; for the Spirit there is taken for the power of
+
+### God, working by causes to us unknown. As also the wind that is there said
+
+to fill the house wherein the Apostles were assembled on the day of 221 Genesis, 2. 7. 222 Acts, 17. 25. 223 II Timothy, 3. 16. 224 II Peter, 1. 21. 225 Joel, 2. 28. 226
+
+### Pentecost is not to be understood for the Holy Spirit, which is the Deity
+
+itself; but for an external sign of God’s special working on their hearts to effect in them the internal graces and holy virtues He thought requisite for the performance of their apostleship. CHAPTER XXXV
+
+### Of the Signification in Scripture of Kingdom of God, of Holy, Sacred, and Sacrament The kingdom of God in the writings of divines, and specially in sermons and
+
+treatises of devotion, is taken most commonly for eternal felicity, after this
+
+### life, in the highest heaven, which they also call the kingdom of glory; and
+
+sometimes for the earnest of that felicity, sanctification, which they term
+
+### the kingdom of grace; but never for the monarchy, that is to say, the
+
+sovereign power of God over any subjects acquired by their own consent, which is the proper signification of kingdom. To the contrary, I find the kingdom of God to signify in most places of Scripture a kingdom properly so named, constituted by the votes of the people of Israel in peculiar manner, wherein they chose God for their king by covenant made with Him, upon God’s promising them the possession of the land of Canaan; and but seldom metaphorically; and then it is taken for dominion over sin (and only in the New Testament), because such a dominion as that every subject shall have in the kingdom of God, and without prejudice to the sovereign. From the very creation, God not only reigned over all men naturally by His might, but also had peculiar subjects, whom He commanded by a voice, as one man speaketh to another. In which manner He reigned over Adam and gave him commandment to abstain from the tree of cognizance of good and evil; which when he obeyed not, but tasting thereof took upon him to be as God, judging between good and evil, not by his Creator’s commandment, but by his own sense, his punishment was a privation of the estate of eternal life, wherein God had at first created him: and afterwards God punished his posterity for their vices, all but eight persons, with a universal deluge; and in these eight did consist the then kingdom of God.
+
+### Leviathan, PART III, 181d The word of God, as it is taken for that which He hath spoken, is understood
+
+sometimes properly, sometimes metaphorically. Properly, as the words He hath spoken to His prophets: metaphorically, for His wisdom, power, and eternal decree, in making the world; in which sense, those fiats, “Let their be light, Let there be a firmament, Let us make man,” etc.227 are the word of God. And in the same sense it is said, “All things were made by it, and 226 Acts, 2. 2. 227 Genesis, I. 228 without it was nothing made that was made”: and “He upholdeth all things by the word of His power”;229 that is, by the power of His word; that is, by His power: and “The worlds were framed by the word of God”; 230 and many other places to the same sense: as also amongst the Latins, the
+
+### name of fate, which signifieth properly the word spoken, is taken in the
+
+same sense.
+
+### Leviathan, PART III, 193d-195d
+
+As the kingdom of God, and eternal life, so also God’s enemies, and their torments after judgement, appear by the Scripture to have their place on earth. The name of the place where all men remain till the resurrection, that were either buried or swallowed up of the earth, is usually called in
+
+### Scripture by words that signify under ground; which the Latins read generally infernus and inferi, and the Greeks ἅδησ; that is to say, a place
+
+where men cannot see; and containeth as well the grave as any other deeper place. But for the place of the damned after the resurrection, it is not determined, neither in the Old nor New Testament, by any note of situation, but only by the company: as that it shall be where such wicked men were, as God in former times in extraordinary and miraculous manner had destroyed from off the face of the earth: as, for example, that they are in Inferno, in Tartarus, or in the bottomless pit; because Corah, Dathan, and Abiram were swallowed up alive into the earth. Not that the writers of the Scripture would have us believe there could be in the globe of the earth, which is not only finite, but also, compared to the height of the stars, of no considerable magnitude, a pit without a bottom; that is, a hole of infinite depth, such as the Greeks in their demonology (that is to say, in their
+
+### doctrine concerning demons), and after them the Romans, called Tartarus;
+
+of which Virgil says,
+
+### Bis patet in prœceps, tantum tendítque sub umbras, Quantus ad œthereum cœli suspectus Olympum:
+
+for that is a thing the proportion of earth to heaven cannot bear: but that we should believe them there, indefinitely, where those men are, on whom God inflicted that exemplary punishment. Again, because those mighty men of the earth that lived in the time of
+
+### Noah, before the flood (which the Greeks called heroes, and the Scripture giants, and both say were begotten by copulation of the children of God
+
+with the children of men), were for their wicked life destroyed by the general deluge, the place of the damned is therefore also sometimes marked out by the company of those deceased giants; as Proverbs, 21. 16, “The man that wandereth out of the way of understanding shall remain in 228 John, 1. 3. 229 Hebrews, 1. 3. 230 Ibid., 11. 3. the congregation of the giants,” and Job, 26. 5, “Behold the giants groan under water, and they that dwell with them.” Here the place of the damned is under the water. And Isaiah, 14. 9, “Hell is troubled how to meet thee” (that is, the King of Babylon) “and will displace the giants for thee”: and here again the place of the damned, if the sense be literal, is to be under water. Thirdly, because the cities of Sodom and Gomorrah, by the extraordinary wrath of God, were consumed for their wickedness with fire and brimstone, and together with them the country about made a stinking bituminous lake, the place of the damned is sometimes expressed by fire, and a fiery lake: as in the Apocalypse, 21. 8, “But the timorous, incredulous, and abominable, and murderers, and whoremongers, and sorcerers, and idolaters, and all liars, shall have their part in the lake that burneth with fire and brimstone; which is the second death.” So that it is manifest that hell fire, which is here expressed by metaphor, from the real fire of Sodom, signifieth not any certain kind or place of torment, but is to be taken indefinitely for destruction, as it is in Revelation, 20, at the fourteenth verse, where it is said that “Death and hell were cast into the lake of fire”; that is to say, were abolished and destroyed; as if after the day of judgement there shall be no more dying, nor no more going into hell; that is, no more going to Hades
+
+### (from which word perhaps our word hell is derived), which is the same with
+
+no more dying. Fourthly, from the plague of darkness inflicted on the Egyptians, of which it is written, “They saw not one another, neither rose any man from his place for three days; but all the children of Israel had light in their dwellings”; 231
+
+### the place of the wicked after judgement is called utter darkness, or, as it is in the original, darkness without. And so it is expressed where the king
+
+commandeth his servants, "to bind hand and foot the man that had not on
+
+### his wedding garment and to cast him into,” εἰς τὸ σκότος τὸ ἐξώτερον,
+
+“external darkness,” 232 or “darkness without”: which, though translated
+
+### “utter darkness,” does not signify how great, but where that darkness is to
+
+be; namely, without the habitation of God’s elect.
+
+### Lastly, whereas there was a place near Jerusalem called the Valley of the Children of Hinnon, in a part whereof called Tophet the Jews had committed
+
+most grievous idolatry, sacrificing their children to the idol Moloch; and wherein also God had afflicted His enemies with most grievous punishments; and wherein Josiah had burnt the priests of Moloch upon their own altars, as appeareth at large in II Kings, Chapter 23; the place served afterwards to receive the filth and garbage which was carried thither out of the city; and there used to be fires made, from time to time, to purify the air and take away the stench of carrion. From this abominable 231 Exodus, 10. 23. 232 Matthew, 22. 13. place, the Jews used ever after to call the place of the damned by the
+
+### name of Gehenna, or Valley of Hinnon. And this Gehenna is that word which is usually now translated hell; and from the fires from time to time there
+
+burning, we have the notion of everlasting and unquenchable fire. Seeing now there is none that so interprets the Scripture as that after the day of judgement the wicked are all eternally to be punished in the Valley of Hinnon; or that they shall so rise again as to be ever after underground or underwater; or that after the resurrection they shall no more see one another, nor stir from one place to another; it followeth, methinks, very necessarily, that that which is thus said concerning hell fire is spoken metaphorically; and that therefore there is a proper sense to be enquired after (for of all metaphors there is some real ground, that may be expressed in proper words), both of the place of hell, and the nature of hellish torments and tormenters. And first for the tormenters, we have their nature and properties exactly and properly delivered by the names of the enemy, or Satan; the Accuser, or
+
+### Diabolus; the Destroyer, or Abaddon. Which significant names, Satan, Devil, Abaddon, set not forth to us any individual person, as proper names use to
+
+do, but only an office or quality; and are therefore appellatives; which ought not to have been left untranslated, as they are in the Latin and modern Bibles, because thereby they seem to be the proper names of demons; and men are the more easily seduced to believe the doctrine of devils, which at that time was the religion of the Gentiles, and contrary to that of Moses and of Christ.
+
+### And because by the Enemy, the Accuser, and Destroyer is meant the enemy
+
+of them that shall be in the kingdom of God; therefore if the kingdom of God after the resurrection be upon the earth (as in the former chapter I have shown by Scripture it seems to be), the enemy and his kingdom must be on earth also. For so also was it in the time before the Jews had deposed God. For God’s kingdom was in Palestine; and the nations round about were the kingdoms of the Enemy; and consequently by Satan is meant any earthly enemy of the Church. The torments of hell are expressed sometimes by “weeping, and gnashing of teeth,” as Matthew, 8. 12; sometimes, by “the worm of conscience,” as Isaiah, 66. 24, and Mark, 9. 44, 46, 48; sometimes, by fire, as in the place now quoted, “where the worm dieth not, and the fire is not quenched,” and many places besides: sometimes, by “shame, and contempt,” as, “And many of them that sleep in the dust of the earth shall awake; some to everlasting 233 life; and some to shame, and everlasting contempt.” All which places design metaphorically a grief and discontent of mind from the sight of that eternal felicity in others which they themselves through their own 233 Daniel, 12. 2. incredulity and disobedience have lost. And because such felicity in others is not sensible but by comparison with their own actual miseries, it followeth that they are to suffer such bodily pains and calamities as are incident to those who not only live under evil and cruel governors, but have also for enemy the eternal king of the saints, God Almighty. And amongst these bodily pains is to be reckoned also to every one of the wicked a second death. For though the Scripture be clear for a universal resurrection, yet we do not read that to any of the reprobate is promised an eternal life. For whereas St. Paul, to the question concerning what bodies men shall rise with again, saith that “the body is sown in corruption, and is raised in incorruption; it is sown in dishonour, it is raised in glory; it is sown in weakness, it is raised in power”;234 glory and power cannot be applied to the
+
+### bodies of the wicked: nor can the name of second death be applied to
+
+those that can never die but once. And although in metaphorical speech a
+
+### calamitous life everlasting may be called an everlasting death, yet it cannot well be understood of a second death. The fire prepared for the wicked is
+
+an everlasting fire: that is to say, the estate wherein no man can be without torture, both of body and mind, after the resurrection, shall endure for ever; and in that sense the fire shall be unquenchable, and the torments everlasting: but it cannot thence be inferred that he who shall be cast into that fire, or be tormented with those torments, shall endure and resist them so as to be eternally burnt and tortured, and yet never be destroyed nor die. And though there be many places that affirm everlasting fire and torments, into which men may be cast successively one after another for ever, yet I find none that affirm there shall be an eternal life therein of any individual person; but to the contrary, an everlasting death, which is the second death: “For after death and the grave shall have delivered up the dead which were in them, and every man be judged according to his works; death and the grave shall also be cast into the lake of fire. This is the second death.” 235 Whereby it is evident that there is to be a second death of every one that shall be condemned at the day of judgement, after which he shall die no more. The joys of life eternal are in Scripture comprehended all under the name of
+
+### salvation, or being saved. To be saved is to be secured, either respectively,
+
+against special evils, or absolutely, against all evil, comprehending want, sickness, and death itself. And because man was created in a condition immortal, not subject to corruption, and consequently to nothing that tendeth to the dissolution of his nature; and fell from that happiness by the sin of Adam; it followeth that to be saved from sin is to be saved from all the evil and calamities that sin hath brought upon us. 234 I Corinthians, 15. 42, 43. 235 Revelation, 20. 13, 14.
+
+## 25 MONTAIGNE: Essays, 422c-423c
+
+What Virgil says of Venus and Vulcan, Lucretius had better expressed of a stolen enjoyment betwixt her and Mars:
+
+### Belli fera mœmera Mavors Armipotens regit, in gremium qui sæpe tuum se Rejicit, æterno devinctus vulnere amoris: . . . . Pascit amore avidos inhians in te, Dea, visus, Eque tuo pendet resupini spiritus ore: Hunc tu, Diva, tuo recubantem corpore sancto Circumfusa super, suaveis ex ore loquelas
+
+Funde.236
+
+### When I consider this rejicit, pascit, inhians, molli, fovet, medullas, labefacta, pendet, percurrit, and that noble circumfusa, mother of the gentle infusus; I
+
+contemn those little quibbles and verbal allusions that have been since in use. Those worthy people stood in need of no subtilty to disguise their meaning; their language is downright, and full of natural and continued vigour; they are all epigram; not only the tail, but the head, body, and feet. There is nothing forced, nothing languishing, but everything keeps the same
+
+### pace: Contextus totus virilis est; non sunt circa flosculos occupati.237 ’Tis not
+
+a soft eloquence, and without offence only; ’tis nervous and solid, that does not so much please, as it fills and ravishes the greatest minds. When I see these brave forms of expression, so lively, so profound, I do not say that ’tis Well said, but Well thought. ’Tis the sprightliness of the imagination that
+
+### swells and elevates the words: Pectus est quod disertum facit.238 Our people
+
+call language, judgment, and fine words, full conceptions. This painting is not so much carried on by dexterity of hand, as by having the object more vividly imprinted in the soul. Gallus speaks simply, because he conceives simply: Horace does not content himself with a superficial expression; that would betray him; he sees farther and more clearly into things; his mind breaks into and rummages all the magazine of words and figures wherewith to express himself, and he must have them more than ordinary, because his conception is so. Plutarch says,239 that he sees the Latin tongue by the things: ’tis here the same: the sense illuminates and produces the words, no more words of air, but of flesh and bone; they signifie more than they say. Moreover, those who are not well skilled in a language, present some 236 Mars, the god of wars, who controls the cruel tasks of war, often reclines on thy bosom, and greedily drinks love at both his eyes, vanquished by the eternal wound of love: and his breath, as he reclines, hangs on thy lips; bending thy head over him as he lies upon thy sacred person, pour forth sweet and persuasive words.—Lucretius, i. 23. 237 The whole contexture is manly; they don’t occupy themselves with little flowers of rhetoric.—Seneca, Epist., 33. 238 The heart makes the eloquene.—Quintilian, x. 239 Demosthenes.
+
+### image of this; for in Italy, I said whatever I had a mind to in common
+
+discourse, but in more serious talk, I durst not have trusted myself with an idiom that I could not wind and turn out of its ordinary pace; I would have a power of introducing something of my own. The handling and utterance of fine wits is that which sets off language; not so much by innovating it, as by putting it to more vigorous and various services, and by straining, bending, and adapting it to them. They do not create words, but they enrich their own, and give them weight and signification by the uses they put them to, and teach them unwonted motions, but withal, ingeniously and discreetly. And how little this talent is given to all, is manifest by the many French scribblers of this age: they are bold and proud enough not to follow the common road, but want of Invention and discretion ruins them; there is nothing seen in their writings but a wretched affectation of a strange new style, with cold and absurd disguises, which, instead of elevating, depress the matter: provided they can but trick themselves out with new words, they care not what they signify; and to bring in a new word by the head and shoulders, they leave the old one, very often more sinewy and significant than the other. There is stuff enough in our language, but there is a defect in cutting out: for there is nothing that might not be made out of our terms of hunting and
+
+### war, which is a fruitful soil to borrow from; forms of speaking, like herbs,
+
+improve and grow stronger by being transplanted. I find it sufficiently abundant, but not sufficiently pliable and vigorous: it commonly quails under a powerful conception; if you would maintain the dignity of your style, you will often perceive it to flag and languish under you, and there Latin steps in to its relief, as Greek does to others. Of some of these words I have just picked out we do not so easily discern the energy, by reason that the frequent use of them has in some sort abased their beauty, and rendered it common; as in our ordinary language there are many excellent phrases and metaphors to be met with, of which the beauty is withered by age, and the colour is sullied by too common handling; but that nothing lessens the relish to an understanding man, nor does it derogate from the glory of those ancient authors who, ’tis likely, first brought those words into that lustre. The sciences treat of things too refinedly, after an artificial, very different from the common and natural, way. My page makes love, and understands
+
+### it; but read to him Leo Hebræus and Ficinus, where they speak of love, its
+
+thoughts and actions, he understands it not. I do not find in Aristotle most of my ordinary motions; they are there covered and disguised in another robe for the use of the schools. Well may they speed! but were I of the trade, I would as much naturalise art as they artify nature. Let us let Bembo and Equicola alone.
+
+## 28 HARVEY: Motion of the Heart, 267a-b
+
+To the Most Illustrious and Indomitable Prince, CHARLES, KING OF GREAT BRITAIN, FRANCE, AND IRELAND, DEFENDER OF THE FAITH M P ! OST ILLUSTRIOUS RINCE The heart of animals is the foundation of their life, the sovereign of everything within them, the sun of their microcosm, that upon which all growth depends, from which all power proceeds. The King, in like manner, is the foundation of his kingdom, the sun of the world around him, the heart of the republic, the fountain whence all power, all grace doth flow. What I have here written of the motions of the heart I am the more emboldened to present to your Majesty, according to the custom of the present age, because almost all things human are done after human examples, and many things in a King are after the pattern of the heart. The knowledge of his heart, therefore, will not be useless to a Prince, as embracing a kind of Divine example of his functions—and it has still been usual with men to compare small things with great. Here, at all events, best of Princes, placed as you are on the pinnacle of human affairs, you may at once contemplate the prime mover in the body of man, and the emblem of your own sovereign power. Accept therefore, with your wonted clemency, I most humbly beseech you, illustrious Prince, this, my new Treatise on the Heart; you, who are yourself the new light of this age, and indeed its very heart; a Prince abounding in virtue and in grace, and to whom we gladly refer all the blessing which England enjoys, all the pleasure we have in our lives. Your Majesty’s most devoted servant, WILLIAM HARVEY [London . . . . 1628.] TO HIS VERY DEAR FRIEND, DOCTOR ARGENT, THE EXCELLENT AND ACCOMPLISHED PRESIDENT OF THE ROYAL COLLEGE OF PHYSICIANS, AND TO OTHER LEARNED PHYSICIANS, HIS MOST ESTEEMED COLLEAGUES I have already and repeatedly presented you, my learned friends, with my new views of the motion and function of the heart, in my anatomical lectures; but having now for nine years and more confirmed these views by multiplied demonstrations in your presence, illustrated them by arguments, and freed the from the objections of the most learned and skilful anatomists, I at length yield to the requests, I might say entreaties, of many, and here present them for general consideration in this treatise.
+
+## 30 BACON: Advancement of Learning, 65b-c
+
+9. Another diversity of methods is, according to the subject or matter which is handled. For there is a great difference in delivery of the mathematics, which are the most abstracted of knowledges, and policy, which is the most immersed. And howsoever contention hath been moved, touching an uniformity of method in multiformity of matter, yet we see how that opinion, besides the weakness of it, hath been of ill desert towards learning, as that which taketh the way to reduce learning to certain empty and barren generalities; being but the very husks and shells of sciences, all the kernel being forced out and expulsed with the torture and press of the method. And therefore as I did allow well of particular topics for invention, so I do likewise of particular methods of tradition. 10. Another diversity of judgement in the delivery and teaching of knowledge, is according unto the light and presuppositions of that which is delivered. For that knowledge which is new, and foreign from opinions received, is to be delivered in another form than that that is agreeable and familiar; and therefore Aristotle, when he thinks to tax Democritus, doth in truth commend him, where he saith, “If we shall indeed dispute, and not follow after similitudes,” &c. For those whose conceits are seated in popular opinions, need only but to prove or dispute; but those whose conceits are beyond popular opinions, have a double labour; the one to make themselves conceived, and the other to prove and demonstrate. So that it is of necessity with them to have recourse to similitudes and translations to express themselves. And therefore in the infancy of learning, and in rude times, when those conceits which are now trivial were then new, the world was full of parables and similitudes; for else would men either have passed over without mark, or else rejected for paradoxes that which was offered, before they had understood or judged. So in divine learning, we see how frequent parables and tropes are: for it is a rule, that whatsoever science is not consonant to presuppositions, must pray in aid of similitudes. 11. There be also other diversities of methods vulgar and received: as that of resolution or analysis, of constitution or systasis, of concealment or cryptic, &c, which I do allow well of, though I have stood upon those which are least handled and observed. All which I have remembered to this purpose, because I would erect and constitute one general inquiry (which seems to me deficient) touching the wisdom of tradition.
+
+## 35 LOCKE: Human Understanding, BK III, CH I, SECT 5 252b-c
+
+
+### 5. Words ultimately derived from such as signify sensible ideas. It may also
+
+lead us a little towards the original of all our notions and knowledge, if we remark how great a dependence our words have on common sensible ideas; and how those which are made use of to stand for actions and notions quite removed from sense, have their rise from thence, and from obvious sensible ideas are transferred to more abstruse significations, and made to stand for ideas that come not under the cognizance of our senses; v.g. to
+
+### imagine, apprehend, comprehend, adhere, conceive, instil, disgust, disturbance, tranquillity, &c., are all words taken from the operations of sensible things, and applied to certain modes of thinking. Spirit, in its primary signification, is breath; angel, a messenger: and I doubt not but, if
+
+we could trace them to their sources, we should find, in all languages, the names which stand for things that fall not under our senses to have had their first rise from sensible ideas. By which we may give some kind of guess what kind of notions they were, and whence derived, which filled their minds who were the first beginners of languages, and how nature, even in the naming of things, unawares suggested to men the originals and principles of all their knowledge: whilst, to give names that might make known to others any operations they felt in themselves, or any other ideas that came not under their senses, they were fain to borrow words from ordinary known ideas of sensation, by that means to make others the more easily to conceive those operations they experimented in themselves, which made no outward sensible appearances; and then, when they had got known and agreed names to signify those internal operations of their own minds, they were sufficiently furnished to make known by words all their other ideas; since they could consist of nothing but either of outward sensible perceptions, or of the inward operations of their minds about them; we having, as has been proved, no ideas at all, but what originally come either from sensible objects without, or what we feel within ourselves, from the inward workings of our own spirits, of which we are conscious to ourselves within.
+
+## 35 BERKELEY: Human Knowledge, SECT 144 441d
+
+144. But, nothing seems more to have contributed towards engaging men in controversies and mistakes with regard to the nature and operations of the mind, than the being used to speak of those things in terms borrowed from
+
+### sensible ideas. For example, the will is termed the motion of the soul; this
+
+infuses a belief that the mind of man is as a ball in motion, impelled and determined by the objects of sense, as necessarily as that is by the stroke of a racket. Hence arise endless scruples and errors of dangerous consequence in morality. All which, I doubt not, may be cleared, and truth appear plain, uniform, and consistent, could but philosophers be prevailed on to retire into themselves, and attentively consider their own meaning.
+
+## 36 SWIFT: Gulliver, PART III, 114b-115b
+
+Another professor shewed me a large paper of instructions for discovering plots and conspiracies against the Government. He advised great statesmen to examine into the diet of all suspected persons; their times of eating; upon which side they lay in bed; with which hand they wiped their posteriours; to take a strict view of their excrements, and from the colour, the odour, the taste, the consistence, the crudeness, or maturity of digestion, from a judgment of their thoughts and designs: because, men are never so serious, thoughtful, and intent, as when they are at stool; which he found by frequent experiment: for in such conjunctures, when he used merely as a trial to consider which was the best way of murdering the king, his ordure would have a tincture of green; but quite different when he thought only of raising an insurrection, or burning the metropolis. The whole discourse was written with great acuteness, containing many observations both curious and useful for politicians; but, as I conceived, not altogether compleat. This I ventured to tell the author, and offered, if he pleased, to supply him with some additions. He received my proposition with more compliance than is usual among writers, especially those of the projecting species, professing he would be glad to receive farther information. I told him, that should I happen to live in a kingdom where plots and conspiracies were either in vogue from the turbulency of the meaner people, or could be turned to the use and service of the higher rank of them, I first would take care to cherish and encourage the breed of discoverers, witnesses, informers, accusers, prosecutors, evidences, swearers, together with their several subservient and subaltern instruments; and when I had got a competent number of them of all sorts and capacities, I would put them under the colour and conduct of some dextrous persons in sufficient power both to protect and reward them. Men thus qualified and thus empowered might make a most excellent use and advantage of plots, they might raise their own characters and pass for most profound politicians, they might restore new vigor to a crazy administration, they might stifle of divert general discontents; fill their pockets with forfeitures, and advance or sink the opinion of publick credit, as either might answer their private advantage. This might be done by first agreeing and settling among themselves what suspected persons should be accused of a plot. Then effectual care is taken to secure all their letters and papers, and put the criminal in safe and secure custody. These papers might be delivered to a set of artists of dexterity sufficient to find out the mysterious meanings of words, syllables, and letters. They should be allowed to put what interpretation they pleased upon them, giving them a sense not only which has no relation at all to them, but even what is quite contrary to their true intent and real meaning; thus for instance, they may, if they so fancy, interpret a seive to signify a court lady; a lame dog an invader; the plague a standing army; a buzzard a great statesman; the gout a high priest; a chamber pot a committee of grandees; a broom a revolution; a mouse trap an imployment; a bottomless pit a treasury; a sink a court; a cap and bells a favorite; a broken reed a court of justice; an empty tun a general; a running sore an Administration. But should this method fail, recourse might be had to others more effectual, by learned men called acrosticks and anagrams. First, might be found men of skill and penetration who can discern that all initial letters have political meanings. Thus N shall signify a plot; B a regiment of horse; L a fleet at sea. Or secondly, by transposing the letters of the alphabet in any suspected paper, who can discover the deepest designs of a discontented party. So for example, if I should say in a letter to a friend, “Our brother Tom has just got the piles,” a man of skill in this art would discover how the same letters which compose that sentence may be analysed into the following words; “Resist,—a plot is brought home—the tour.” And this is the anagrammatick method. The professor made me great acknowledgments for communicating these observations, and promised to make honourable mention of me in his treatise. I saw nothing in this country that could invite me to a longer continuance; and began to think of returning home to England.
+
+## 40 GIBBON: Decline and Fall, 775c-d [n 173]
+
+
+### 173. As I have freely anticipated the use of pagans and paganism, I shall
+
+now trace the singular revolutions of those celebrated words. 1. Πάγη, in the Doric dialect, so familiar to the Italians, signifies a fountain; and the rural neighbourhood which frequented the same fountain derived the common
+
+### appellation of pagus and pagans (Festus sub voce, and Servius ad Virgil. Georgic. ii. 382). 2. By an easy extension of the word, pagan and rural
+
+became almost synonymous (Plin. Hist. Natur. xxviii. 5); and the meaner
+
+### rustics acquired that name, which has been corrupted into peasants in the
+
+modern languages of Europe. 3. The amazing increase of the military order introduced the necessity of a correlative term (Hume’s Essays, vol. i. p. 555);
+
+### and all the people who were not enlisted in the service of the prince were
+
+branded with the contemptuous epithet of pagans (Tacit. Hist. iii. 24, 43, 77. Juvenal. Satir. 16 [v. 32]. Tertullian de Pallio, c. 4). 4. The Christians were the
+
+### soldiers of Christ; their adversaries who refused his sacrament, or military
+
+oath of baptism, might deserve the metaphorical name of pagans; and this popular reproach was introduced as early as the reign of Valentinian (A.D. 365) into Imperial laws (Cod. Theodos. l. xvi. tit. ii. leg. 18) and theological writings. 5. Christianity gradually filled the cities of the empire: the old
+
+### religion, in the time of Prudentius (advers. Symmachum, l. i. [v. 575 sqq.] ad
+
+fin.) and Orosius (in Præfat. Hist.), retired and languished in obscure villages;
+
+### and the word pagans, with its new signification, reverted to its primitive
+
+origin. 6. Since the worship of Jupiter and his family has expired, the vacant title of Pagans has been successively applied to all the idolaters and polytheists of the old and new world. 7. The Latin Christians bestowed it, without scruple, on their mortal enemies the Mahometans; and the purest
+
+### Unitarians were branded with the unjust reproach of idolatry and paganism.
+
+See Gerard Vossius, Etymologicon Linguæ Latinæ, in his works, tom. i. p. 420; Godefroy’s Commentary on the Theodosian Code, tom. vi. p. 250; and Ducange mediæ et infimæ Latinitat. Glossar.
+
+## 42 KANT: Judgement, 547b-548c
+
+
+### All intuitions by which a priori concepts are given a foothold are, therefore, either schemata or symbols. Schemata contain direct, symbols indirect,
+
+presentations of the concept. Schemata effect this presentation demonstratively, symbols by the aid of an analogy (for which recourse is had even to empirical intuitions), in which analogy judgement performs a double function: first in applying the concept to the object of a sensible intuition, and then, secondly, in applying the mere rule of its reflection upon that intuition to quite another object, of which the former is but the symbol. In this way, a monarchical state is represented as a living body when it is governed by constitutional laws, but as a mere machine (like a hand-mill) when it is governed by an individual absolute will; but in both cases the
+
+### representation is merely symbolic. For there is certainly no likeness between
+
+a despotic state and a hand-mill, whereas there surely is between the rules of reflection upon both and their causality. Hitherto this function has been but little analysed, worthy as it is of a deeper study. Still this is not the place to dwell upon it. In language we have many such indirect presentations modelled upon an analogy enabling the expression in question to contain, not the proper schema for the concept, but merely a
+
+### symbol for reflection. Thus the words ground (support, basis), to depend (to be held up from above), to flow from (instead of to follow), substance (as
+
+Locke puts it: the support of accidents), and numberless others, are not schematic, but rather symbolic hypotyposes, and express concepts without employing a direct intuition for the purpose, but only drawing upon an analogy with one, i.e., transferring the reflection upon an object of intuition to quite a new concept, and one with which perhaps no intuition could ever
+
+### directly correspond. Supposing the name of knowledge may be given to
+
+what only amounts to a mere mode of representation (which is quite permissible where this is not a principle of the theoretical determination of the object in respect of what it is in itself, but of the practical determination of what the idea of it ought to be for us and for its final employment), then all our knowledge of God is merely symbolic; and one who takes it, with the properties of understanding, will, and so forth, which only evidence their objective reality in beings of this world, to be schematic, falls into anthropomorphism, just as, if he abandons every intuitive element, he falls into Deism which furnishes no knowledge whatsoever—not even from a practical point of view. Now, I say, the beautiful is the symbol of the morally good, and only in this light (a point of view natural to every one, and one which every one exacts from others as a duty) does it give us pleasure with an attendant claim to the agreement of every one else, whereupon the mind becomes conscious of a certain ennoblement and elevation above mere sensibility to pleasure from impressions of sense, and also appraises the worth of others on the
+
+### score of a like maxim of their judgement. This is that intelligible to which
+
+taste, as noticed in the preceding paragraph, extends its view. It is, that is to say, what brings even our higher cognitive faculties into common accord, and is that apart from which sheer contradiction would arise between their nature and the claims put forward by taste. In this faculty, judgement does not find itself subjected to a heteronomy of laws of experience as it does in the empirical estimate of things—in respect of the objects of such a pure delight it gives the law to itself, just as reason does in respect of the faculty of desire.240 Here, too, both on account of this inner possibility in the subject, and on account of the external possibility of a nature harmonizing therewith, it finds a reference in itself to something in the subject itself and outside it, and which is not nature, nor yet freedom, but still is connected with the ground of the latter, i.e., the supersensible—a something in which the theoretical faculty gets bound up into unity with the practical in an intimate and obscure manner. We shall bring out a few points of this analogy, while taking care, at the same time, not to let the points of difference escape us.
+
+### (1) The beautiful pleases immediately (but only in reflective intuition, not, like morality, in its concept).241 (2) It pleases apart from all interest (pleasure
+
+in the morally good is no doubt necessarily bound up with an interest, but not with one the kind that are antecedent to the judgement upon the delight, but with one that judgement itself for the first time calls into
+
+### existence). (3) The freedom of the imagination (consequently of our faculty
+
+in respect of its sensibility) is, in estimating the beautiful, represented as in accord with the understanding’s conformity to law (in moral judgements the freedom of the will is thought as the harmony of the latter with itself according to universal laws of Reason). (4) The subjective principles of the
+
+### estimate of the beautiful is represented as universal, i.e., valid for every
+
+man, but as incognizable by means of any universal concept (the objective principle of morality is set forth as also universal, i.e., for all individuals, and, at the same time, for all actions of the same individual, and, besides, as cognizable by means of a universal concept). For this reason the moral 240 [Cf. the reference to heteronomy and autonomy, p. 546.] 241 [Cf. pp. 488, 512.]
+
+### judgement not alone admits of definite constitutive principles, but is only
+
+possible by adopting these principles and their universality as the ground of its maxims. Even common understanding is wont to pay regard to this analogy; and we frequently apply to beautiful objects of nature or of art names that seem to
+
+### rely upon the basis of a moral estimate. We call buildings or trees majestic and stately, or plains laughing and gay; even colours are called innocent, modest, soft, because they excite sensations containing something
+
+analogous to the consciousness of the state of mind produced by moral judgements. Taste makes, as it were, the transition from the charm of sense to habitual moral interest possible without too violent a leap, for it represents the imagination, even in its freedom, as amenable to a final determination for understanding, and teaches us to find, even in sensuous objects, a free delight apart from any charm of sense.
+
+## 53 JAMES: Psychology, 380a-381a; 689a-b
+
+
+### Psychology, 380a-381a To sum up, then, we see that the difference between the three kinds of association reduces itself to a simple difference in the amount of that portion of the nerve-tract supporting the going thought which is operative in calling up the thought which comes. But the modus operandi of this active
+
+part is the same, be it large or be it small. The items constituting the coming object waken in every instance because their nerve-tracts once were excited continuously with those of the going object or its operative part. This ultimate physiological law of habit among the neural elements is
+
+### what runs the train. The direction of its course and the form of its
+
+transitions, whether redintegrative, associative, or similar, are due to unknown regulative or determinative conditions which accomplish their effect by opening this switch and closing that, setting the engine sometimes at half-speed, and coupling or uncoupling cars. This last figure of speech, into which I have glided unwittingly, affords itself an excellent instance of association by similarity. I was thinking of the deflections of the course of ideas. Now, from Hobbes’s time downward,
+
+### English writers have been fond of speaking of the train of our
+
+representations. This word happened to stand out in the midst of my complex thought with peculiarly sharp accentuation, and to surround itself with numerous details of railroad imagery. Only such details became clear, however, as had their nerve-tracts besieged by a double set of
+
+### influences—those from train on the one hand, and those from the movement of thought on the other. It may possibly be that the prepotency of the suggestions of the word train at this moment were due to the recent
+
+excitation of the railroad brain-tract by the instance of a railroad king playing football with the stock-market. It is apparent from such an example how inextricably complex are all the contributory factors whose resultant is the line of our reverie. It would be folly in most cases to attempt to trace them out. From an instance like the above, where the pivot of the Similar Association was formed by a definite
+
+### concrete word, train, to those where it is so subtile as utterly to elude our
+
+analysis, the passage is unbroken. We can form a series of examples. When Mr. Bagehot says that the mind of the savage, so far from being in a state of
+
+### nature, is tattooed all over with monstrous superstitions, the case is very
+
+like the one we have just been considering. When Sir James Stephen compares our belief in the uniformity of nature, the congruity of the future with the past, to a man rowing one way and looking another, and steering his boat by keeping her stern in a line with an object behind him, the operative link becomes harder to dissect out. It is subtler still in Dr. Holmes's phrase, that stories in passing from mouth to mouth make a great deal of lee-way in proportion to their headway; or in Mr. Lowell's description of German sentences, that they have a way of yawing and going stern-foremost and not minding the helm for several minutes after it has been put down. And finally, it is a real puzzle when the color pale-blue is said to have feminine and blood-red masculine affinities. And if I hear a
+
+### friend describe a certain family as having blotting-paper voices, the image,
+
+though immediately felt to be apposite, baffles the utmost powers of analysis. The higher poets all use abrupt epithets, which are alike intimate and remote, and, as Emerson says, sweetly torment us with invitations to their inaccessible homes. In these latter instances we must suppose that there is an identical portion in the similar objects, and that its brain-tract is energetically operative, without, however, being sufficiently isolable in its activity as to stand out
+
+### per se, and form the condition of a distinctly discriminated “abstract idea.”
+
+We cannot even by careful search see the bridge over which we passed from the heart of one representation to that of the next. In some brains, however, this mode of transition is extremely common. It would be one of the most important of physiological discoveries could we assign the mechanical or chemical difference which makes the thoughts of one brain cling close to impartial redintegration, while those of another shoot about in all the lawless revelry of similarity. Why, in these latter brains, action should tend to focalize itself in small spots, while in the others it fills patiently its broad bed, it seems impossible to guess. Whatever the difference may be, it is what separates the man of genius from the prosaic creature of habit and routine thinking. In Chapter XXII we shall need to recur to this point.
+
+### Psychology, 689a-b
+
+As it is with reasons, so it is with words. The first words are probably always names of entire things and entire actions, of extensive coherent groups. A new experience in the primitive man can only be talked about by him in terms of the old experiences which have received names. It reminds
+
+### him of certain ones from among them, but the points in which it agrees
+
+with them are neither named nor dissociated. Pure similarity must work before the abstraction can work which is based upon it. The first adjectives will therefore probably be total nouns embodying the striking character. The primeval man will say, not “the bread is hard,” but “the bread is stone”; not “the face is round,” but “the face is moon”; not “the fruit is sweet,” but “the fruit is sugar-cane.” The first words are thus neither particular nor general,
+
+### but vaguely concrete; just as we speak of an “oval” face, a “velvet” skin, or
+
+an “iron” will, without meaning to connote any other attributes of the
+
+### adjective-noun that those in which it does resemble the noun it is used to
+
+qualify. After a while certain of these adjectively-used nouns come only to signify the particular quality for whose sake they are oftenest used; the
+
+### entire thing which they originally meant receives another name, and they
+
+become true abstract and general terms. Oval, for example, with us
+
+### suggests only shape. The first abstract qualities thus formed are, no doubt,
+
+qualities of one and the same sense found in different objects—as big, sweet; next analogies between different senses, as “sharp” of taste, “high” of sound, etc.; then analogies of motor combinations, or form of relation, as simple, confused, difficult, reciprocal, relative, spontaneous, etc. The extreme degree of subtlety in analogy is reached in such cases as when we say certain English art critics’ writing reminds us of a close room in which pastilles have been burning, or that the mind of certain Frenchmen is like old Roquefort cheese. Here language utterly fails to hit upon the basis of resemblance. Over immense departments of our thought we are still, all of us, in the savage state. Similarity operates in us, but abstraction has not taken place. We know what the present case is like, we know what it reminds us of, we have an intuition of the right course to take, if it be a practical matter. But analytic thought has made no tracks, and we cannot justify ourselves to others. In ethical, psychological, and æsthetic matters, to give a clear reason for one’s judgment is universally recognized as a mark of rare genius. The helplessness of uneducated people to account for their likes and dislikes is often ludicrous. Ask the first Irish girl why she likes this country better or worse than her home, and see how much she can tell you. But if you ask your most educated friend why he prefers Titian to Paul Veronese, you will hardly get more of a reply; and you will probably get absolutely none if you inquire why Beethoven reminds him of Michelangelo, or how it comes that a bare figure with unduly flexed joints, by the latter, can so
+
+### suggest the moral tragedy of life. His thought obeys a nexus, but cannot name it. And so it is with all those judgments of experts, which even though
+
+unmotived are so valuable. Saturated with experience of a particular class of materials, an expert intuitively feels whether a newly-reported fact is probable or not, whether a proposed hypothesis is worthless or the reverse.
+
+## 54 FREUD: General Introduction, 510b-c; 512d-513a
+
+
+### General Introduction, 510b-c
+
+In the myths of the births of heroes, a comparative study of which has been made by O. Rank—the earliest is that of King Sargon of Akkad, about 2800 B.C.—exposure in water and rescue from it play a major part. Rank perceived that this symbolizes birth in a manner analogous to that employed in dreams. When anyone in his dream rescues somebody from
+
+### the water, he makes that person into his mother, or at any rate a mother;
+
+and in mythology, whoever rescues a child from water confesses herself to be its real mother. There is a well-known joke in which an intelligent Jewish boy, when asked who was the mother of Moses, answers immediately: “The Princess.” He is told: “No, she only took him out of the water.” “That’s what
+
+### she said,” he replies, showing that he had hit upon the right interpretation
+
+of the myth. Going away on a journey stands in dreams for dying; similarly, it is the custom in the nursery, when a child asks questions as to the whereabouts of someone who has died and whom he misses, to tell him that that person has “gone away.” Here again, I deprecate the idea that the dream-symbol has its origin in this evasive reply to the child. The poet uses the same symbol when he speaks of the other side as “the undiscovered country
+
+### from whose bourne no traveller returns.” Again, in everyday speech it is
+
+quite usual to speak of the “last journey,” and everyone who is acquainted with ancient rites knows how seriously the idea of a journey into the land of the dead was taken, for instance, in ancient Egyptian belief. In many cases
+
+### the Book of the Dead survives, which was given to the mummy, like a
+
+Baedeker, to take with him on the last journey. Since burial-grounds have been placed at a distance from the houses of the living, the last journey of the dead has indeed become a reality. Nor does sexual symbolism belong only to dreams. You will all know the
+
+### expression a baggage as applied contemptuously to a woman, but perhaps
+
+people do not know that they are using a genital symbol. In the New
+
+### Testament we read: “The woman is the weaker vessel.” The sacred writings
+
+of the Jews, the style of which so closely approaches that of poetry, are full of expressions symbolic of sex, which have not always been correctly interpreted and the exegesis of which, e.g. in the Song of Solomon, has led 242 to many misunderstandings. In later Hebrew literature the woman is very frequently represented by a house, the door standing for the genital opening; thus a man complains, when he finds a woman no longer a virgin,
+
+### that “he has found the door open.” The symbol table for a woman also
+
+occurs in this literature; the woman says of her husband “I spread the table for him, but he overturned it.” Lame children are said to owe their infirmity to the fact that the man “overturned the table.” I quote here from a treatise
+
+### by L. Levy in Brünn: Sexual Symbolism in the Bible and the Talmud. General Introduction, 512d-513a
+
+Let us consider a collection of such charms in the form of tiny silver pendants: a four-leaved clover, a pig, a mushroom, a horseshoe, a ladder and a chimney-sweep. The four-leaved clover has taken the place of that with three leaves, which was really more appropriate for the purpose of symbolism; the pig is an ancient symbol of fruitfulness; the mushroom undoubtedly symbolizes the penis, there are mushrooms which derive their
+
+### name from their unmistakable resemblance to that organ (Phallus impudicus); the horseshoe reproduces the contour of the female genital
+
+opening; while the chimney-sweep with his ladder belongs to this company because his occupation is one which is vulgarly compared with sexual
+
+### intercourse. (Cf. Anthropophyteia.) We have learnt to recognize his ladder in
+
+dreams as a sexual symbol: expressions in language show what a
+
+### completely sexual significance the word steigen (to mount) has, as in the phrases: Den Frauen nachsteigen (to run after women) and ein alter Steiger (an old roué). So, in French, where the word for step is la marche, we find the quite analogous expression for an old rake: un vieux marcheur. Probably
+
+the fact that with many of the larger animals sexual intercourse
+
+### necessitates a mounting or climbing upon the female has something to do
+
+with this association of ideas. Pulling off a branch to symbolize onanism is not only in agreement with vulgar descriptions of that act, but also has far-reaching parallels in mythology. But especially remarkable is the representation of onanism, or rather of castration as the punishment for onanism, by the falling-out or extraction of teeth; for we find in folk-lore a counterpart to this which could only be known to very few dreamers. I think that there can be no doubt that circumcision, a practice common to so many peoples, is an equivalent and replacement of castration. And recently we have learnt that certain aboriginal tribes in Australia practice circumcision as a rite to mark the attaining of puberty (at the celebration of the boy’s coming of age), whilst other tribes living quite near have substituted for this practice that of knocking out a tooth. 242 e. g., Song of Sol. 8. 10. I will end my account with these examples. They are only examples; we know more about this subject and you can imagine how much richer and more interesting a collection of this sort might be made, not by dilettanti like ourselves, but by real experts in mythology, anthropology, philology and folk-lore. We are forced to certain conclusions, which cannot be exhaustive, but nevertheless will give us plenty to think about.
