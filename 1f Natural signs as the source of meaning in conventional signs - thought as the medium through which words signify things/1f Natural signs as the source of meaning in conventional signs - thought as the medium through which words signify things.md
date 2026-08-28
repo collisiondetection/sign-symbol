@@ -4,8 +4,8 @@
 
 ## Citations
 
-- [7 PLATO: Cratylus, 104d-114a,c / Seventh Letter, 809c-810d](#7-plato-cratylus-104d-114ac-seventh-letter-809c-810d)
-- [8 ARISTOTLE: Interpretation, CH I [16a4-8] 25a / Soul, BK II, CH 8 [420b29-421a1] 652b / Sense and the Sensible, CH I [437a11-17] 674a](#8-aristotle-interpretation-ch-i-16a4-8-25a-soul-bk-ii-ch-8-420b29-421a1-652b-sense-and-the-sensible-ch-i-437a11-17-674a)
+- [7 PLATO: Cratylus, 104d-114a,c / Seventh Letter, 809c-810d](#7-plato-cratylus-104d-114ac--seventh-letter-809c-810d)
+- [8 ARISTOTLE: Interpretation, CH I [16a4-8] 25a / Soul, BK II, CH 8 [420b29-421a1] 652b / Sense and the Sensible, CH I [437a11-17] 674a](#8-aristotle-interpretation-ch-i-16a4-8-25a--soul-bk-ii-ch-8-420b29-421a1-652b--sense-and-the-sensible-ch-i-437a11-17-674a)
 - [18 AUGUSTINE: Christian Doctrine, BK II, CH 3 637c-d](#18-augustine-christian-doctrine-bk-ii-ch-3-637c-d)
 - [19 AQUINAS: Summa Theologica, PART I, Q 13, A 1, ANS 62c-63c; A 4, ANS and REP 1 65c-66b; A 10, REP 5 72c-73c; Q 27, A 1, ANS 153b-154b; Q 85, A 2, REP 3 453d-455b](#19-aquinas-summa-theologica-part-i-q-13-a-1-ans-62c-63c-a-4-ans-and-rep-1-65c-66b-a-10-rep-5-72c-73c-q-27-a-1-ans-153b-154b-q-85-a-2-rep-3-453d-455b)
 - [20 AQUINAS: Summa Theologica, PART I-II, Q 93, A 1, REP 2 215b,d-216c; PART III, Q 60, AA 6-8 851b-854d passim](#20-aquinas-summa-theologica-part-i-ii-q-93-a-1-rep-2-215bd-216c-part-iii-q-60-aa-6-8-851b-854d-passim)

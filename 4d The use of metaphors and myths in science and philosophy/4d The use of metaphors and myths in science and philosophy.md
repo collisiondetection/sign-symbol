@@ -4,8 +4,8 @@
 
 ## Citations
 
-- [7 PLATO: Protagoras, 44a-45a / Phaedrus, 124a-129d; 138c-139a / Symposium, 157b-159b / Phaedo, 246d-250a / Gorgias, 260a-262a; 292b-294d / Republic, BK VI-VII, 383d-391b; BK X, 437c-441a,c / Timaeus, 444c-446b; 477a,c / Critias, 478b-d / Theaetetus, 542a-544a /Sophist, 565a-b / Statesman, 586d-589c](#7-plato-protagoras-44a-45a-phaedrus-124a-129d-138c-139a-symposium-157b-159b-phaedo-246d-250a-gorgias-260a-262a-292b-294d-republic-bk-vi-vii-383d-391b-bk-x-437c-441ac-timaeus-444c-446b-477ac-critias-478b-d-theaetetus-542a-544a-sophist-565a-b-statesman-586d-589c)
-- [8 ARISTOTLE: Posterior Analytics, BK II, CH I3 [97ᵇ38-39] 133c / Topics, BK VIII, CH 3 [158ᵇ8-17] 215b](#8-aristotle-posterior-analytics-bk-ii-ch-i3-97ᵇ38-39-133c-topics-bk-viii-ch-3-158ᵇ8-17-215b)
+- [7 PLATO: Protagoras, 44a-45a / Phaedrus, 124a-129d; 138c-139a / Symposium, 157b-159b / Phaedo, 246d-250a / Gorgias, 260a-262a; 292b-294d / Republic, BK VI-VII, 383d-391b; BK X, 437c-441a,c / Timaeus, 444c-446b; 477a,c / Critias, 478b-d / Theaetetus, 542a-544a /Sophist, 565a-b / Statesman, 586d-589c](#7-plato-protagoras-44a-45a--phaedrus-124a-129d-138c-139a--symposium-157b-159b--phaedo-246d-250a--gorgias-260a-262a-292b-294d--republic-bk-vi-vii-383d-391b-bk-x-437c-441ac--timaeus-444c-446b-477ac--critias-478b-d--theaetetus-542a-544a-sophist-565a-b--statesman-586d-589c)
+- [8 ARISTOTLE: Posterior Analytics, BK II, CH I3 [97ᵇ38-39] 133c / Topics, BK VIII, CH 3 [158ᵇ8-17] 215b](#8-aristotle-posterior-analytics-bk-ii-ch-i3-97ᵇ38-39-133c--topics-bk-viii-ch-3-158ᵇ8-17-215b)
 - [9 ARISTOTLE: Rhetoric, BK III, CH 2 [1404ᵇ27-1405ᵇ20] 655a-656a; CH 3 [1406ᵇ5]-CH 4 [1407ᵃ 16] 657a-d; CH I0-II 662c-666b](#9-aristotle-rhetoric-bk-iii-ch-2-1404ᵇ27-1405ᵇ20-655a-656a-ch-3-1406ᵇ5-ch-4-1407ᵃ-16-657a-d-ch-i0-ii-662c-666b)
 - [19 AQUINAS: Summa Theologica, PART 1, Q 1, A 9 8d-9c; Q 13, A 3 64d-65c; A 6, ANS and REP 2 67d-68c; A 9, ANS and REP 1 71b-72c; A 10 72c-73c; Q 34, A I, ANS and REP I,4 185b-187b; Q 67, A I 349d-350b; A 2, REP 3 350b-351a; Q 68, A 4, ANS 358b-359b](#19-aquinas-summa-theologica-part-1-q-1-a-9-8d-9c-q-13-a-3-64d-65c-a-6-ans-and-rep-2-67d-68c-a-9-ans-and-rep-1-71b-72c-a-10-72c-73c-q-34-a-i-ans-and-rep-i4-185b-187b-q-67-a-i-349d-350b-a-2-rep-3-350b-351a-q-68-a-4-ans-358b-359b)
 - [20 AQUINAS: Summa Theologica, PART III, Q 60, A 5, REP 1 850b-851b](#20-aquinas-summa-theologica-part-iii-q-60-a-5-rep-1-850b-851b)
@@ -17,7 +17,7 @@
 - [45 FARADAY: Researches in Electricity, 758a-759c; 777d-778c](#45-faraday-researches-in-electricity-758a-759c-777d-778c)
 - [49 DARWIN: Origin of Species, 40c-d; 242b](#49-darwin-origin-of-species-40c-d-242b)
 - [53 JAMES: Psychology, 153b; 686b-687b](#53-james-psychology-153b-686b-687b)
-- [54 FREUD: General Introduction, 510b-d passim; 566d-567b / Beyond the Pleasure Principle, 662a-b](#54-freud-general-introduction-510b-d-passim-566d-567b-beyond-the-pleasure-principle-662a-b)
+- [54 FREUD: General Introduction, 510b-d passim; 566d-567b / Beyond the Pleasure Principle, 662a-b](#54-freud-general-introduction-510b-d-passim-566d-567b--beyond-the-pleasure-principle-662a-b)
 
 
 ## 7 PLATO: Protagoras, 44a-45a / Phaedrus, 124a-129d; 138c-139a / Symposium, 157b-159b / Phaedo, 246d-250a / Gorgias, 260a-262a; 292b-294d / Republic, BK VI-VII, 383d-391b; BK X, 437c-441a,c / Timaeus, 444c-446b; 477a,c / Critias, 478b-d / Theaetetus, 542a-544a /Sophist, 565a-b / Statesman, 586d-589c

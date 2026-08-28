@@ -4,7 +4,7 @@
 
 ## Citations
 
-- [8 ARISTOTLE: Categories, CH 5 [2a11-18] 6a-b / Interpretation, CH 7 [17a37-40] 26d / Sophistical Refutations, CH 22 [I78b38-I79a1O] 246c / Metaphysics, BK VII, CH 10 [1035b28-32] 559b; CH 11 [1037a5-9] 560c; CH 15 [1040a8-13] 564a](#8-aristotle-categories-ch-5-2a11-18-6a-b-interpretation-ch-7-17a37-40-26d-sophistical-refutations-ch-22-i78b38-i79a1o-246c-metaphysics-bk-vii-ch-10-1035b28-32-559b-ch-11-1037a5-9-560c-ch-15-1040a8-13-564a)
+- [8 ARISTOTLE: Categories, CH 5 [2a11-18] 6a-b / Interpretation, CH 7 [17a37-40] 26d / Sophistical Refutations, CH 22 [I78b38-I79a1O] 246c / Metaphysics, BK VII, CH 10 [1035b28-32] 559b; CH 11 [1037a5-9] 560c; CH 15 [1040a8-13] 564a](#8-aristotle-categories-ch-5-2a11-18-6a-b--interpretation-ch-7-17a37-40-26d--sophistical-refutations-ch-22-i78b38-i79a1o-246c--metaphysics-bk-vii-ch-10-1035b28-32-559b-ch-11-1037a5-9-560c-ch-15-1040a8-13-564a)
 - [19 AQUINAS: Summa Theologica, PART I, Q 13, A 1, REP 3 62c-63c; A 9 71b-72c; A 11 73c-74b; Q 30, A 4 170c-171b; Q 33, AA 2-3 181c-183c; Q 34, AA 1-2 185b-188a; Q 108, A 5, ANS and REP 1 555d-558b](#19-aquinas-summa-theologica-part-i-q-13-a-1-rep-3-62c-63c-a-9-71b-72c-a-11-73c-74b-q-30-a-4-170c-171b-q-33-aa-2-3-181c-183c-q-34-aa-1-2-185b-188a-q-108-a-5-ans-and-rep-1-555d-558b)
 - [20 AQUINAS: Summa Theologica, PART II-II, Q 9, A 2, ANS 424b-425a](#20-aquinas-summa-theologica-part-ii-ii-q-9-a-2-ans-424b-425a)
 - [22 CHAUCER: Second Nun's Prologue [15,553-587] 462b-463a](#22-chaucer-second-nuns-prologue-15553-587-462b-463a)

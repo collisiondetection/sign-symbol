@@ -4,14 +4,14 @@
 
 ## Citations
 
-- [OLD TESTAMENT: Genesis, 9:8-17 / Job, 12:7-9;37-41/ Psalms, 8; 19:1-4; 75:1; 104; 135:6-7;147:7-9-(D) Psalms, 8; 18:1-5; 74:2; 103;134:6-7; 146:7-9](#old-testament-genesis-98-17-job-127-937-41-psalms-8-191-4-751-104-1356-71477-9-d-psalms-8-181-5-742-1031346-7-1467-9)
-- [APOCRYPHA: Wisdom of Solomon, 13:1-5-(D) OT, Book of Wisdom, 13:1-5 / Ecclesiasticus, 42:15-43:33-(D) OT, Ecclesiasticus, 42:15- 43:37 / II Maccabees, 7:28-(D) OT, II Machabees, 7:28](#apocrypha-wisdom-of-solomon-131-5-d-ot-book-of-wisdom-131-5-ecclesiasticus-4215-4333-d-ot-ecclesiasticus-4215--4337-ii-maccabees-728-d-ot-ii-machabees-728)
-- [NEW TESTAMENT: Matthew, 6:26-30 / Luke, 12:24-28/ Romans, 1:18-20](#new-testament-matthew-626-30-luke-1224-28-romans-118-20)
+- [OLD TESTAMENT: Genesis, 9:8-17 / Job, 12:7-9;37-41/ Psalms, 8; 19:1-4; 75:1; 104; 135:6-7;147:7-9-(D) Psalms, 8; 18:1-5; 74:2; 103;134:6-7; 146:7-9](#old-testament-genesis-98-17--job-127-937-41-psalms-8-191-4-751-104-1356-71477-9-d-psalms-8-181-5-742-1031346-7-1467-9)
+- [APOCRYPHA: Wisdom of Solomon, 13:1-5-(D) OT, Book of Wisdom, 13:1-5 / Ecclesiasticus, 42:15-43:33-(D) OT, Ecclesiasticus, 42:15- 43:37 / II Maccabees, 7:28-(D) OT, II Machabees, 7:28](#apocrypha-wisdom-of-solomon-131-5-d-ot-book-of-wisdom-131-5--ecclesiasticus-4215-4333-d-ot-ecclesiasticus-4215--4337--ii-maccabees-728-d-ot-ii-machabees-728)
+- [NEW TESTAMENT: Matthew, 6:26-30 / Luke, 12:24-28/ Romans, 1:18-20](#new-testament-matthew-626-30--luke-1224-28-romans-118-20)
 - [6 THUCYDIDES: Peloponnesian War, BK III, 438d-439a](#6-thucydides-peloponnesian-war-bk-iii-438d-439a)
 - [12 LUCRETIUS: Nature of Things, BK II [589-660] 22c-23b; BK v [110-145] 62c-63a](#12-lucretius-nature-of-things-bk-ii-589-660-22c-23b-bk-v-110-145-62c-63a)
 - [12 EPICTETUS: Discourses, BK I, CH 16-17 121d-124a; BK III, CH I 177a-c](#12-epictetus-discourses-bk-i-ch-16-17-121d-124a-bk-iii-ch-i-177a-c)
 - [12 AURELIUS: Meditations, BK XII, SECT 28 310a](#12-aurelius-meditations-bk-xii-sect-28-310a)
-- [16 KEPLER: Epitome, BK IV, 853b-854a; 860a / Harmonies of the World, 1009b-1010a; 1049b1050a; 1061a; 1080b-1085b passim](#16-kepler-epitome-bk-iv-853b-854a-860a-harmonies-of-the-world-1009b-1010a-1049b1050a-1061a-1080b-1085b-passim)
+- [16 KEPLER: Epitome, BK IV, 853b-854a; 860a / Harmonies of the World, 1009b-1010a; 1049b1050a; 1061a; 1080b-1085b passim](#16-kepler-epitome-bk-iv-853b-854a-860a--harmonies-of-the-world-1009b-1010a-1049b1050a-1061a-1080b-1085b-passim)
 - [18 AUGUSTINE: City of God, UK XI, CH 24-28 335c-338d; BK XVI, CH 26 438c-439a](#18-augustine-city-of-god-uk-xi-ch-24-28-335c-338d-bk-xvi-ch-26-438c-439a)
 - [19 AQUINAS: Summa Theologica, PART I, Q I, A 10, ANS and REP I 9c-l0c; Q 3, A I, REP 1-514b15b; Q 12, A 3, REP 2-3 52c-53b; Q 13, A 2 63c-64d; A 4, ANS 65c-66b; Q 27, A I, ANS 153b-154b; Q 34 185a-189a; Q 47, AI, ANS and REP 2 256a-257b; Q 65, A I, REP 3 339b-340b; Q 103, A I, ANS 528b-529a](#19-aquinas-summa-theologica-part-i-q-i-a-10-ans-and-rep-i-9c-10c-q-3-a-i-rep-1-5-14b-15b-q-12-a-3-rep-2-3-52c-53b-q-13-a-2-63c-64d-a-4-ans-65c-66b-q-27-a-i-ans-153b-154b-q-34-185a-189a-q-47-ai-ans-and-rep-2-256a-257b-q-65-a-i-rep-3-339b-340b-q-103-a-i-ans-528b-529a)
 - [20 AQUINAS: Summa Theologica, PART III, Q 12, A 3, REP 2 778b-779a; Q 60, A 2, ANS and REP I 848a-d; A 5, REP I 850b-851b; PART III SUPPL, Q 92, A 2 1032b-1034b](#20-aquinas-summa-theologica-part-iii-q-12-a-3-rep-2-778b-779a-q-60-a-2-ans-and-rep-i-848a-d-a-5-rep-i-850b-851b-part-iii-suppl-q-92-a-2-1032b-1034b)
@@ -19,7 +19,7 @@
 - [23 HOBBES: Leviathan, PART I, 78d-79a; 81a-c](#23-hobbes-leviathan-part-i-78d-79a-81a-c)
 - [25 MONTAIGNE: Essays, 212a-c](#25-montaigne-essays-212a-c)
 - [28 HARVEY: On Animal Generation, 421d; 490d-494a esp 491a-b, 492c-493a](#28-harvey-on-animal-generation-421d-490d-494a-esp-491a-b-492c-493a)
-- [30 BACON: Advancement of Learning, 2c-4c; 38a; 41b-d / New Atlantis, 203a-b](#30-bacon-advancement-of-learning-2c-4c-38a-41b-d-new-atlantis-203a-b)
+- [30 BACON: Advancement of Learning, 2c-4c; 38a; 41b-d / New Atlantis, 203a-b](#30-bacon-advancement-of-learning-2c-4c-38a-41b-d--new-atlantis-203a-b)
 - [32 MILTON: Paradise Lost, BK VIII [II 4-13°] 234b-235a; BK IX [780-794] 264b; [990-1004] 269a; BK XI [181-207]303a-b](#32-milton-paradise-lost-bk-viii-114-130-234b-235a-bk-ix-780-794-264b-990-1004-269a-bk-xi-181-207303a-b)
 - [33 PASCAL: Pensees, 643-646 290b-291b; 652-657 292a-293a; 670 295a-b; 675 296b-297a; 693-736301b-317b](#33-pascal-pensees-643-646-290b-291b-652-657-292a-293a-670-295a-b-675-296b-297a-693-736-301b-317b)
 - [35 BERKELEY: Human Knowledge, SECT 32 418d-419a; SECT 146-154 442a-444b passim, esp SECT 148 442b-d](#35-berkeley-human-knowledge-sect-32-418d-419a-sect-146-154-442a-444b-passim-esp-sect-148-442b-d)

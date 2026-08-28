@@ -4,7 +4,7 @@
 
 ## Citations
 
-- [9 ARISTOTLE: Ethics, BK V, CH 1-2 376a-378c / Poetics, CH 21 [1457b7-16] 693b](#9-aristotle-ethics-bk-v-ch-1-2-376a-378c-poetics-ch-21-1457b7-16-693b)
+- [9 ARISTOTLE: Ethics, BK V, CH 1-2 376a-378c / Poetics, CH 21 [1457b7-16] 693b](#9-aristotle-ethics-bk-v-ch-1-2-376a-378c--poetics-ch-21-1457b7-16-693b)
 - [18 AUGUSTINE: Christian Doctrine, BK III, CH 34-35 670c-672d](#18-augustine-christian-doctrine-bk-iii-ch-34-35-670c-672d)
 - [19 AQUINAS: Summa Theologica, PART I, Q 27, A 2, ANS 154c-155b; Q 67, A 1 349d-350b; A 2, REP 3 350b-351a; Q 68, A 4 358b-359b; Q 115, A 2, ANS 587c-588c](#19-aquinas-summa-theologica-part-i-q-27-a-2-ans-154c-155b-q-67-a-1-349d-350b-a-2-rep-3-350b-351a-q-68-a-4-358b-359b-q-115-a-2-ans-587c-588c)
 - [20 AQUINAS: Summa Theologica, PART I-II, Q 49, A 1 1b-2b; PART II-II, Q 9, A 2, ANS and REP 2 424b-425a; Q 186, A 1, ANS 650c-651d](#20-aquinas-summa-theologica-part-i-ii-q-49-a-1-1b-2b-part-ii-ii-q-9-a-2-ans-and-rep-2-424b-425a-q-186-a-1-ans-650c-651d)

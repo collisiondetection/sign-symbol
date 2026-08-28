@@ -4,7 +4,7 @@
 
 ## Citations
 
-- [8 ARISTOTLE: Topics, BK I, CH 15 [106a1-9] 149d; [106b33-107a8] 150d-151a; BK V, CH 2 [129b30-130a1] 180a / Metaphysics, BK IV, CH 2 [1O03a33-b11] 522b; BK VII, CH 4 [1030a31-b3] 553a-b; BK XI, CH 3 [1060b36-1061a7] 589a-b](#8-aristotle-topics-bk-i-ch-15-106a1-9-149d-106b33-107a8-150d-151a-bk-v-ch-2-129b30-130a1-180a-metaphysics-bk-iv-ch-2-1o03a33-b11-522b-bk-vii-ch-4-1030a31-b3-553a-b-bk-xi-ch-3-1060b36-1061a7-589a-b)
+- [8 ARISTOTLE: Topics, BK I, CH 15 [106a1-9] 149d; [106b33-107a8] 150d-151a; BK V, CH 2 [129b30-130a1] 180a / Metaphysics, BK IV, CH 2 [1O03a33-b11] 522b; BK VII, CH 4 [1030a31-b3] 553a-b; BK XI, CH 3 [1060b36-1061a7] 589a-b](#8-aristotle-topics-bk-i-ch-15-106a1-9-149d-106b33-107a8-150d-151a-bk-v-ch-2-129b30-130a1-180a--metaphysics-bk-iv-ch-2-1o03a33-b11-522b-bk-vii-ch-4-1030a31-b3-553a-b-bk-xi-ch-3-1060b36-1061a7-589a-b)
 - [19 AQUINAS: Summa Theologica, PART I, Q 13, A 5, ANS 66b-67d; A 6, ANS and REP 3 67d-68c; A 10, ANS 72c-73c; Q 16, A 6, ANS 98b-d; PART I-II, Q 20, A 3, REP 3 713c-714c](#19-aquinas-summa-theologica-part-i-q-13-a-5-ans-66b-67d-a-6-ans-and-rep-3-67d-68c-a-10-ans-72c-73c-q-16-a-6-ans-98b-d-part-i-ii-q-20-a-3-rep-3-713c-714c)
 - [20 AQUINAS: Summa Theologica, PART III, Q 60, A 1, ANS 847b-848a](#20-aquinas-summa-theologica-part-iii-q-60-a-1-ans-847b-848a)
 

@@ -5,7 +5,7 @@
 ## Citations
 
 - [OLD TESTAMENT: Genesis, 2:19-20](#old-testament-genesis-219-20)
-- [7 PLATO: Cratylus 85a-114a,c / Theaetetus, 520b](#7-plato-cratylus-85a-114ac-theaetetus-520b)
+- [7 PLATO: Cratylus 85a-114a,c / Theaetetus, 520b](#7-plato-cratylus-85a-114ac--theaetetus-520b)
 - [8 ARISTOTLE: Categories, CH 1 [1a13-16] 5b / Topics, BK I, CH 15 [106a1-9] 149d; [106b29-107a2] 150d-151a](#8-aristotle-categories-ch-1-1-13-16-5b-topics-bk-i-ch-15-106a1-9-149d-106b29-107a2-150d-151a)
 - [19 AQUINAS: Summa Theologica, PART I, Q 13, AA 2-3 63c-65c; A 5, ANS 66b-67d; A 6, ANS and REP 2-3 67d-68c; AA 7-8 68d-71b; A 10 72c-73c; A 11, REP 3 73c-74b; Q 29, A 1, REP 3 162a-163b; A 4 165c-167a; Q 34, A 3 188b-189a; Q 40, A 2, ANS 214b-215b](#19-aquinas-summa-theologica-part-i-q-13-aa-2-3-63c-65c-a-5-ans-66b-67d-a-6-ans-and-rep-2-3-67d-68c-aa-7-8-68d-71b-a-10-72c-73c-a-11-rep-3-73c-74b-q-29-a-1-rep-3-162a-163b-a-4-165c-167a-q-34-a-3-188b-189a-q-40-a-2-ans-214b-215b)
 - [35 LOCKE: Human Understanding, BK II, CH XXV 214d-217a passim; BK III, CH I, sect 5 252b-c; CH VI 268b-283a passim](#35-locke-human-understanding-bk-ii-ch-xxv-214d-217a-passim-bk-iii-ch-i-sect-5-252b-c-ch-vi-268b-283a-passim)

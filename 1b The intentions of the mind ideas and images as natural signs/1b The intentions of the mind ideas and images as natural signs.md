@@ -4,12 +4,12 @@
 
 ## Citations
 
-- [8 ARISTOTLE: Interpretation, CH I [16a4-9] 25a / Soul, BK III, CH 8 664b-d / Memory and Reminiscence, CH I [450a25-451a19] 691a-692b](#8-aristotle-interpretation-ch-i-16a4-9-25a-soul-bk-iii-ch-8-664b-d-memory-and-reminiscence-ch-i-450a25-451a19-691a-692b)
+- [8 ARISTOTLE: Interpretation, CH I [16a4-9] 25a / Soul, BK III, CH 8 664b-d / Memory and Reminiscence, CH I [450a25-451a19] 691a-692b](#8-aristotle-interpretation-ch-i-16a4-9-25a--soul-bk-iii-ch-8-664b-d--memory-and-reminiscence-ch-i-450a25-451a19-691a-692b)
 - [17 PLOTINUS: First Ennead, TR II, CH 3, 8a](#17-plotinus-first-ennead-tr-ii-ch-3-8a)
 - [18 AUGUSTINE: Christian Doctrine, BK I, CH 13, 627d](#18-augustine-christian-doctrine-bk-i-ch-13-627d)
 - [19 AQUINAS: Summa Theologica, PART I, Q 13, A 1, ANS 62c-63c; A 4, 65c-66b; Q 14, A 1, ANS and REP 3 75d-76c; A 2, ANS and REP 2-3 76d-77d; Q 27, A 1, ANS 153b-154b; A 2, ANS and REP 2 154c-155b; A 3, ANS 155c-156a; A 4, ANS and REP 2 156b-d; Q 34, A 1, 185b-187b; Q 37, A 1, ANS 197c-199a; Q 107, A 1, 549b-550b; PART I-II, Q 22, A 2, ANS 721c-722c](#19-aquinas-summa-theologica-part-i-q-13-a-1-ans-62c-63c-a-4-65c-66b-q-14-a-1-ans-and-rep-3-75d-76c-a-2-ans-and-rep-2-3-76d-77d-q-27-a-1-ans-153b-154b-a-2-ans-and-rep-2-154c-155b-a-3-ans-155c-156a-a-4-ans-and-rep-2-156b-d-q-34-a-1-185b-187b-q-37-a-1-ans-197c-199a-q-107-a-1-549b-550b-part-i-ii-q-22-a-2-ans-721c-722c)
 - [20 AQUINAS: Summa Theologica, PART I-II, Q 93, A I, REP 2 215b,d-216c](#20-aquinas-summa-theologica-part-i-ii-q-93-a-i-rep-2-215bd-216c)
-- [31 DESCARTES: Meditations, III 81d-89a passim / Objections and Replies, DEF III-IV 130b; AXIOM VI 132a; PROP II 132c](#31-descartes-meditations-iii-81d-89a-passim-objections-and-replies-def-iii-iv-130b-axiom-vi-132a-prop-ii-132c)
+- [31 DESCARTES: Meditations, III 81d-89a passim / Objections and Replies, DEF III-IV 130b; AXIOM VI 132a; PROP II 132c](#31-descartes-meditations-iii-81d-89a-passim--objections-and-replies-def-iii-iv-130b-axiom-vi-132a-prop-ii-132c)
 - [31 SPINOZA: Ethics, PART II, DEF 3 373b; PROP 5 374c-d](#31-spinoza-ethics-part-ii-def-3-373b-prop-5-374c-d)
 - [35 LOCKE: Human Understanding, BK II, CH XXX, SECT 2 238b-c; CH XXXII, SECT 8 244d; SECT 14-16 245c-246b; BK IV, CH II, SECT 14 312b-d; CH XXI, SECT 4 395a,c](#35-locke-human-understanding-bk-ii-ch-xxx-sect-2-238b-c-ch-xxxii-sect-8-244d-sect-14-16-245c-246b-bk-iv-ch-ii-sect-14-312b-d-ch-xxi-sect-4-395ac)
 - [35 BERKELEY: Human Knowledge, SECT 15 415d-416a; SECT 43-44 420d-421a; SECT 65-66 425d-426a; SECT 145-154 441d-444b passim, esp SECT 148 442b-d](#35-berkeley-human-knowledge-sect-15-415d-416a-sect-43-44-420d-421a-sect-65-66-425d-426a-sect-145-154-441d-444b-passim-esp-sect-148-442b-d)
