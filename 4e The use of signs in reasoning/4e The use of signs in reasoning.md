@@ -591,3 +591,7 @@ is an *n*, and that *m* and *n* are seen to differ.
 
 > No excerpt — the standard English translations of Freud's work (Strachey et al.)
 > remain under copyright. Citation retained for completeness.
+
+---
+
+[← 4d. The use of metaphors and myths in science and philosophy](<../4d%20The%20use%20of%20metaphors%20and%20myths%20in%20science%20and%20philosophy/4d%20The%20use%20of%20metaphors%20and%20myths%20in%20science%20and%20philosophy.md>) · [Index](<../README.md>) · [5a. Natural things as signs of divinity →](<../5a%20Natural%20things%20as%20signs%20of%20divinity/5a%20Natural%20things%20as%20signs%20of%20divinity.md>)
