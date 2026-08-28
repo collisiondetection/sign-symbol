@@ -236,4 +236,4 @@ avoid this therefore, they have supposed a real essence belonging to every speci
 
 ---
 
-[← 2b. The first and second intention of names](<../2b%20The%20first%20and%20second%20intention%20of%20names-%20words%20signifying%20things%20and%20words%20signifying%20idea/2b%20The%20first%20and%20second%20intention%20of%20names-%20words%20signifying%20things%20and%20words%20signifying%20idea.md>) · [Index](<../README.md>) · [2d. Proper and common names →](<../2d%20Proper%20and%20common%20names/2d%20Proper%20and%20common%20names.md>)
+[← 2b. The first and second intention of names: words signifying things and words signifying idea](<../2b%20The%20first%20and%20second%20intention%20of%20names-%20words%20signifying%20things%20and%20words%20signifying%20idea/2b%20The%20first%20and%20second%20intention%20of%20names-%20words%20signifying%20things%20and%20words%20signifying%20idea.md>) · [Index](<../README.md>) · [2d. Proper and common names →](<../2d%20Proper%20and%20common%20names/2d%20Proper%20and%20common%20names.md>)

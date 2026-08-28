@@ -20,12 +20,12 @@ Each folder below is one sub-topic from Adler's outline and holds that topic's c
 - **1c.** [The things of nature functioning symbolically: the book of nature](<1c The things of nature functioning symbolically - the book of nature/>)
 - **1d.** [The conventional notations of human language: man's need for words](<1d The distinction between natural and conventional signs/>) †
 - **1e.** [The invention of non-verbal symbols: money, titles, seals, ceremonies, courtesies](<1e The invention of non verbal symbols money, titles, seals/>)
-- **1f.** [Natural signs as the source of meaning in conventional signs](<1f Natural signs as the source of meaning in conventional signs - thought as the medium through which words signify things/>)
+- **1f.** [Natural signs as the source of meaning in conventional signs: thought as the medium through which words signify things](<1f Natural signs as the source of meaning in conventional signs - thought as the medium through which words signify things/>)
 
 ### 2. The modes of signification
 - **2a.** [The first and second imposition of words: names signifying things and names signifying names](<2a The first and second imposition of words names signifying/>)
-- **2b.** [The first and second intention of names: words signifying things and words signifying ideas](<2b The first and second intention of names- words signifying things and words signifying idea/>)
-- **2c.** [Intrinsic and extrinsic denominations](<2c Intrinsic and extrinsic denominations- the naming of things according to their natures or by reference to their relations/>)
+- **2b.** [The first and second intention of names: words signifying things and words signifying idea](<2b The first and second intention of names- words signifying things and words signifying idea/>)
+- **2c.** [Intrinsic and extrinsic denominations: the naming of things according to their natures or by reference to their relations](<2c Intrinsic and extrinsic denominations- the naming of things according to their natures or by reference to their relations/>)
 - **2d.** [Proper and common names](<2d Proper and common names/>)
 - **2e.** [Abstract and concrete names](<2e  Abstract and concrete names/>)
 
@@ -33,15 +33,15 @@ Each folder below is one sub-topic from Adler's outline and holds that topic's c
 - **3a.** [Verbal ambiguity: indefiniteness or multiplicity of meaning](<3a Verbal ambiguity indefiniteness or multiplicity of meaning/>)
 - **3b.** [The distinction between univocal and equivocal speech](<3b. The distinction between univocal and equivocal speech/>)
 - **3c.** The types of equivocation
-  - **(1)** [Literal and figurative use: metaphors](<3c (1) The same word used literally and figuratively- metaphors/>)
-  - **(2)** [Varying degrees of generality and specificity](<3c (2) The same word used with varying degrees of generality and/>)
-  - **(3)** [Used to signify an attribute and its cause or effect](<3c (3) The same word used to signify an attribute and its cause of/>)
-- **3d.** [The significance of names predicated of heterogeneous things](<3d. The significance of names predicated of heterogeneous/>)
+  - **(1)** [The same word used literally and figuratively: metaphors derived from analogies or proportions and from other kinds of similitude](<3c (1) The same word used literally and figuratively- metaphors/>)
+  - **(2)** [The same word used with varying degrees of generality and specificity: the broad and narrow meaning of a word](<3c (2) The same word used with varying degrees of generality and/>)
+  - **(3)** [The same word used to signify an attribute and its cause of effect](<3c (3) The same word used to signify an attribute and its cause of/>)
+- **3d.** [The significance of names predicated of heterogeneous things: the analogical as intermediate between the univocal and the equivocal](<3d. The significance of names predicated of heterogeneous/>)
 
 ### 4. The determination of meaning in science and philosophy
 - **4a.** [The relation between univocal meaning and definition](<4a. The relation between univocal meaning and definition/>)
-- **4b.** [The dependence of demonstration on univocal terms](<4b. The dependence of demonstration on univocal terms- formal fallacies due to equivocation/>)
-- **4c.** [The nature and utility of semantic analysis](<4c (1) The nature and utility of semantic analysis/>) — citations only, no excerpt text
+- **4b.** [The dependence of demonstration on univocal terms: formal fallacies due to equivocation](<4b. The dependence of demonstration on univocal terms- formal fallacies due to equivocation/>)
+- **4c.** [The nature and utility of semantic analysis: the rectification of ambiguity; the clarification and precision of meanings](<4c (1) The nature and utility of semantic analysis/>) — citations only, no excerpt text
 - **4d.** [The use of metaphors and myths in science and philosophy](<4d The use of metaphors and myths in science and philosophy/>)
 - **4e.** [The use of signs in reasoning: necessary and probable signs; the interpretation of symptoms in medicine](<4e The use of signs in reasoning/>) ‡
 

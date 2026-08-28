@@ -288,4 +288,4 @@ Obviously this achievement is by no means an easy one. In order to get some idea
 
 ---
 
-[← 1c. The things of nature functioning symbolically: the book of nature](<../1c%20The%20things%20of%20nature%20functioning%20symbolically%20-%20the%20book%20of%20nature/1c%20The%20things%20of%20nature%20functioning%20symbolically%20-%20the%20book%20of%20nature.md>) · [Index](<../README.md>) · [1e. The invention of non-verbal symbols: money, titles, seals →](<../1e%20The%20invention%20of%20non%20verbal%20symbols%20money,%20titles,%20seals/1e%20The%20invention%20of%20non%20verbal%20symbols%20money,%20titles,%20seals.md>)
+[← 1c. The things of nature functioning symbolically: the book of nature](<../1c%20The%20things%20of%20nature%20functioning%20symbolically%20-%20the%20book%20of%20nature/1c%20The%20things%20of%20nature%20functioning%20symbolically%20-%20the%20book%20of%20nature.md>) · [Index](<../README.md>) · [1e. The invention of non-verbal symbols: money, titles, seals, ceremonies, courtesies →](<../1e%20The%20invention%20of%20non%20verbal%20symbols%20money,%20titles,%20seals/1e%20The%20invention%20of%20non%20verbal%20symbols%20money,%20titles,%20seals.md>)

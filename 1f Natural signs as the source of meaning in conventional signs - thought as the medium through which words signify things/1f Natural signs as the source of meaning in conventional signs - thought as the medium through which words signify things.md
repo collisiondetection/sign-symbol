@@ -126,4 +126,4 @@ Phrenology hardly does more than restate the problem. To answer the question, �
 
 ---
 
-[← 1e. The invention of non-verbal symbols: money, titles, seals](<../1e%20The%20invention%20of%20non%20verbal%20symbols%20money,%20titles,%20seals/1e%20The%20invention%20of%20non%20verbal%20symbols%20money,%20titles,%20seals.md>) · [Index](<../README.md>) · [2a. The first and second imposition of words →](<../2a%20The%20first%20and%20second%20imposition%20of%20words%20names%20signifying/2a%20The%20first%20and%20second%20imposition%20of%20words%20names%20signifying.md>)
+[← 1e. The invention of non-verbal symbols: money, titles, seals, ceremonies, courtesies](<../1e%20The%20invention%20of%20non%20verbal%20symbols%20money,%20titles,%20seals/1e%20The%20invention%20of%20non%20verbal%20symbols%20money,%20titles,%20seals.md>) · [Index](<../README.md>) · [2a. The first and second imposition of words: names signifying things and names signifying names →](<../2a%20The%20first%20and%20second%20imposition%20of%20words%20names%20signifying/2a%20The%20first%20and%20second%20imposition%20of%20words%20names%20signifying.md>)

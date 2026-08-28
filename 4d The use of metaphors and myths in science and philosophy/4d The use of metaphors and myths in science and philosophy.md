@@ -1064,4 +1064,4 @@ In the obscurity that at present shrouds the theory of instinct, we shall certai
 
 ---
 
-[← 4c. The nature and utility of semantic analysis](<../4c%20%281%29%20The%20nature%20and%20utility%20of%20semantic%20analysis/4c%20%281%29%20The%20nature%20and%20utility%20of%20semantic%20analysis.md>) · [Index](<../README.md>) · [4e. The use of signs in reasoning →](<../4e%20The%20use%20of%20signs%20in%20reasoning/4e%20The%20use%20of%20signs%20in%20reasoning.md>)
+[← 4c. The nature and utility of semantic analysis: the rectification of ambiguity; the clarification and precision of meanings](<../4c%20%281%29%20The%20nature%20and%20utility%20of%20semantic%20analysis/4c%20%281%29%20The%20nature%20and%20utility%20of%20semantic%20analysis.md>) · [Index](<../README.md>) · [4e. The use of signs in reasoning: necessary and probable signs; the interpretation of symptoms in medicine →](<../4e%20The%20use%20of%20signs%20in%20reasoning/4e%20The%20use%20of%20signs%20in%20reasoning.md>)

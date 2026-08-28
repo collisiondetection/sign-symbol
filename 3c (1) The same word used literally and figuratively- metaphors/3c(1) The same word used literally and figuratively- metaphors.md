@@ -379,4 +379,4 @@ General Introduction, 510b-c In the myths of the births of heroes, a comparative
 
 ---
 
-[← 3b. The distinction between univocal and equivocal speech](<../3b.%20The%20distinction%20between%20univocal%20and%20equivocal%20speech/3b.%20The%20distinction%20between%20univocal%20and%20equivocal%20speech.md>) · [Index](<../README.md>) · [3c(2). Varying degrees of generality and specificity →](<../3c%20%282%29%20The%20same%20word%20used%20with%20varying%20degrees%20of%20generality%20and/3c%282%29%20The%20same%20word%20used%20with%20varying%20degrees%20of%20generality%20and.md>)
+[← 3b. The distinction between univocal and equivocal speech](<../3b.%20The%20distinction%20between%20univocal%20and%20equivocal%20speech/3b.%20The%20distinction%20between%20univocal%20and%20equivocal%20speech.md>) · [Index](<../README.md>) · [3c(2). The same word used with varying degrees of generality and specificity: the broad and narrow meaning of a word →](<../3c%20%282%29%20The%20same%20word%20used%20with%20varying%20degrees%20of%20generality%20and/3c%282%29%20The%20same%20word%20used%20with%20varying%20degrees%20of%20generality%20and.md>)

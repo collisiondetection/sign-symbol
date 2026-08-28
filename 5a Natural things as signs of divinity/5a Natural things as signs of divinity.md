@@ -1324,4 +1324,4 @@ I have had a long and instructive talk alone with Brother V., who advised me to 
 
 ---
 
-[← 4e. The use of signs in reasoning](<../4e%20The%20use%20of%20signs%20in%20reasoning/4e%20The%20use%20of%20signs%20in%20reasoning.md>) · [Index](<../README.md>) · [5b. Supernatural signs: omens, portents, visitations, dreams, miracles →](<../5b%20Supernatural%20signs,%20omens,%20portents,%20visitations,%20dreams,%20miracles/5b%20Supernatural%20signs,%20omens,%20portents,%20visitations,%20dreams,%20miracles.md>)
+[← 4e. The use of signs in reasoning: necessary and probable signs; the interpretation of symptoms in medicine](<../4e%20The%20use%20of%20signs%20in%20reasoning/4e%20The%20use%20of%20signs%20in%20reasoning.md>) · [Index](<../README.md>) · [5b. Supernatural signs: omens, portents, visitations, dreams, miracles →](<../5b%20Supernatural%20signs,%20omens,%20portents,%20visitations,%20dreams,%20miracles/5b%20Supernatural%20signs,%20omens,%20portents,%20visitations,%20dreams,%20miracles.md>)

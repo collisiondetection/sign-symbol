@@ -13059,4 +13059,4 @@ Those who hear for the first time of this principle of defence against unpleasan
 
 ---
 
-[← 5a. Natural things as signs of divinity](<../5a%20Natural%20things%20as%20signs%20of%20divinity/5a%20Natural%20things%20as%20signs%20of%20divinity.md>) · [Index](<../README.md>) · [5c. The symbolism of the sacraments →](<../5c%20The%20symbolism%20of%20the%20sacraments%20and%20of%20sacramental%20or%20ritualistic%20acts/5c.%20The%20symbolism%20of%20the%20sacraments%20and%20of%20sacramental%20or%20ritualistic%20acts.md>)
+[← 5a. Natural things as signs of divinity](<../5a%20Natural%20things%20as%20signs%20of%20divinity/5a%20Natural%20things%20as%20signs%20of%20divinity.md>) · [Index](<../README.md>) · [5c. The symbolism of the sacraments and of sacramental or ritualistic acts →](<../5c%20The%20symbolism%20of%20the%20sacraments%20and%20of%20sacramental%20or%20ritualistic%20acts/5c.%20The%20symbolism%20of%20the%20sacraments%20and%20of%20sacramental%20or%20ritualistic%20acts.md>)

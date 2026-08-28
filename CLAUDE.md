@@ -29,33 +29,33 @@ gotchas below). Full code → title mapping:
 | 1c | The things of nature functioning symbolically: the book of nature | yes |
 | 1d | The conventional notations of human language: man's need for words | yes (folder misnamed, see below) |
 | 1e | The invention of non-verbal symbols: money, titles, seals, ceremonies, courtesies | yes |
-| 1f | Natural signs as the source of meaning in conventional signs | yes |
-| 2a | The first and second imposition of words | yes |
-| 2b | The first and second intention of names | yes |
-| 2c | Intrinsic and extrinsic denominations | yes |
+| 1f | Natural signs as the source of meaning in conventional signs: thought as the medium through which words signify things | yes |
+| 2a | The first and second imposition of words: names signifying things and names signifying names | yes |
+| 2b | The first and second intention of names: words signifying things and words signifying idea | yes |
+| 2c | Intrinsic and extrinsic denominations: the naming of things according to their natures or by reference to their relations | yes |
 | 2d | Proper and common names | yes |
 | 2e | Abstract and concrete names | yes |
 | 3a | Verbal ambiguity: indefiniteness or multiplicity of meaning | yes |
 | 3b | The distinction between univocal and equivocal speech | yes |
-| 3c(1) | Literal and figurative use: metaphors | yes |
-| 3c(2) | Varying degrees of generality and specificity | yes |
-| 3c(3) | Used to signify an attribute and its cause or effect | yes |
-| 3d | The significance of names predicated of heterogeneous things | yes |
+| 3c(1) | The same word used literally and figuratively: metaphors derived from analogies or proportions and from other kinds of similitude | yes |
+| 3c(2) | The same word used with varying degrees of generality and specificity: the broad and narrow meaning of a word | yes |
+| 3c(3) | The same word used to signify an attribute and its cause of effect | yes |
+| 3d | The significance of names predicated of heterogeneous things: the analogical as intermediate between the univocal and the equivocal | yes |
 | 4a | The relation between univocal meaning and definition | yes |
-| 4b | The dependence of demonstration on univocal terms | yes |
-| 4c | The nature and utility of semantic analysis | citations only, no excerpt text |
+| 4b | The dependence of demonstration on univocal terms: formal fallacies due to equivocation | yes |
+| 4c | The nature and utility of semantic analysis: the rectification of ambiguity; the clarification and precision of meanings | citations only, no excerpt text |
 | 4d | The use of metaphors and myths in science and philosophy | yes |
-| 4e | The use of signs in reasoning | yes on `plain-text` only — compiled, not scanned, see below |
+| 4e | The use of signs in reasoning: necessary and probable signs; the interpretation of symptoms in medicine | yes on `plain-text` only — compiled, not scanned, see below |
 | 5a | Natural things as signs of divinity | yes |
 | 5b | Supernatural signs: omens, portents, visitations, dreams, miracles | yes |
-| 5c | The symbolism of the sacraments | yes |
+| 5c | The symbolism of the sacraments and of sacramental or ritualistic acts | yes (title supplied — see gotcha below) |
 | 5d | The symbolism of numbers in theology | yes |
 | 5e | The interpretation of the word of God | yes |
-| 5f | The names of God | yes |
-| 6 | Symbolism in psychological analysis (overview) | yes |
-| 6a | The symbolism of dreams | yes |
-| 6b | The symbolism of apparently normal acts (forgetting, slips) | yes |
-| 6c | The symbolism of anxieties, obsessions, neurotic manifestations | yes |
+| 5f | The names of God: the use of words to signify the divine nature | yes |
+| 6 | Symbolism in psychological analysis | yes |
+| 6a | The symbolism of dreams: their latent and manifest content | yes |
+| 6b | The symbolism of apparently normal acts: forgetting, verbal slips, errors | yes |
+| 6c | The symbolism of anxieties, obsessions, and other neurotic manifestations | yes |
 
 ## Gotchas
 
@@ -78,6 +78,18 @@ gotchas below). Full code → title mapping:
   not).
 - **`4c` is citations-only** (`references_4c-1`) — no excerpted body text,
   unlike every other section.
+- **`5c`'s source docx has no title paragraph at all** (unlike `5a`/`5b`,
+  which do) — the original conversion silently used the first citation
+  group ("OLD TESTAMENT: Genesis, 17:9-14 / Exodus...") as the document H1
+  instead, which also meant that whole citation group was missing its own
+  `##` sub-header and its entry in the Citations index. Fixed on `markdown`
+  by inserting the outline title as H1 (with an inline note, since nothing
+  in the source itself says "5c") and restoring the orphaned group to its
+  proper place. Confirmed via `git show plain-text:"5c/....txt" | head`
+  that the gap is genuine in the source, not a conversion bug — same
+  treatment as `4e`'s compiler's note. Not yet checked on `plain-text`
+  (its `.txt` has the same missing title line, just no markdown structure
+  to be wrong about) or `main` (original docx, unchanged).
 - **Folder naming is inconsistent** — some have a trailing period after the
   code (`3b.`, `4a.`), some don't; `2e` has a double space after the code;
   only `3c` and `4c` use a parenthesized sub-index (`3c (1)`, `4c (1)`).
@@ -191,3 +203,17 @@ After any regeneration, check: every `.md` word either appears in the
 `.txt` reference vocabulary or is a genuine new word (proper noun, Latin
 term) — a word that *doesn't* match either and *does* split cleanly into
 two real words is very likely a missing-space bug, not new content.
+
+**Title text used outside the file itself must match the file's own `#`
+heading verbatim** (code→title table above, README's TOC, nav footers).
+Found by direct visual reading on GitHub, not by any script: several
+titles in this table and in README.md had been hand-shortened when first
+written, silently drifting from the real heading — e.g. `3d` was missing
+its whole second clause ("...the analogical as intermediate between the
+univocal and the equivocal"). A link-resolves check doesn't catch this at
+all, since the href is still correct — only the display text is wrong.
+Regenerate the title lookup from each file's actual `# ` line (`grep -n
+'^# '`), not from memory or a prior table, and diff any hand-written
+title text against it before trusting it. The two deliberate exceptions
+are `1d` and `5c`, which use the outline's title because their own
+heading is wrong/absent (see gotchas above).
