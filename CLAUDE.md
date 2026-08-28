@@ -69,17 +69,22 @@ gotchas below). Full code → title mapping:
   was missing from the repo entirely (no folder, either branch) until it was
   built from independent public-domain sources, because the original source
   material for this repo never had it split out into its own file. It exists
-  **only on `plain-text`**, not `main` — there's no original PDF/docx to put
-  there, since nothing was ever extracted from an original for this topic.
-  Confidence notes are inline per-passage in `4e/4e.txt`; treat its GBWW page
-  locators as unverified (content/structure identity is solid, the literal
-  page-letter codes are not).
+  **only on `plain-text`/`markdown`**, not `main` — there's no original
+  PDF/docx to put there, since nothing was ever extracted from an original
+  for this topic. Confidence notes are inline per-passage (`4e/4e.txt` on
+  `plain-text`, `4e The use of signs in reasoning/4e.md` here); treat its
+  GBWW page locators as unverified (content/structure identity is solid,
+  the literal page-letter codes are not).
 - **`4c` is citations-only** (`references_4c-1`) — no excerpted body text,
   unlike every other section.
 - **Folder naming is inconsistent** — some have a trailing period after the
   code (`3b.`, `4a.`), some don't; `2e` has a double space after the code;
   only `3c` and `4c` use a parenthesized sub-index (`3c (1)`, `4c (1)`).
   Don't pattern-match on naming convention — enumerate folders directly.
+  On **this branch only**, the 18 folders that used to be bare codes with
+  no title at all (`1f`, `2c`, `3c (1)`–`(3)`, `4c (1)`, `4d`–`6c`) were
+  renamed to include their title, matching the rest — `main` and
+  `plain-text` still have the bare versions, unchanged.
 - **Filenames contain spaces, commas, and parentheses.** Always quote paths
   in shell commands; parentheses in a folder name (`3c (1)`) will break an
   unescaped markdown link — wrap the destination in `<...>` or percent-encode
