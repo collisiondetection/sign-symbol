@@ -58,6 +58,8 @@ Sterne's parody turns the whole chapter's remedy — Locke's insistence on fixin
 > "'Here are two senses,' cried Eugenius... pointing... to the word Crevice... 'And here are two roads,' replied I... 'a dirty and a clean one — which shall we take?'... For by the word Nose... I declare, by that word I mean a nose, and nothing more, or less."
 > — Sterne, *Tristram Shandy*, Ch 31
 
+*See also:* **[Comic Equivocation](../3a%20Verbal%20ambiguity%20indefiniteness%20or%20multiplicity%20of%20meaning/3a%20Glossary.md#comic-equivocation)** in *3a. Verbal ambiguity: indefiniteness or multiplicity of meaning* — the same comic device in Shakespeare rather than Sterne: Grumio's mock-literal "knock at the gate" has no Locke to parody, just a servant playing dumb.
+
 ---
 
 *Quotes are drawn from the citations already present in [4b. The dependence of demonstration on univocal terms- formal fallacies due to equivocation.md](4b.%20The%20dependence%20of%20demonstration%20on%20univocal%20terms-%20formal%20fallacies%20due%20to%20equivocation.md).*

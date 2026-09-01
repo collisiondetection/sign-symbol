@@ -9,6 +9,8 @@ Shakespeare's stock device for slapstick misunderstanding: Petruchio orders Grum
 > "Knock at the gate! O heavens! Spake you not these words plain, “Sirrah, knock me here, rap me here, knock me well, and knock me soundly”? And come you now with, “knocking at the gate”?"
 > — Shakespeare, *Taming of the Shrew*, Act I, Sc II [1-44]
 
+*See also:* **[The Comic Uses of Equivocation](../4b.%20The%20dependence%20of%20demonstration%20on%20univocal%20terms-%20formal%20fallacies%20due%20to%20equivocation/4b%20Glossary.md#the-comic-uses-of-equivocation)** in *4b. The dependence of demonstration on univocal terms* — a different playwright (Sterne, not Shakespeare) working the same device, but there the joke is aimed at Locke's own remedy for equivocation: defining your terms doesn't save Tristram from finding a fresh double meaning.
+
 ## Finite Words, Infinite Things
 
 Aristotle's explanation, in the *Sophistical Refutations*, of why ambiguity in language is not an occasional defect but a structural inevitability: because we reason with names rather than with the things themselves, and because names are finite in number while the things they must stand for are infinite, some names are necessarily forced to carry more than one meaning.
@@ -43,6 +45,8 @@ The most famous case study in the whole section: the Delphic prophecy that if Cr
 
 > "Wait till the time shall come when a mule is monarch of Media; Then, thou delicate Lydian, away to the pebbles of Hermus; Haste, oh! haste thee away, nor blush to behave like a coward."
 > — Herodotus, *History*, Bk I [11b-d]
+
+*See also:* **[The Ambiguous Oracle](../5e%20The%20interpretation%20of%20the%20word%20of%20God/5e%20Glossary.md#the-ambiguous-oracle)** in *5e. The interpretation of the word of God* — the same Croesus story, read there not as a specimen of multiplicity of meaning but as a case study in whose fault the ambiguity is: Herodotus's own verdict is that Croesus should have asked which empire was meant.
 
 ## The Cloudy Medium of Language
 

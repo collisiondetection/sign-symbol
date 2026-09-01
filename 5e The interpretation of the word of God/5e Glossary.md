@@ -9,6 +9,8 @@ Herodotus's diagnosis of why the Delphic oracle told Croesus the truth and still
 > "For when the god told him that, if he attacked the Persians, he would destroy a mighty empire, he ought, if he had been wise, to have sent again and inquired which empire was meant, that of Cyrus or his own; but if he neither understood what was said, nor took the trouble to seek for enlightenment, he has only himself to blame for the result."
 > — Herodotus, *History*, Bk I [91]
 
+*See also:* **[The Ambiguous Oracle](../3a%20Verbal%20ambiguity%20indefiniteness%20or%20multiplicity%20of%20meaning/3a%20Glossary.md#the-ambiguous-oracle)** in *3a. Verbal ambiguity: indefiniteness or multiplicity of meaning* — the same Croesus story, read there as the paradigm case of oracular language exploiting multiplicity of meaning, with the companion riddle (the "mule" who turns out to be Cyrus) this entry leaves out.
+
 ## The Beast Numbered
 
 Pierre Bezukhov's private exercise in gematria — mapping letters onto numbers until "L'Empereur Napoleon" sums to 666 — is Tolstoy's ironic, secular echo of apocalyptic interpretation: a method borrowed wholesale from scriptural numerology, applied by a half-convinced amateur to current events, and quietly adjusted until it yields the answer he was already looking for.

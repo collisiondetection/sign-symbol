@@ -9,6 +9,8 @@ Augustine's rule for telling superstition from true religion: whoever honors a s
 > "Now he is in bondage to a sign who uses, or pays homage to, any significant object without knowing what it signifies: he, on the other hand, who either uses or honours a useful sign divinely appointed, whose force and significance he understands, does not honour the sign which is seen and temporal, but that to which all such signs refer."
 > — Augustine, *Christian Doctrine*, Bk III, Ch 9
 
+*See also:* **[Bondage to Signs](../3c%20%281%29%20The%20same%20word%20used%20literally%20and%20figuratively-%20metaphors/3c1%20Glossary.md#bondage-to-signs)** in *3c(1). The same word used literally and figuratively: metaphors* — the general principle Augustine states two chapters earlier in the same book: that fixation on the sign itself, never rising to what it signifies, is "a miserable slavery of the soul." This entry is the specific case built on it — the Old Law's ceremonial signs as a *useful* instance of that same bondage.
+
 ## Commemoration
 
 The Gospel and Pauline accounts of the Last Supper establish the Eucharist as a ritual act of remembrance instituted by direct command. Bread and wine are identified with Christ's body and blood, and the disciples are explicitly charged to repeat the act "for the commemoration" of him, turning a single historical meal into a perpetually reiterated sign.

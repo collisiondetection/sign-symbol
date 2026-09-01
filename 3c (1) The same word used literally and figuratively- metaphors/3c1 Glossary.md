@@ -23,6 +23,8 @@ Augustine names a failure distinct from ordinary literalism: not just misreading
 > "Now it is surely a miserable slavery of the soul to take signs for things, and to be unable to lift the eye of the mind above what is corporeal and created, that it may drink in eternal light."
 > — Augustine, *Christian Doctrine*, Bk III, Ch 5
 
+*See also:* **[Bondage to Signs](../5c%20The%20symbolism%20of%20the%20sacraments%20and%20of%20sacramental%20or%20ritualistic%20acts/5c%20Glossary.md#bondage-to-signs)** in *5c. The symbolism of the sacraments* — Augustine applies this same principle two chapters later to a specific case: the Old Testament's ceremonial law as a *useful* bondage to true signs, unlike the Gentiles' bondage to signs of nothing at all.
+
 ## Equivocation
 
 The opening definition of Aristotle's Categories, and the master concept this entire chapter of the Syntopicon elaborates: two things are named equivocally when they share a name but not the definition that name expresses — a real man and a painted man are both called "animal," yet no single account of "animal" fits them both.
