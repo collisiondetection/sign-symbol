@@ -4,15 +4,45 @@ Every existing glossary entry across this chapter's 32 sections whose supporting
 
 ## Keywords
 
-- **Dreams: message or noise** — [Gates of Horn and Ivory](#gates-of-horn-and-ivory) · [The Dismissed Mother-Dream](#the-dismissed-mother-dream) · [A Straw for All Dreams](#a-straw-for-all-dreams) · [The Humoral Theory of Dreams](#the-humoral-theory-of-dreams) · [The Murdered Companion](#the-murdered-companion) · [Dreams as Children of an Idle Brain](#dreams-as-children-of-an-idle-brain) · [Fancy and the Faculties of Sleep](#fancy-and-the-faculties-of-sleep)
-- **Omens and portents** — [The Portent at Aulis](#the-portent-at-aulis) · [Portents at Birth and Death](#portents-at-birth-and-death) · [Skepticism Toward Astrological Signs](#skepticism-toward-astrological-signs) · [After Our Own Fashion](#after-our-own-fashion)
-- **Names and naming** — [The Nameless God](#the-nameless-god) · [Divine Condescension](#divine-condescension) · [The Name That Changes with the Tongue](#the-name-that-changes-with-the-tongue) · [The Heaven of the People](#the-heaven-of-the-people)
-- **Reading vs. misreading** — [Suspended Judgment on the Oracle](#suspended-judgment-on-the-oracle) · [The Oracle-Monger](#the-oracle-monger) · [Dream-Interpretation as Self-Authorization](#dream-interpretation-as-self-authorization) · [The Siren Unmasked](#the-siren-unmasked)
-- **Metaphor and figurative language** — [Metaphor by Proportion (Analogy)](#metaphor-by-proportion-analogy)
-- **Ceremony, ornament, and outward marks** — [Idol Ceremony](#idol-ceremony) · [Outward Shows](#outward-shows)
-- **Guilt, the unconscious, and the involuntary symbol** — [The Furies as the Shape of Guilt](#the-furies-as-the-shape-of-guilt) · [The Sleepwalking Confession](#the-sleepwalking-confession) · [The Compulsive Symbolic Act](#the-compulsive-symbolic-act) · [Dream-Interpretation as Self-Authorization](#dream-interpretation-as-self-authorization)
-- **Sacrament and doctrinal symbol** — [Tree of Penitence](#tree-of-penitence) · [Sign of Washing](#sign-of-washing)
-- **Ambiguity played for comedy** — [Comic Equivocation](#comic-equivocation) · [The Oracle-Monger](#the-oracle-monger)
+- **Dreams: message or noise**
+  - [Gates of Horn and Ivory](#gates-of-horn-and-ivory)
+  - [The Dismissed Mother-Dream](#the-dismissed-mother-dream)
+  - [A Straw for All Dreams](#a-straw-for-all-dreams)
+  - [The Humoral Theory of Dreams](#the-humoral-theory-of-dreams)
+  - [The Murdered Companion](#the-murdered-companion)
+  - [Dreams as Children of an Idle Brain](#dreams-as-children-of-an-idle-brain)
+  - [Fancy and the Faculties of Sleep](#fancy-and-the-faculties-of-sleep)
+- **Omens and portents**
+  - [The Portent at Aulis](#the-portent-at-aulis)
+  - [Portents at Birth and Death](#portents-at-birth-and-death)
+  - [Skepticism Toward Astrological Signs](#skepticism-toward-astrological-signs)
+  - [After Our Own Fashion](#after-our-own-fashion)
+- **Names and naming**
+  - [The Nameless God](#the-nameless-god)
+  - [Divine Condescension](#divine-condescension)
+  - [The Name That Changes with the Tongue](#the-name-that-changes-with-the-tongue)
+  - [The Heaven of the People](#the-heaven-of-the-people)
+- **Reading vs. misreading**
+  - [Suspended Judgment on the Oracle](#suspended-judgment-on-the-oracle)
+  - [The Oracle-Monger](#the-oracle-monger)
+  - [Dream-Interpretation as Self-Authorization](#dream-interpretation-as-self-authorization)
+  - [The Siren Unmasked](#the-siren-unmasked)
+- **Metaphor and figurative language**
+  - [Metaphor by Proportion (Analogy)](#metaphor-by-proportion-analogy)
+- **Ceremony, ornament, and outward marks**
+  - [Idol Ceremony](#idol-ceremony)
+  - [Outward Shows](#outward-shows)
+- **Guilt, the unconscious, and the involuntary symbol**
+  - [The Furies as the Shape of Guilt](#the-furies-as-the-shape-of-guilt)
+  - [The Sleepwalking Confession](#the-sleepwalking-confession)
+  - [The Compulsive Symbolic Act](#the-compulsive-symbolic-act)
+  - [Dream-Interpretation as Self-Authorization](#dream-interpretation-as-self-authorization)
+- **Sacrament and doctrinal symbol**
+  - [Tree of Penitence](#tree-of-penitence)
+  - [Sign of Washing](#sign-of-washing)
+- **Ambiguity played for comedy**
+  - [Comic Equivocation](#comic-equivocation)
+  - [The Oracle-Monger](#the-oracle-monger)
 
 ---
 
