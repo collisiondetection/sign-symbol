@@ -2,6 +2,30 @@
 
 Every existing glossary entry across this chapter's 32 sections whose supporting quote is drawn from a poet, dramatist, or epic — Homer through Milton — plus Aristotle's own *Poetics*, regrouped by author instead of by section. Nothing here is reworded: each gloss and quote is reused exactly as it appears in that entry's home section, only re-linked. The point of this cut is what the by-section and [Combined Glossary](Combined%20Glossary.md) can't show on their own — everything one poet is made to carry across a chapter that is not, itself, about poetry.
 
+## Keywords
+
+The same 28 entries, cut by theme instead of by author. An entry touching more than one theme is listed under each.
+
+**Dreams: message or noise** — [Gates of Horn and Ivory](#gates-of-horn-and-ivory) (Homer) · [The Dismissed Mother-Dream](#the-dismissed-mother-dream) (Sophocles) · [A Straw for All Dreams](#a-straw-for-all-dreams) (Chaucer) · [The Humoral Theory of Dreams](#the-humoral-theory-of-dreams) (Chaucer) · [The Murdered Companion](#the-murdered-companion) (Chaucer) · [Dreams as Children of an Idle Brain](#dreams-as-children-of-an-idle-brain) (Shakespeare) · [Fancy and the Faculties of Sleep](#fancy-and-the-faculties-of-sleep) (Milton)
+
+**Omens and portents** — [The Portent at Aulis](#the-portent-at-aulis) (Aeschylus) · [Portents at Birth and Death](#portents-at-birth-and-death) (Shakespeare) · [Skepticism Toward Astrological Signs](#skepticism-toward-astrological-signs) (Shakespeare) · [After Our Own Fashion](#after-our-own-fashion) (Shakespeare)
+
+**Names and naming** — [The Nameless God](#the-nameless-god) (Aeschylus) · [Divine Condescension](#divine-condescension) (Dante) · [The Name That Changes with the Tongue](#the-name-that-changes-with-the-tongue) (Dante) · [The Heaven of the People](#the-heaven-of-the-people) (Chaucer)
+
+**Reading vs. misreading — the interpreter's own hand** — [Suspended Judgment on the Oracle](#suspended-judgment-on-the-oracle) (Sophocles) · [The Oracle-Monger](#the-oracle-monger) (Aristophanes) · [Dream-Interpretation as Self-Authorization](#dream-interpretation-as-self-authorization) (Aeschylus) · [The Siren Unmasked](#the-siren-unmasked) (Dante)
+
+**Metaphor and figurative language** — [Metaphor by Proportion (Analogy)](#metaphor-by-proportion-analogy) (Aristotle)
+
+**Ceremony, ornament, and outward marks** — [Idol Ceremony](#idol-ceremony) (Shakespeare) · [Outward Shows](#outward-shows) (Shakespeare)
+
+**Guilt, the unconscious, and the involuntary symbol** — [The Furies as the Shape of Guilt](#the-furies-as-the-shape-of-guilt) (Euripides) · [The Sleepwalking Confession](#the-sleepwalking-confession) (Shakespeare) · [The Compulsive Symbolic Act](#the-compulsive-symbolic-act) (Shakespeare) · [Dream-Interpretation as Self-Authorization](#dream-interpretation-as-self-authorization) (Aeschylus)
+
+**Sacrament and doctrinal symbol** — [Tree of Penitence](#tree-of-penitence) (Chaucer) · [Sign of Washing](#sign-of-washing) (Milton)
+
+**Ambiguity played for comedy** — [Comic Equivocation](#comic-equivocation) (Shakespeare) · [The Oracle-Monger](#the-oracle-monger) (Aristophanes)
+
+---
+
 ## Homer
 
 ### Gates of Horn and Ivory
